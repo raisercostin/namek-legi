@@ -1,40 +1,18 @@
 - html
-  - http://legislatie.just.ro/Public/DetaliiDocument/38070?isFormaDeBaza=True&rep=True
-  - https://lege5.ro/Gratuit/he2danbv/codul-penal-din-1968
-- print - http://legislatie.just.ro/Public/FormaPrintabila/00000G20MOEMKYJQ06E1LQEY8A4B7L74
+  - http://legislatie.just.ro/Public/DetaliiDocument/191?isFormaDeBaza=True
+- print - http://legislatie.just.ro/Public/FormaPrintabila/00000G0WNMHMLYSENWG3UCW3TJO4VORB
 
-COD PENAL din 21 iunie 1968
+CODUL PENAL din 21 iunie 1968 (*republicat*)
 EMITENT	
-MAREA ADUNARE NAŢIONALĂ
-Publicat în  BULETINUL OFICIAL nr. 79 - 79 bis din 21 iunie 1968
+PARLAMENTUL
+Publicat în  MONITORUL OFICIAL nr. 65 din 16 aprilie 1997
 
 
 
-EXPUNERE DE MOTIVE:
+---------
+Notă *) Republicat în temeiul art. 3 din Legea nr. 140/1996, publicată în Monitorul Oficial al României, Partea I, nr. 289 din 14 noiembrie 1996.
 
-Poporul român, sub conducerea partidului comunist, a obţinut rezultate de însemnătate istorică în dezvoltarea economiei şi culturii, în făurirea societăţii socialiste şi ridicarea nivelului de trai material şi cultural. Înaintarea cu succes a ţării pe calea noii orînduiri a schimbat din temelii înfăţişarea societăţii noastre. Relaţiile de producţie socialiste au cuprins întreaga economie naţională, au fost lichidate clasele exploatatoare, orice formă de exploatare şi asuprire a omului de către om. Dă roade bogate politica partidului de înfăptuire a industrializării, de dezvoltare a agriculturii, de creare a unei economii multilaterale, echilibrate, bazate pe cuceririle contemporane ale ştiinţei şi tehnicii. În procesul construirii socialismului s-a realizat unitatea strînsă dintre clasa muncitoare, ţărănime şi intelectualitate, dintre poporul român şi naţionalităţile conlocuitoare, înfrăţite în lupta comună pentru înflorirea patriei. Se dezvoltă democraţia noastră socialistă, care asigură participarea maselor largi ale poporului la conducerea societăţii, dezvoltarea capacităţilor creatoare ale tuturor cetăţenilor, afirmarea plenară în viaţa socială a personalităţii fiecărui individ.
-Transformările petrecute în structura societăţii noastre, intensa activitate politico-educativă desfăşurată de partid, au determinat profunde schimbări înnoitoare în profilul spiritual al oamenilor muncii. Se dezvoltă morala nouă, întemeiată pe înaltele îndatoriri faţă de societate, pe atitudinea înaintată faţă de muncă, de proprietatea obştească, faţă de legile statului şi regulile de convieţuire socială. Conştienţi de faptul că legile constituie întruchiparea intereselor lor fundamentale, marea masă a cetăţenilor le respectă din convingere, participă activ la combaterea manifestărilor înapoiate, retrograde, care prezintă pericol social, ceea ce contribuie la întărirea continuă a ordinii de drept.
-Este pe deplin firesc ca noile realităţi ale ţării - economice, sociale, politice şi culturale - să-şi găsească reflectarea pe planul dreptului, expresie a voinţei şi năzuinţelor poporului de asigurare a progresului multilateral al patriei. Constituţia Republicii Socialiste România, legea fundamentală a statului, consacră cuceririle istorice ale poporului, cele mai de seamă drepturi de care se bucură cetăţenii, creează ordinea de drept necesară pentru înaintarea ţării pe calea desăvîrşirii construcţiei noii orînduiri, a dezvoltării democraţiei socialiste. În conformitate cu prevederile Constituţiei, întregul sistem de drept trebuie pus de acord cu realităţile actuale ale societăţii noastre.
-"Dreptul socialist", sublinia tovarăşul Nicolae Ceauşescu la Conferinţa Naţională a partidului, "trebuie să oglindească schimbările profunde economice şi social-politice care au avut loc în procesul revoluţiei şi al construcţiei socialiste. Normele de drept trebuie să consacre şi să apere cuceririle fundamentale ale poporului nostru, să asigure dezvoltarea avutului obştesc, exercitarea drepturilor şi libertăţilor cetăţeneşti".
-În ansamblul normelor de drept, un loc important îl deţine legislaţia penală, care, determinînd faptele ce constituie infracţiuni şi stabilind pedepsele corespunzătoare pentru aceste încălcări ale legii, contribuie în mod eficient la apărarea şi consolidarea cuceririlor obţinute de poporul nostru, la reglementarea raporturilor dintre individ şi societate, dintre cetăţenii ţării, în spiritul respectării principiilor socialismului, a drepturilor şi libertăţilor democratice.
-Codul penal adoptat cu mai mult de 30 de ani în urmă cuprinde numeroase prevederi învechite şi, în ansamblul său, în pofida modificărilor şi completărilor ce i s-au adus în decursul anilor, apare ca depăşit. Fiind elaborat în alte condiţii istorice, el nu mai corespundea realităţilor noi, concepţiilor contemporane privitoare la aprecierea caracterului infracţional al unor fapte, la mijloacele de prevenire şi combatere a acestora, la rolul pedepsei ca măsură de îndreptare şi reeducare a infractorilor, precum şi de prevenire a săvîrşirii de noi infracţiuni. A devenit astfel necesară elaborarea unui nou cod penal care să corespundă cerinţelor etapei actuale de dezvoltare a ţării.
-Proiectul noului cod penal a fost întocmit de către un colectiv de specialişti din cadrul Ministerului Justiţiei, Procuraturii Generale, Tribunalului Suprem, Ministerului Afacerilor Interne, Institutul de cercetări juridice al Academiei, cu consultarea a numeroşi teoreticieni şi practicieni ai dreptului. La elaborarea proiectului s-a pornit de la prevederile Constituţiei ţării, a fost utilizat tot ceea ce s-a dovedit valoros în ştiinţa juridică românească şi în practica noastră judiciară, au fost consultate legislaţia şi literatura de specialitate din celelalte ţări socialiste, precum şi din alte ţări, avîndu-se mereu în centrul atenţiei condiţiile specifice ţării noastre.
-Proiectul noului cod penal a fost prezentat de către consiliul de Miniştri, Comitetul Executiv al Comitetului Central al Partidului Comunist Român, care l-a examinat şi a hotărît să fie supus dezbaterii specialiştilor, precum şi a meselor largi de oameni ai muncii, urmînd să fie pus în discuţia Plenarei Comitetului Central al Partidului Comunist Român şi apoi înaintat spre legiferare Marii Adunări Naţionale.
-Oglindind realităţile sociale actuale ale ţării, dezvoltarea democraţiei socialiste, şi exprimînd grija deosebită pentru întărirea legalităţii, codul penal este conceput pe principiul fundamental că numai legea este aceea care stabileşte faptele antisociale ce constituie infracţiuni, determină pedepsele şi măsurile educativ-preventive ce urmează să se aplice persoanelor care au comis astfel de fapte. Întreaga alcătuire a codului penal urmăreşte să creeze condiţii pentru ca nimeni să nu fie tras la răspundere penală pentru o faptă pe care legea nu a considerat-o infracţiune în momentul săvîrşirii ei şi nici să nu fie supus la executarea vreunei pedepse neprevăzute de lege. Este cunoscut că în trecut s-au făcut abuzuri, încălcări ale legalităţii şi interpretări arbitrare ale legii care au avut drept consecinţe trimiterea în judecată şi condamnarea unor oameni fără dovezi temeinice, aplicîndu-se astfel împotriva unor cetăţeni măsuri cu caracter penal nejustificate de actele şi manifestările acestora. Prevederile noului cod penal creează o puternică garanţie pentru a preveni săvîrşirea unor asemenea abuzuri şi ilegalităţi, pentru desfăşurarea întregii activităţi judiciare cu respectarea strictă a Constituţiei, a legilor ţării.
-În acelaşi timp, pentru ca societatea noastră să fie apărată împotriva infractorilor, a daunelor pe care aceştia le pot aduce, reglementările cuprinse în codul penal urmăresc ca toţi cei care încalcă legea penală să fie pedepsiţi potrivit vinovăţiei lor.
-Toate acestea dau o puternică expresie conţinutului socialist al codului penal, rolului ce revine acestui important instrument juridic în întărirea legalităţii, în promovarea intereselor fundamentale ale societăţii socialiste şi, totodată, în asigurarea exercitării depline a drepturilor şi libertăţilor cetăţeneşti.
-Inspirîndu-se din principiile dreptului nostru socialist, respectînd prevederile Constituţiei, normele cuprinse în codul penal au menirea să apere cuceririle revoluţionare ale poporului, orînduirea socială şi de stat, suveranitatea şi independenţa ţării, avuţia naţională, drepturile şi libertăţile fundamentale ale cetăţenilor, întreaga ordine de drept.
-Considerînd că infracţiunile împotriva orînduirii socialiste, împotriva a ceea ce poporul nostru a cucerit prin lupte grele şi îndelungate, constituie crimele cele mai grave faţă de popor, codul penal prevede pedepse aspre împotriva acelora care săvîrşesc acţiuni contra statului sau a capacităţii sale de apărare.
-În condiţiile orinduirii noastre, cînd progresul economic al ţării şi ridicarea bunăstării întregului popor depind de creşterea şi consolidarea proprietăţii socialiste, apărarea acestei proprietăţi reprezintă o îndatorire fundamentală a tuturor cetăţenilor. Tot ceea ce lezează proprietatea obştească, de stat sau cooperatistă, rodul muncii pline de dăruire şi abnegaţie a poporului nostru, loveşte în interesele oamenilor muncii, ale societăţii socialiste. De aceea, dînd expresie apărării acestor interese, codul penal prevede pedepse corespunzătoare împotriva hoţilor şi delapidatorilor, împotriva celor care irosesc sau manifestă lipsă de grijă faţă de avutul obştesc.
-Codul penal conţine, de asemenea, norme menite să asigure munca, liniştea şi avutul fiecărui cetăţean, libertăţile şi drepturile cetăţeneşti, în vederea împiedicării oricăror abuzuri şi încălcări ale legii. În acest scop, sînt stabilite pedepse pentru faptele îndreptate împotriva vieţii, integrităţii corporale, libertăţii şi demnităţii persoanei, împotriva avutului personal al cetăţenilor al cărui izvor este munca. Garanţia fermă a acestor drepturi şi libertăţi întăreşte sentimentul de siguranţă al fiecărui cetăţean, creează un regim de ordine în viaţa socială, caracteristic pentru o societate civilizată şi totodată indispensabilă pentru manifestarea liberă, multilaterală a oamenilor în toate domeniile activităţii sociale.
-În orînduirea noastră, dezvoltarea şi consolidarea familiei constituie o preocupare de mare importanţă a statului, a societăţii în ansamblul său, ocrotirea familiei, apărarea intereselor mamei şi copilului, reprezintă un principiu constituţional care stă la baza întregii reglementări a relaţiilor de familie şi a tuturor măsurilor de ordin economic şi social destinate să întărească această celulă de bază a societăţii noastre. În acest spirit a fost lărgită sfera faptelor care pot fi pedepsite ca infracţiuni contra familiei şi s-au inăsprit pedepsele pentru asemenea încălcări ale legii. Potrivit noului cod, constituie infracţiune de abandon familial nu numai părăsirea cu rea-credinţă şi neîndeplinirea obligaţiei de întreţinere faţă de membrii familiei, ci şi alungarea sau lăsarea lor fără ajutor.
-Codul penal reflectă grija orînduirii noastre faţă de om, preocuparea atît pentru apărarea legalităţii, cît şi pentru reeducarea persoanelor care au săvîrşit infracţiuni, pentru transformarea lor în cetăţenii utili societăţii, pentru prevenirea încălcării legii şi a regulilor de convieţuire socială. Ca o reflectare a schimbărilor petrecute în societate, a principiilor ce guvernează dreptul socialist, codul nu mai prevede munca silnică pe viaţă, temniţa grea şi detenţiunea riguroasă, ci instituie o singură pedeapsă privativă de libertate şi anume închisoarea, al cărei termen maxim este stabilit la 20 de ani. În cazul infractorilor periculoşi şi al recidiviştilor, care au săvîrşit infracţiuni deosebit de grave, dacă instanţa judecătorească socoteşte că pedeapsa de 20 de ani este neîndestulătoare, poate aplica un spor, fără a depăşi în total 25 de ani. Totodată, se prevede că pedeapsa amenzii nu mai poate fi transformată în închisoare.
-Dînd expresie dorinţei de a preveni săvîrşirea unor infracţiuni deosebit de grave cum sînt crimele împotriva păcii şi omenirii, trădarea de patrie, omorul săvîrşit prin cruzimi sau asupra mai multor persoane, jefuirea cu consecinţe deosebit de grave a bunului obştesc, codul penal menţine în mod excepţional pedeapsa cu moartea.
-Transformările profunde survenite în structura economică şi socială a societăţii, realizarea unităţii întregului popor, determină importante modificări şi în caracterizarea unor fapte pe care legislaţia penală le consideră infracţiuni. Întrucît pericolul social îl reprezintă asemenea fapte este astăzi considerabil redus, noul cod penal restringe domeniul de aplicare a constrîngerii prin sancţiuni penale. Astfel, numeroase fapte incriminate în trecut ca infracţiuni sînt eliminate din codul penal, altele sînt declarate contravenţii, iar o parte dintre ele nu vor mai fi pedepsite de legea penală atunci cînd se săvîrşesc pentru prima oară. Totodată, codul penal, ţinînd seama de creşterea continuă a rolului opiniei publice - importantă manifestare a democraţiei socialiste - în respectarea regulilor de convieţuire socială şi în educarea cetăţenilor, prevede forme noi de experimentare a influenţei colectivităţii. Astfel, codul reglementează posibilitatea înlocuirii răspunderii penale cu o răspundere care atrage fie aplicarea unor măsuri de influenţare obştească, fie a unor sancţiuni cu caracter administrativ. În acest scop au fost stabilite modalităţi de trimitere a unor cauze spre soluţionare a consiliilor de judecată, care în condiţiile legii, pot aplica măsuri specifice de influenţare obştească: mustrarea, mustrarea cu avertisment, amenda şi altele. Ca o consecinţă a acestor măsuri un număr important de cauze care pînă în prezent erau soluţionate de instanţele judecătoreşti, sînt date în competenţa organelor de influenţare obştească, ceea ce exprimă încă o dată rolul important pe care îl are colectivitatea în apărarea şi întărirea ordinii de drept.
-În codul penal se aduc precizări noţiunii de infracţiune şi trăsăturilor ei fundamentale, se realizează o mai bună sistematizare prin gruparea infracţiunilor în raport cu natura relaţiilor sociale pe care legea penală le apără, precum şi prin înlăturarea unor paralelisme şi suprapuneri. De asemenea, s-au concretizat instituţii juridice noi şi au fost reconsiderate instituţiile existente, pe baza unei concepţii unitare, întemeiate pe principiile dreptului socialist, toate acestea contribuind la interpretarea şi aplicarea corectă a normelor penale în practica judiciară.
-Sînt în curs de elaborare proiectul codului de procedură penală, precum şi legi penale cu caracter special care se vor referi la domenii restrînse de activitate. Pregătirea lor se face pe aceleaşi principii şi în acelaşi spirit în care este întocmit codul penal, de întărire a orînduirii socialiste, a legalităţii, de garantare şi apărare a drepturilor şi libertăţilor democratice pentru toţi cetăţenii ţării. Adoptarea acestor importante acte normative va contribui la sistematizarea şi perfecţionarea întregii noastre legislaţii.
-Întregul cod penal este străbătut de grija faţă de om, pentru manifestarea sa tot mai largă în întreaga viaţă socială, pentru întărirea legalităţii şi asigurarea ordinii de drept, corespunzător cerinţelor actualei etape de dezvoltare a societăţii, ale adîncirii democraţiei socialiste.
-
+Codul penal a fost publicat în Buletinul Oficial nr. 79-79 bis din 21 iunie 1968 şi a mai fost republicat în Buletinul Oficial nr. 55-56 din 23 aprilie 1973, în temeiul art. 3 din Legea nr. 6/1973, publicată în Buletinul Oficial nr. 49 din 6 aprilie 1973.
 
 Partea GENERALĂ
 
@@ -42,2644 +20,2866 @@ Partea GENERALĂ
 Titlul I LEGEA PENALĂ ŞI LIMITELE EI DE APLICARE
 
 
-Capitolul I DISPOZIŢII PRELIMINARE
+Capitolul 1 DISPOZIŢII PRELIMINARE
 
+Scopul legii penale
 
 Articolul 1
 
-Scopul legii penale
-Legea penală apără, împotriva infracţiunilor, Republica Socialistă România, suveranitatea, independenţa şi unitatea statului, proprietatea socialistă, persoana şi drepturile acesteia, precum şi întreaga ordine de drept.
+Legea penală apara, împotriva infracţiunilor, România, suveranitatea, independenta, unitatea şi indivizibilitatea statului, persoana, drepturile şi libertăţile acesteia, proprietatea, precum şi întreaga ordine de drept.
+Legalitatea incriminării
 
 Articolul 2
 
-Legalitatea incriminării
-Legea prevede care fapte constituie infracţiuni, pedepsele ce se aplică infractorilor şi măsurile ce se pot lua în cazul săvîrşirii acestor fapte.
+Legea prevede care fapte constituie infracţiuni, pedepsele ce se aplică infracţiunilor şi măsurile ce se pot lua în cazul săvârşirii acestor fapte.
 
-Capitolul II LIMITELE APLICĂRII LEGII PENALE
+Capitolul 2 LIMITELE APLICĂRII LEGII PENALE
 
 
 Secţiunea I Aplicarea legii penale în spaţiu
 
+Teritorialitatea legii penale
 
 Articolul 3
 
-Teritorialitatea legii penale
-Legea penală se aplică infracţiunilor săvîrşite pe teritoriul României.
+Legea penală se aplică infracţiunilor săvârşite pe teritoriul României.
+Personalitatea legii penale
 
 Articolul 4
 
-Personalitatea legii penale
-Legea penală se aplică infracţiunilor în afara teritoriului ţării, dacă făptuitorul este cetăţean român sau dacă, neavînd nici o cetăţenie, are domiciliul în ţară.
+Legea penală se aplică infracţiunilor săvârşite în afară teritoriului tarii, dacă făptuitorul este cetăţean român sau dacă, neavînd nici o cetăţenie, are domiciliul în ţara.
+Realitatea legii penale
 
 Articolul 5
 
-Realitatea legii penale
-Legea penală se aplică infracţiunilor săvîrşite în afara teritoriului ţării, contra securităţii statului român, sau contra vieţii unui cetăţean român, ori prin care s-a adus o vătămare gravă integrităţii corporale sau sănătăţii unui cetăţean român, cînd sînt săvîrşite de către un cetăţean străin sau de o persoană fără cetăţenie care nu domiciliază pe teritoriul ţării.
-Punerea în mişcare a acţiunii penale pentru infracţiunile prevăzute în alineatul precedent se face numai cu autorizarea prealabilă a Procurorului General.
+Legea penală se aplică infracţiunilor săvârşite în afară teritoriului tarii, contra siguranţei statului român sau contra vieţii unui cetăţean român, ori prin care s-a adus o vătămare grava integrităţii corporale sau sănătăţii unui cetăţean român, când sunt săvârşite de către un cetăţean străin sau de o persoană fără cetăţenie care nu domiciliază pe teritoriul tarii.
+Punerea în mişcare a acţiunii penale pentru infracţiunile prevăzute în alineatul precedent se face numai cu autorizarea prealabilă a procurorului general.
+Universalitatea legii penale
 
 Articolul 6
 
-Universalitatea legii penale
-Legea penală se aplică şi altor infracţiuni decît celor prevăzute în art. 5 alin. 1, săvîrşite în afara teritoriului ţării, de un cetăţean străin sau de o persoană fără cetăţenie care nu domiciliază pe teritoriul ţării, dacă:
-a) fapta este prevăzută ca infracţiune şi de legea penală a ţării unde a fost săvîrşită;
-b) făptuitorul se află în ţară.
-Pentru infracţiunile îndreptate împotriva intereselor statului român sau contra unui cetăţean român, infractorul poate fi judecat şi în cazul cînd s-a obţinut extrădarea lui.
-Dispoziţiile alineatelor precedente nu se aplică în cazul cînd, potrivit legii statului în care infractorul a săvîrşit infracţiunea, există vreo cauză care împiedică punerea în mişcare a acţiunii penale sau continuarea procesului penal ori executarea pedepsei, sau cînd pedeapsa a fost executată ori este considerată ca executată. Cînd pedeapsa nu a fost executată sau a fost executată numai în parte, se procedează potrivit dispoziţiilor legale privitoare la recunoaşterea hotărîrilor străine.
+Legea penală se aplică şi altor infracţiuni decît celor prevăzute în art. 5 alin. 1, săvârşite în afară teritoriului tarii, de un cetăţean străin sau de o persoană fără cetăţenie care nu domiciliază pe teritoriul tarii, dacă:
+a) fapta este prevăzută ca infracţiune şi de legea penală a tarii unde a fost săvârşită;
+b) făptuitorul se afla în ţara.
+Pentru infracţiunile îndreptate împotriva intereselor statului român sau contra unui cetăţean român, infractorul poate fi judecat şi în cazul când s-a obţinut extrădarea lui.
+Dispoziţiile alineatelor precedente nu se aplică în cazul când, potrivit legii statului în care infractorul a savirsit infracţiunea, exista vreo cauza care împiedica punerea în mişcare a acţiunii penale sau continuarea procesului penal ori executarea pedepsei, sau când pedeapsa a fost executată ori este considerată ca executată. Când pedeapsa nu a fost executată sau a fost executată numai în parte, se procedează potrivit dispoziţiilor legale privitoare la recunoaşterea hotărîrilor străine.
+Legea penală şi convenţiile internaţionale
 
 Articolul 7
 
-Legea penală şi convenţiile internaţionale
-Dispoziţiile cuprinse în art. 5 şi 6 se aplică dacă nu se dispune altfel printr-o convenţie internaţională.
+Dispoziţiile cuprinse în art. 5 şi 6 se aplică, dacă nu se dispune altfel printr-o convenţie internationala.
+Imunitatea de jurisdicţie
 
 Articolul 8
 
-Imunitatea de jurisdicţie
-Legea penală nu se aplică infracţiunilor săvîrşite de către reprezentanţii diplomatici ai statelor străine sau de alte persoane care, în conformitate cu convenţiile internaţionale, nu sînt supuse jurisdicţiei penale a statului român.
+Legea penală nu se aplică infracţiunilor săvârşite de către reprezentanţii diplomatici ai statelor străine sau de alte persoane care, în conformitate cu convenţiile internaţionale, nu sunt supuse jurisdicţiei penale a statului român.
+Extrădarea
 
 Articolul 9
 
-Extrădarea
-Extrădarea se acordă sau poate fi solicitată pe bază de convenţie internaţională, pe bază de reciprocitate şi, în lipsa acestora, în temeiul legii.
+Extrădarea se acordă sau poate fi solicitată pe bază de convenţie internationala, pe bază de reciprocitate şi, în lipsa acestora, în temeiul legii.
 
 Secţiunea II Aplicarea legii penale în timp
 
+Activitatea legii penale
 
 Articolul 10
 
-Activitatea legii penale
-Legea penală se aplică infracţiunilor săvîrşite în timpul cît ea se află în vigoare.
+Legea penală se aplică infracţiunilor săvârşite în timpul cît ea se afla în vigoare.
+Neretroactivitatea legii penale
 
 Articolul 11
 
-Neretroactivitatea legii penale
-Legea penală nu se aplică faptelor care, la data cînd au fost săvîrşite, nu erau prevăzute ca infracţiuni.
+Legea penală nu se aplică faptelor care, la data când au fost săvârşite, nu erau prevăzute ca infracţiuni.
+Retroactivitatea legii penale
 
 Articolul 12
 
-Retroactivitatea legii penale
-Legea penală nu se aplică faptelor săvîrşite sub legea veche, dacă nu mai sînt prevăzute de legea nouă. În acest caz executarea pedepselor, a măsurilor de siguranţă şi a măsurilor educative, pronunţate în baza legii vechi, precum şi toate consecinţele penale ale hotărîrilor judecătoreşti privitoare la aceste fapte, încetează prin intrarea în vigoare a legii noi.
-Legea care prevede măsuri de siguranţă sau măsuri educative se aplică şi infracţiunilor care nu au fost definitiv judecate pînă la data intrării în vigoare a legii noi.
+Legea penală nu se aplică faptelor săvârşite sub legea veche, dacă nu mai sunt prevăzute de legea noua. În acest caz executarea pedepselor, a măsurilor de siguranţă şi a măsurilor educative, pronunţate în baza legii vechi, precum şi toate consecinţele penale ale hotărîrilor judecătoreşti privitoare la aceste fapte, încetează prin intrarea în vigoare a legii noi.
+Legea care prevede măsuri de siguranţă sau măsuri educative se aplică şi infracţiunilor care nu au fost definitiv judecate până la data intrării în vigoare a legii noi.
+Aplicarea legii penale mai favorabile
 
 Articolul 13
 
-Aplicarea legii penale mai favorabile
-În cazul în care de la săvîrşirea infracţiunii pînă la judecarea definitivă a cauzei au intervenit una sau mai multe legi penale, se aplică legea cea mai favorabilă. Cînd legea anterioară este mai favorabilă, pedepsele complimentare care au corespondent în legea penală nouă se aplică în conţinutul şi limitele prevăzute de aceasta, iar cele care nu mai sînt prevăzute în legea penală nouă nu se mai aplică.
+În cazul în care de la săvârşirea infracţiunii până la judecarea definitivă a cauzei au intervenit una sau mai multe legi penale, se aplică legea cea mai favorabilă.
+Când legea anterioară este mai favorabilă, pedepsele complimentare care au corespondent în legea penală noua se aplică în conţinutul şi limitele prevăzute de aceasta, iar cele care nu mai sunt prevăzute în legea penală noua nu se mai aplica.
+Aplicarea obligatorie a legii penale mai favorabile în cazul pedepselor definitive
 
 Articolul 14
 
-Aplicarea obligatorie a legii penale mai favorabile în cazul pedepselor definitive
-Cînd după rămînerea definitivă a hotărîrii de condamnare şi pînă la executarea completă a pedepsei închisorii sau amenzii a intervenit o lege care prevede o pedeapsă mai uşoară, sancţiunea aplicată, dacă depăşeşte maximul special prevăzut de legea nouă pentru infracţiunea săvîrşită, se reduce la acest maxim. Dacă după rămînerea definitivă a hotărîrii de condamnare la moarte şi pînă la executarea ei a intervenit o lege care prevede pentru aceeaşi faptă pedeapsa închisorii, pedeapsa cu moartea se înlocuieşte cu maximul închisorii prevăzut pentru acea infracţiune.
-Dacă legea nouă prevede în locul pedepsei închisorii numai amenda, pedeapsa aplicată se înlocuieşte cu amenda, fără a se putea depăşi maximul special prevăzut în legea nouă. Ţinîndu-se seama de partea executată din pedeapsa închisorii, se poate înlătura în totul sau în parte executarea amenzii.
-Pedepsele complimentare, măsurile de siguranţă, precum şi măsurile educative neexecutate şi neprevăzute în legea nouă, nu se mai execută, iar cele care au corespondent în legea nouă se execută în conţinutul şi limitele prevăzute de această lege.
-Cînd o dispoziţie din legea nouă se referă la pedepse definitiv aplicate, se ţine seama, în cazul pedepselor executate pînă la data intrării în vigoare a acesteia, de pedeapsa redusă sau înlocuită potrivit dispoziţiilor alineatelor precedente.
+Când după rămînerea definitivă a hotărârii de condamnare şi până la executarea completa a pedepsei închisorii sau amenzii a intervenit o lege care prevede o pedeapsă mai uşoară, sancţiunea aplicată, dacă depăşeşte maximul special prevăzut de legea noua pentru infracţiunea săvârşită, se reduce la acest maxim.
+Dacă după rămînerea definitivă a hotărârii de condamnare la detenţiune pe viaţa şi până la executarea ei a intervenit o lege care prevede pentru aceeaşi fapta pedeapsa închisorii, pedeapsa detenţiunii pe viaţa se înlocuieşte cu maximul închisorii prevăzut pentru acea infracţiune.
+Dacă legea noua prevede în locul pedepsei închisorii numai amenda, pedeapsa aplicată se înlocuieşte cu amendă, fără a se putea depăşi maximul special prevăzut în legea noua. Tinindu-se seama de partea executată din pedeapsa închisorii, se poate inlatura în totul sau în parte executarea amenzii.
+Pedepsele complimentare, măsurile de siguranţă, precum şi măsurile educative neexecutate şi neprevăzute în legea noua, nu se mai executa, iar cele care au corespondent în legea noua se executa în conţinutul şi limitele prevăzute de această lege.
+Când o dispoziţie din legea noua se referă la pedepse definitiv aplicate, se tine seama, în cazul pedepselor executate până la data intrării în vigoare a acesteia, de pedeapsa redusă sau înlocuită potrivit dispoziţiilor alineatelor precedente.
+Aplicarea facultativă a legii penale mai favorabile în cazul pedepselor definitive
 
 Articolul 15
 
-Aplicarea facultativă a legii penale mai favorabile în cazul pedepselor definitive
-Cînd după rămînerea definitivă a hotărîrii de condamnare şi pînă la executarea completă a pedepsei închisorii a intervenit o lege care prevede o pedeapsă mai uşoară, iar sancţiunea aplicată este mai mică decît maximul special prevăzut de legea nouă, ţinîndu-se seama de infracţiunea săvîrşită, de persoana condamnatului, de conduita acestuia după pronunţarea hotărîrii sau în timpul executării pedepsei şi de timpul cît a executat din pedeapsă, se poate dispune fie menţinerea, fie reducerea pedepsei. Pedeapsa aplicată nu poate fi coborîtă sub limita ce ar rezulta din reducerea acestei pedepse proporţional cu micşorarea maximului special prevăzut pentru infracţiunea săvîrşită. Dispoziţiile art. 14 alin. 5 se aplică şi în cazul condamnărilor arătate în prezentul articol, executate pînă la data intrării în vigoare a legii noi, pedeapsa din hotărîre reducîndu-se cu o treime.
+Când după rămînerea definitivă a hotărârii de condamnare şi până la executarea completa a pedepsei închisorii a intervenit o lege care prevede o pedeapsă mai uşoară, iar sancţiunea aplicată este mai mica decît maximul special prevăzut de legea noua, tinindu-se seama de infracţiunea săvârşită, de persoana condamnatului, de conduita acestuia după pronunţarea hotărârii sau în timpul executării pedepsei şi de timpul cît a executat din pedeapsa, se poate dispune fie menţinerea, fie reducerea pedepsei. Pedeapsa aplicată nu poate fi coborâtă sub limita ce ar rezultă din reducerea acestei pedepse proporţional cu micşorarea maximului special prevăzut pentru infracţiunea săvârşită.
+Dispoziţiile art. 14 alin. 5 se aplică şi în cazul condamnărilor arătate în prezentul articol, executate până la data intrării în vigoare a legii noi, pedeapsa din hotărâre reducându-se cu o treime.
+Aplicarea legii penale temporare
 
 Articolul 16
 
-Aplicarea legii penale temporare
-Legea penală temporară se aplică infracţiunii săvîrşite în timpul cînd era în vigoare, chiar dacă fapta nu a fost urmărită sau judecată în acel interval de timp.
+Legea penală temporară se aplică infracţiunii săvârşite în timpul când era în vigoare, chiar dacă fapta nu a fost urmărită sau judecata în acel interval de timp.
 
 Titlul II INFRACŢIUNEA
 
 
-Capitolul I DISPOZIŢII GENERALE
+Capitolul 1 DISPOZIŢII GENERALE
 
+Trăsăturile esenţiale ale infracţiunii
 
 Articolul 17
 
-Trăsăturile esenţiale ale infracţiunii
-Infracţiunea este fapta care prezintă pericol social, săvîrşită cu vinovăţie şi prevăzută de legea penală. Infracţiunea este singurul temei al răspunderii penale.
+Infracţiunea este fapta care prezintă pericol social, săvârşită cu vinovăţie şi prevăzută de legea penală.
+Infracţiunea este singurul temei al răspunderii penale.
+Pericolul social al faptei
 
 Articolul 18
 
-Pericolul social al faptei
 Fapta care prezintă pericol social în înţelesul legii penale este orice acţiune sau inacţiune prin care se aduce atingere uneia dintre valorile arătate în art. 1 şi pentru sancţionarea căreia este necesară aplicarea unei pedepse.
+Fapta care nu prezintă pericolul social al unei infracţiuni
+
+Articolul 18^1
+
+Nu constituie infracţiune fapta prevăzută de legea penală, dacă prin atingerea minima adusă uneia din valorile aparate de lege şi prin conţinutul ei concret, fiind lipsită în mod vadit de importanţa, nu prezintă gradul de pericol social al unei infracţiuni.
+La stabilirea în concret a gradului de pericol social se tine seama de modul şi mijloacele de savirsire a faptei, de scopul urmărit, de împrejurările în care fapta a fost comisă, de urmarea produsă sau care s-ar fi putut produce, precum şi de persoana şi conduita făptuitorului.
+În cazul faptelor prevăzute în prezentul articol, procurorul sau instanţa aplica una din sancţiunile cu caracter administrativ prevăzute în art. 91.
+Vinovăţia
 
 Articolul 19
 
-Vinovăţia
-Vinovăţie există cînd fapta care prezintă pericol social este săvîrşită cu intenţie sau din culpă.
-1) Fapta este săvîrşită cu intenţie cînd infractorul:
-a. prevede rezultatul faptei sale, urmărind producerea lui prin săvîrşirea acelei fapte;
-b. prevede rezultatul faptei sale şi deşi nu-l urmăreşte, acceptă posibilitatea producerii lui.
-2) Fapta este săvîrşită din culpă cînd infractorul:
-a. prevede rezultatul faptei sale, dar nu-l acceptă, socotind fără temei ca el nu se va produce;
-b. nu prevede rezultatul faptei sale, deşi trebuia şi putea să-l prevadă.
-Fapta constînd într-o acţiune săvîrşită din culpă constituie infracţiune numai atunci cînd în lege se prevede în mod expres aceasta.
-Fapta constînd într-o inacţiune constituie infracţiune fie că este săvîrşită cu intenţie, fie din culpă, afară de cazul cînd legea sancţionează numai săvîrşirea ei cu intenţie.
+Vinovăţie exista când fapta care prezintă pericol social este săvârşită cu intenţie sau din culpa.
+1. Fapta este săvârşită cu intenţie când infractorul:
+a) prevede rezultatul faptei sale, urmărind producerea lui prin săvârşirea acelei fapte;
+b) prevede rezultatul faptei sale şi, deşi nu-l urmăreşte, accepta posibilitatea producerii lui.
+2. Fapta este săvârşită din culpa când infractorul:
+a) prevede rezultatul faptei sale, dar nu-l accepta, socotind fără temei ca el nu se va produce;
+b) nu prevede rezultatul faptei sale, deşi trebuia şi putea sa-l prevadă.
+Fapta constind într-o acţiune săvârşită din culpa constituie infracţiune numai atunci când în lege se prevede în mod expres aceasta.
+Fapta constind într-o infracţiune constituie infracţiune fie ca este săvârşită cu intenţie, fie din culpa, afară de cazul când legea sancţionează numai săvârşirea ei cu intenţie.
 
-Capitolul II TENTATIVA
+Capitolul 2 TENTATIVA
 
+Conţinutul tentativei
 
 Articolul 20
 
-Conţinutul tentativei
-Tentativa constă în punerea în executare a hotărîrii de a săvîrşi infracţiunea, executare care a fost însă întreruptă sau nu şi-a produs efectul.
-Există tentativă şi în cazul în care consumarea infracţiunii nu a fost posibilă datorită insuficienţei sau defectuozităţii mijloacelor folosite, ori datorită împrejurării ca în timpul cînd s-au săvîrşit actele de executare, obiectul lipsea de la locul unde făptuitorul credea că se află.
-Nu există tentativă atunci cînd imposibilitatea de consumare a infracţiunii este datorită modului cum a fost concepută executarea.
+Tentativa consta în punerea în executare a hotărârii de a savirsi infracţiunea, executarea care a fost însă întreruptă sau nu şi-a produs efectul.
+Exista tentativa şi în cazul în care consumarea infracţiunii nu a fost posibila datorită insuficienţei sau defectuozităţii mijloacelor folosite, ori datorită împrejurării ca în timpul când s-au savirsit actele de executare, obiectul lipsea de la locul unde făptuitorul credea ca se afla.
+Nu exista tentativa atunci când imposibilitatea de consumare a infracţiunii este datorită modului cum a fost concepută executarea.
+Pedepsirea tentativei
 
 Articolul 21
 
-Pedepsirea tentativei
-Tentativa se pedepseşte numai cînd legea prevede expres aceasta. Tentativa se sancţionează cu o pedeapsă cuprinsă între jumătatea minimului şi jumătatea maximului prevăzute de lege pentru infracţiunea consumată, fără ca minimul să fie mai mic decît minimul general al pedepsei. În cazul cînd pedeapsa prevăzută de lege este moartea, se aplică pedeapsa închisorii de la 10 la 20 de ani.
+Tentativa se pedepseşte numai când legea prevede expres aceasta.
+Tentativa se sancţionează cu o pedeapsă cuprinsă între jumătatea minimului şi jumătatea maximului prevăzute de lege pentru infracţiunea consumată, fără ca minimul să fie mai mic decît minimul general al pedepsei. În cazul când pedeapsa prevăzută de lege este detenţiunea pe viaţa, se aplică pedeapsa închisorii de la 10 la 25 de ani.
+Desistarea şi împiedicarea rezultatului
 
 Articolul 22
 
-Desistarea şi împiedicarea rezultatului
-Este apărat de pedeapsă făptuitorul care s-a desistat ori a împiedicat mai înainte de descoperirea faptei producerea rezultatului.
-Dacă actele îndeplinite pînă în momentul desistării sau împiedicării producerii rezultatului constituie o altă infracţiune, se aplică pedeapsa pentru acea infracţiune.
+Este aparat de pedeapsa făptuitorul care s-a desistat ori a împiedicat mai înainte de descoperirea faptei producerea rezultatului.
+Dacă actele îndeplinite până în momentul desistării sau împiedicării producerii rezultatului constituie o alta infracţiune, se aplică pedeapsa pentru acea infracţiune.
 
-Capitolul III PARTICIPAŢIA
+Capitolul 3 PARTICIPAŢIA
 
+Participanţii
 
 Articolul 23
 
-Participanţii
-Participanţi sînt persoanele care contribuie la săvîrşirea unei fapte prevăzute de legea penală în calitate de autori, instigatori sau complici.
+Participanţi sunt persoanele care contribuie la săvârşirea unei fapte prevăzute de legea penală în calitate de autori, instigatori sau complici.
+Autorul
 
 Articolul 24
 
-Autorul
-Autor este persoana care săvîrşeşte în mod nemijlocit fapta prevăzută de legea penală.
+Autor este persoana care săvârşeşte în mod nemijlocit fapta prevăzută de legea penală.
+Instigatorul
 
 Articolul 25
 
-Instigatorul
-Instigator este persoana care, cu intenţie, determină pe o altă persoană să săvîrşească o faptă prevăzută de legea penală.
+Instigator este persoana care, cu intenţie, determina pe o altă persoană sa savirseasca o faptă prevăzută de legea penală.
+Complicele
 
 Articolul 26
 
-Complicele
-Complice este persoana care, cu intenţie, înlesneşte sau ajută în orice mod la săvîrşirea unei fapte prevăzute de legea penală. Este de asemenea complice persoana care promite, înainte sau în timpul săvîrşirii faptei, că va tăinui bunurile provenite din aceasta sau că va favoriza pe făptuitor, chiar dacă după săvîrşirea faptei promisiunea nu este îndeplinită.
+Complice este persoana care, cu intenţie, înlesneşte sau ajuta în orice mod la săvârşirea unei fapte prevăzute de legea penală. Este de asemenea complice persoana care promite, înainte sau în timpul săvârşirii faptei, ca va tăinui bunurile provenite din aceasta sau ca va favoriza pe făptuitor, chiar dacă după săvârşirea faptei promisiunea nu este îndeplinită.
+Pedeapsa în caz de participaţie
 
 Articolul 27
 
-Pedeapsa în caz de participaţie
-Instigatorul şi complicele la o faptă prevăzută de legea penală săvîrşită cu intenţie se sancţionează cu pedeapsa prevăzută de lege pentru autor. La stabilirea pedepsei se ţine seama de contribuţia fiecăruia la săvîrşirea infracţiunii, precum şi de dispoziţiile art. 72.
+Instigatorul şi complicele la o faptă prevăzută de legea penală săvârşită cu intenţie se sancţionează cu pedeapsa prevăzută de lege pentru autor. La stabilirea pedepsei se tine seama de contribuţia fiecăruia la săvârşirea infracţiunii, precum şi de dispoziţiile art. 72.
+Circumstanţele personale şi reale
 
 Articolul 28
 
-Circumstanţele personale şi reale
-Circumstanţele privitoare la persoana unui participant nu se răsfrîng asupra celorlalţi.
-Circumstanţele privitoare la faptă se răsfrîng asupra participanţilor, numai în măsura în care aceştia le-au cunoscut sau le-au prevăzut.
+Circumstanţele privitoare la persoana unui participant nu se rasfring asupra celorlalţi.
+Circumstanţele privitoare la fapta se rasfring asupra participanţilor, numai în măsura în care aceştia le-au cunoscut sau le-au prevăzut.
+Instigarea neurmată de executare
 
 Articolul 29
 
-Instigare neurmată de executare
-Actele de instigare neurmate de executarea faptei, precum şi actele de instigare urmate de desistarea autorului ori de împiedicarea de către acesta a producerii rezultatului, se sancţionează cu o pedeapsă între minimul special al pedepsei pentru infracţiunea la care s-a instigat şi minimul general. În cazul cînd pedeapsa prevăzută de lege este moartea, se aplică pedeapsa închisorii de la 2 la 10 ani.
-Actele arătate în alineatul precedent nu se sancţionează, dacă pedeapsa prevăzută de lege pentru infracţiunea la care s-a instigat este de 2 ani sau mai mică, afară de cazul cînd actele îndeplinite de autor pînă în momentul desistării constituie altă faptă prevăzută de legea penală.
+Actele de instigare neurmate de executarea faptei, precum şi actele de instigare urmate de desistarea autorului ori de împiedicarea de către acesta a producerii rezultatului, se sancţionează cu o pedeapsă între minimul special al pedepsei pentru infracţiunea la care s-a instigat şi minimul general. În cazul când pedeapsa prevăzută de lege este detenţiunea pe viaţa, se aplică pedeapsa închisorii de la 2 la 10 ani.
+Actele arătate în alineatul precedent nu se sancţionează, dacă pedeapsa prevăzută de lege pentru infracţiunea la care s-a instigat este de 2 ani sau mai mica, afară de cazul când actele îndeplinite de autor până în momentul desistării constituie alta fapta prevăzută de legea penală.
+Împiedicarea săvârşirii faptei
 
 Articolul 30
 
-Împiedicarea săvîrşirii faptei
-Participantul nu se pedepseşte dacă în cursul executării, dar înainte de descoperirea faptei, împiedică consumarea acesteia. Dacă actele săvîrşite pînă în momentul împiedicării constituie o altă faptă prevăzută de legea penală, participantului i se aplică pedeapsa pentru această faptă.
+Participantul nu se pedepseşte dacă în cursul executării, dar înainte de descoperirea faptei, împiedica consumarea acesteia. Dacă actele săvârşite până în momentul împiedicării constituie o alta fapta prevăzută de legea penală, participantului i se aplică pedeapsa pentru aceasta fapta.
+Participaţia improprie
 
 Articolul 31
 
-Participaţia improprie
-Determinarea, înlesnirea sau ajutarea în orice mod, cu intenţie, la săvîrşirea din culpă de către o altă persoană, a unei fapte prevăzute de legea penală, se sancţionează cu pedeapsa pe care legea o prevede pentru fapta comisă cu intenţie.
-Determinarea, înlesnirea sau ajutarea în orice mod, cu intenţie, la săvîrşirea unei fapte prevăzute de legea penală, de către o persoană care comite acea faptă fără vinovăţie, se sancţionează cu pedeapsa prevăzută de lege pentru acea infracţiune.
+Determinarea, înlesnirea sau ajutarea în orice mod, cu intenţie, la săvârşirea din culpa de către o altă persoană, a unei fapte prevăzute de legea penală, se sancţionează cu pedeapsa pe care legea o prevede pentru fapta comisă cu intenţie.
+Determinarea, înlesnirea sau ajutarea în orice mod, cu intenţie, la săvârşirea unei fapte prevăzute de legea penală, de către o persoană care comite acea fapta fără vinovăţie, se sancţionează cu pedeapsa prevăzută de lege pentru acea infracţiune.
 Dispoziţiile art. 28-30 se aplică în mod corespunzător.
 
-Capitolul IV PLURALITATEA DE INFRACŢIUNI
+Capitolul 4 PLURALITATEA DE INFRACŢIUNI
 
+Formele pluralităţii
 
 Articolul 32
 
-Formele pluralităţii
-Pluralitatea de infracţiuni constituie, după caz, concurs de infracţiuni sau recidivă.
+Pluralitatea de infracţiuni constituie, după caz, concurs de infracţiuni sau recidiva.
+Concursul de infracţiuni
 
 Articolul 33
 
-Concursul de infracţiuni
-Concurs de infracţiuni există:
-a) cînd două sau mai multe infracţiuni au fost săvîrşite de aceeaşi persoană, înainte de a fi condamnată definitiv pentru vreuna dintre ele. Există concurs chiar dacă una dintre infracţiuni a fost comisă pentru săvîrşirea sau ascunderea altei infracţiuni;
-b) cînd o acţiune sau inacţiune, săvîrşită de aceeaşi persoană, datorită împrejurărilor în care a avut loc şi urmărilor pe care le-a produs, întruneşte elementele mai multor infracţiuni.
+Concurs de infracţiuni exista:
+a) când doua sau mai multe infracţiuni au fost săvârşite de aceeaşi persoana, înainte de a fi condamnata definitiv pentru vreuna dintre ele. Exista concurs chiar dacă una dintre infracţiuni a fost comisă pentru săvârşirea sau ascunderea altei infracţiuni;
+b) când o acţiune sau inacţiune, săvârşită de aceeaşi persoana, datorită împrejurărilor în care a avut loc şi urmărilor pe care le-a produs, întruneşte elementele mai multor infracţiuni.
+Pedeapsa principala în caz de concurs de infracţiuni
 
 Articolul 34
 
-Pedeapsa principală în caz de concurs de infracţiuni
-În caz de concurs de infracţiuni se stabileşte pedeapsa pentru fiecare infracţiune în parte, iar dintre acestea se aplică pedeapsa după cum urmează:
-a) cînd s-au stabilit numai pedepse cu închisoare, se aplică pedeapsa cea mai grea, care poate fi sporită pînă la maximul ei special, iar cînd acest maxim nu este îndestulător, se poate adăuga un spor pînă la 3 ani;
-b) cînd s-au stabilit numai amenzi, se aplică amenda cea mai mare, care poate fi sporită pînă la maximul ei special, iar dacă acest maxim nu este îndestulător, se poate adăuga un spor pînă la o pătrime din acel maxim;
-c) cînd s-a stabilit o pedeapsă cu închisoare şi o pedeapsă cu amendă, se aplică pedeapsa închisorii, la care se poate adăuga amenda, în totul sau în parte;
-d) cînd s-au stabilit mai multe pedepse cu închisoare şi mai multe pedepse cu amendă, se aplică pedeapsa închisorii potrivit dispoziţiei de la lit. a, la care se poate adăuga amenda potrivit dispoziţiei de la lit. b.
-Sporul prevăzut la lit. a se poate mări pînă la 5 ani, dacă una dintre infracţiunile aflate în concurs este o infracţiune contra securităţii statului, contra avutului obştesc, ori o infracţiune de omor, sau o infracţiune contra păcii şi omenirii, ori o infracţiune prin care s-a produs o pagubă importantă economiei naţionale.
-Prin aplicarea dispoziţiilor din alineatele precedente nu se poate depăşi totalul pedepselor stabilite de instanţă pentru infracţiunile concurente.
+În caz de concurs de infracţiuni, se stabileşte pedeapsa pentru fiecare infracţiune în parte, iar dintre acestea se aplică pedeapsa, după cum urmează:
+a) când s-a stabilit o pedeapsă cu detenţiune pe viaţa şi una sau mai multe pedepse cu închisoare ori cu amendă, se aplică pedeapsa detenţiunii pe viaţa;
+b) când s-au stabilit numai pedepse cu închisoare, se aplică pedeapsa cea mai grea, care poate fi sporită până la maximul ei special, iar când acest maxim nu este îndestulător, se poate adauga un spor de până la 5 ani;
+c) când s-au stabilit numai amenzi, se aplică pedeapsa cea mai mare, care poate fi sporită până la maximul ei special, iar dacă acest maxim nu este îndestulător, se poate adauga un spor de până la jumătate din acel maxim;
+d) când s-a stabilit o pedeapsă cu închisoare şi o pedeapsă cu amendă, se aplică pedeapsa închisorii, la care se poate adauga amenda, în totul sau în parte;
+e) când s-au stabilit mai multe pedepse cu închisoare şi mai multe pedepse cu amendă, se aplică pedeapsa închisorii, potrivit dispoziţiei de la lit. b), la care se poate adauga amenda, potrivit dispoziţiei de la lit. c).
+Prin aplicarea dispoziţiilor din alineatul precedent nu se poate depăşi totalul pedepselor stabilite de instanţa pentru infracţiunile concurente.
+Pedeapsa complimentară şi măsurile de siguranţă în caz de concurs de infracţiuni
 
 Articolul 35
 
-Pedeapsa complimentară şi măsurile de siguranţă în caz de concurs de infracţiuni
 Dacă pentru una dintre infracţiunile concurente s-a stabilit şi o pedeapsă complimentară, aceasta se aplică alături de pedeapsa închisorii.
-Dacă s-au stabilit mai multe pedepse complimentare de natură diferită, sau chiar de aceeaşi natură dar cu conţinut diferit, acestea se aplică alături de pedeapsa închisorii.
-Dacă s-au stabilit mai multe pedepse complimentare de aceeaşi natură şi cu acelaşi conţinut, se aplică cea mai grea dintre acestea.
-Dispoziţiile alineatului precedent se aplică şi în cazul pedepsei confiscării parţiale a averii.
-Măsurile de siguranţă de natură deosebită, luate în cazul infracţiunilor concurente, se cumulează.
+Dacă s-au stabilit mai multe pedepse complimentare de natura diferita, sau chiar de aceeaşi natura dar cu conţinut diferit, acestea se aplică alături de pedeapsa închisorii.
+Dacă s-au stabilit mai multe pedepse complimentare de aceeaşi natura şi cu acelaşi conţinut, se aplică cea mai grea dintre acestea.
+Măsurile de siguranţă de natura deosebită, luate în cazul infracţiunilor concurente, se cumulează.
+Contopirea pedepselor pentru infracţiuni concurente
 
 Articolul 36
 
-Contopirea pedepselor pentru infracţiuni concurente
-Dacă infractorul condamnat definitiv este judecat ulterior pentru o infracţiune concurentă, se aplică dispoziţiile art. 34 şi 35.
-Dispoziţiile art. 34 şi 35 se aplică şi în cazul în care, după ce o hotărîre de condamnare a rămas definitivă, se constată că cel condamnat suferise şi o altă condamnare definitivă pentru o infracţiune concurentă.
-Dacă infractorul a executat în totul sau în parte pedeapsa aplicată prin hotărîrea anterioară, ceea ce s-a executat se scade din durata pedepsei aplicate pentru infracţiunile concurente.
-Dispoziţiile privitoare la aplicarea pedepsei în caz de concurs de infracţiuni se aplică şi în cazul în care condamnarea la pedeapsa cu moartea a fost comutată sau înlocuită cu pedeapsa închisorii.
+Dacă infractorul condamnat definitiv este judecat ulterior pentru o infracţiune concurenta, se aplică dispoziţiile art. 34 şi 35.
+Dispoziţiile art. 34 şi 35 se aplică şi în cazul în care, după ce o hotărâre de condamnare a rămas definitivă, se constată că cel condamnat suferise şi o alta condamnare definitivă pentru o infracţiune concurenta.
+Dacă infractorul a executat în totul sau în parte pedeapsa aplicată prin hotărârea anterioară, ceea ce s-a executat se scade din durata pedepsei aplicate pentru infracţiunile concurente.
+Dispoziţiile privitoare la aplicarea pedepsei în caz de concurs de infracţiuni se aplică şi în cazul în care condamnarea la pedeapsa detenţiunii pe viaţa a fost comutată sau înlocuită cu pedeapsa închisorii.
+Recidiva
 
 Articolul 37
 
-Recidiva
-Recidiva există în următoarele cazuri:
-a) cînd după rămînerea definitivă a unei hotărîri de condamnare la pedeapsa închisorii mai mare de 6 luni, cel condamnat săvîrşeşte din nou o infracţiune înainte de începerea executării pedepsei, în timpul executării acesteia sau în stare de evadare;
-b) cînd după executarea unei pedepse cu închisoare mai mare de 6 luni, după graţierea totală sau a restului de pedeapsă, ori după împlinirea termenului de prescripţie a executării unei asemenea pedepse, cel condamnat săvîrşeşte din nou o infracţiune;
-c) cînd după condamnarea la cel puţin trei pedepse cu închisoare pînă la 6 luni sau după executare, după graţierea totală sau a restului de pedeapsă, ori după prescrierea executării a cel puţin trei asemenea pedepse, cel condamnat săvîrşeşte din nou infracţiune.
-Pentru stabilirea stării de recidivă în cazurile prevăzute la lit. a şi b se poate ţine seama şi de hotărîrea de condamnare pronunţată în străinătate, pentru o faptă prevăzută şi de legea română, dacă hotărîrea de condamnare a fost recunoscută potrivit dispoziţiilor legii.
+Recidiva exista în următoarele cazuri:
+a) când după rămînerea definitivă a unei hotărâri de condamnare la pedeapsa închisorii mai mare de 6 luni, cel condamnat săvârşeşte din nou o infracţiune cu intenţie, înainte de începerea executării pedepsei, în timpul executării sau în stare de evadare, iar pedeapsa prevăzută de lege pentru a doua infracţiune este închisoarea mai mare de un an;
+b) când după executarea unei pedepse cu închisoare mai mare de 6 luni, după graţierea totală sau a restului de pedeapsa, ori după împlinirea termenului de prescripţie a executării unei asemenea pedepse, cel condamnat săvârşeşte din nou o infracţiune cu intenţie pentru care legea prevede pedeapsa închisorii mai mare de un an;
+c) când după condamnarea la cel puţin trei pedepse cu închisoare până la 6 luni sau după executare, după graţierea totală sau a restului de pedeapsa, ori după prescrierea executării a cel puţin trei asemenea pedepse, cel condamnat săvârşeşte din nou o infracţiune cu intenţie pentru care legea prevede pedeapsa închisorii mai mare de un an.
+Exista recidiva şi în cazurile în care una dintre pedepsele prevăzute în alin. 1 este detenţiunea pe viaţa.
+Pentru stabilirea stării de recidiva în cazurile prevăzute în alin. 1 lit. a) şi b) şi alin. 2, se poate tine seama şi de hotărârea de condamnare pronunţată în străinătate, pentru o faptă prevăzută şi de legea română, dacă hotărârea de condamnare a fost recunoscută potrivit dispoziţiilor legii.
+Condamnările care nu atrag starea de recidiva
 
 Articolul 38
 
-Condamnările care nu atrag starea de recidivă
-La stabilirea stării de recidivă nu se ţine seama de hotărîrile de condamnare privitoare la:
-a) infracţiunile săvîrşite în timpul minorităţii;
+La stabilirea stării de recidiva nu se tine seama de hotărârile de condamnare privitoare la:
+a) infracţiunile săvârşite în timpul minorităţii;
+a^1) infracţiunile săvârşite din culpa;
 b) infracţiunile amnistiate;
-c) faptele care nu mai sînt prevăzute ca infracţiuni de legea penală.
-De asemenea, nu se ţine seama de condamnările pentru care a intervenit reabilitarea, sau în privinţa cărora s-a împlinit termenul de reabilitare.
+c) faptele care nu mai sunt prevăzute ca infracţiuni de legea penală.
+De asemenea, nu se tine seama de condamnările pentru care a intervenit reabilitarea, sau în privinta cărora s-a împlinit termenul de reabilitare.
+Pedeapsa în caz de recidiva
 
 Articolul 39
 
-Pedeapsa în caz de recidivă
-În cazul recidivei prevăzute în art. 37 lit. a, pedeapsa stabilită pentru infracţiunea săvîrşită ulterior şi pedeapsa aplicată pentru infracţiunea anterioară se contopesc potrivit dispoziţiilor art. 34 şi 35. Sporul prevăzut în art. 34 lit. a se poate mări pînă la 5 ani.
-Dacă pedeapsa anterioară a fost executată în parte, contopirea se face între pedeapsa ce a mai rămas de executat şi pedeapsa aplicată pentru infracţiunea săvîrşită ulterior.
-În cazul săvîrşirii unei infracţiuni după evadare, prin pedeapsa anterioară se înţelege pedeapsa care se execută, cumulată cu pedeapsa aplicată pentru evadare.
-În cazul recidivei prevăzute în art. 37 lit. b, se poate aplica o pedeapsa pînă la maximul special. Dacă maximul special este neîndestulător, în cazul închisorii se poate adăuga un spor pînă la 5 ani, iar în cazul amenzii se poate aplica o pedeapsă pînă la maximul general al amenzii, sau închisoarea de la 15 zile la 3 luni.
-În cazul recidivei prevăzute în art. 37 lit. c se aplică în mod corespunzător dispoziţiile din alineatele precedente.
-Dacă după rămînerea definitivă a hotărîrii de condamnare şi mai înainte ca pedeapsa să fi fost executată sau considerată ca executată, se descoperă că cel condamnat se află în stare de recidivă, instanţa aplică dispoziţiile din alin. 1 în cazul recidivei prevăzute în art. 37 lit. a şi dispoziţiile din alin. 4 în cazul recidivei prevăzute în art. 37 lit. b.
-Dispoziţiile alineatului precedent se aplică şi în cazul în care condamnarea la pedeapsa cu moartea a fost comutată sau înlocuită cu pedeapsa închisorii.
-Sporurile prevăzute în prezentul articol se pot mări pînă la 7 ani, dacă infracţiunea săvîrşită ulterior este infracţiune contra securităţii statului, contra avutului obştesc, ori o infracţiune de omor, sau o infracţiune contra păcii şi omenirii, ori o infracţiune prin care s-a produs o pagubă importantă economiei naţionale.
+În cazul recidivei prevăzute în art. 37 alin. 1 lit. a), pedeapsa stabilită pentru infracţiunea săvârşită ulterior şi pedeapsa aplicată pentru infracţiunea anterioară se contopesc potrivit dispoziţiilor art. 34 şi 35. Sporul prevăzut în art. 34 alin. 1 lit. b) se poate mari până la 7 ani.
+Dacă pedeapsa anterioară a fost executată în parte, contopirea se face între pedeapsa ce a mai rămas de executat şi pedeapsa aplicată pentru infracţiunea săvârşită ulterior.
+În cazul săvârşirii unei infracţiuni după evadare, prin pedeapsa anterioară se înţelege pedeapsa care se executa, cumulată cu pedeapsa aplicată pentru evadare.
+În cazul recidivei prevăzute în art. 37 alin. 1 lit. b), se poate aplica o pedeapsă până la maximul special. Dacă maximul special este neîndestulător, în cazul închisorii se poate adauga un spor de până la 10 ani, iar în cazul amenzii se poate aplica un spor de cel mult două treimi din maximul special.
+În cazul recidivei prevăzute în art. 37 lit. c) se aplică în mod corespunzător dispoziţiile din alineatele precedente.
+Dacă după rămînerea definitivă a hotărârii de condamnare şi mai înainte ca pedeapsa sa fi fost executată sau considerată ca executată, se descoperă ca cel condamnat se afla în stare de recidiva, instanţa aplica dispoziţiile din alin. 1 în cazul recidivei prevăzute în art. 37 lit. a) şi dispoziţiile din alin. 4 în cazul recidivei prevăzute în art. 37 lit. b).
+Dispoziţiile alineatului precedent se aplică şi în cazul în care condamnarea la pedeapsa detenţiunii pe viaţa a fost comutată sau înlocuită cu pedeapsa închisorii.
+Pedeapsa în unele cazuri când nu exista recidiva
 
 Articolul 40
 
-Pedeapsa în unele cazuri cînd nu există recidivă
-Cînd după condamnarea definitivă cel condamnat săvîrşeşte din nou o infracţiune, înainte de începerea executării pedepsei, în timpul executării acesteia sau în stare de evadare, şi nu sînt întrunite condiţiile prevăzute de lege pentru starea de recidivă, pedeapsa se aplică potrivit regulilor pentru concursul de infracţiuni.
+Când după condamnarea definitivă cel condamnat săvârşeşte din nou o infracţiune, înainte de începerea executării pedepsei, în timpul executării acesteia sau în stare de evadare, şi nu sunt întrunite condiţiile prevăzute de lege pentru starea de recidiva, pedeapsa se aplică potrivit regulilor pentru concursul de infracţiuni.
+Unitatea infracţiunii continuate şi a celei complexe
 
 Articolul 41
 
-Unitatea infracţiunii continuate şi a celei complexe
-În cazul infracţiunii continuate şi al infracţiunii complexe nu există pluralitate de infracţiuni.
-Infracţiunea este continuată cînd o persoană săvîrşeşte la diferite intervale de timp, dar în realizarea aceleiaşi rezoluţii, acţiuni sau inacţiuni care prezintă, fiecare în parte, conţinutul aceleiaşi infracţiuni. Infracţiunea este complexă cînd în conţinutul său intră, ca element sau ca circumstanţă agravată, o acţiune sau inacţiune care constituie prin ea însăşi o faptă prevăzută de legea penală.
+În cazul infracţiunii continuate şi al infracţiunii complexe nu exista pluralitate de infracţiuni.
+Infracţiunea este continuată când o persoană săvârşeşte la diferite intervale de timp, dar în realizarea aceleiaşi rezoluţii, acţiuni sau inacţiuni care prezintă, fiecare în parte, conţinutul aceleiaşi infracţiuni.
+Infracţiunea este complexa când în conţinutul sau intra, ca element sau ca circumstanţă agravantă, o acţiune sau inacţiune care constituie prin ea însăşi o faptă prevăzută de legea penală.
+Pedeapsa pentru infracţiunea continuată
 
 Articolul 42
 
-Pedeapsa pentru infracţiunea continuată
-Infracţiunea continuată se sancţionează cu pedeapsa prevăzută de lege pentru infracţiunea săvîrşită, la care se poate adăuga un spor potrivit dispoziţiilor art. 34.
+Infracţiunea continuată se sancţionează cu pedeapsa prevăzută de lege pentru infracţiunea săvârşită, la care se poate adauga un spor potrivit dispoziţiilor art. 34.
+Recalcularea pedepsei pentru infracţiunea continuată sau complexa
 
 Articolul 43
 
-Recalcularea pedepsei pentru infracţiunea continuată sau complexă
-Dacă infractorul condamnat definitiv pentru o infracţiune continuată sau complexă este judecat ulterior şi pentru alte acţiuni sau inacţiuni care intră în conţinutul aceleiaşi infracţiuni, ţinindu-se seama de infracţiunea săvîrşită în întregul ei, se stabileşte o pedeapsă corespunzătoare, care nu poate fi mai uşoară decît cea pronunţată anterior.
+Dacă infractorul condamnat definitiv pentru o infracţiune continuată sau complexa este judecat ulterior şi pentru alte acţiuni sau inacţiuni care intră în conţinutul aceleiaşi infracţiuni, tinindu-se seama de infracţiunea săvârşită în întregul ei, se stabileşte o pedeapsă corespunzătoare, care nu poate fi mai uşoară decît cea pronunţată anterior.
 
-Capitolul V CAUZELE CARE ÎNLĂTURĂ CARACTERUL PENAL AL FAPTEI
+Capitolul 5 CAUZELE CARE INLATURA CARACTERUL PENAL AL FAPTEI
 
+Legitima apărare
 
 Articolul 44
 
-Legitima apărare
-Nu constituie infracţiune fapta prevăzută de legea penală, săvîrşită în stare de legitimă apărare.
-Este în stare de legitimă apărare acela care săvîrşeşte fapta pentru a înlătura un atac material, direct, imediat şi injust, îndreptat împotriva sa, a altuia sau împotriva unui interes obştesc, şi care pune în pericol grav persoana sau drepturile celui atacat ori interesul obştesc.
-Este de asemenea în legitimă apărare şi acela care din cauza tulburării sau temerii a depăşit limitele unei apărări proporţionale cu gravitatea pericolului şi cu împrejurările în care s-a produs atacul.
+Nu constituie infracţiune fapta prevăzută de legea penală, săvârşită în stare de legitima apărare.
+Este în stare de legitima apărare acela care săvârşeşte fapta pentru a inlatura un atac material, direct, imediat şi injust, îndreptat împotriva sa, a altuia sau împotriva unui interes obştesc, şi care pune în pericol grav persoana sau drepturile celui atacat ori interesul obştesc.
+Este de asemenea în legitima apărare şi acela care din cauza tulburării sau temerii a depăşit limitele unei apărări proporţionale cu gravitatea pericolului şi cu împrejurările în care s-a produs atacul.
+Starea de necesitate
 
 Articolul 45
 
-Starea de necesitate
-Nu constituie infracţiune fapta prevăzută de legea penală, săvîrşită în stare de necesitate.
-Este în stare de necesitate acela care săvîrşeşte fapta pentru a salva de la un pericol iminent şi care nu putea fi înlăturat altfel, viaţa, integritatea corporală sau sănătatea sa, a altuia sau un bun important al sau ori al altuia sau un interes obştesc.
-Nu este în stare de necesitate persoana care în momentul cînd a săvîrşit fapta şi-a dat seama că pricinuieşte urmări vădit mai grave decît cele care s-ar fi putut produce dacă pericolul nu era înlăturat.
+Nu constituie infracţiune fapta prevăzută de legea penală, săvârşită în stare de necesitate.
+Este în stare de necesitate acela care săvârşeşte fapta pentru a salva de la un pericol iminent şi care nu putea fi înlăturat altfel, viaţa, integritatea corporală sau sănătatea sa, a altuia sau un bun important al său ori al altuia un interes obştesc.
+Nu este în stare de necesitate persoana care în momentul când a savirsit fapta şi-a dat seama ca pricinuieşte urmări vadit mai grave decît cele care s-ar fi putut produce dacă pericolul nu era înlăturat.
+Constringerea fizica şi constringerea morala
 
 Articolul 46
 
-Constrîngerea fizică şi constrîngerea morală
-Nu constituie infracţiunea fapta prevăzută de legea penală, săvîrşită din cauza unei constrîngeri fizice căreia făptuitorul nu i-a putut rezista.
-De asemenea, nu constituie infracţiune fapta prevăzută de legea penală, săvîrşită din cauza unei constringeri morale, exercitată prin ameninţare cu un pericol grav pentru persoana făptuitorului ori a altuia şi care nu putea fi înlăturat în alt mod.
+Nu constituie infracţiune fapta prevăzută de legea penală, săvârşită din cauza unei constrângeri fizice căreia făptuitorul nu i-a putut rezista.
+De asemenea, nu constituie infracţiune fapta prevăzută de legea penală, săvârşită din cauza unei constrângeri morale, exercitată prin ameninţare cu un pericol grav pentru persoana făptuitorului ori a altuia şi care nu putea fi înlăturat în alt mod.
+Cazul fortuit
 
 Articolul 47
 
-Cazul fortuit
-Nu constituie infracţiune fapta prevăzută de legea penală, al cărei rezultat este consecinţa unei împrejurări care nu putea fi prevăzută.
+Nu constituie infracţiune fapta prevăzută de legea penală, al carei rezultat este consecinţa unei împrejurări care nu putea fi prevăzută.
+Iresponsabilitatea
 
 Articolul 48
 
-Iresponsabilitatea
-Nu constituie infracţiune fapta prevăzută de legea penală, dacă făptuitorul, în momentul săvîrşirii faptei, fie din cauza alienaţiei mintale, fie din alte cauze, nu putea să-şi dea seama de acţiunile sau inacţiunile sale, ori nu putea fi stăpîn pe ele.
+Nu constituie infracţiune fapta prevăzută de legea penală, dacă făptuitorul, în momentul săvârşirii faptei, fie din cauza alienaţiei mintale, fie din alte cauze, nu putea să-şi dea seama de acţiunile sau inacţiunile sale, ori nu putea fi stapin pe ele.
+Beţia
 
 Articolul 49
 
-Beţia
-Nu constituie infracţiune fapta prevăzută de legea penală, dacă făptuitorul, în momentul săvîrşirii faptei, se găsea, datorită unor împrejurări independente de voinţa sa, în stare de beţie completă produsă de alcool sau de alte substanţe.
-Starea de beţie voluntară completă produsă de alcool sau de alte substanţe nu înlătură caracterul penal al faptei. Ea poate constitui, după caz, o circumstanţă atenuantă sau agravantă.
+Nu constituie infracţiune fapta prevăzută de legea penală, dacă făptuitorul, în momentul săvârşirii faptei, se găsea, datorită unor împrejurări independente de voinţa sa, în stare de beţie completa produsă de alcool sau de alte substanţe.
+Starea de beţie voluntara completa produsă de alcool sau de alte substanţe nu inlatura caracterul penal al faptei. Ea poate constitui, după caz, o circumstanţă atenuantă sau agravantă.
+Minoritatea făptuitorului
 
 Articolul 50
 
-Minoritatea făptuitorului
-Nu constituie infracţiune fapta prevăzută de legea penală, săvîrşită de un minor care la data comiterii acesteia nu îndeplinea condiţiile legale pentru a răspunde penal.
+Nu constituie infracţiune fapta prevăzută de legea penală, săvârşită de un minor care la data comiterii acesteia nu îndeplinea condiţiile legale pentru a răspunde penal.
+Eroarea de fapt
 
 Articolul 51
 
-Eroarea de fapt
-Nu constituie infracţiune fapta prevăzută de legea penală, cînd făptuitorul, în momentul săvîrşirii acesteia, nu cunoştea existenţa unei stări, situaţii sau împrejurări de care depinde caracterul penal al faptei.
-Nu constituie o circumstanţă agravantă împrejurarea pe care infractorul nu a cunoscut-o în momentul săvîrşirii infracţiunii.
-Dispoziţiile alin. 1 şi 2 se aplică şi faptelor săvîrşite din culpă pe care legea penală le pedepseşte, numai dacă necunoaşterea stării, situaţiei sau împrejurării respective nu este ea însăşi rezultatul culpei.
-Necunoaşterea sau cunoaşterea greşită a legii penale nu înlătură caracterul penal al faptei.
+Nu constituie infracţiune fapta prevăzută de legea penală, când făptuitorul, în momentul săvârşirii acesteia, nu cunoştea existenta unei stări, situaţii sau împrejurări de care depinde caracterul penal al faptei.
+Nu constituie o circumstanţă agravantă împrejurarea pe care infractorul nu a cunoscut-o în momentul săvârşirii infracţiunii.
+Dispoziţiile alin. 1 şi 2 se aplică şi faptelor săvârşite din culpa pe care legea penală le pedepseşte, numai dacă necunoaşterea stării, situaţiei sau împrejurării respective nu este ea însăşi rezultatul culpei.
+Necunoaşterea sau cunoaşterea gresita a legii penale nu inlatura caracterul penal al faptei.
 
 Titlul III PEDEPSELE
 
 
-Capitolul I DISPOZIŢII GENERALE
+Capitolul 1 DISPOZIŢII GENERALE
 
+Pedeapsa şi scopul ei
 
 Articolul 52
 
-Pedeapsa şi scopul ei
-Pedeapsa este o măsură de constringere şi un mijloc de reeducare a condamnatului. Scopul pedepsei este prevenirea săvîrşirii de noi infracţiuni.
-Prin executarea pedepsei se urmăreşte formarea unei atitudini corecte faţă de muncă, faţă de ordinea de drept şi faţă de regulile de convieţuire socială. Executarea pedepsei nu trebuie să cauzeze suferinţe fizice şi nici să înjosească persoana condamnatului.
+Pedeapsa este o măsura de constringere şi un mijloc de reeducare a condamnatului. Scopul pedepsei este prevenirea săvârşirii de noi infracţiuni.
+Prin executarea pedepsei se urmăreşte formarea unei atitudini corecte faţă de muncă, faţă de ordinea de drept şi faţă de regulile de convieţuire socială. Executarea pedepsei nu trebuie să cauzeze suferinţe fizice şi nici sa înjosească persoana condamnatului.
 
-Capitolul II CATEGORIILE ŞI LIMITELE GENERALE ALE PEDEPSELOR
+Capitolul 2 CATEGORIILE ŞI LIMITELE GENERALE ALE PEDEPSELOR
 
+Felurile pedepselor
 
 Articolul 53
 
-Felurile pedepselor
-Pedepsele sînt principale, complimentare şi accesorii.
-1) Pedepsele principale sînt:
-a. închisoarea de la 15 zile la 25 de ani;
-b. amenda de la 500 la 5.000 lei.
-2) Pedepsele complimentare sînt:
-a. interzicerea unor drepturi de la unu la 10 ani;
-b. degradarea militară;
-c. confiscarea averii, parţială sau totală.
-3) Pedeapsa accesorie este interzicerea unor drepturi anume prevăzute de lege.
+Pedepsele sunt principale, complimentare şi accesorii.
+1. Pedepsele principale sunt:
+a) detenţiunea pe viaţa;
+b) închisoarea de la 15 zile la 30 de ani;
+c) amenda de la 100.000 lei la 50.000.000 lei.
+2. Pedepsele complimentare sunt:
+a) interzicerea unor drepturi de la unu la 10 ani;
+b) degradarea militară.
+3. Pedeapsa accesorie este interzicerea unor drepturi anume prevăzute de lege.
+
+Capitolul 3 PEDEPSELE PRINCIPALE
+
+
+Secţiunea I Detenţiunea pe viaţa
+
+Regimul detenţiunii pe viaţa
 
 Articolul 54
 
-Pedeapsa cu moartea
-Ca măsură excepţională pentru infracţiunile cele mai grave se aplică, în cazurile şi condiţiile prevăzute de lege, pedeapsa cu moartea.
-Pedeapsa cu moartea nu se aplică infractorului care nu împlinise vîrsta de 18 ani de la data săvârşirii infracţiunii.
-De asemenea, pedeapsa cu moartea nu se aplică femeii gravide sau care are copil în vîrstă pînă la 3 ani la data săvîrşirii infracţiunii ori pronunţării hotărîrii; în aceste cazuri se aplică pedeapsa închisorii pe timp de 25 de ani.
-Cînd legea prevede că pedeapsa cu moartea nu poate fi aplicată, se pronunţă pe lîngă pedeapsa principală a închisorii şi pedeapsa confiscării averii, dacă este prevăzută de lege pentru infracţiunea săvîrşită, precum şi pedeapsa interzicerii unor drepturi pe durata ei maximă.
+Detenţiunea pe viaţa se executa în penitenciare anume destinate pentru aceasta sau în secţii speciale ale celorlalte penitenciare.
+Regimul executării pedepsei detenţiunii pe viaţa este reglementat în legea privind executarea pedepselor.
+Neaplicarea pedepsei detenţiunii pe viaţa
 
 Articolul 55
 
-Înlocuirea pedepsei cu moartea
-Pedeapsa cu moartea nu poate fi executată dacă condamnata este gravidă sau are copil în vîrstă pînă la 3 ani; în aceste cazuri pedeapsa cu moartea se înlocuieşte cu închisoarea pe timp de 25 de ani. Pedeapsa cu moartea se înlocuieşte cu pedeapsa închisorii pe timp de 25 de ani, dacă nu a fost executată în termen de 2 ani în cazul cînd condamnatul a fost prezent la judecată, iar pentru cel care nu a fost prezent la judecată sau care s-a sustras de la executare, în termen de 2 ani de la data cînd s-a predat sau a fost prins, ori de 7 ani de la data cînd hotărîrea de condamnare a rămas definitivă.
-Cînd pedeapsa cu moartea definitiv pronunţată se înlocuieşte cu pedeapsa închisorii, se menţine pedeapsa confiscării averii. Instanţa aplică în mod obligator pedeapsa interzicerii unor drepturi pe durata ei maximă.
+Pedeapsa detenţiunii pe viaţa nu se aplică aceluia care, la data pronunţării hotărârii de condamnare, a împlinit vârsta de 60 de ani. În acest caz, în locul pedepsei detenţiunii pe viaţa se aplică pedeapsa închisorii pe timp de 25 de ani şi pedeapsa interzicerii unor drepturi pe durata ei maxima.
+În cazul în care cel condamnat la pedeapsa detenţiunii pe viaţa a împlinit vârsta de 60 de ani în timpul executării pedepsei, detenţiunea pe viaţa se înlocuieşte cu închisoarea pe timp de 25 de ani.
+Liberarea condiţionată
 
-Capitolul III PEDEPSELE PRINCIPALE
+Articolul 55^1
 
+Cel condamnat la pedeapsa detenţiunii pe viaţa poate fi liberat condiţionat după executarea efectivă a 20 de ani de detenţiune, dacă este stăruitor în munca, disciplinat şi da dovezi temeinice de îndreptare, tinindu-se seama şi de antecedentele sale penale.
+Condamnatul trecut de vârsta de 60 de ani pentru bărbaţi şi de 55 de ani pentru femei poate fi liberat condiţionat după executarea efectivă a 15 ani de detenţiune, dacă sunt îndeplinite şi celelalte condiţii prevăzute în alin. 1.
+Pedeapsa se considera executată, dacă în termen de 10 ani de la liberare cel condamnat nu a savirsit din nou o infracţiune. Dacă în acest interval de timp cel liberat a comis din nou o infracţiune, se aplică, în mod corespunzător, dispoziţiile art. 61.
+Calculul pedepsei în caz de comutare sau înlocuire
 
-Secţiunea I Închisoarea
+Articolul 55^2
 
+În cazul comutării sau înlocuirii pedepsei detenţiunii pe viaţa cu pedeapsa închisorii, perioada de detenţiune executată se considera ca parte executată din pedeapsa închisorii.
+
+Secţiunea II Închisoarea
+
+Regimul general al executării pedepsei
 
 Articolul 56
 
-Regimul general al executării pedepsei
-Regimul executării pedepsei închisorii se întemeiază pe obligaţia condamnaţilor de a presta o muncă utilă, dacă sînt apţi pentru aceasta, pe acţiunea educativă ce trebuie desfăşurată faţă de condamnaţi, pe respectarea de către aceştia a disciplinei muncii şi a ordinii interioare a locurilor de deţinere, precum şi pe stimularea şi recompensarea celor stăruitori în muncă, disciplinaţi şi care dau dovezi temeinice de îndreptare.
-Toate aceste mijloace trebuie folosite în aşa fel încît să conducă la reeducarea celor condamnaţi.
-După împlinirea vîrstei de 60 de ani pentru bărbaţi şi de 55 de ani pentru femei, condamnaţii nu au obligaţia de a muncii în timpul executării pedepsei; ei pot fi admişi la muncă dacă cer aceasta.
+Regimul executării pedepsei închisorii se întemeiază pe obligaţia condamnaţilor de a presta o munca utila, dacă sunt apţi pentru aceasta, pe acţiunea educativă ce trebuie desfăşurată faţă de condamnaţi, pe respectarea de către aceştia a disciplinei muncii şi a ordinii interioare a locurilor de deţinere, precum şi pe stimularea şi recompensarea celor stăruitori în munca, disciplinaţi şi care dau dovezi temeinice de îndreptare.
+Toate aceste mijloace trebuie folosite în asa fel încât sa conducă la reeducarea celor condamnaţi.
+După împlinirea virstei de 60 de ani pentru bărbaţi şi de 55 de ani pentru femei, condamnaţii nu au obligaţia de a munci în timpul executării pedepsei; ei pot fi admişi la munca dacă cer aceasta.
+Regimul de deţinere
 
 Articolul 57
 
-Regimul de deţinere
 Executarea pedepsei închisorii se face, potrivit dispoziţiilor legii privind executarea pedepselor, în locuri de deţinere anume destinate.
-Femeile condamnate la pedeapsa închisorii execută această pedeapsă separat de condamnaţii bărbaţi.
-Minorii condamnaţi la pedeapsa închisorii execută pedeapsa separat de condamnaţii majori sau în locuri de deţinere speciale, asigurîndu-li-se posibilitatea de a continua învăţămîntul general obligatoriu şi de a dobîndi o pregătire profesională potrivit cu aptitudinile lor.
+Femeile condamnate la pedeapsa închisorii executa aceasta pedeapsa separat de condamnaţii bărbaţi.
+Minorii condamnaţi la pedeapsa închisorii executa pedeapsa separat de condamnaţii majori sau în locuri de deţinere speciale, asigurindu-li-se posibilitatea de a continua învăţământul general obligatoriu şi de a dobîndi o pregătire profesională potrivit cu aptitudinile lor.
+Regimul de muncă
 
 Articolul 58
 
-Regimul de muncă
-Munca prestată de condamnat este remunerată, cu excepţia muncilor cu caracter gospodăresc necesare locului de deţinere. Prin legea privind executarea pedepselor se stabilesc cazurile în care şi aceste din urmă munci sînt remunerate.
-Normele, timpul de muncă şi remuneraţia muncii condamnaţilor sînt cele stabilite prin lege.
+Munca prestată de condamnat este remunerată, cu excepţia muncilor cu caracter gospodăresc necesare locului de deţinere. Prin legea privind executarea pedepselor se stabilesc cazurile în care şi aceste din urma munci sunt remunerate.
+Normele, timpul de muncă şi remuneraţia muncii condamnaţilor sunt cele stabilite prin lege.
 Din remuneraţia muncii condamnatului o parte revine acestuia, iar cealaltă parte revine administraţiei locului de deţinere. Aceste părţi, precum şi modul de folosire a lor se stabilesc prin legea privind executarea pedepselor.
+Liberarea condiţionată
 
 Articolul 59
 
-Liberarea condiţionată
-După ce a executat cel puţin jumătate din durata pedepsei în cazul închisorii care nu depăşeşte 10 ani, sau cel puţin două treimi în cazul închisorii mai mari de 10 ani, condamnatul care este stăruitor în muncă, disciplinat şi dă dovezi temeinice de îndreptare, ţinîndu-se seama de antecedentele sale penale, poate fi liberat condiţionat înainte de executarea în întregime a pedepsei.
-În calculul fracţiunilor de pedeapsă prevăzute în alin. 1 se ţine seama de partea din durata pedepsei care poate fi considerată, potrivit legii, ca executată pe baza muncii prestate. În acest caz însă, liberarea condiţionată nu poate fi acordată înainte de executarea efectivă a cel puţin o treime din durata pedepsei cînd aceasta nu depăşeşte 10 ani şi a cel puţin jumătate cînd pedeapsa este mai mare de 10 ani.
-Cînd condamnatul execută mai multe pedepse cu închisoare care nu se contopesc, fracţiunile de pedeapsă arătate la alin. 1 se socotesc în raport de totalul pedepselor.
-În aplicarea dispoziţiilor alineatelor precedente se are în vedere durata pedepsei pe care o execută condamnatul.
+După ce a executat cel puţin două treimi din durata pedepsei în cazul închisorii care nu depăşeşte 10 ani sau cel puţin trei pătrimi în cazul închisorii mai mari de 10 ani, condamnatul care este stăruitor în munca, disciplinat şi da dovezi temeinice de îndreptare, tinindu-se seama şi de antecedentele sale penale, poate fi liberat condiţionat înainte de executarea în întregime a pedepsei.
+În calculul fracţiunilor de pedeapsa prevăzute în alin. 1 se tine seama de partea din durata pedepsei care poate fi considerată, potrivit legii, ca executată pe baza muncii prestate. În acest caz însă, liberarea condiţionată nu poate fi acordată înainte de executarea efectivă a cel puţin jumătate din durata pedepsei când aceasta nu depăşeşte 10 ani şi a cel puţin două treimi când pedeapsa este mai mare de 10 ani.
+Când condamnatul executa mai multe pedepse cu închisoare care nu se contopesc, fracţiunile de pedeapsa arătate în alin. 1 se socotesc în raport cu totalul pedepselor.
+În aplicarea dispoziţiilor alineatelor precedente se are în vedere durata pedepsei pe care o executa condamnatul.
+Liberarea condiţionată în cazul infracţiunilor săvârşite din culpa
+
+Articolul 59^1
+
+Cel condamnat pentru săvârşirea uneia sau mai multor infracţiuni din culpa poate fi liberat condiţionat înainte de executarea în întregime a pedepsei, după ce a executat cel puţin jumătate din durata pedepsei în cazul închisorii care nu depăşeşte 10 ani sau cel puţin două treimi în cazul închisorii mai mari de 10 ani, dacă îndeplineşte şi celelalte condiţii prevăzute în art. 59 alin. 1.
+Dispoziţiile art. 59 alin. 2 se aplică în mod corespunzător, liberarea condiţionată neputind fi acordată înainte de executarea efectivă a cel puţin o treime din durata pedepsei când aceasta nu depăşeşte 10 ani şi a cel puţin jumătate când pedeapsa este mai mare de 10 ani.
+În cazul în care pedeapsa ce se executa este rezultată din concursul între infracţiuni săvârşite din culpa şi infracţiuni intenţionate, se aplică dispoziţiile art. 59.
+Dispoziţiile art. 59 alin. 3 şi 4 se aplică în mod corespunzător.
+Liberarea condiţionată în cazuri speciale
 
 Articolul 60
 
-Liberarea condiţionată în cazuri speciale
-În cazul condamnărilor pentru infracţiuni contra securităţii statului, contra avutului obştesc, ori pentru infracţiunea de omor, sau pentru infracţiuni contra păcii şi omenirii, ori pentru infracţiuni prin care s-a produs o pagubă importantă economiei naţionale, liberarea condiţionată prevăzută în art. 59 alin. 1 poate fi acordată numai după ce condamnatul a executat cel puţin doua treimi din durata pedepsei în cazul cînd aceasta nu depăşeşte 10 ani, sau cel puţin trei pătrimi în cazul pedepsei închisorii mai mari de 10 ani.
-În cazul condamnărilor prevăzute în alin. 1, dacă condamnatul beneficiază de reducerea fracţiunilor de pedeapsă potrivit art. 59 alin. 2, liberarea condiţionată nu poate fi acordată înainte de executarea efectivă a cel puţin jumătate din durata pedepsei cînd aceasta nu depăşeşte 10 ani, sau de două treimi cînd pedeapsa este mai mare de 10 ani.
-Condamnatul care din cauza sănătăţii sau din alte cauze nu a fost niciodată folosit la muncă ori nu mai este folosit, poate fi liberat condiţionat după executarea fracţiunilor de pedeapsă arătate în art. 59 sau, după caz, în alin. 1 şi 2 din prezentul articol, dacă dă dovezi temeinice de disciplină şi de îndreptare.
-Cei condamnaţi în timpul minorităţii cînd ajung la vîrsta de 18 ani, precum şi condamnaţii trecuţi de vîrsta de 60 de ani pentru bărbaţi şi de 55 de ani pentru femei, pot fi liberaţi condiţionat, după executarea unei pătrimi din durata pedepsei în cazul închisorii care nu depăşeşte 10 ani sau a unei treimi în cazul închisorii mai mari de 10 ani, dacă îndeplinesc celelalte condiţii prevăzute în art. 59 alin. 1. La calculul fracţiunii de o pătrime sau o treime se ţine seama de partea din durata pedepsei considerată, potrivit legii, ca executată pe baza muncii prestate.
-Dispoziţiile art. 59 alin. 3 şi 4 se aplică în mod corespunzător.
+Condamnatul care, din cauza stării sănătăţii sau din alte cauze, nu a fost niciodată folosit la munca ori nu mai este folosit, poate fi liberat condiţionat după executarea fracţiunilor de pedeapsa arătate în art. 59 sau, după caz, în art. 59^1, dacă da dovezi temeinice de disciplina şi de îndreptare.
+Cei condamnaţi în timpul minorităţii, când ajung la vârsta de 18 ani, precum şi condamnaţii trecuţi de vârsta de 60 de ani pentru bărbaţi şi de 55 de ani pentru femei, pot fi liberaţi condiţionat, după executarea unei treimi din durata pedepsei în cazul închisorii care nu depăşeşte 10 ani sau a unei jumătăţi în cazul închisorii mai mari de 10 ani, dacă îndeplinesc celelalte condiţii prevăzute în art. 59 alin. 1.
+Persoanele prevăzute în alin. 2, condamnate pentru săvârşirea unei infracţiuni din culpa, pot fi liberate condiţionat după executarea unei pătrimi din durata pedepsei în cazul închisorii care nu depăşeşte 10 ani sau a unei treimi în cazul închisorii mai mari de 10 ani, dacă îndeplinesc celelalte condiţii prevăzute în art. 59 alin. 1.
+Dacă pedeapsa ce se executa este rezultată din concursul între infracţiuni săvârşite din culpa şi infracţiuni intenţionate, se aplică dispoziţiile privind liberarea condiţionată în cazul infracţiunilor intenţionate.
+Când condamnatul executa mai multe pedepse cu închisoare, care nu se contopesc, fracţiunile de pedeapsa se socotesc în raport cu totalul pedepselor.
+În toate cazurile, la calculul fracţiunii de pedeapsa se tine seama de partea din durata pedepsei considerată, potrivit legii, ca executată pe baza muncii prestate.
+Dispoziţiile art. 59 alin. 4 se aplică în mod corespunzător.
+Efectele liberării condiţionate
 
 Articolul 61
 
-Efectele liberării condiţionate
-Pedeapsa se consideră executată dacă în intervalul de timp de la liberare şi pînă la împlinirea duratei pedepsei, cel condamnat nu a săvîrşit din nou o infracţiune. Dacă în acelaşi interval cel liberat a comis din nou o infracţiune, instanţa, ţinînd seama de gravitatea acesteia, poate dispune fie menţinerea liberării condiţionate, fie revocarea. În acest din urmă caz, pedeapsa stabilită pentru infracţiunea săvîrşită ulterior şi restul de pedeapsă ce a mai rămas de executat din pedeapsa anterioară se contopesc, putîndu-se aplica un spor pînă la 5 ani.
-Revocarea este obligatorie în cazul cînd fapta săvîrşită este o infracţiune contra securităţii statului, contra avutului obştesc, ori o infracţiune de omor, sau o infracţiune contra păcii şi omenirii, ori o infracţiune prin care s-a produs o pagubă importantă economiei naţionale.
+Pedeapsa se considera executată dacă în intervalul de timp de la liberare şi până la împlinirea duratei pedepsei, cel condamnat nu a savirsit din nou o infracţiune. Dacă în acelaşi interval cel liberat a comis din nou o infracţiune, instanţa, ţinând seama de gravitatea acesteia, poate dispune fie menţinerea liberării condiţionate, fie revocarea. În acest din urmă caz, pedeapsa stabilită pentru infracţiunea săvârşită ulterior şi restul de pedeapsa ce a mai rămas de executat din pedeapsa anterioară se contopesc, putindu-se aplică un spor până la 5 ani.
+Revocarea este obligatorie în cazul când fapta săvârşită este o infracţiune contra siguranţei statului, o infracţiune contra păcii şi omenirii, o infracţiune de omor, o infracţiune săvârşită cu intenţie care a avut ca urmare moartea unei persoane sau o infracţiune prin care s-au produs consecinţe deosebit de grave.
+Executarea pedepsei într-o închisoare militară
 
 Articolul 62
 
-Executarea pedepsei într-o unitate militară disciplinară
-Executarea pedepsei închisorii care nu depăşeşte 2 ani, de către militarii în termen, se face într-o unitate militară disciplinară în cazurile prevăzute de lege, precum şi în cazurile cînd instanţa judecătorească, ţinînd seama de împrejurările cauzei şi de persoana condamnatului, dispune aceasta.
-Dacă militarul condamnat a executat jumătate din durata pedepsei şi a dat dovezi temeinice de îndreptare, partea din durata pedepsei ce a mai rămas de executat se reduce cu o treime, iar dacă s-a evidenţiat în mod deosebit, reducerea poate depăşi o treime, putînd cuprinde tot restul pedepsei.
+Executarea pedepsei închisorii care nu depăşeşte 2 ani, de către militarii în termen, se face într-o închisoare militară în cazurile prevăzute de lege, precum şi în cazurile când instanţa judecătorească, ţinând seama de împrejurările cauzei şi de persoana condamnatului, dispune aceasta.
+Dacă militarul condamnat a executat jumătate din durata pedepsei şi a dat dovezi temeinice de îndreptare, partea din durata pedepsei ce a mai rămas de executat se reduce cu o treime, iar dacă s-a evidenţiat în mod deosebit, reducerea poate depăşi o treime, putind cuprinde chiar tot restul pedepsei.
 Dacă în timpul executării pedepsei militarul condamnat devine inapt serviciului, este liberat condiţionat.
-Dacă în timpul executării pedepsei militarul condamnat săvîrşeşte din nou infracţiune, instanţa care pronunţă condamnarea pentru această infracţiune face, după caz, aplicarea art. 39 alin. 1 şi 2 sau a art. 40. Pedeapsa astfel stabilită se execută într-un loc de deţinere.
-După executarea pedepsei potrivit alin. 1-3 sau după graţierea totală ori după graţierea restului de pedeapsă, cel condamnat este reabilitat de drept.
-Dispoziţiile alineatelor precedente sînt aplicabile şi celor care au devenit militari în termen după rămînerea definitivă a hotărîrii de condamnare.
+Dacă în timpul executării pedepsei militarul condamnat săvârşeşte din nou o infracţiune, instanţa care pronunţa condamnarea pentru aceasta infracţiune face, după caz, aplicarea art. 39 alin. 1 şi 2 sau a art. 40. Pedeapsa astfel stabilită se executa într-un loc de deţinere.
+După executarea pedepsei potrivit alin. 1-3 sau după graţierea totală ori după graţierea restului de pedeapsa, cel condamnat este reabilitat de drept.
+Dispoziţiile alineatelor precedente sunt aplicabile şi celor care au devenit militari în termen după rămînerea definitivă a hotărârii de condamnare.
+În cazul în care, înainte de începerea executării pedepsei într-o închisoare militară, condamnatul a fost trecut în rezerva, pedeapsa se executa într-un loc de deţinere.
 
-Secţiunea II Amenda
+Secţiunea III Amenda
 
+Stabilirea amenzii
 
 Articolul 63
 
-Stabilirea amenzii
-Pedeapsa amenzii constă în suma de bani pe care infractorul este condamnat să o plătească.
-Ori de cîte ori legea prevede ca o infracţiune se pedepseşte cu amendă, fără a-i arăta limitele, minimul special al acesteia este de 1.000 lei, iar maximul special de 4.000 lei. În caz de aplicare a cauzelor de atenuare sau de agravare a pedepselor, amenda nu poate să depăşească limitele generale arătate în art. 53 pct. 1 lit. b.
-Amenda se stabileşte ţinîndu-se seama de dispoziţiile art. 72, fără a-l pune însă pe infractor în situaţia de a nu-şi putea îndeplini îndatoririle privitoare la întreţinerea, creşterea, învăţătura şi pregătirea profesională a persoanelor faţă de care are aceste obligaţii legale.
+Pedeapsa amenzii consta în suma de bani pe care infractorul este condamnat sa o plătească.
+Ori de cîte ori legea prevede că o infracţiune se pedepseşte numai cu amendă, fără a-i arata limitele, minimul special al acesteia este de 150.000 lei, iar maximul de 10.000.000 lei.
+Când legea prevede pedeapsa amenzii fără a-i arata limitele, alternativ cu pedeapsa închisorii de cel mult un an, minimul special al amenzii este de 250.000 lei şi maximul special de 15.000.000 lei, iar când prevede pedeapsa amenzii alternativ cu pedeapsa închisorii mai mare de un an, minimul special este de 350.000 lei şi maximul special de 30.000.000 lei.
+În caz de aplicare a cauzelor de atenuare sau de agravare a pedepselor, amenda nu poate să depăşească limitele generale arătate în art. 53 pct. 1 lit. c).
+Amenda se stabileşte tinindu-se seama de dispoziţiile art. 72, fără a-l pune însă pe infractor în situaţia de a nu-şi putea îndeplini îndatoririle privitoare la întreţinerea, creşterea, învăţătura şi pregătirea profesională a persoanelor faţă de care are aceste obligaţii legale.
+Înlocuirea pedepsei amenzii
 
-Capitolul IV PEDEPSELE COMPLIMENTARE ŞI PEDEPSELE ACCESORII
+Articolul 63^1
+
+Dacă cel condamnat se sustrage cu rea-credinţa de la executarea amenzii, instanţa poate înlocui aceasta pedeapsa cu pedeapsa închisorii în limitele prevăzute pentru infracţiunea săvârşită, ţinând seama de partea din amenda care a fost achitată.
+
+Capitolul 4 PEDEPSELE COMPLIMENTARE ŞI PEDEPSELE ACCESORII
 
 
 Secţiunea I Pedepsele complimentare
 
+Interzicerea unor drepturi
 
 Articolul 64
 
-Interzicerea unor drepturi
-Pedeapsa complimentară a interzicerii unor drepturi constă în interzicerea unuia sau unora din următoarele drepturi:
-a) dreptul de a alege şi de a fi ales în organele puterii de stat şi în funcţii elective de stat sau obşteşti;
-b) dreptul de a ocupa o funcţie implicînd exerciţiul autorităţii de stat;
-c) dreptul de a ocupa o funcţie sau de a exercita o profesie de natura aceleia de care s-a folosit condamnatul pentru săvîrşirea infracţiunii;
+Pedeapsa complimentară a interzicerii unor drepturi consta în interzicerea unuia sau unora din următoarele drepturi:
+a) dreptul de a alege şi de a fi ales în autorităţile publice sau în funcţii elective publice;
+b) dreptul de a ocupa o funcţie implicind exerciţiul autorităţii de stat;
+c) dreptul de a ocupa o funcţie sau de a exercita o profesie de natura aceleia de care s-a folosit condamnatul pentru săvârşirea infracţiunii;
 d) drepturile părinteşti;
 e) dreptul de a fi tutore sau curator.
-Interzicerea drepturilor prevăzute la lit. b nu se poate pronunţa decît pe lîngă interzicerea drepturilor prevăzute la lit. a, afară de cazul cînd legea dispune altfel.
+Interzicerea drepturilor prevăzute la lit. b) nu se poate pronunţa decît pe lângă interzicerea drepturilor prevăzute la lit. a), afară de cazul când legea dispune altfel.
+Aplicarea pedepsei interzicerii unor drepturi
 
 Articolul 65
 
-Aplicarea pedepsei interzicerii unor drepturi
-Pedeapsa complimentară a interzicerii unor drepturi poate fi aplicată, dacă pedeapsa principală stabilită este închisoarea de cel puţin 2 ani şi instanţa constată că, faţă de natura şi gravitatea infracţiunii, împrejurările cauzei şi persoana infractorului, această pedeapsă este necesară.
-Aplicarea pedepsei interzicerii unor drepturi este obligatorie cînd legea prevede această pedeapsă.
+Pedeapsa complimentară a interzicerii unor drepturi poate fi aplicată, dacă pedeapsa principala stabilită este închisoarea de cel puţin 2 ani şi instanţa constata ca, faţă de natura şi gravitatea infracţiunii, împrejurările cauzei şi persoana infractorului, aceasta pedeapsa ese necesară.
+Aplicarea pedepsei interzicerii unor drepturi este obligatorie când legea prevede aceasta pedeapsa.
 Condiţia arătată în alin. 1 cu privire la cuantumul pedepsei principale trebuie să fie îndeplinită şi în cazul în care aplicarea pedepsei prevăzute în acel alineat este obligatorie.
+Executarea pedepsei interzicerii unor drepturi
 
 Articolul 66
 
-Executarea pedepsei interzicerii unor drepturi
-Executarea pedepsei interzicerii unor drepturi începe după executarea pedepsei închisorii, după graţierea totală sau a restului de pedeapsă, ori după prescripţia executării pedepsei.
+Executarea pedepsei interzicerii unor drepturi începe după executarea pedepsei închisorii, după graţierea totală sau a restului de pedeapsa, ori după prescripţia executării pedepsei.
+Degradarea militară
 
 Articolul 67
 
-Degradarea militară
-Pedeapsa complimentară a degradării militare constă în pierderea gradului şi dreptului de a purta uniformă.
-Degradarea militară se aplică în mod obligatoriu condamnaţilor militari şi rezervişti, dacă pedeapsa principală stabilită este închisoarea mai mare de 10 ani.
-Degradarea militară poate fi aplicată condamnaţilor militari şi rezervişti pentru infracţiuni săvîrşite cu intenţie, dacă pedeapsa principală stabilită este de cel puţin 5 ani şi de cel mult 10 ani.
+Pedeapsa complimentară a degradării militare consta în pierderea gradului şi a dreptului de a purta uniforma.
+Degradarea militară se aplică în mod obligatoriu condamnaţilor militari şi rezervişti, dacă pedeapsa principala stabilită este închisoarea mai mare de 10 ani sau detenţiunea pe viaţa.
+Degradarea militară poate fi aplicată condamnaţilor militari şi rezervişti pentru infracţiuni săvârşite cu intenţie, dacă pedeapsa principala stabilită este de cel puţin 5 ani şi de cel mult 10 ani.
 
 Articolul 68
 
-Confiscarea parţială şi confiscarea totală a averii
-Pedeapsa complimentară a confiscării parţiale a averii constă în trecerea în proprietatea statului a unuia sau mai multor bunuri ale condamnatului, anume determinate prin hotărîrea de condamnare.
-Confiscarea parţială a averii se aplică în mod facultativ şi numai în cazul infracţiunilor pentru care este prevăzută în partea specială.
-Pedeapsa confiscării totale a averii este obligatorie şi se aplică în cazurile anume prevăzute de lege.
-Prin bunurile condamnatului se înţeleg atît bunurile care se găseau în patrimoniul acestuia la data săvîrşirii infracţiunii, cît şi bunurile intrate în patrimoniul sau pînă la data rămînerii definitive a hotărîrii de condamnare.
-Pedeapsa confiscării se aplică chiar dacă la data pronunţării hotărîrii nu sînt cunoscute bunurile care aparţin condamnatului şi care ar putea fi confiscate; în acest caz, dacă se aplică confiscarea parţială a averii, întinderea acesteia se determină prin fixarea unei cote-părţi.
+Abrogat.
 
 Articolul 69
 
-Efectele confiscării averii
-Bunurile confiscate trec în patrimoniul statului din momentul rămînerii definitive a hotărîrii de condamnare, fără a se aduce atingere sarcinilor reale ce le grevează, cît şi altor drepturi de orice natură izvorîte din obligaţiile celui condamnat, născute înainte de începerea urmăririi penale sau chiar după începerea urmăririi penale dacă acestea decurg din fapte ilicite, ori sînt urmarea unor acte încuviinţate de organele de urmărire penală sau de instanţele de judecată.
-Drepturile reale şi obligaţiile prevăzute în alineatul precedent se lichidează în condiţiile stabilite de lege.
+Abrogat.
 
 Articolul 70
 
-Bunurile exceptate de la confiscare
-Nu sînt supuse confiscării bunurile necesare uzului casnic sau folosinţei personale a condamnatului şi familiei sale, bunurile care servesc la exercitarea profesiei condamnatului ori a membrilor familiei sale, precum şi bunurile care sînt de strictă trebuinţă pentru asigurarea traiului acestuia sau al familiei sale. Determinarea acestor bunuri se face prin lege.
+Abrogat.
 
 Secţiunea II Pedepsele accesorii
 
+Conţinutul şi executarea pedepsei accesorii
 
 Articolul 71
 
-Conţinutul şi executarea pedepsei accesorii
-Pedeapsa accesorie constă în interzicerea tuturor drepturilor prevăzute în art. 64.
-Condamnarea la pedeapsa închisorii atrage de drept interzicerea drepturilor arătate în alineatul precedent din momentul în care hotărîrea de condamnare a rămas definitivă şi pînă la terminarea executării pedepsei, pînă la graţierea totală sau a restului de pedeapsă, ori pînă la împlinirea termenului de prescripţie a executării pedepsei.
+Pedeapsa accesorie consta în interzicerea tuturor drepturilor prevăzute în art. 64.
+Condamnarea la pedeapsa detenţiunii pe viaţa sau a închisorii atrage de drept interzicerea drepturilor arătate în alineatul precedent din momentul în care hotărârea de condamnare a rămas definitivă şi până la terminarea executării pedepsei, până la graţierea totală sau a restului de pedeapsa ori până la împlinirea termenului de prescripţie a executării pedepsei.
+Dispoziţiile alin. 1 şi 2 se aplică şi în cazul când s-a dispus executarea pedepsei la locul de muncă, cu excepţiile prevăzute în art. 86^8, interzicerea drepturilor prevăzute în art. 64 lit. d) şi e) fiind lăsată la aprecierea instanţei.
 
-Capitolul V INDIVIDUALIZAREA PEDEPSELOR
+Capitolul 5 INDIVIDUALIZAREA PEDEPSELOR
 
 
 Secţiunea I Dispoziţii generale
 
+Criteriile generale de individualizare
 
 Articolul 72
 
-Criteriile generale de individualizare
-La stabilirea şi aplicarea pedepselor se ţine seama de dispoziţiile părţii generale a acestui cod, de limitele de pedeapsă fixate în partea specială, de gradul de pericol social al faptei săvîrşite, de persoana infractorului şi de împrejurările care atenuează sau agravează răspunderea penală.
-Cînd pentru infracţiunea săvîrşită legea prevede pedepse alternative, se ţine seama de dispoziţiile alineatului precedent atît pentru alegerea uneia dintre pedepsele alternative, cît şi pentru proporţionalizarea acesteia.
+La stabilirea şi aplicarea pedepselor se tine seama de dispoziţiile părţii generale a acestui cod, de limitele de pedeapsa fixate în partea specială, de gradul de pericol social al faptei săvârşite, de persoana infractorului şi de împrejurările care atenuează sau agravează răspunderea penală.
+Când pentru infracţiunea săvârşită legea prevede alternative, se tine seama de dispoziţiile alineatului precedent atât pentru alegerea uneia dintre pedepsele alternative, cît şi pentru proporţionalizarea acesteia.
 
 Secţiunea II Circumstanţele atenuante şi agravante
 
+Circumstanţe atenuante
 
 Articolul 73
 
-Circumstanţe atenuante
 Următoarele împrejurări constituie circumstanţe atenuante:
 a) depăşirea limitelor legitimei apărări sau ale stării de necesitate;
-b) săvîrşirea infracţiunii sub stăpînirea unei puternice tulburări sau emoţii, determinată de o provocare din partea persoanei vătămate, produsă prin violenţă, printr-o atingere gravă a demnităţii persoanei sau prin altă acţiune ilicită gravă.
+b) săvârşirea infracţiunii sub stăpânirea unei puternice tulburări sau emoţii, determinata de o provocare din partea persoanei vătămate, produsă prin violenta, printr-o atingere grava a demnităţii persoanei sau prin alta acţiune ilicită grava.
+Împrejurări care pot constitui circumstanţe atenuante
 
 Articolul 74
 
-Împrejurări care pot constitui circumstanţe atenuante
 Următoarele împrejurări pot fi considerate circumstanţe atenuante:
-a) conduita bună a infractorului înainte de săvîrşirea infracţiunii;
-b) stăruinţa depusă de infractor pentru a înlătura rezultatul infracţiunii sau a repara paguba pricinuită;
-c) atitudinea infractorului după săvîrşirea infracţiunii, rezultînd din prezentarea sa în faţa autorităţii, comportarea sinceră în cursul procesului, înlesnirea descoperirii ori arestării participanţilor.
+a) conduita buna a infractorului înainte de săvârşirea infracţiunii;
+b) staruinta depusa de infractor pentru a inlatura rezultatul infracţiunii sau a repara paguba pricinuită;
+c) atitudinea infractorului după săvârşirea infracţiunii, rezultind din prezentarea sa în faţa autorităţii, comportarea sinceră în cursul procesului, înlesnirea descoperirii ori arestării participanţilor.
 Împrejurările enumerate în prezentul articol au caracter exemplificativ.
+Circumstanţe agravante
 
 Articolul 75
 
-Circumstanţe agravante
 Următoarele împrejurări constituie circumstanţe agravante:
-a) săvîrşirea faptei de trei sau mai multe persoane împreună;
-b) săvîrşirea infracţiunii prin acte de cruzime sau prin metode ori mijloace care prezintă pericol public;
-c) săvîrşirea infracţiunii de către un infractor major, dacă aceasta a fost comisă împreună cu un minor;
-d) săvîrşirea infracţiunii din motive josnice;
-e) săvîrşirea infracţiunii în stare de beţie anume provocată în vederea comiterii faptei;
-f) săvîrşirea infracţiunii de către o persoana care a profitat de situaţia prilejuită de o calamitate.
-Instanţa poate reţine ca circumstanţe agravante şi alte împrejurări care imprimă faptei un caracter grav.
+a) săvârşirea faptei de trei sau de mai multe persoane împreună;
+b) săvârşirea infracţiunii prin acte de cruzime sau prin metode ori mijloace care prezintă pericol public;
+c) săvârşirea infracţiunii de către un infractor major, dacă aceasta a fost comisă împreună cu un minor;
+d) săvârşirea infracţiunii din motive josnice;
+e) săvârşirea infracţiunii în stare de beţie anume provocată în vederea comiterii faptei;
+f) săvârşirea infracţiunii de către o persoană care a profitat de situaţia prilejuită de o calamitate.
+Instanţa poate retine ca circumstanţe agravante şi alte împrejurări care imprima faptei un caracter grav.
+Efectele circumstanţelor atenuante
 
 Articolul 76
 
-Efectele circumstanţelor atenuante
-În cazul în care există circumstanţe atenuante, pedeapsa principală se reduce sau se schimbă după cum urmează:
-a) cînd minorul special al pedepsei închisorii este de 10 ani sau mai mare, pedeapsa se coboară sub minimul special, dar nu mai jos de 3 ani;
-b) cînd minimul special al pedepsei închisorii este de 5 ani sau mai mare, pedeapsa se coboară sub minimul special, dar nu mai jos de un an;
-c) cînd minimul special al pedepsei închisorii este de 3 ani sau mai mare, pedeapsa se coboară sub minimul special, dar nu mai jos de 3 luni;
-d) cînd minimul special al pedepsei închisorii este de un an sau mai mare, pedeapsa se coboară sub acest minim, pînă la minimul general;
-e) cînd minimul special al pedepsei închisorii este de 3 luni sau mai mare, pedeapsa se coboară sub acest minim, pînă la minimul general, sau se poate aplica amenda care nu poate fi mai mică de 1.000 lei, iar cînd minimul special este sub 3 luni se aplică o amendă care nu poate fi mai mică de 700 lei;
-f) cînd pedeapsa prevăzută de lege este amenda, aceasta se coboară sub minimul ei special, putînd fi redusă pînă la minimul general.
-În cazul infracţiunilor contra securităţii statului, contra avutului obştesc, ori al infracţiunii de omor, sau al infracţiunilor contra păcii şi omenirii, ori al infracţiunilor prin care s-a produs o pagubă importantă economiei naţionale, dacă se constată că există circumstanţe atenuante, pedeapsa închisorii poate fi redusă cel mult pînă la o treime din minimul special.
-Cînd exista circumstanţe atenuante, pedeapsa complimentară privativă de drepturi prevăzută de lege pentru infracţiunea săvîrşită poate fi înlăturată, iar în locul pedepsei complimentare a confiscării totale a averii se aplică confiscarea parţială.
+În cazul în care exista circumstanţe atenuante, pedeapsa principala se reduce sau se schimba după cum urmează:
+a) când minimul special al pedepsei închisorii este de 10 ani sau mai mare, pedeapsa se coboară sub minimul special, dar nu mai jos de 3 ani;
+b) când minimul special al pedepsei închisorii este de 5 ani sau mai mare, pedeapsa se coboară sub minimul special, dar nu mai jos de un an;
+c) când minimul special al pedepsei închisorii este de 3 ani sau mai mare, pedeapsa se coboară sub minimul special, dar nu mai jos de 3 luni;
+d) când minimul special al pedepsei închisorii este de un an sau mai mare, pedeapsa se coboară sub acest minim, până la minimul general;
+e) când minimul special al pedepsei închisorii este de 3 luni sau mai mare, pedeapsa se coboară sub acest minim, până la minimul general, sau se aplică o amenda care nu poate fi mai mica de 300.000 lei, iar când minimul special este sub 3 luni, se aplică o amenda care nu poate fi mai mica de 200.000 lei;
+f) când pedeapsa prevăzută de lege este amenda, aceasta se coboară sub minimul ei special, putind fi redusă până la 150.000 lei în cazul când minimul special este de 350.000 lei sau mai mare, ori până la minimul general când minimul special este sub 350.000 lei.
+În cazul infracţiunilor contra siguranţei statului, al infracţiunilor contra păcii şi omenirii, al infracţiunii de omor, al infracţiunilor săvârşite cu intenţie care au avut ca urmare moartea unei persoane, sau al infracţiunilor prin care s-au produs consecinţe deosebit de grave, dacă se constată că exista circumstanţe atenuante, pedeapsa închisorii poate fi redusă cel mult până la o treime din minimul special.
+Când exista circumstanţe atenuante, pedeapsa complimentară privativă de drepturi, prevăzută de lege pentru infracţiunea săvârşită, poate fi înlăturată.
+Circumstanţele atenuante în cazul pedepsei detenţiunii pe viaţa
 
 Articolul 77
 
-Circumstanţe atenuante în cazul pedepsei cu moartea
-Cînd pentru infracţiunea săvîrşită legea prevede pedeapsa cu moartea, dacă există circumstanţe atenuante se aplică pedeapsa închisorii de la 10 la 20 ani.
+Când pentru infracţiunea săvârşită legea prevede pedeapsa detenţiunii pe viaţa, dacă exista circumstanţe atenuante, se aplică pedeapsa închisorii de la 10 la 25 de ani.
+Efectele circumstanţelor agravante
 
 Articolul 78
 
-Efectele circumstanţelor agravante
-În cazul în care există circumstanţe agravante se poate aplica o pedeapsă pînă la maximul special. Dacă maximul special este neîndestulător, în cazul închisorii se poate adăuga un spor pînă la 3 ani, care nu poate depăşi o treime, din acest maxim, iar în cazul amenzii se poate aplica o pedeapsă pînă la maximul general al amenzii sau închisoarea de la 15 zile la 3 luni.
-Sporul prevăzut în alineatul precedent este pînă la 5 ani în cazul infracţiunilor contra securităţii statului, contra avutului obştesc, ori al infracţiunii de omor, sau în cazul infracţiunilor contra păcii şi omenirii, ori în cazul infracţiunilor prin care s-a adus o pagubă importantă economiei naţionale.
+În cazul în care exista circumstanţe agravante, se poate aplica o pedeapsă până la maximul special. Dacă maximul special este neîndestulător, în cazul închisorii se poate adauga un spor până la 5 ani, care nu poate depăşi o treime din acest maxim, iar în cazul amenzii se poate aplica un spor de cel mult jumătate din maximul special.
+Indicarea circumstanţelor
 
 Articolul 79
 
-Indicarea circumstanţelor
-Orice împrejurare reţinută ca circumstanţă atenuantă sau ca circumstanţă agravantă trebuie arătată în hotărîre.
+Orice împrejurare reţinută ca circumstanţă atenuantă sau ca circumstanţă agravantă trebuie arătată în hotărâre.
+Concursul între cauzele de agravare şi de atenuare
 
 Articolul 80
 
-Concursul între cauzele de agravare şi de atenuare
-În caz de concurs între cauzele de agravare şi cauzele de atenuare, pedeapsa se stabileşte ţinîndu-se seama de circumstanţele agravante, de circumstanţele atenuante şi de starea de recidivă.
-În caz de concurs între circumstanţele agravante şi atenuante, coborîrea pedepsei sub minimul special nu este obligatorie.
-În cazul aplicării concomitente a dispoziţiilor cu privire la circumstanţe agravante, recidivă şi la concurs de infracţiuni, pedeapsa nu poate depăşi 20 de ani, dacă maximul special pentru fiecare infracţiune este de 10 ani sau mai mic, şi 25 de ani dacă maximul special pentru cel puţin una dintre infracţiuni este mai mare de 10 ani.
+În caz de concurs între cauzele de agravare şi cauzele de atenuare, pedeapsa se stabileşte tinindu-se seama de circumstanţele agravante, de circumstanţele atenuante şi de starea de recidiva.
+În caz de concurs între circumstanţele agravante şi atenuante, coborirea pedepsei sub minimul special nu este obligatorie.
+În cazul aplicării concomitente a dispoziţiilor cu privire la circumstanţe agravante, recidiva şi concurs de infracţiuni, pedeapsa închisorii nu poate depăşi 25 de ani, dacă maximul special pentru fiecare infracţiune este de 10 ani sau mai mic, şi 30 de ani, dacă maximul special pentru cel puţin una dintre infracţiuni este mai mare de 10 ani.
 
 Secţiunea III Suspendarea condiţionată a executării pedepsei
 
+Condiţiile de aplicare a suspendării condiţionate
 
 Articolul 81
 
-Condiţiile de aplicare a suspendării condiţionate
-Instanţa poate dispune suspendarea condiţionată a executării pedepsei pe o anumită durată, dacă sînt întrunite următoarele condiţii:
-a) pedeapsa aplicată este închisoarea de cel mult 2 ani sau amenda, iar pentru infracţiunile contra avutului obştesc pedeapsa aplicată este de cel mult un an;
-b) infractorul nu a mai fost condamnat anterior la pedeapsa închisorii, afară de cazul cînd condamnarea intra în vreunul dintre cazurile prevăzute în art. 38;
-c) se apreciază că scopul pedepsei poate fi atins chiar fără executarea acesteia.
-Suspendarea condiţionată a executării pedepsei poate fi acordată şi în caz de concurs de infracţiuni, dacă pedeapsa aplicată este închisoarea de cel mult un an şi sînt întrunite condiţiile prevăzute în alin. 1 lit. b şi c. Dacă una dintre faptele aflate în concurs este o infracţiune contra avutului obştesc, suspendarea poate fi acordată dacă pedeapsa aplicată este închisoarea de cel mult 6 luni şi sînt întrunite condiţiile prevăzute în alin. 1 lit. b şi c.
-În cazul condamnării pentru o infracţiune prin care s-a produs o pagubă avutului obştesc, instanţa poate dispune suspendarea condiţionată a executării pedepsei numai dacă paguba a fost integral reparată pînă la pronunţarea hotărîrii.
-Suspendarea condiţionată a executării pedepsei nu atrage suspendarea executării măsurilor de siguranţă şi a obligaţiilor civile prevăzute în hotărîrea de condamnare.
+Instanţa poate dispune suspendarea condiţionată a executării pedepsei pe o anumită durata, dacă sunt întrunite următoarele condiţii:
+a) pedeapsa aplicată este închisoarea de cel mult 3 ani sau amenda;
+b) infractorul nu a mai fost condamnat anterior la pedeapsa închisorii mai mare de 6 luni, afară de cazul când condamnarea intră în vreunul dintre cazurile prevăzute în art. 38;
+c) se apreciază ca scopul pedepsei poate fi atins chiar fără executarea acesteia.
+Suspendarea condiţionată a executării pedepsei poate fi acordată şi în caz de concurs de infracţiuni, dacă pedeapsa aplicată este închisoarea de cel mult 2 ani şi sunt întrunite condiţiile prevăzute în alin. 1 lit. b) şi c).
+Suspendarea condiţionată a executării pedepsei nu poate fi dispusă în cazul infracţiunilor intenţionate pentru care legea prevede pedeapsa închisorii mai mare de 12 ani, precum şi în cazul infracţiunilor de vătămare corporală grava, viol şi tortura.
+În cazul condamnării pentru o infracţiune prin care s-a produs o paguba, instanţa poate dispune suspendarea condiţionată a executării pedepsei numai dacă până la pronunţarea hotărârii paguba a fost integral reparată sau plata despăgubirii este garantată de o societate de asigurare.
+Suspendarea condiţionată a executării pedepsei nu atrage suspendarea executării măsurilor de siguranţă şi a obligaţiilor civile prevăzute în hotărârea de condamnare.
 Suspendarea condiţionată a executării pedepsei trebuie motivată.
+Termenul de încercare
 
 Articolul 82
 
-Termenul de încercare
-Durata suspendării condiţionate a executării pedepsei constituie termen de încercare pentru condamnat şi se compune din cuantumul pedepsei închisorii aplicate, la care se adaugă un interval de timp de 2 ani.
-În cazul cînd pedeapsa a cărei executare a fost suspendată este amenda, termenul de încercare este de un an.
-Termenul de încercare se socoteşte de la data cînd hotărîrea prin care s-a pronunţat suspendarea condiţionată a executării pedepsei a rămas definitivă.
+Durata suspendării condiţionate a executării pedepsei constituie termen de încercare pentru condamnat şi se compune din cuantumul pedepsei închisorii aplicate, la care se adauga un interval de timp de 2 ani.
+În cazul când pedeapsa a carei executare a fost suspendată este amenda, termenul de încercare este de un an.
+Termenul de încercare se socoteşte de la data când hotărârea prin care s-a pronunţat suspendarea condiţionată a executării pedepsei a rămas definitivă.
+Revocarea în cazul săvârşirii unei infracţiuni
 
 Articolul 83
 
-Revocarea în cazul săvîrşirii unei infracţiuni
-Dacă în cursul termenului de încercare cel condamnat a săvîrşit din nou o infracţiune, pentru care s-a pronunţat o condamnare definitivă chiar după expirarea acestui termen, instanţa revocă suspendarea condiţionată, dispunînd executarea în întregime a pedepsei, care nu se contopeşte cu pedeapsa aplicată pentru noua infracţiune.
-Revocarea suspendării pedepsei nu are loc însă, dacă infracţiunea săvîrşită ulterior a fost descoperită după expirarea termenului de încercare.
-Dacă infracţiunea ulterioară este săvîrşită din culpă, se poate aplica suspendarea condiţionată a executării pedepsei chiar dacă infractorul a fost condamnat anterior cu suspendarea condiţionată a executării pedepsei. În acest caz nu mai are loc revocarea primei suspendări.
-La stabilirea pedepsei pentru infracţiunea săvîrşită după rămînerea definitivă a hotărîrii de suspendare nu se mai aplică sporul prevăzut de lege pentru recidivă.
+Dacă în cursul termenului de încercare cel condamnat a savirsit din nou o infracţiune, pentru care s-a pronunţat o condamnare definitivă chiar după expirarea acestui termen, instanţa revoca suspendarea condiţionată, dispunind executarea în întregime a pedepsei, care nu se contopeşte cu pedeapsa aplicată pentru noua infracţiune.
+Revocarea suspendării pedepsei nu are loc însă, dacă infracţiunea săvârşită ulterior a fost descoperită după expirarea termenului de încercare.
+Dacă infracţiunea ulterioară este săvârşită din culpa, se poate aplica suspendarea condiţionată a executării pedepsei chiar dacă infractorul a fost condamnat anterior cu suspendarea condiţionată a executării pedepsei. În acest caz nu mai are loc revocarea primei suspendări.
+La stabilirea pedepsei pentru infracţiunea săvârşită după rămînerea definitivă a hotărârii de suspendare nu se mai aplica sporul prevăzut de lege pentru recidiva.
+Revocarea în cazul neexecutării obligaţiilor civile
 
 Articolul 84
 
-Revocarea în cazul neexecutării obligaţiilor civile
-Dacă pînă la expirarea termenului de încercare condamnatul nu a îndeplinit obligaţiile civile stabilite prin hotărîrea de condamnare, instanţa poate dispune revocarea suspendării executării pedepsei, afară de cazul cînd cel condamnat dovedeşte că nu a avut putinţă de a îndeplini acele obligaţii.
+Dacă până la expirarea termenului de încercare condamnatul nu a îndeplinit obligaţiile civile stabilite prin hotărârea de condamnare, instanţa poate dispune revocarea suspendării executării pedepsei, afară de cazul când cel condamnat dovedeşte că nu a avut putinta de a îndeplini acele obligaţii.
+Anularea suspendării pentru infracţiuni săvârşite anterior
 
 Articolul 85
 
-Anularea suspendării pentru infracţiuni săvîrşite anterior
-Dacă se descoperă că cel condamnat mai săvîrşise o infracţiune înainte de pronunţarea hotărîrii prin care s-a dispus suspendarea sau pînă la rămînerea definitivă a acesteia, pentru care i s-a aplicat pedeapsa închisorii chiar după expirarea termenului de încercare, suspendarea condiţionată a executării pedepsei se anulează, aplicîndu-se, după caz, dispoziţiile privitoare la concursul de infracţiuni sau recidivă.
+Dacă se descoperă ca cel condamnat mai savirsise o infracţiune înainte de pronunţarea hotărârii prin care s-a dispus suspendarea sau până la rămînerea definitivă a acesteia, pentru care i s-a aplicat pedeapsa închisorii chiar după expirarea termenului de încercare, suspendarea condiţionată a executării pedepsei se anulează, aplicindu-se, după caz, dispoziţiile privitoare la concursul de infracţiuni sau recidiva.
 Anularea suspendării executării pedepsei nu are loc, dacă infracţiunea care ar fi putut atrage anularea a fost descoperită după expirarea termenului de încercare.
-În cazurile prevăzute în alin. 1, dacă pedeapsa rezultată în urma contopirii nu depăşeşte un an, instanţa aplică dispoziţiile art. 81 alin. 2. În cazul cînd se dispune suspendarea condiţionată a executării pedepsei, termenul de încercare se calculează de la data rămînerii definitive a hotărîrii prin care s-a pronunţat anterior suspendarea condiţionată a executării pedepsei.
+În cazurile prevăzute în alin. 1, dacă pedeapsa rezultată în urma contopirii nu depăşeşte 2 ani, instanţa poate aplica dispoziţiile art. 81. În cazul când se dispune suspendarea condiţionată a executării pedepsei, termenul de încercare se calculează de la data rămânerii definitive a hotărârii prin care s-a pronunţat anterior suspendarea condiţionată a executării pedepsei.
+Reabilitarea în cazul suspendării condiţionate a executării pedepsei
 
 Articolul 86
 
-Reabilitarea în cazul suspendării condiţionate a executării pedepsei
-Dacă condamnatul nu a săvîrşit din nou o infracţiune înăuntrul termenului de încercare şi nici nu s-a pronunţat revocarea suspendării condiţionate a executării pedepsei în baza art. 83 şi 84, el este reabilitat de drept.
+Dacă condamnatul nu a savirsit din nou o infracţiune înăuntrul termenului de încercare şi nici nu s-a pronunţat revocarea suspendării condiţionate a executării pedepsei în baza art. 83 şi 84, el este reabilitat de drept.
+
+Secţiunea III^1 Suspendarea executării pedepsei sub supraveghere
+
+Condiţiile de aplicare a suspendării executării pedepsei sub supraveghere
+
+Articolul 86^1
+
+Instanţa poate dispune suspendarea executării pedepsei sub supraveghere, dacă sunt întrunite următoarele condiţii:
+a) pedeapsa aplicată este închisoarea de cel mult 4 ani;
+b) infractorul nu a mai fost condamnat anterior la pedeapsa închisorii mai mare de un an, afară de cazurile când condamnarea intră în vreunul dintre cazurile prevăzute în art. 38;
+c) se apreciază, ţinând seama de persoana condamnatului, de comportamentul sau după comiterea faptei, ca pronunţarea condamnării constituie un avertisment pentru acesta şi, chiar fără executarea pedepsei, condamnatul nu va mai savirsi infracţiuni.
+Suspendarea executării pedepsei sub supraveghere poate fi acordată şi în cazul concursului de infracţiuni, dacă pedeapsa aplicată este închisoarea de cel mult 3 ani şi sunt întrunite condiţiile prevăzute în alin. 1 lit. b) şi c).
+Suspendarea executării pedepsei sub supraveghere nu poate fi dispusă în cazul infracţiunilor intenţionate pentru care legea prevede pedeapsa închisorii mai mare de 12 ani, precum şi în cazul infracţiunilor de vătămare corporală grava, viol şi tortura.
+Dispoziţiile art. 81 alin. 4 şi 5 se aplică şi în cazul suspendării executării pedepsei sub supraveghere.
+Termenul de încercare
+
+Articolul 86^2
+
+Termenul de încercare în cazul suspendării executării pedepsei sub supraveghere se compune din cuantumul pedepsei închisorii aplicate, la care se adauga un interval de timp, stabilit de instanţa, între 2 şi 5 ani.
+Dispoziţiile art. 82 alin. 3 se aplică în mod corespunzător.
+Măsurile de supraveghere şi obligaţiile condamnatului
+
+Articolul 86^3
+
+Pe durata termenului de încercare, condamnatul trebuie să se supună următoarelor măsuri de supraveghere:
+a) să se prezinte, la datele fixate, la judecătorul desemnat cu supravegherea lui sau la alte organe stabilite de instanţa;
+b) sa anunţe, în prealabil, orice schimbare de domiciliu, reşedinţa sau locuinta şi orice deplasare care depăşeşte 8 zile, precum şi întoarcerea;
+c) sa comunice şi să justifice schimbarea locului de muncă;
+d) sa comunice informaţii de natura a putea fi controlate mijloacele lui de existenta.
+Datele prevăzute în alin. 1 lit. b), c) şi d) se comunică persoanelor sau organelor stabilite la lit. a).
+Instanţa poate să impună condamnatului respectarea uneia sau a mai multora din următoarele obligaţii:
+a) sa desfăşoare o activitate sau să urmeze un curs de învăţământ ori de calificare;
+b) sa nu schimbe domiciliul sau reşedinţa avută ori sa nu depăşească limita teritorială stabilită, decît în condiţiile fixate de instanţa;
+c) sa nu frecventeze anumite locuri stabilite;
+d) sa nu între în legătură cu anumite persoane;
+e) sa nu conducă nici un vehicul sau anumite vehicule;
+f) să se supună măsurilor de control, tratament sau îngrijire, în special în scopul dezintoxicării.
+Supravegherea executării obligaţiilor stabilite de instanţa conform alin. 3 lit. a)-f) se face de organele prevăzute în alin. 1 lit. a) şi aceleaşi organe sesizează instanţa în caz de neîndeplinire a obligaţiilor pentru luarea măsurilor în condiţiile art. 86^4 alin. 2.
+Revocarea suspendării executării pedepsei sub supraveghere
+
+Articolul 86^4
+
+Dispoziţiile art. 83 şi 84 se aplică în mod corespunzător şi în cazul suspendării executării pedepsei sub supraveghere.
+Dacă cel condamnat nu îndeplineşte măsurile de supraveghere prevăzute de lege ori obligaţiile stabilite de instanţa, aceasta poate să revoce suspendarea executării pedepsei dispunind executarea în întregime a pedepsei, sau sa prelungească termenul de încercare cu cel mult 3 ani.
+Anularea suspendării executării pedepsei sub supraveghere
+
+Articolul 86^5
+
+Dispoziţiile art. 85 alin. 1 şi 2 se aplică în mod corespunzător şi în cazul suspendării executării pedepsei sub supraveghere.
+În cazurile prevăzute în art. 85 alin. 1, dacă pedeapsa rezultată în urma contopirii nu depăşeşte 3 ani, instanţa poate aplica dispoziţiile art. 86^1. În cazul când se dispune suspendarea executării pedepsei sub supraveghere, termenul de încercare se calculează de la data rămânerii definitive a hotărârii prin care s-a pronunţat anterior suspendarea condiţionată a executării pedepsei.
+Reabilitarea în cazul suspendării executării pedepsei sub supraveghere
+
+Articolul 86^6
+
+Dacă cel condamnat nu a savirsit din nou o infracţiune înăuntrul termenului de încercare şi nici nu s-a pronunţat revocarea suspendării executării pedepsei în baza art. 86^4, el este reabilitat de drept.
+
+Secţiunea III^2 Executarea pedepsei la locul de muncă
+
+Condiţii de aplicare
+
+Articolul 86^7
+
+În cazul în care instanţa, ţinând seama de gravitatea faptei, de împrejurările în care a fost comisă, de conduita profesională şi generală a făptuitorului şi de posibilităţile acestuia de reeducare, apreciază ca sunt suficiente temeiuri ca scopul pedepsei să fie atins fără privare de libertate, poate dispune executarea pedepsei în unitatea în care condamnatul îşi desfăşoară activitatea sau în alta unitate, în toate cazurile cu acordul scris al unităţii şi dacă sunt întrunite următoarele condiţii:
+a) pedeapsa aplicată este închisoarea de cel mult 5 ani;
+b) cel în cauza nu a mai fost condamnat anterior la pedeapsa închisorii mai mare de 1 an, afară de cazul când condamnarea intră în vreunul din cazurile prevăzute în art. 38.
+Executarea pedepsei la locul de muncă poate fi dispusă şi în caz de concurs de infracţiuni, dacă pedeapsa aplicată pentru concursul de infracţiuni este de cel mult 3 ani închisoare şi sunt întrunite celelalte condiţii prevăzute în alineatul precedent.
+Executarea pedepsei la locul de muncă nu poate fi dispusă în cazul infracţiunilor intenţionate pentru care legea prevede pedeapsa închisorii mai mare de 12 ani, precum şi în cazul infracţiunilor de vătămare corporală grava, viol şi tortura.
+Dispoziţiile alin. 1 şi 2 se aplică şi în cazul în care condamnatul nu desfăşoară o activitate la data aplicării pedepsei.
+Modul de executare
+
+Articolul 86^8
+
+Pe durata executării pedepsei, condamnatul este obligat sa îndeplinească toate îndatoririle la locul de muncă, cu următoarele limitări ale drepturilor ce-i revin potrivit legii:
+a) din totalul veniturilor cuvenite, potrivit legii, pentru munca prestată, cu excepţia sporurilor acordate pentru activitatea desfăşurată în locuri de muncă cu condiţii vătămătoare sau periculoase, se retine o cota de 15-40%, stabilită potrivit legii, în raport cu cuantumul veniturilor şi cu îndatoririle condamnatului pentru întreţinerea altor persoane, care se vărsa la bugetul statului. În cazul condamnatului minor, limitele reţinerii se reduc la jumătate;
+b) drepturile de asigurări sociale se stabilesc în procentele legale aplicate la venitul net cuvenit condamnatului, după reţinerea cotei prevăzute la lit. a);
+c) durata executării pedepsei nu se considera vechime în munca;
+d) nu se poate schimba locul de muncă la cererea condamnatului, decît prin hotărârea instanţei de judecată;
+e) condamnatul nu poate fi promovat;
+f) condamnatul nu poate ocupa funcţii de conducere, iar în raport cu fapta săvârşită nu poate ocupa funcţii care implica exerciţiul autorităţii de stat, funcţii instructiv-educative ori de gestiune.
+Pe durata executării pedepsei, condamnatului i se interzice dreptul electoral de a fi ales.
+Instanţa poate dispune ca cel condamnat să respecte şi una sau mai multe din obligaţiile prevăzute în art. 86^3.
+Pedeapsa se executa la locul de muncă în baza mandatului de executare a pedepsei.
+Pe timpul executării pedepsei în unitatea în care cel condamnat îşi desfăşoară activitatea la data aplicării pedepsei, contractul de muncă se suspenda.
+În cazul executării pedepsei într-o alta unitate decît cea în care îşi desfăşura activitatea condamnatul la data aplicării pedepsei, contractul de muncă încheiat încetează. Pedeapsa se executa fără a se încheia contract de muncă.
+Dispoziţiile alin. 6 se aplică în mod corespunzător şi în cazul condamnatului care nu desfăşoară o activitate la data aplicării pedepsei.
+În cazul în care cel condamnat la executarea pedepsei la locul de muncă a devenit militar în termen în cursul judecaţii sau după rămînerea definitivă a hotărârii de condamnare, pedeapsa se executa la locul de muncă, după trecerea în rezerva a acestuia.
+Revocarea executării pedepsei la locul de muncă
+
+Articolul 86^9
+
+Dacă după rămînerea definitivă a hotărârii prin care s-a dispus executarea pedepsei la locul de muncă, cel condamnat săvârşeşte din nou o infracţiune, înainte de începerea executării pedepsei sau în timpul executării acesteia, instanţa revoca executarea pedepsei la locul de muncă. Pedeapsa se aplică potrivit dispoziţiilor art. 39 alin. 1 şi 2 sau, după caz, ale art. 40.
+Dacă infracţiunea ulterioară este săvârşită din culpa, instanţa poate dispune şi pentru aceasta infracţiune executarea pedepsei la locul de muncă. În acest caz, revocarea nu mai are loc şi pedeapsa se aplică potrivit regulilor pentru concursul de infracţiuni.
+Dacă condamnatul se sustrage de la prestarea activităţii în cadrul unităţii sau nu-şi îndeplineşte în mod corespunzător îndatoririle ce-i revin la locul de muncă ori nu respecta măsurile de supraveghere sau obligaţiile stabilite prin hotărârea de condamnare, instanţa poate să revoce executarea pedepsei la locul de muncă, dispunind executarea pedepsei într-un loc de deţinere.
+Când condamnatul nu mai poate presta munca din cauza pierderii totale a capacităţii de muncă, instanţa revoca executarea pedepsei la locul de muncă şi, ţinând seama de împrejurările care au determinat incapacitatea de muncă şi dispoziţiile art. 72, dispune suspendarea condiţionată a executării pedepsei chiar dacă nu sunt întrunite condiţiile prevăzute în art. 81 sau 86^1.
+Dacă executarea pedepsei la locul de muncă se revoca potrivit alin. 1 sau 3, pedeapsa aplicată sau, după caz, restul de pedeapsa rămas neexecutat se executa într-un loc de deţinere.
+Anularea executării pedepsei la locul de muncă
+
+Articolul 86^10
+
+Dacă cel condamnat mai săvârşeşte o infracţiune până la rămînerea definitivă a hotărârii şi aceasta se descoperă mai înainte ca pedeapsa sa fi fost executată la locul de muncă sau considerată executată, instanţa, dacă nu sunt întrunite condiţiile prevăzute în art. 86^7, anulează executarea pedepsei la locul de muncă.
+Anularea se dispune şi în cazul în care hotărârea de condamnare pentru infracţiunea descoperită ulterior se pronunţa după ce pedeapsa a fost executată la locul de muncă sau considerată ca executată. Pedeapsa se stabileşte, după caz, potrivit regulilor de la concursul de infracţiuni sau recidiva.
+La scăderea pedepsei executate în întregime sau în parte, ori, după caz, la contopirea pedepselor, se aplică dispoziţiile privitoare la pedeapsa închisorii, fără a se tine seama dacă una din pedepse se executa la locul de muncă. Pedeapsa astfel stabilită se executa într-un loc de deţinere.
+Încetarea executării pedepsei
+
+Articolul 86^11
+
+Dacă cel condamnat a executat cel puţin două treimi din durata pedepsei, a dat dovezi temeinice de îndreptare, a avut o buna conduita, a fost disciplinat şi stăruitor în munca, instanţa poate dispune încetarea executării pedepsei la locul de muncă, la cererea conducerii unităţii unde condamnatul îşi desfăşoară activitatea sau a condamnatului.
+Pedeapsa se considera executată dacă în intervalul de timp de la încetarea executării pedepsei la locul de muncă şi până la împlinirea duratei pedepsei, cel condamnat nu a savirsit din nou o infracţiune. Dacă în acelaşi interval condamnatul a comis din nou o infracţiune, instanţa poate dispune revocarea încetării executării pedepsei la locul de muncă, dispoziţiile art. 61 şi 86^10 alin. 3 fiind aplicabile în mod corespunzător.
 
 Secţiunea IV Calculul pedepselor
 
+Durata executării
 
 Articolul 87
 
-Durata executării
-Durata executării pedepsei închisorii se socoteşte din ziua în care condamnatul începe să execute hotărîrea definitivă de condamnare.
+Durata executării pedepsei închisorii se socoteşte din ziua în care condamnatul începe să execute hotărârea definitivă de condamnare.
 Ziua în care începe executarea pedepsei şi ziua în care încetează se socotesc în durata executării.
-Timpul în care condamnatul, în cursul executării pedepsei, se află bolnav în spital, intră în durata executării, afară de cazul în care şi-a provocat în mod voit boala, iar această împrejurare se constată în cursul executării pedepsei.
+Timpul în care condamnatul, în cursul executării pedepsei, se afla bolnav în spital, intră în durata executării, afară de cazul în care şi-a provocat în mod voit boala, iar aceasta împrejurare se constata în cursul executării pedepsei.
+În durata executării pedepsei închisorii la locul de muncă nu intra timpul în care condamnatul lipseşte de la locul de muncă.
+Computarea reţinerii şi a arestării preventive
 
 Articolul 88
 
-Computarea reţinerii şi a arestării preventive
-Timpul reţinerii şi al arestării preventive se scade din durata pedepsei închisorii pronunţate. Scăderea se face şi atunci cînd condamnatul a fost urmărit sau judecat, în acelaşi timp ori în mod separat, pentru mai multe infracţiuni concurente, chiar dacă a fost scos de sub urmărire, s-a încetat urmărirea penală sau a fost achitat ori s-a încetat procesul penal pentru fapta care a determinat reţinerea sau arestarea preventivă.
-Scăderea reţinerii şi arestării preventive se face şi în caz de condamnare la amendă, prin înlăturarea în totul sau în parte a executării amenzii.
+Timpul reţinerii şi al arestării preventive se scade din durata pedepsei închisorii pronunţate. Scăderea se face şi atunci când condamnatul a fost urmărit sau judecat, în acelaşi timp ori în mod separat, pentru mai multe infracţiuni concurente, chiar dacă a fost scos de sub urmărire, s-a încetat urmărirea penală sau a fost achitat ori s-a încetat procesul penal pentru fapta care a determinat reţinerea sau arestarea preventivă.
+Scăderea reţinerii şi a arestării preventive se face şi în caz de condamnare la amenda, prin înlăturarea în totul sau în parte a executării amenzii.
+Computarea privaţiunii de libertate executată în afară tarii
 
 Articolul 89
 
-Computarea privaţiunii de libertate executată în afara ţării
-În cazul infracţiunilor săvîrşite în condiţiile art. 4, 5 sau 6, partea din pedeapsă precum şi reţinerea şi arestarea preventivă executate în afara teritoriului ţării se scad din durata pedepsei aplicate pentru aceeaşi infracţiune de instanţele române.
+În cazul infracţiunilor săvârşite în condiţiile art. 4, 5 sau 6, partea din pedeapsa, precum şi reţinerea şi arestarea preventivă executate în afară teritoriului tarii se scad din durata pedepsei aplicate pentru aceeaşi infracţiune de instanţele române.
 
 Titlul IV ÎNLOCUIREA RĂSPUNDERII PENALE
 
+Condiţiile înlocuirii
 
 Articolul 90
 
-Formele de înlocuire
-Răspunderea penală poate fi înlocuită cu răspunderea care atrage fie aplicarea unei forme de influenţare obştească, fie o sancţiune cu caracter administrativ ce se aplică de instanţa de judecată.
+Instanţa poate dispune înlocuirea răspunderii penale cu răspunderea care atrage o sancţiune cu caracter administrativ, dacă sunt îndeplinite următoarele condiţii:
+a) pedeapsa prevăzută de lege pentru infracţiunea săvârşită este închisoarea de cel mult un an sau amenda ori s-au savirsit infracţiunile prevăzute în art. 208, 213, 215 alin. 1, art. 215^1 alin. 1, art. 217 alin. 1, art. 219 alin. 1, dacă valoarea pagubei nu depăşeşte 100.000 lei sau infracţiunea prevăzută în art. 249, dacă valoarea pagubei nu depăşeşte 500.000 lei;
+b) fapta, în conţinutul ei concret şi în împrejurările în care a fost săvârşită, prezintă un grad de pericol social redus şi nu a produs urmări grave;
+c) paguba pricinuită prin infracţiune a fost integral reparată până la pronunţarea hotărârii;
+d) din atitudinea făptuitorului după săvârşirea infracţiunii rezultă ca acesta regreta fapta;
+e) sunt suficiente date ca făptuitorul poate fi îndreptat fără a i se aplică o pedeapsă.
+Înlocuirea răspunderii penale nu se poate dispune dacă făptuitorul a mai fost anterior condamnat sau i s-au mai aplicat de doua ori sancţiuni cu caracter administrativ. Condamnarea se considera inexistenta în situaţiile prevăzute în art. 38.
+Sancţiunile cu caracter administrativ
 
 Articolul 91
 
-Formele de influenţare obştească
-În caz de înlocuire a răspunderii penale, formele de influenţare obştească se realizează prin:
-a) rezolvarea directă a unor anumite cauze de către organul de influenţare obştească din organizaţiile prevăzute în art. 145;
-b) trimiterea cauzei la o organizaţie din cele prevăzute în art. 145, în vederea luării unei măsuri de influenţare obştească;
-c) încredinţarea făptuitorului pe garanţie unei organizaţii din cele prevăzute în art. 145.
-Organizaţia căreia i se trimite cauza, organul competent să ia măsuri de influenţare obştească, măsurile de influenţare obştească, precum şi persoanele exceptate de la competenţa acestui organ, sînt stabilite prin lege.
+Când instanţa dispune înlocuirea răspunderii penale, aplica una din următoarele sancţiuni cu caracter administrativ:
+a) mustrarea;
+b) mustrarea cu avertisment;
+c) amenda de la 100.000 lei la 1.000.000 lei.
 
 Articolul 92
 
-Sancţiunile cu caracter administrativ
-Sancţiunile cu caracter administrativ pe care le aplică instanţa de judecată în caz de înlocuire a răspunderii penale sînt:
-a) mustrarea;
-b) mustrarea cu avertisment;
-c) amenda de la 100 la 1.000 lei.
+Abrogat.
 
 Articolul 93
 
-Rezolvarea directă a cauzei de către organul de influenţare obştească
-Înlocuirea răspunderii penale prin rezolvarea directă a cauzei de către organul de influenţare obştească se face în cazul infracţiunilor sancţionate de lege cu pedeapsa închisorii de cel mult 6 luni, pentru care acţiunea penală se pune în mişcare la plîngerea prealabilă a persoanei vătămate şi procedura de împăciuire este obligatorie, dacă nu s-a ajuns la împăcarea părţilor şi persoana vătămată cere să se ia faţă de făptuitor măsuri de influenţare obştească de către acest organ.
+Abrogat.
 
 Articolul 94
 
-Înlocuirea răspunderii penale de către instanţa de judecată
-Cînd cauza nu a fost rezolvată de organul de influenţare obştească şi persoana vătămată a sesizat instanţa de judecată, aceasta, dacă constată din atitudinea făptuitorului după săvîrşirea infracţiunii că regretă fapta şi că a depus stăruinţă pentru a repara paguba pricinuită prin infracţiune, poate înlocui răspunderea penală, aplicînd una dintre sancţiunile cu caracter administrativ prevăzute în art. 92.
+Abrogat.
 
 Articolul 95
 
-Trimiterea cauzei la o organizaţie
-Trimiterea cauzei la o organizaţie din cele prevăzute în art. 145 poate fi dispusă de către procuror în faza de urmărire penală sau de către instanţa de judecată, în cazul infracţiunilor pentru care legea prevede pedeapsa închisorii de cel mult 6 luni şi pentru care procedura de împăciuire nu este obligatorie, dacă din atitudinea făptuitorului după săvîrşirea infracţiunii rezultă că regretă fapta şi că a depus stăruinţă pentru a repara paguba pricinuită prin infracţiune.
-În cazul prevăzut în alineatul precedent, organizaţia trimite cauza organului de influenţare obştească, care va lua faţă de făptuitor o măsura de influenţare, de natura sa contribuie la educarea acestuia.
-Dacă făptuitorul este o persoană exceptată de la competenţa organului de influenţare obştească potrivit prevederilor art. 91 alin. 2, instanţa dispunînd înlocuirea răspunderii penale, va aplica ea însăşi sancţiunile potrivit dispoziţiilor art. 94.
+Abrogat.
 
 Articolul 96
 
-Încredinţarea făptuitorului pe garanţie
-Încredinţarea făptuitorului pe garanţie se poate dispune pe timp de un an, de către procuror sau de către instanţa de judecată, în cazul infracţiunilor pentru care legea prevede pedeapsa închisorii de cel mult 6 luni, dacă sînt îndeplinite următoarele condiţii:
-a) fapta, în conţinutul ei concret şi în împrejurările în care a fost săvîrşită, prezintă un grad de pericol social redus şi nu a produs urmări grave;
-b) din comportarea trecută şi prezentă a făptuitorului rezultă suficiente temeiuri că acesta poate fi îndreptat fără a i se aplica o pedeapsă.
-Încredinţarea pe garanţie poate fi dispusă numai la cererea organizaţiei din care face parte făptuitorul, dacă fapta a fost săvîrşită la locul de muncă sau în exerciţiul atribuţiilor de serviciu. În celelalte cazuri, încredinţarea pe garanţie se poate dispune de asemenea la cererea organizaţiei, dacă se stabileşte că aceasta este în măsură de a supraveghea conduita făptuitorului.
-Cererea pentru încredinţare pe garanţie se face numai pe baza hotărîrii luate de adunarea generală a angajaţilor sau a membrilor organizaţiei. Adunarea generală, hotărînd că este cazul să fie cerută încredinţarea pe garanţie, dispune asupra măsurilor ce urmează a fi luate în vederea îndreptării făptuitorului şi desemnează colectivul care se va îngriji de aducerea la îndeplinire a măsurilor luate.
-Dacă făptuitorul cere, procesul penal continuă.
-Făptuitorul încredinţat pe garanţie trebuie să aibă o bună conduită, să dea dovadă de sîrguinţă la locul de muncă şi să respecte măsurile pe care organizaţia le-a luat în vederea îndreptării sale.
+Abrogat.
 
 Articolul 97
 
-Revocarea încredinţării pe garanţie
-Încredinţarea pe garanţie se revocă dacă, înăuntrul termenului de încredinţare, organizaţia, constatînd că făptuitorul nu dă dovadă de îndreptare, renunţă la luarea pe garanţie.
-Încredinţarea pe garanţie poate fi revocată şi dacă înăuntrul termenului de încredinţare făptuitorul este condamnat pentru altă infracţiune sau dacă se descoperă că a fost anterior condamnat.
+Abrogat.
+Înlocuirea în caz de pluralitate de infractori sau de infracţiuni
 
 Articolul 98
 
-Înlocuirea în caz de pluralitate de infractori sau de infracţiuni
-În caz de participaţie, înlocuirea răspunderii penale poate avea loc numai pentru acei făptuitori faţă de care sînt îndeplinite condiţiile prevăzute în prezentul titlu.
-Înlocuirea răspunderii penale poate fi dispusă şi în cazul concursului de infracţiuni, dacă pentru fiecare infracţiune aflată în concurs sînt îndeplinite condiţiile de înlocuire a răspunderii penale.
+În caz de participaţie, înlocuirea răspunderii penale poate avea loc numai pentru acei făptuitori faţă de care sunt îndeplinite condiţiile prevăzute în prezentul titlu.
+Înlocuirea răspunderii penale poate fi dispusă şi în cazul concursului de infracţiuni, dacă pentru fiecare infracţiune aflată în concurs sunt îndeplinite condiţiile de înlocuire a răspunderii penale.
 
 Titlul V MINORITATEA
 
+Limitele răspunderii penale
 
 Articolul 99
 
-Limitele răspunderii penale
-Minorul care nu a împlinit vîrsta de 14 ani nu răspunde penal.
-Minorul care are vîrsta între 14 şi 16 ani răspunde penal, numai dacă se dovedeşte că a săvîrşit fapta cu discernămînt.
-Minorul care a împlinit vîrsta de 16 ani răspunde penal.
+Minorul care nu a împlinit vârsta de 14 ani nu răspunde penal.
+Minorul care are vârsta între 14 şi 16 ani răspunde penal, numai dacă se dovedeşte ca a savirsit fapta cu discernământ.
+Minorul care a împlinit vârsta de 16 ani răspunde penal.
+Consecinţele răspunderii penale
 
 Articolul 100
 
-Consecinţele răspunderii penale
-Faţă de minorul care răspunde penal se poate lua o măsura educativă ori i se poate aplica o pedeapsă. La alegerea sancţiunii se ţine seama de gradul de pericol social al faptei săvîrşite, de starea fizică, de dezvoltarea intelectuală şi morală, de comportamentul lui, de condiţiile în care a fost crescut şi în care a trăit şi de orice alte elemente de natură să caracterizeze persoana minorului.
-Pedeapsa se aplică numai dacă se apreciază că luarea unei măsuri educative nu este suficientă pentru îndreptarea minorului.
+Faţa de minorul care răspunde penal se poate lua o măsura educativă ori i se poate aplica o pedeapsă. La alegerea sancţiunii se tine seama de gradul de pericol social al faptei săvârşite, de starea fizica, de dezvoltarea intelectuală şi morala, de comportarea lui, de condiţiile în care a fost crescut şi în care a trăit şi de orice alte elemente de natura sa caracterizeze persoana minorului.
+Pedeapsa se aplică numai dacă se apreciază ca luarea unei măsuri educative nu este suficienta pentru îndreptarea minorului.
+Măsurile educative
 
 Articolul 101
 
-Măsurile educative
-Măsurile educative care se pot lua faţă de minor sînt:
+Măsurile educative care se pot lua faţă de minor sunt:
 a) mustrarea;
 b) libertatea supravegheată;
 c) internarea într-un centru de reeducare;
 d) internarea într-un institut medical-educativ.
+Mustrarea
 
 Articolul 102
 
-Mustrarea
-Măsura educativă a mustrării constă în dojenirea minorului, în arătarea pericolului social al faptei săvîrşite, în sfătuirea minorului să se poarte în aşa fel încît să dea dovadă de îndreptare, atrăgîndu-i-se totodată atenţia că dacă va săvîrşi din nou o infracţiune, se va lua faţă de el o măsură mai severă sau i se va aplica o pedeapsă.
+Măsura educativă a mustrării consta în dojenirea minorului, în arătarea pericolului social al faptei săvârşite, în sfătuirea minorului să se poarte în asa fel încât sa dea dovadă de îndreptare, atrăgându-i-se totodată atenţia ca dacă va savirsi din nou o infracţiune, se va lua faţă de el o măsura mai severă sau i se va aplica o pedeapsă.
+Libertatea supravegheată
 
 Articolul 103
 
-Libertatea supravegheată
-Măsura educativă a libertăţii supravegheate constă în lăsarea minorului în libertate pe timp de un an, sub supraveghere deosebită. Supravegherea poate fi încredinţată, după caz, părinţilor minorului, celui care l-a înfiat sau tutorelui. Dacă aceştia nu pot asigura supravegherea în condiţii satisfăcătoare, instanţa dispune încredinţarea supravegherii minorului, pe acelaşi interval de timp, unei persoane de încredere, de preferinţă unei rude mai apropiate, la cererea acesteia, ori unei instituţii legal însărcinate cu supravegherea minorilor.
-Instanţa pune în vedere celui căruia i s-a încredinţat supravegherea îndatorirea de a veghea îndeaproape asupra minorului, în scopul îndreptării lui. De asemenea, i se pune în vedere că are obligaţia să înştiinţeze instanţa de îndată, dacă minorul se sustrage de la supravegherea ce se exercită asupra lui sau are purtări rele, ori a săvîrşit din nou o faptă prevăzută de legea penală. Totodată instanţa atrage atenţia minorului asupra consecinţelor comportării sale.
-După luarea măsurii libertăţii supravegheate, instanţa încunoştinţează şcoala unde minorul învaţă sau unitatea la care este angajat, pentru ca acestea să colaboreze la reeducarea minorului împreună cu persoana căreia acesta i-a fost încredinţat.
-Dacă înăuntrul termenului prevăzut în alin. 1 minorul se sustrage de la supravegherea ce se exercită asupra lui sau are purtări rele, ori săvîrşeşte o faptă prevăzută de legea penală, instanţa revocă libertatea supravegheată şi ia faţă de minor măsura internării într-un centru de reeducare. Dacă fapta prevăzută de legea penală constituie infracţiune, instanţa ia măsura internării sau aplică o pedeapsă.
+Măsura educativă a libertăţii supravegheate consta în lăsarea minorului în libertate pe timp de un an, sub supraveghere deosebită. Supravegherea poate fi încredinţată, după caz, părinţilor minorului, celui care l-a înfiat sau tutorelui. Dacă aceştia nu pot asigura supravegherea în condiţii satisfăcătoare, instanţa dispune încredinţarea supravegherii minorului, pe acelaşi interval de timp, unei persoane de încredere, de preferinta unei rude mai apropiate, la cererea acesteia, ori unei instituţii legal însărcinate cu supravegherea minorilor.
+Instanţa pune în vedere, celui căruia i s-a încredinţat supravegherea, îndatorirea de a veghea îndeaproape asupra minorului, în scopul îndreptării lui. De asemenea, i se pune în vedere ca are obligaţia sa înştiinţeze instanţa de îndată, dacă minorul se sustrage de la supravegherea ce se exercită asupra lui sau are purtări rele ori a savirsit din nou o faptă prevăzută de legea penală.
+Instanţa poate să impună minorului respectarea uneia sau mai multora din următoarele obligaţii:
+a) sa nu frecventeze anumite locuri stabilite;
+b) sa nu între în legătură cu anumite persoane;
+c) sa presteze o activitate neremunerată într-o instituţie de interes public fixată de instanţa, cu o durată între 50 şi 200 de ore, de maximum 3 ore pe zi, după programul de şcoala, în zilele nelucrătoare şi în vacanta.
+Instanţa atrage atenţia minorului asupra consecinţelor comportării sale.
+După luarea măsurii libertăţii supravegheate, instanţa încunoştinţează şcoala unde minorul învaţă sau unitatea la care este angajat şi, după caz, instituţia la care prestează activitatea stabilită de instanţa.
+Dacă înăuntrul termenului prevăzut în alin. 1 minorul se sustrage de la supravegherea ce se exercită asupra lui sau are purtări rele, ori săvârşeşte o faptă prevăzută de legea penală, instanţa revoca libertatea supravegheată şi ia faţă de minor măsura internării într-un centru de reeducare. Dacă fapta prevăzută de legea penală constituie infracţiune, instanţa ia măsura internării sau aplica o pedeapsă.
 Termenul de un an prevăzut în alin. 1 curge de la data punerii în executare a libertăţii supravegheate.
+Internarea într-un centru de reeducare
 
 Articolul 104
 
-Internarea într-un institut special de reeducare
-Măsura educativă a internării într-un centru de reeducare se ia în scopul reeducării minorului, căruia i se asigură posibilitatea de a dobîndi învăţătura necesară şi o pregătire profesională potrivit cu aptitudinile sale.
-Măsura internării se ia faţă de minorul în privinţa căruia celelalte măsuri educative sînt neîndestulătoare.
+Măsura educativă a internării într-un centru de reeducare se ia în scopul reeducării minorului, căruia i se asigura posibilitatea de a dobîndi învăţătura necesară şi o pregătire profesională potrivit cu aptitudinile sale.
+Măsura internării se ia faţă de minorul în privinta căruia celelalte măsuri educative sunt neîndestulătoare.
+Internarea într-un institut medical-educativ
 
 Articolul 105
 
-Internarea într-un institut medical-educativ
 Măsura internării într-un institut medical-educativ se ia faţă de minorul care, din cauza stării sale fizice sau psihice, are nevoie de un tratament medical şi de un regim special de educaţie.
+Durata măsurilor
 
 Articolul 106
 
-Durata măsurilor
-Măsurile prevăzute în art. 104 şi 105 se iau pe timp nedeterminat, însă nu pot dura decît pînă la împlinirea vîrstei de 18 ani. Măsura prevăzută în art. 105 trebuie să fie ridicată de îndată ce a dispărut cauza care a impus luarea acesteia. Instanţa, dispunînd ridicarea măsurii prevăzute în art. 105, poate, dacă este cazul, să ia faţă de minor măsura internării într-un centru de reeducare.
-La data cînd minorul devine major, instanţa poate dispune prelungirea internării pe o durată de cel mult 2 ani, dacă aceasta este necesară pentru realizarea scopului internării.
+Măsurile prevăzute în art. 104 şi 105 se iau pe timp nedeterminat, însă nu pot dura decît până la împlinirea virstei de 18 ani. Măsura prevăzută în art. 105 trebuie să fie ridicată de îndată ce a dispărut cauza care a impus luarea acesteia. Instanţa, dispunind ridicarea măsurii prevăzute în art. 105, poate, dacă este cazul, sa ia faţă de minor măsura internării într-un centru de reeducare.
+La data când minorul devine major, instanţa poate dispune prelungirea internării pe o durată de cel mult 2 ani, dacă aceasta este necesară pentru realizarea scopului internării.
+Liberarea minorului înainte de a deveni major
 
 Articolul 107
 
-Liberarea minorului înainte de a deveni major
-Dacă a trecut cel puţin un an de la data internării în centrul de reeducare şi minorul a dat dovezi temeinice de îndreptare, de sîrguinţă la învăţătură şi la însuşirea pregătirii profesionale, se poate dispune liberarea acestuia înainte de a deveni major.
+Dacă a trecut cel puţin un an de la data internării în centrul de reeducare şi minorul a dat dovezi temeinice de îndreptare, de sârguinţa la învăţătura şi la însuşirea pregătirii profesionale, se poate dispune liberarea acestuia înainte de a deveni major.
+Revocarea liberării sau internării minorului
 
 Articolul 108
 
-Revocarea liberării sau internării minorului
 Dacă în perioada liberării acordate potrivit articolului precedent, minorul are o purtare necorespunzătoare, se poate dispune revocarea liberării.
-Dacă în perioada internării într-un centru de reeducare sau într-un institut medical-educativ ori a liberării înainte de a deveni major, minorul săvîrşeşte din nou o infracţiune pentru care se apreciază că este cazul să i se aplice pedeapsa închisorii, instanţa revocă internarea. În cazul cînd nu este necesară o pedeapsă, se menţine măsura internării şi se revocă liberarea.
+Dacă în perioada internării într-un centru de reeducare sau într-un institut medical-educativ ori a liberării înainte de a deveni major, minorul săvârşeşte din nou o infracţiune pentru care se apreciază ca este cazul sa i se aplice pedeapsa închisorii, instanţa revoca internarea. În cazul când nu este necesară o pedeapsă, se menţine măsura internării şi se revoca liberarea.
+Pedepsele pentru minori
 
 Articolul 109
 
-Pedepsele pentru minori
-Pedepsele ce se pot aplica minorului sînt închisoarea sau amenda prevăzute de lege pentru infracţiunea săvîrşită. Limitele acestor pedepse se reduc cu o treime. În urma reducerii, în nici un caz minimul pedepsei nu va depăşi 5 ani.
-Cînd legea prevede pentru infracţiunea săvîrşită pedeapsa cu moartea, se aplică minorului închisoarea de la 5 la 20 ani.
+Pedepsele ce se pot aplica minorului sunt închisoarea sau amenda prevăzute de lege pentru infracţiunea săvârşită. Limitele pedepselor se reduc la jumătate. În urma reducerii, în nici un caz minimul pedepsei nu va depăşi 5 ani.
+Când legea prevede pentru infracţiunea săvârşită pedeapsa detenţiunii pe viaţa, se aplică minorului închisoarea de la 5 la 20 de ani.
 Pedepsele complimentare nu se aplică minorului.
-Condamnările pronunţate pentru fapte săvîrşite în timpul minorităţii nu atrag incapacităţi sau decăderi.
+Condamnările pronunţate pentru fapte săvârşite în timpul minorităţii nu atrag incapacităţi sau decăderi.
+Suspendarea condiţionată a executării pedepsei
 
 Articolul 110
 
-Suspendarea condiţionată a executării pedepsei
-În caz de suspendare condiţionată a executării pedepsei aplicate minorului, termenul de încercare se compune din durata pedepsei închisorii, la care se adaugă un interval de timp de la 6 luni la 2 ani, fixat de instanţă. Dacă pedeapsa aplicată este amenda, termenul de încercare este de 6 luni.
-Odată cu suspendarea condiţionată a executării pedepsei se poate dispune încredinţarea supravegherii minorului unei persoane sau instituţii din cele arătate în art. 103, căreia îi revin obligaţiile prevăzute de acelaşi articol. Această măsura nu poate dura decît pînă la împlinirea vîrstei de 18 ani.
+În caz de suspendare condiţionată a executării pedepsei aplicate minorului, termenul de încercare se compune din durata pedepsei închisorii, la care se adauga un interval de timp de la 6 luni la 2 ani, fixat de instanţa. Dacă pedeapsa aplicată este amenda, termenul de încercare este de 6 luni.
+Suspendarea executării pedepsei sub supraveghere sau sub control
 
-Titlul VI MĂSURILE DE SIGURANŢĂ
+Articolul 110^1
+
+O dată cu suspendarea condiţionată a executării pedepsei închisorii aplicate minorului în condiţiile art. 110, instanţa poate dispune, pe durata termenului de încercare, dar până la împlinirea virstei de 18 ani, încredinţarea supravegherii minorului unei persoane sau instituţii din cele arătate în art. 103, putind stabili, totodată, pentru minor una sau mai multe obligaţii dintre cele prevăzute în art. 103 alin. 3, iar după împlinirea virstei de 18 ani, respectarea de către acesta a măsurilor de supraveghere ori a obligaţiilor prevăzute în art. 86^3.
+Dispoziţiile art. 81 alin. 3 şi 4, art. 82 alin. 3, art. 83, 84 şi 86 se aplică în mod corespunzător.
+Sustragerea minorului de la îndeplinirea obligaţiilor prevăzute în art. 103 alin. 3 poate atrage revocarea suspendării condiţionate. În cazul neîndeplinirii măsurilor de supraveghere ori a obligaţiilor stabilite de instanţa, potrivit art. 86^3, se aplică în mod corespunzător dispoziţiile art. 86^4 alin. 2.
+Dispoziţiile alineatelor precedente se aplică în mod corespunzător şi în caz de liberare condiţionată a minorului.
+
+Titlul VI MĂSURILE DE SIGURANTA
 
 
-Capitolul I DISPOZIŢII GENERALE
+Capitolul 1 DISPOZIŢII GENERALE
 
+Scopul măsurilor de siguranţă
 
 Articolul 111
 
-Scopul măsurilor de siguranţă
-Măsurile de siguranţă au ca scop înlăturarea unei stări de pericol şi preîntîmpinarea săvîrşirii faptelor prevăzute de legea penală.
+Măsurile de siguranţă au ca scop înlăturarea unei stări de pericol şi preintimpinarea săvârşirii faptelor prevăzute de legea penală.
 Măsurile de siguranţă se iau faţă de persoanele care au comis fapte prevăzute de legea penală.
-Măsurile de siguranţă se pot lua chiar dacă făptuitorului nu i se aplică o pedeapsă, cu excepţia măsurii prevăzute în art. 112 lit. d.
+Măsurile de siguranţă se pot lua chiar dacă făptuitorului nu i se aplică o pedeapsă, cu excepţia măsurii prevăzute în art. 112 lit. d).
+Felurile măsurilor de siguranţă
 
 Articolul 112
 
-Felurile măsurilor de siguranţă
-Măsurile de siguranţă sînt:
+Măsurile de siguranţă sunt:
 a) obligarea la tratament medical;
 b) internarea medicală;
-c) interzicerea de a ocupa o funcţie sau de a exercita o profesie, o meserie ori o altă ocupaţie;
+c) interzicerea de a ocupa o funcţie sau de a exercita o profesie, o meserie ori o alta ocupaţie;
 d) interzicerea de a se afla în anumite localităţi;
 e) expulzarea străinilor;
 f) confiscarea specială.
 
-Capitolul II REGIMUL MĂSURILOR DE SIGURANŢĂ
+Capitolul 2 REGIMUL MĂSURILOR DE SIGURANTA
 
+Obligarea la tratament medical
 
 Articolul 113
 
-Obligarea la tratament medical
-Dacă făptuitorul, din cauza unei boli ori a intoxicării cronice prin alcool, stupefiante sau alte asemenea substanţe, prezintă pericol pentru societate, poate fi obligat a se prezenta în mod regulat la tratament medical pînă la însănătoşire.
-Cînd persoana faţă de care s-a luat această măsură nu se prezintă regulat la tratament, se poate dispune internarea medicală.
-Dacă persoana obligată la tratament este condamnată la pedeapsa închisorii, tratamentul se efectuează şi în timpul executării pedepsei.
-Măsura obligării la tratament medical poate fi luată în mod provizoriu şi în cursul urmăririi penale sau al judecăţii.
+Dacă făptuitorul, din cauza unei boli ori a intoxicării cronice prin alcool, stupefiante sau alte asemenea substanţe, prezintă pericol pentru societate, poate fi obligat a se prezenta în mod regulat la tratament medical până la însănătoşire.
+Când persoana faţă de care s-a luat această măsură nu se prezintă regulat la tratament, se poate dispune internarea medicală.
+Dacă persoana obligată la tratament este condamnata la pedeapsa detenţiunii pe viaţa sau la pedeapsa închisorii, tratamentul se efectuează şi în timpul executării pedepsei.
+Măsura obligării la tratament medical poate fi luată în mod provizoriu şi în cursul urmăririi penale sau al judecaţii.
+Internarea medicală
 
 Articolul 114
 
-Internarea medicală
-Cînd făptuitorul este bolnav mintal ori toxicoman şi se află într-o stare care prezintă pericol pentru societate, se poate lua măsura internării într-un institut medical de specialitate, pînă la însănătoşire.
-Această măsură poate fi luată în mod provizoriu şi în cursul urmăririi penale sau al judecăţii.
+Când făptuitorul este bolnav mintal ori toxicoman şi se afla într-o stare care prezintă pericol pentru societate, se poate lua măsura internării într-un institut medical de specialitate, până la însănătoşire.
+Aceasta măsura poate fi luată în mod provizoriu şi în cursul urmăririi penale sau al judecaţii.
+Interzicerea unei funcţii sau profesii
 
 Articolul 115
 
-Interzicerea unei funcţii sau profesii
-Cînd făptuitorul a săvîrşit fapta datorită incapacităţii, nepregătirii sau altor cauze care îl fac impropriu pentru ocuparea unei anumite funcţii, ori pentru exercitarea unei profesii, meserii sau altei ocupaţii, se poate lua măsura interzicerii de a ocupa acea funcţie sau de a exercita acea profesie, meserie ori ocupaţie.
-Această măsură poate fi revocată la cerere, după trecerea unui termen de cel puţin un an, dacă se constată că temeiurile care au impus luarea ei au încetat. O nouă cerere nu se poate face decît după trecerea unui termen de cel puţin un an de la data respingerii cererii anterioare.
+Când făptuitorul a savirsit fapta datorită incapacităţii, nepregătirii sau altor cauze care îl fac impropriu pentru ocuparea unei anumite funcţii, ori pentru exercitarea unei profesii, meserii sau altei ocupaţii, se poate lua măsura interzicerii de a ocupa acea funcţie sau de a exercita acea profesie, meserie ori ocupaţie.
+Aceasta măsura poate fi revocată la cerere, după trecerea unui termen de cel puţin un an, dacă se constată că temeiurile care au impus luarea ei au încetat. O noua cerere nu se poate face decît după trecerea unui termen de cel puţin un an de la data respingerii cererii anterioare.
+Interzicerea de a se afla în anumite localităţi
 
 Articolul 116
 
-Interzicerea de a se afla în anumite localităţi
-Cînd persoana condamnată la pedeapsa închisorii de cel puţin un an a mai fost condamnată pentru alte infracţiuni, dacă instanţa constată că prezenţa acesteia în localitatea unde a săvîrşit infracţiunea sau în alte localităţi constituie un pericol grav pentru societate, poate lua faţă de această persoană măsura interzicerii de a se afla în acea localitate sau în alte localităţi anume determinate prin hotărîrea de condamnare.
-Condiţia ca făptuitorul să fi fost condamnat anterior pentru alte infracţiuni nu se cere, cînd se pronunţă o condamnare mai mare de 5 ani.
-Această măsură poate fi luată pe o durată pînă la 5 ani şi poate fi prelungită dacă pericolul social subzistă. Prelungirea nu poate depăşi durata măsurii luate iniţial.
-Măsura de siguranţă poate fi revocată la cerere sau din oficiu, după trecerea unui termen de cel puţin un an, dar numai dacă temeiurile care au impus luarea ei au încetat. O nouă cerere nu se poate face decît după trecerea unui termen de cel puţin un an de la data respingerii cererii anterioare.
+Când persoana condamnata la pedeapsa închisorii de cel puţin un an a mai fost condamnata pentru alte infracţiuni, dacă instanţa constata ca prezenta acesteia în localitatea unde a savirsit infracţiunea sau în alte localităţi constituie un pericol grav pentru societate, poate lua faţă de aceasta persoana măsura interzicerii de a se afla în acea localitate sau în alte localităţi anume determinate prin hotărârea de condamnare.
+Condiţia ca făptuitorul sa fi fost condamnat anterior pentru alte infracţiuni nu se cere, când se pronunţa o condamnare mai mare de 5 ani.
+Aceasta măsura poate fi luată pe o durată până la 5 ani şi poate fi prelungită dacă pericolul social subzistă. Prelungirea nu poate depăşi durata măsurii luate iniţial.
+În cazul infracţiunilor de furt, tilharie, specula, ultraj contra bunelor moravuri şi tulburarea liniştii publice, cerşetorie, prostituţie, viol, relaţii sexuale între persoane de acelaşi sex şi perversiune sexuală, măsura de siguranţă poate fi luată oricare ar fi pedeapsa aplicată, durata sau cuantumul acesteia şi chiar dacă făptuitorul nu a mai fost condamnat anterior pentru alte infracţiuni.
+Măsura de siguranţă poate fi revocată la cerere sau din oficiu, după trecerea unui termen de cel puţin un an, dar numai dacă temeiurile care au impus luarea ei au încetat. O noua cerere nu se poate face decît după trecerea unui termen de cel puţin un an de la data respingerii cererii anterioare.
+Expulzarea
 
 Articolul 117
 
-Expulzarea
-Cetăţeanului străin care a comis o infracţiune i se poate interzice rămînerea pe teritoriul ţării.
-Dispoziţia alineatului precedent se aplică şi persoanei fără cetăţenie care nu are domiciliu în ţară.
+Cetăţeanului străin care a comis o infracţiune i se poate interzice rămînerea pe teritoriul tarii.
+Dispoziţia alineatului precedent se aplică şi persoanei fără cetăţenie care nu are domiciliu în ţara.
 În cazul în care expulzarea însoţeşte pedeapsa închisorii, aducerea la îndeplinire a expulzării are loc după executarea pedepsei.
+Persoanele prevăzute în prezentul articol nu vor fi expulzate dacă exista motive serioase de a se crede ca risca să fie supuse la tortura în statul în care urmează a fi expulzate.
+Confiscarea specială
 
 Articolul 118
 
-Confiscarea specială
-Sînt supuse confiscării speciale:
+Sunt supuse confiscării speciale:
 a) lucrurile produse prin fapta prevăzută de legea penală;
-b) lucrurile care au servit sau care au fost destinate să servească la săvîrşirea unei infracţiuni, dacă sînt ale infractorului;
-c) lucrurile care au fost date pentru a determina săvîrşirea unei infracţiuni sau pentru a răsplăti pe infractor;
-d) lucrurile dobîndite în mod vădit prin săvîrşirea infracţiunii, dacă nu sînt restituite persoanei vătămate şi în măsura în care nu servesc la despăgubirea acesteia;
+b) lucrurile care au servit sau care au fost destinate se servească la săvârşirea unei infracţiuni, dacă sunt ale infractorului;
+c) lucrurile care au fost date pentru a determina săvârşirea unei infracţiuni sau pentru a rasplati pe infractor;
+d) lucrurile dobîndite în mod vadit prin săvârşirea infracţiunii, dacă nu sunt restituite persoanei vătămate şi în măsura în care nu servesc la despăgubirea acesteia;
 e) lucrurile deţinute în contra dispoziţiilor legale.
 
-Titlul VII CAUZELE CARE ÎNLĂTURĂ RĂSPUNDEREA PENALĂ SAU CONSECINŢELE CONDAMNĂRII
+Titlul VII CAUZELE CARE INLATURA RĂSPUNDEREA PENALĂ SAU CONSECINŢELE CONDAMNĂRII
 
 
-Capitolul I AMNISTIA ŞI GRAŢIEREA
+Capitolul 1 AMNISTIA ŞI GRAŢIEREA
 
+Efectele amnistiei
 
 Articolul 119
 
-Efectele amnistiei
-Amnistia înlătură răspunderea penală pentru fapta săvîrşită. Dacă intervine după condamnare, ea înlătură şi executarea pedepsei pronunţate, precum şi celelalte consecinţe ale condamnării. Amenda încasată anterior amnistiei nu se restituie.
-Amnistia are efecte asupra confiscării averii numai în măsura în care această pedeapsă nu a fost încă executată.
+Amnistia inlatura răspunderea penală pentru fapta săvârşită. Dacă intervine după condamnare, ea inlatura şi executarea pedepsei pronunţate, precum şi celelalte consecinţe ale condamnării. Amenda încasată anterior amnistiei nu se restituie.
 Amnistia nu are efecte asupra măsurilor de siguranţă, măsurilor educative şi asupra drepturilor persoanei vătămate.
+Efectele graţierii
 
 Articolul 120
 
-Efectele graţierii
 Graţierea are ca efect înlăturarea, în totul sau în parte, a executării pedepsei ori comutarea acesteia în alta mai uşoară.
-Graţierea are efecte şi asupra pedepselor a căror executare este suspendată condiţionat. În acest caz, partea din termenul de încercare care reprezintă durata pedepsei pronunţate de instanţă se reduce în mod corespunzător. Dacă suspendarea condiţionată este revocată sau anulată, se execută numai partea de pedeapsă rămasă negraţiată.
-Graţierea nu are efecte asupra pedepselor complimentare, afară de cazul cînd se dispune altfel prin actul de graţiere.
-În cazul comutării pedepsei cu moartea în pedeapsa închisorii, se aplică cu privire la pedeapsa complimentară privativă de drepturi dispoziţiile art. 55 alin. 3.
+Graţierea are efecte şi asupra pedepselor a căror executare este suspendată condiţionat. În acest caz, partea din termenul de încercare care reprezintă durata pedepsei pronunţate de instanţa se reduce în mod corespunzător. Dacă suspendarea condiţionată este revocată sau anulată, se executa numai partea de pedeapsa rămasă negraţiată.
+Graţierea nu are efecte asupra pedepselor complimentare, afară de cazul când se dispune altfel prin actul de graţiere.
 Graţierea nu are efecte asupra măsurilor de siguranţă şi măsurilor educative.
 
-Capitolul II PRESCRIPŢIA
+Capitolul 2 PRESCRIPŢIA
 
+Prescripţia răspunderii penale
 
 Articolul 121
 
-Prescripţia răspunderii penale
-Prescripţia înlătură răspunderea penală.
-Prescripţia nu înlătură răspunderea penală în cazul infracţiunilor contra păcii şi omenirii.
+Prescripţia inlatura răspunderea penală.
+Prescripţia nu inlatura răspunderea penală în cazul infracţiunilor contra păcii şi omenirii.
+Termenele de prescripţie a răspunderii penale
 
 Articolul 122
 
-Termenele de prescripţie a răspunderii penale
-Termenele de prescripţie a răspunderii penale sînt:
-a) 15 ani, cînd legea prevede pentru infracţiunea săvîrşită pedeapsa cu moartea sau pedeapsa închisorii mai mare de 15 ani;
-b) 10 ani, cînd legea prevede pentru infracţiunea săvîrşită pedeapsa închisorii mai mare de 10 ani, dar care nu depăşeşte 15 ani;
-c) 8 ani, cînd legea prevede pentru infracţiunea săvîrşită pedeapsa închisorii mai mare de 5 ani, dar care nu depăşeşte 10 ani;
-d) 5 ani, cînd legea prevede pentru infracţiunea săvîrşită pedeapsa închisorii mai mare de un an, dar care nu depăşeşte 5 ani;
-e) 3 ani, cînd legea prevede pentru infracţiunea săvîrşită pedeapsa închisorii care nu depăşeşte un an sau amenda.
-Termenele arătate în prezentul articol se socotesc de la data săvîrşirii infracţiunii. În cazul infracţiunilor continue termenul curge de la data încetării acţiunii sau inacţiunii, iar în cazul infracţiunilor continuate, de la data săvîrşirii ultimei acţiuni sau inacţiuni.
+Termenele de prescripţie a răspunderii penale sunt:
+a) 15 ani, când legea prevede pentru infracţiunea săvârşită pedeapsa detenţiunii pe viaţa sau pedeapsa închisorii mai mare de 15 ani;
+b) 10 ani, când legea prevede pentru infracţiunea săvârşită pedeapsa închisorii mai mare de 10 ani, dar care nu depăşeşte 15 ani;
+c) 8 ani, când legea prevede pentru infracţiunea săvârşită pedeapsa închisorii mai mare de 5 ani, dar care nu depăşeşte 10 ani;
+d) 5 ani, când legea prevede pentru infracţiunea săvârşită pedeapsa închisorii mai mare de un an, dar care nu depăşeşte 5 ani;
+e) 3 ani, când legea prevede pentru infracţiunea săvârşită pedeapsa închisorii care nu depăşeşte un an sau amenda.
+Termenele arătate în prezentul articol se socotesc de la data săvârşirii infracţiunii. În cazul infracţiunilor continue termenul curge de la data încetării acţiunii sau inacţiunii, iar în cazul infracţiunilor continuate, de la data săvârşirii ultimei acţiuni sau inacţiuni.
+Întreruperea cursului prescripţiei
 
 Articolul 123
 
-Întreruperea cursului prescripţiei
 Cursul termenului prescripţiei prevăzute în art. 122 se întrerupe prin îndeplinirea oricărui act care, potrivit legii, trebuie comunicat învinuitului sau inculpatului în desfăşurarea procesului penal.
 După fiecare întrerupere începe să curgă un nou termen de prescripţie.
-Întreruperea cursului prescripţiei produce efecte faţă de toţi participanţii la infracţiune chiar dacă actul de întrerupere priveşte numai pe unii dintre ei.
+Întreruperea cursului prescripţiei produce efecte faţă de toţi participanţii la infracţiune, chiar dacă actul de întrerupere priveşte numai pe unii dintre ei.
+Prescripţia specială
 
 Articolul 124
 
-Prescripţia specială
-Prescripţia înlătură răspunderea penală oricîte întreruperi ar interveni, dacă termenul de prescripţie prevăzut în art. 122 este depăşit cu încă jumătate.
+Prescripţia inlatura răspunderea penală oricâte întreruperi ar interveni, dacă termenul de prescripţie prevăzut în art. 122 este depăşit cu încă jumătate.
+Prescripţia executării pedepsei
 
 Articolul 125
 
-Prescripţia executării pedepsei
-Prescripţia înlătură executarea pedepsei principale.
-Prescripţia nu înlătură executarea pedepselor principale pronunţate pentru infracţiunile contra păcii şi omenirii.
+Prescripţia inlatura executarea pedepsei principale.
+Prescripţia nu inlatura executarea pedepselor principale pronunţate pentru infracţiunile contra păcii şi omenirii.
+Termenele de prescripţie a executării pedepsei
 
 Articolul 126
 
-Termenele de prescripţie a executării pedepsei
-Termenele de prescripţie a executării pedepsei sînt:
-a) 20 de ani, cînd pedeapsa care urmează a fi executată este închisoarea mai mare de 15 ani;
+Termenele de prescripţie a executării pedepsei sunt:
+a) 20 de ani, când pedeapsa care urmează a fi executată este detenţiunea pe viaţa sau închisoarea mai mare de 15 ani;
 b) 5 ani, plus durata pedepsei ce urmează a fi executată, dar nu mai mult de 15 ani, în cazul celorlalte pedepse cu închisoarea;
-c) 3 ani, în cazul cînd pedeapsa este amenda.
-Termenul de prescripţie a executării sancţiunilor cu caracter administrativ prevăzute în art. 92 este de un an.
-Termenele arătate în alineatele precedente se socotesc de la data cînd hotărîrea de condamnare a rămas definitivă.
-În cazul revocării suspendării condiţionate a executării pedepsei, termenul de prescripţie începe să curgă de la data cînd hotărîrea de revocare a rămas definitivă.
+c) 3 ani, în cazul când pedeapsa este amenda.
+Termenul de prescripţie a executării sancţiunilor cu caracter administrativ prevăzute în art. 18^1 şi în art. 91 este de un an.
+Termenele arătate în alin. 1 se socotesc de la data când hotărârea de condamnare a rămas definitivă, iar cele arătate în alin. 2 curg de la rămînerea definitivă a hotărârii sau, după caz, de la data când poate fi pusă în executare, potrivit legii, ordonanţa prin care s-a aplicat sancţiunea.
+În cazul revocării suspendării condiţionate a executării pedepsei, a suspendării executării pedepsei sub supraveghere sau, după caz, a executării pedepsei la locul de muncă, termenul de prescripţie începe să curgă de la data când hotărârea de revocare a rămas definitivă.
 Măsurile de siguranţă nu se prescriu.
+Întreruperea cursului prescripţiei executării
 
 Articolul 127
 
-Întreruperea cursului prescripţiei executării
-Cursul termenului prescripţiei prevăzute în art. 126 se întrerupe prin începerea executării pedepsei sau prin săvîrşirea din nou a unei infracţiuni.
+Cursul termenului prescripţiei prevăzute în art. 126 se întrerupe prin începerea executării pedepsei sau prin săvârşirea din nou a unei infracţiuni.
 Sustragerea de la executare, după începerea executării pedepsei, face să curgă un nou termen de prescripţie de la data sustragerii.
+Suspendarea cursului prescripţiei
 
 Articolul 128
 
-Suspendarea cursului prescripţiei
-Cursul termenului prescripţiei prevăzute în art. 122 este suspendat pe timpul cît o dispoziţie legală sau o împrejurare de neprevăzut ori de neînlăturat împiedică punerea în mişcare a acţiunii penale sau continuarea procesului penal.
-Cursul termenului prescripţiei prevăzute în art. 126 este suspendat în cazurile şi condiţiile prevăzute în codul de procedură penală.
+Cursul termenului prescripţiei prevăzute în art. 122 este suspendat pe timpul cît o dispoziţie legală sau o împrejurare de neprevăzut ori de neînlăturat împiedica punerea în mişcare a acţiunii penale sau continuarea procesului penal.
+Cursul termenului prescripţiei prevăzute în art. 126 este suspendat în cazurile şi condiţiile prevăzute în Codul de procedură penală.
 Prescripţia îşi reia cursul din ziua în care a încetat cauza de suspendare.
+Termenele de prescripţie pentru minori
 
 Articolul 129
 
-Termenele de prescripţie pentru minori
-Termenele de prescripţie a răspunderii penale şi a executării pedepsei se reduc la jumătate pentru cei care la data săvîrşirii infracţiunii erau minori.
+Termenele de prescripţie a răspunderii penale şi a executării pedepsei se reduc la jumătate pentru cei care la data săvârşirii infracţiunii erau minori.
+Prescripţia executării pedepsei care a înlocuit pedeapsa detenţiunii pe viaţa
 
 Articolul 130
 
-Prescripţia executării pedepsei care a înlocuit pedeapsa cu moartea
-Executarea pedepsei închisorii, atunci cînd aceasta înlocuieşte pedeapsa cu moartea potrivit art. 55, se prescrie în 20 de ani. Termenul de prescripţie curge de la rămînerea definitivă a hotărîrii de condamnare la moarte.
+Executarea pedepsei închisorii, atunci când aceasta înlocuieşte pedeapsa detenţiunii pe viaţa, se prescrie în 20 de ani. Termenul de prescripţie curge de la rămînerea definitivă a hotărârii de condamnare la detenţiunea pe viaţa.
 
-Capitolul III LIPSA PLÎNGERII PREALABILE ŞI ÎMPĂCAREA PĂRŢILOR
+Capitolul 3 LIPSA PLINGERII PREALABILE ŞI ÎMPĂCAREA PĂRŢILOR
 
+Lipsa plingerii prealabile
 
 Articolul 131
 
-Lipsa plîngerii prealabile
-În cazul infracţiunilor pentru care punerea în mişcare a acţiunii penale este condiţionată de introducerea unei plîngeri prealabile de către persoana vătămată, lipsa acestei plîngeri înlătură răspunderea penală.
-Retragerea plîngerii prealabile, de asemenea, înlătură răspunderea penală.
+În cazul infracţiunilor pentru care punerea în mişcare a acţiunii penale este condiţionată de introducerea unei plângeri prealabile de către persoana vătămată, lipsa acestei plângeri inlatura răspunderea penală.
+Retragerea plingerii prealabile, de asemenea, inlatura răspunderea penală.
 Fapta care a adus vătămare mai multor persoane atrage răspunderea penală, chiar dacă plîngerea prealabilă s-a făcut sau se menţine numai de către una dintre ele.
-Fapta atrage răspunderea penală a tuturor participanţilor la săvîrşirea ei, chiar dacă plîngerea prealabilă s-a făcut sau se menţine cu privire numai la unul dintre ei.
-Plîngerea prealabilă nu este necesară în cazul în care cel vătămat este o persoană lipsită de capacitate de exerciţiu ori cu capacitate de exerciţiu restrînsă.
+Fapta atrage răspunderea penală a tuturor participanţilor la săvârşirea ei, chiar dacă plîngerea prealabilă s-a făcut sau se menţine cu privire numai la unul dintre ei.
+În cazul în care cel vătămat este o persoană lipsită de capacitate de exerciţiu ori cu capacitate de exerciţiu restrînsa, acţiunea penală se pune în mişcare şi din oficiu.
+Împăcarea părţilor
 
 Articolul 132
 
-Împăcarea părţilor
-Împăcarea părţilor în cazurile prevăzute de lege înlătură răspunderea penală şi stinge şi acţiunea civilă.
-Împăcarea este personală şi produce efecte numai dacă intervine pînă la rămînerea definitivă a hotărîrii.
-Pentru persoanele lipsite de capacitate de exerciţiu împăcarea se face numai de reprezentanţii lor legali. Cei cu capacitate de exerciţiu restrînsă se pot împăca cu încuviinţarea persoanelor prevăzute de lege.
+Împăcarea părţilor în cazurile prevăzute de lege inlatura răspunderea penală şi stinge şi acţiunea civilă.
+Împăcarea este personală şi produce efecte numai dacă intervine până la rămînerea definitivă a hotărârii.
+Pentru persoanele lipsite de capacitate de exerciţiu împăcarea se face numai de reprezentanţii lor legali. Cei cu capacitate de exerciţiu restrînsa se pot împacă cu încuviinţarea persoanelor prevăzute de lege. Împăcarea produce efecte şi în cazul în care acţiunea penală a fost pusă în mişcare din oficiu.
 
-Capitolul IV REABILITAREA
+Capitolul 4 REABILITAREA
 
+Efectele reabilitării
 
 Articolul 133
 
-Efectele reabilitării
-Reabilitarea face să înceteze decăderile şi interdicţiile precum şi incapacităţile care rezultă din condamnare.
-Reabilitarea nu are ca urmare obligaţia de reintegrare în funcţia din care infractorul a fost scos în urma condamnării, ori de rechemare în cadrele permanente ale armatei sau de redare a gradului militar pierdut.
-De asemenea, reabilitarea nu are efecte asupra măsurilor de siguranţă, cu excepţia celei prevăzute în art. 112 lit. d.
+Reabilitarea face sa înceteze decăderile şi interdicţiile, precum şi incapacităţile care rezultă din condamnare.
+Reabilitarea nu are ca urmare obligaţia de reintegrare în funcţia din care infractorul a fost scos în urma condamnării ori de rechemare în cadrele permanente ale forţelor armate sau de redare a gradului militar pierdut.
+De asemenea, reabilitarea nu are efecte asupra măsurilor de siguranţă, cu excepţia celei prevăzute în art. 112 lit. d).
+Reabilitarea de drept
 
 Articolul 134
 
-Reabilitarea de drept
-Reabilitarea are loc de drept în cazul condamnării la amendă sau la pedeapsa închisorii care nu depăşeşte un an, dacă în decurs de 3 ani condamnatul nu a săvîrşit nici o altă infracţiune.
-Reabilitarea de drept prevăzută în alineatul precedent nu are loc în cazul condamnării pentru infracţiuni contra avutului obştesc.
+Reabilitarea are loc de drept în cazul condamnării la amenda sau la pedeapsa închisorii care nu depăşeşte un an, dacă în decurs de 3 ani condamnatul nu a savirsit nici o alta infracţiune.
+Reabilitarea judecătorească
 
 Articolul 135
 
-Reabilitarea judecătorească
 Condamnatul poate fi reabilitat, la cerere, de instanţa judecătorească:
-a) în cazul condamnării la pedeapsa închisorii pînă la 5 ani pentru infracţiuni contra avutului obştesc, precum şi în cazul condamnării la pedeapsa închisorii mai mare de un an pînă la 5 ani pentru celelalte infracţiuni, după trecerea unui termen de 4 ani, la care se adaugă jumătate din durata pedepsei pronunţate;
-b) în cazul condamnării la pedeapsa închisorii mai mare de 5 ani pînă la 10 ani, după trecerea unui termen de 5 ani, la care se adaugă jumătate din durata pedepsei pronunţate;
-c) în cazul condamnării la pedeapsa închisorii mai mare de 10 ani, după trecerea unui termen de 7 ani, la care se adaugă jumătate din durata pedepsei pronunţate;
-d) în cazul pedepsei cu moartea comutate sau înlocuite cu pedeapsa închisorii, după trecerea unui termen de 7 ani, la care se adaugă jumătate din durata pedepsei cu închisoare.
-Procurorul General poate dispune, în cazuri excepţionale, reducerea termenelor prevăzute în acest articol.
+a) în cazul condamnării la pedeapsa închisorii mai mare de un an până la 5 ani, după trecerea unui termen de 4 ani, la care se adauga jumătate din durata pedepsei pronunţate;
+b) în cazul condamnării la pedeapsa închisorii mai mare de 5 ani până la 10 ani, după trecerea unui termen de 5 ani, la care se adauga jumătate din durata pedepsei pronunţate;
+c) în cazul condamnării la pedeapsa închisorii mai mare de 10 ani, după trecerea unui termen de 7 ani, la care se adauga jumătate din durata pedepsei pronunţate;
+d) în cazul pedepsei detenţiunii pe viaţa comutate sau înlocuite cu pedeapsa închisorii, după trecerea unui termen de 7 ani, la care se adauga jumătate din durata pedepsei cu închisoare.
+Procurorul general poate dispune, în cazuri excepţionale, reducerea termenelor prevăzute în acest articol.
+Calculul termenului de reabilitare
 
 Articolul 136
 
-Calculul termenului de reabilitare
-Termenele prevăzute în art. 134 şi 135 se socotesc de la data cînd a luat sfîrşit executarea pedepsei principale sau de la data cînd aceasta s-a prescris.
+Termenele prevăzute în art. 134 şi 135 se socotesc de la data când a luat sfârşit executarea pedepsei principale sau de la data când aceasta s-a prescris.
 Pentru cei condamnaţi la pedeapsa cu amendă termenul curge din momentul în care amenda a fost achitată sau executarea ei s-a stins în alt mod.
-În caz de graţiere totală sau de graţiere a restului de pedeapsă, termenul curge de la data actului de graţiere.
+În caz de graţiere totală sau de graţiere a restului de pedeapsa, termenul curge de la data actului de graţiere.
+Condiţiile reabilitării judecătoreşti
 
 Articolul 137
 
-Condiţiile reabilitării judecătoreşti
 Cererea de reabilitare judecătorească se admite dacă cel condamnat întruneşte următoarele condiţii:
-a) nu a suferit o nouă condamnare în intervalul prevăzut în art. 135;
-b) îşi are asigurată existenţa prin muncă sau prin alte mijloace oneste, precum şi în cazul cînd are vîrsta de a fi pensionat sau este incapabil de muncă;
-c) a avut o bună conduită;
-d) a achitat în întregime cheltuielile de judecată şi despăgubirile civile la plata cărora a fost obligat, afară de cazul cînd partea vătămată a renunţat la despăgubiri, sau cînd instanţa constată că cel condamnat şi-a îndeplinit în mod regulat obligaţiile privitoare la dispoziţiile civile din hotărîrea de condamnare.
-Cînd instanţa constată că nu este îndeplinită condiţia de la lit. d, dar aceasta nu se datoreşte relei-voinţe a condamnatului, poate dispune reabilitarea.
+a) nu a suferit o noua condamnare în intervalul prevăzut în art. 135;
+b) îşi are asigurata existenta prin munca sau prin alte mijloace oneste, precum şi în cazul când are vârsta de a fi pensionat sau este incapabil de muncă;
+c) a avut o buna conduita;
+d) a achitat în întregime cheltuielile de judecată şi despăgubirile civile la plata cărora a fost obligat, afară de cazul când partea vătămată a renunţat la despăgubiri, sau când instanţa constata ca cel condamnat şi-a îndeplinit în mod regulat obligaţiile privitoare la dispoziţiile civile din hotărârea de condamnare.
+Când instanţa constata că nu este îndeplinită condiţia de la lit. d), dar aceasta nu se datoreşte relei-voinţe a condamnatului, poate dispune reabilitarea.
+Reînnoirea cererii de reabilitare
 
 Articolul 138
 
-Reînnoirea cererii de reabilitare
-În caz de respingere a cererii de reabilitare, nu se poate face o nouă cerere decît după un termen de 3 ani, în cazul condamnării la pedeapsa închisorii mai mare de 10 ani, după un termen de 2 ani în cazul condamnării la pedeapsa închisorii mai mare de 5 ani şi după un termen de un an în celelalte cazuri; aceste termene se socotesc de la data respingerii cererii.
+În caz de respingere a cererii de reabilitare, nu se poate face o noua cerere decît după un termen de 3 ani, în cazul condamnării la pedeapsa închisorii mai mare de 10 ani, după un termen de 2 ani în cazul condamnării la pedeapsa închisorii mai mare de 5 ani şi după un termen de un an în celelalte cazuri; aceste termene se socotesc de la data respingerii cererii.
 Condiţiile arătate în art. 137 trebuie să fie îndeplinite şi pentru intervalul de timp care a precedat noua cerere.
-Cînd respingerea cererii se bazează pe lipsă de forme, ea poate fi reînnoită potrivit dispoziţiilor codului de procedură penală.
+Când respingerea cererii se bazează pe lipsa de forme, ea poate fi reînnoită potrivit dispoziţiilor Codului de procedura penală.
+Anularea reabilitării
 
 Articolul 139
 
-Anularea reabilitării
-Reabilitarea judecătorească va fi anulată cînd după acordarea ei s-a descoperit că cel reabilitat mai suferise o altă condamnare, care dacă ar fi fost cunoscută, ducea la respingerea cererii de reabilitare.
+Reabilitarea judecătorească va fi anulată când după acordarea ei s-a descoperit ca cel reabilitat mai suferise o alta condamnare, care dacă ar fi fost cunoscută, ducea la respingerea cererii de reabilitare.
 
 Titlul VIII ÎNŢELESUL UNOR TERMENI SAU EXPRESII ÎN LEGEA PENALĂ
 
+Dispoziţii generale
 
 Articolul 140
 
-Dispoziţii generale
-Ori de cîte ori legea penală foloseşte un termen sau o expresie din cele arătate în prezentul titlu, înţelesul acestora este cel prevăzut în articolele următoare, afară de cazul cînd legea penală dispune altfel.
+Ori de cîte ori legea penală foloseşte un termen sau o expresie din cele arătate în prezentul titlu, înţelesul acestora este cel prevăzut în articolele următoare, afară de cazul când legea penală dispune altfel.
+Legea penală
 
 Articolul 141
 
-Legea penală
 Prin "lege penală" se înţelege orice dispoziţie cu caracter penal cuprinsă în legi sau decrete.
+Teritoriul
 
 Articolul 142
 
-Teritoriul
-Prin termenul "teritoriu" din expresiile "teritoriul României" şi "teritoriul ţării" se înţelege întinderea de pămînt şi apele cuprinse între frontiere, cu subsolul şi spaţiul aerian, precum şi marea teritorială cu solul, subsolul şi spaţiul aerian ale acesteia.
+Prin termenul "teritoriu" din expresiile "teritoriul României" şi "teritoriul tarii" se înţelege întinderea de pământ şi apele cuprinse între frontiere, cu subsolul şi spaţiul aerian, precum şi marea teritorială cu solul, subsolul şi spaţiul aerian ale acesteia.
+Infracţiunea săvârşită pe teritoriul tarii
 
 Articolul 143
 
-Infracţiune săvîrşită pe teritoriul ţării
-Prin "infracţiune săvîrşită pe teritoriul ţării" se înţelege orice infracţiune comisă pe teritoriul arătat în art. 142 sau pe o navă ori o aeronavă română.
-Infracţiunea se consideră săvîrşită pe teritoriul ţării şi atunci cînd pe acest teritoriu ori pe o navă sau aeronavă română s-a efectuat numai un act de executare ori s-a produs rezultatul infracţiunii.
+Prin "infracţiune săvârşită pe teritoriul tarii" se înţelege orice infracţiune comisă pe teritoriul arătat în art. 142 sau pe o nava ori o aeronava română.
+Infracţiunea se considera săvârşită pe teritoriul tarii şi atunci când pe acest teritoriu ori pe o nava sau aeronava română s-a efectuat numai un act de executare ori s-a produs rezultatul infracţiunii.
+Săvârşirea unei infracţiuni
 
 Articolul 144
 
-Săvîrşirea unei infracţiuni
-Prin "săvîrşirea unei infracţiuni" sau "comiterea unei infracţiuni" se înţelege săvîrşirea oricăreia dintre faptele pe care legea le pedepseşte ca infracţiune consumată sau ca tentativă, precum şi participarea la comiterea acestora ca autor, instigator sau complice.
+Prin "săvârşirea unei infracţiuni" sau "comiterea unei infracţiuni" se înţelege săvârşirea oricăreia dintre faptele pe care legea le pedepseşte ca infracţiune consumată sau ca tentativa, precum şi participarea la comiterea acestora ca autor, instigator sau complice.
+Public
 
 Articolul 145
 
-Obştesc
-Prin termenul "obştesc" se înţelege tot ce interesează organizaţiile de stat, organizaţiile obşteşti sau orice organizaţii care desfăşoară o activitate utilă din punct de vedere social şi care funcţionează potrivit legii.
+Prin termenul "public" se înţelege tot ce priveşte autorităţile publice, instituţiile publice, instituţiile sau alte persoane juridice de interes public, administrarea, folosirea sau exploatarea bunurilor proprietate publică, serviciile de interes public, precum şi bunurile de orice fel care, potrivit legii, sunt de interes public.
+Consecinţe deosebit de grave
 
 Articolul 146
 
-Consecinţe grave şi consecinţe deosebit de grave
-Infracţiunile cuprinse în partea specială, Titlurile III şi IV, se consideră că au avut "consecinţe grave" sau "consecinţe deosebit de grave", atunci cînd au produs pagube materiale mari, au avut repercursiuni asupra realizării planului de stat sau al unităţii, au produs o stînjenire importantă activităţii unităţii ori au cauzat alte asemenea urmări.
+Prin "consecinţe deosebit de grave" se înţelege o paguba materială mai mare de 50.000.000 lei sau o perturbare deosebit de grava a activităţii, cauzată unei autorităţi publice sau oricăreia dintre unităţile la care se referă art. 145 ori altei persoane juridice sau fizice.
+Funcţionar public şi funcţionar 
 
 Articolul 147
 
-Funcţionar
-Prin "funcţionar" se înţelege orice salariat care exercită, permanent sau temporar, cu orice titlu, indiferent dacă şi cum a fost investit, o însărcinare în serviciul unui organ sau instituţii de stat, ori unei întreprinderi sau organizaţii economice de stat.
-Sînt asimilate cu funcţionarii persoanele care îndeplinesc o însărcinare în serviciul unei organizaţii din cele prevăzute în alin. 1, indiferent dacă primesc sau nu o retribuţie.
+Prin "funcţionar public" se înţelege orice persoană care exercită permanent sau temporar, cu orice titlu, indiferent cum a fost investită, o însărcinare de orice natura, retribuită sau nu, în serviciul unei unităţi dintre cele la care se referă art. 145.
+Prin "funcţionar" se înţelege persoana menţionată în alin. 1, precum şi orice salariat care exercită o însărcinare în serviciul unei alte persoane juridice decît cele prevăzute în acel alineat.
 
 Articolul 148
 
-Alţi salariaţi
-Prin "alţi salariaţi" se înţeleg salariaţii care exercită, în condiţiile art. 147 alin. 1, o însărcinare în serviciul uneia dintre celelalte organizaţii prevăzute în art. 145.
-Sînt asimilate cu "alţi salariaţi" persoanele care îndeplinesc o însărcinare în serviciul unei organizaţii din cele prevăzute în alin. 1, indiferent dacă primesc sau nu o retribuţie.
+Abrogat.
+Rude apropiate
 
 Articolul 149
 
-Rude apropiate
-"Rude apropiate" sînt ascendenţii şi descendenţii, fraţii şi surorile, copiii acestora, precum şi persoanele devenite prin înfiere, potrivit legii, astfel de rude.
-Dispoziţiile din legea penală privitoare la rude apropiate, în limitele prevăzute de alineatul precedent, se aplică în caz de înfiere cu efecte depline, persoanei înfiate cît şi descendenţilor acesteia şi în raport cu rudele fireşti, iar în caz de înfiere cu efecte restrînse, înfiatului cît şi descendenţilor acestuia şi în raport cu rudele înfietorului.
+"Rude apropiate" sunt ascendenţii şi descendenţii, fraţii şi surorile, copiii acestora, precum şi persoanele devenite prin înfiere, potrivit legii, astfel de rude.
+Dispoziţiile din legea penală privitoare la rude apropiate, în limitele prevăzute de alineatul precedent, se aplică în caz de înfiere cu efecte depline, persoanei înfiate cît şi descendenţilor acesteia şi în raport cu rudele fireşti, iar în caz de înfiere cu efecte restrânse, înfiatului cît şi descendenţilor acestuia şi în raport cu rudele înfietorului.
+Secrete de stat şi înscrisuri oficiale
 
 Articolul 150
 
-Secrete de stat şi înscrisuri oficiale
-"Secrete de stat" sînt documentele şi datele care prezintă în mod vădit acest caracter, precum şi cele declarate sau calificate astfel prin hotărîre a Consiliului de Miniştri.
-"Înscris oficial" este orice înscris care emană de la o organizaţie din cele prevăzute în art. 145, sau care aparţine unei asemenea organizaţii.
+"Secrete de stat" sunt documentele şi datele care prezintă în mod vadit acest caracter, precum şi cele declarate sau calificate astfel prin hotărâre a Guvernului.
+"Înscris oficial" este orice înscris care emana de la o unitate din cele la care se referă art. 145 sau care aparţine unei asemenea unităţi.
+Arme
 
 Articolul 151
 
-Arme
-"Arme" sînt instrumentele, piesele sau dispozitivele astfel declarate prin dispoziţii legale.
-Sînt asimilate armelor orice alte obiecte de natură a putea fi folosite ca arme şi care au fost întrebuinţate pentru atac.
+"Arme" sunt instrumentele, piesele sau dispozitivele astfel declarate prin dispoziţii legale.
+Sunt asimilate armelor orice alte obiecte de natura a putea fi folosite ca arme şi care au fost întrebuinţate pentru atac.
+Fapta săvârşită în public
 
 Articolul 152
 
-Fapta săvîrşită în public
-Fapta se consideră săvîrşită "în public" atunci cînd a fost comisă:
-a) într-un loc care prin natura sau destinaţia lui este totdeauna accesibil publicului, chiar dacă nu este prezentă nici o persoană;
-b) în orice alt loc accesibil publicului, dacă sînt de faţă două sau mai multe persoane;
-c) în loc neaccesibil publicului, cu intenţia însă ca fapta să fie auzită sau văzută şi dacă acest rezultat s-a produs faţă de două sau mai multe persoane;
-d) într-o adunare sau reuniune de mai multe persoane, cu excepţia reuniunilor care pot fi considerate că au caracter de familie, datorită naturii relaţiilor dintre persoanele participante;
-e) prin orice mijloace cu privire la care făptuitorul şi-a dat seama ca fapta ar putea ajunge la cunoştinţa publicului.
+Fapta se considera săvârşită "în public" atunci când a fost comisă:
+a) într-un loc care prin natura sau destinaţia lui este totdeauna accesibil publicului, chiar dacă nu este prezenta nici o persoană;
+b) în orice alt loc accesibil publicului, dacă sunt de faţa doua sau mai multe persoane;
+c) în loc neaccesibil publicului, cu intenţia însă ca fapta să fie auzită sau văzută şi dacă acest rezultat s-a produs faţă de doua sau mai multe persoane;
+d) într-o adunare sau reuniune de mai multe persoane, cu excepţia reuniunilor care pot fi considerate ca au caracter de familie, datorită naturii relaţiilor dintre persoanele participante;
+e) prin orice mijloace cu privire la care făptuitorul şi-a data seama ca fapta ar putea ajunge la cunoştinţa publicului.
+Timp de război
 
 Articolul 153
 
-Timp de război
-"Timp de război" este intervalul de timp de la data declarării mobilizării sau de la începerea operaţiilor de război pînă la data trecerii armatei la starea de pace.
+"Timp de război" este intervalul de timp de la data declarării mobilizării sau de la începerea operaţiilor de război până la data trecerii armatei la starea de pace.
+Calculul timpului
 
 Articolul 154
 
-Calculul timpului
-La calcularea timpului ziua se socoteşte de 24 de ore şi săptămîna de 7 zile. Luna şi anul se socotesc împlinite cu o zi înainte de ziua corespunzătoare datei de la care au început să curgă.
+La calcularea timpului ziua se socoteşte de 24 de ore şi saptamina de 7 zile. Luna şi anul se socotesc împlinite cu o zi înainte de ziua corespunzătoare datei de la care au început să curgă.
 
 Partea SPECIALĂ
 
 
-Titlul I INFRACŢIUNI CONTRA SECURITĂŢII STATULUI
+Titlul I INFRACŢIUNI CONTRA SIGURANŢEI STATULUI
 
+Trădarea
 
 Articolul 155
 
-Trădarea
-Fapta cetăţeanului român sau a persoanei fără cetăţenie domiciliată pe teritoriul statului român, de a intra în legătură cu o putere sau cu o organizaţie străină ori cu agenţi ai acestora, în scopul de a suprima sau ştirbi unitatea, suveranitatea sau independenţa statului, prin acţiuni de provocare de război contra ţării sau de înlesnire a ocupaţiei militare străine, ori de subminare economică sau politică a statului, ori de aservire faţă de o putere străină, sau de ajutare a unei puteri străine pentru desfăşurarea unei activităţi duşmănoase împotriva securităţii statului, se pedepseşte cu moartea şi confiscarea totală a averii, sau cu închisoare de la 15 la 20 de ani, interzicerea unor drepturi şi confiscarea parţială a averii.
+Fapta cetăţeanului român sau a persoanei fără cetăţenie, domiciliata pe teritoriul statului român, de a intră în legătură cu o putere sau cu o organizaţie străină ori cu agenţi ai acestora, în scopul de a suprima sau ştirbi unitatea şi indivizibilitatea, suveranitatea sau independenta statului, prin acţiuni de provocare de război contra tarii sau de înlesnire a ocupaţiei militare străine, ori de subminare economică sau politica a statului, ori de aservire faţă de o putere străină, sau de ajutare a unei puteri străine pentru desfăşurarea unei activităţi duşmănoase împotriva siguranţei statului, se pedepseşte cu detenţiune pe viaţa sau cu închisoare de la 15 la 25 de ani şi interzicerea unor drepturi.
+Trădarea prin ajutarea inamicului
 
 Articolul 156
 
-Trădarea prin ajutarea inamicului
-Fapta cetăţeanului român sau a persoanei fără cetăţenie domiciliată pe teritoriul statului român, care, în timp de război:
-a) predă teritorii, oraşe, poziţii de apărare, depozite ori instalaţii ale armatei române sau care servesc apărării;
-b) predă nave, aeronave, maşini, aparate, armament sau orice alte materiale care pot sluji purtării războiului;
-c) procură duşmanului oameni, valori şi materiale de orice fel;
-d) trece de partea inamicului sau efectuează alte acţiuni care sînt de natură să favorizeze activitatea duşmanului, ori să slăbească puterea de luptă a armatei române sau a armatelor aliate,
-se pedepseşte cu moartea şi confiscarea totală a averii, sau cu închisoare de la 15 la 20 de ani, interzicerea unor drepturi şi confiscarea totală a averii.
-Cu aceeaşi pedeapsă se sancţionează cetăţeanul român sau persoana fără cetăţenie domiciliată pe teritoriul statului român, care, în timp de război, luptă sau face parte din formaţii de luptă împotriva statului român sau a aliaţilor săi.
+Fapta cetăţeanului român sau a persoanei fără cetăţenie domiciliata pe teritoriul statului român, care, în timp de război:
+a) preda teritorii, oraşe, poziţii de apărare, depozite ori instalaţii ale forţelor armate române sau care servesc apărării;
+b) preda nave, aeronave, maşini, aparate, armament sau orice alte materiale care pot sluji purtării războiului;
+c) procura duşmanului oameni, valori şi materiale de orice fel;
+d) trece de partea inamicului sau efectuează alte acţiuni care sunt de natura sa favorizeze activitatea duşmanului ori sa slăbească puterea de lupta a forţelor armate române sau a armatelor aliate,
+se pedepseşte cu detenţiune pe viaţa sau cu închisoare de la 15 la 25 de ani şi interzicerea unor drepturi.
+Cu aceeaşi pedeapsa se sancţionează cetăţeanul român sau persoana fără cetăţenie domiciliata pe teritoriul statului român, care, în timp de război, lupta sau face parte din formaţii de lupta împotriva statului român sau a aliaţilor săi.
+Trădarea prin transmitere de secrete
 
 Articolul 157
 
-Trădarea prin transmitere de secrete
-Transmiterea secretelor de stat unei puteri sau organizaţii străine ori agenţilor acestora, precum şi procurarea de documente sau date ce constituie secrete de stat, ori deţinerea de asemenea documente de către acei care nu au calitatea de a le cunoaşte, în scopul transmiterii lor unei puteri sau organizaţii străine ori agenţilor acestora, săvîrşite de un cetăţean român sau de o persoană fără cetăţenie domiciliată pe teritoriul statului român, se pedepseşte cu moartea şi confiscarea totală a averii, sau cu închisoare de la 15 la 20 de ani, interzicerea unor drepturi şi confiscarea parţială a averii.
-Aceleaşi fapte, dacă privesc alte documente sau date care prin caracterul şi importanţa lor fac ca fapta săvîrşită să pericliteze securitatea statului, se pedepsesc cu închisoare de la 5 la 15 ani, interzicerea unor drepturi şi confiscarea parţială a averii.
+Transmiterea secretelor de stat unei puteri sau organizaţii străine ori agenţilor acestora, precum şi procurarea de documente sau date ce constituie secrete de stat, ori deţinerea de asemenea documente de către acei care nu au calitatea de a le cunoaşte, în scopul transmiterii lor unei puteri sau organizaţii străine ori agenţilor acestora, săvârşite de un cetăţean român sau de o persoană fără cetăţenie domiciliata pe teritoriul statului român, se pedepseşte cu detenţiune pe viaţa sau cu închisoare de la 15 la 25 de ani şi interzicerea unor drepturi.
+Aceleaşi fapte, dacă privesc alte documente sau date care prin caracterul şi importanţa lor fac ca fapta săvârşită sa pericliteze siguranţa statului, se pedepsesc cu închisoare de la 5 la 20 de ani şi interzicerea unor drepturi.
+Acţiunile duşmănoase contra statului
 
 Articolul 158
 
-Acţiunile duşmănoase contra statului
-Faptele prevăzute în art. 155 şi în art. 156, săvîrşite de un cetăţean străin sau de o persoană fără cetăţenie care nu domiciliază pe teritoriul statului român, se pedepsesc cu moartea şi confiscarea totală a averii, sau cu închisoare de la 15 la 20 de ani şi confiscarea parţială a averii.
+Faptele prevăzute în art. 155 şi în art. 156, săvârşite de un cetăţean străin sau de o persoană fără cetăţenie care nu domiciliază pe teritoriul statului român, se pedepsesc cu detenţiune pe viaţa sau cu închisoare de la 15 la 25 de ani şi interzicerea unor drepturi.
+Spionajul
 
 Articolul 159
 
-Spionajul
-Faptele prevăzute în art. 157, săvîrşite de un cetăţean străin sau de o persoană fără cetăţenie care nu domiciliază pe teritoriul statului român, se pedepsesc cu moartea şi confiscarea totală a averii, sau cu închisoare de la 15 la 20 de ani şi cu confiscarea parţială a averii.
+Faptele prevăzute în art. 157, săvârşite de un cetăţean străin sau de o persoană fără cetăţenie care nu domiciliază pe teritoriul statului român, se pedepsesc cu detenţiune pe viaţa sau cu închisoare de la 15 la 25 de ani şi interzicerea unor drepturi.
+Atentatul care pune în pericol siguranţa statului
 
 Articolul 160
 
-Atentatul care pune în pericol securitatea statului
-Atentatul săvîrşit contra vieţii, integrităţii corporale ori sănătăţii unei persoane care îndeplineşte o activitate importantă de stat sau obştească, în împrejurări care fac ca fapta să pună în pericol securitatea statului, se pedepseşte cu moartea şi confiscarea totală a averii, sau cu închisoare de la 15 la 20 de ani, interzicerea unor drepturi şi confiscarea parţială a averii.
+Atentatul savirsit contra vieţii, integrităţii corporale ori sănătăţii unei persoane care îndeplineşte o activitate importanţa de stat sau alta activitate publică importanţa, în împrejurări care fac ca fapta sa pună în pericol siguranţa statului, se pedepseşte cu detenţiune pe viaţa sau cu închisoare de la 15 la 25 de ani şi interzicerea unor drepturi.
+Atentatul contra unei colectivităţi
 
 Articolul 161
 
-Atentatul contra unei colectivităţi
-Atentatul săvîrşit contra unei colectivităţi prin otrăviri în masă, provocare de epidemii sau prin orice alt mijloc, de natură să slăbească puterea de stat, se pedepseşte cu moartea şi confiscarea totală a averii, sau cu închisoare de la 15 la 20 de ani, interzicerea unor drepturi şi confiscarea parţială a averii.
+Atentatul savirsit contra unei colectivităţi prin otrăviri în masa, provocare de epidemii sau prin orice alt mijloc, de natura sa slăbească puterea de stat, se pedepseşte cu detenţiune pe viaţa sau cu închisoare de la 15 la 25 de ani şi interzicerea unor drepturi.
+Subminarea puterii de stat
 
 Articolul 162
 
-Subminarea puterii de stat
-Acţiunea armată de natură să slăbească puterea de stat se pedepseşte cu moartea şi cu confiscarea totală a averii, sau cu închisoare de la 15 la 20 de ani, interzicerea unor drepturi şi confiscarea parţială a averii.
-Orice alte acţiuni violenţe săvîrşite de mai multe persoane împreună, de natură să atragă aceleaşi urmări, se pedepsesc cu închisoare de la 5 la 15 ani, interzicerea unor drepturi şi confiscarea parţială a averii.
+Acţiunea armata de natura sa slăbească puterea de stat se pedepseşte cu detenţiune pe viaţa sau cu închisoare de la 15 la 25 de ani şi interzicerea unor drepturi.
+Orice alte acţiuni violenţe săvârşite de mai multe persoane împreună, de natura sa atragă aceleaşi urmări, se pedepsesc cu închisoare de la 5 la 20 de ani şi interzicerea unor drepturi.
+Actele de diversiune
 
 Articolul 163
 
-Actele de diversiune
-Distrugerea, degradarea sau aducerea în stare de neîntrebuinţare, în întregime sau în parte, prin explozii, incendii sau în orice alt mod, a uzinelor, instalaţiilor industriale, maşinilor, căilor de comunicaţie, mijloacelor de transport, mijloacelor de telecomunicaţie, construcţiilor, produselor industriale sau agricole, ori a altor bunuri, dacă fapta este de natură să aducă în orice mod atingere securităţii statului, se pedepsesc cu moartea şi confiscarea totală a averii, sau cu închisoare de la 15 la 20 de ani, interzicerea unor drepturi şi confiscarea parţială a averii.
+Distrugerea, degradarea sau aducerea în stare de neîntrebuinţare, în întregime sau în parte, prin explozii, incendii sau în orice alt mod, a uzinelor, instalaţiilor industriale, maşinilor, căilor de comunicaţie, mijloacelor de transport, mijloacelor de telecomunicaţie, construcţiilor, produselor industriale sau agricole, ori a altor bunuri, dacă fapta este de natura sa aducă în orice mod atingere siguranţei statului, se pedepsesc cu detenţiune pe viaţa sau cu închisoare de la 15 la 25 de ani şi interzicerea unor drepturi.
 
 Articolul 164
 
-Sabotajul
-Fapta prevăzută în art. 248 alin. 2, dacă este de natură să aducă în orice mod atingere securităţii statului, se pedepseşte cu moartea şi confiscarea totală a averii, sau cu închisoare de la 15 la 20 de ani, interzicerea unor drepturi şi confiscarea parţială a averii.
+Abrogat.
+Subminarea economiei naţionale
 
 Articolul 165
 
-Subminarea economiei naţionale
-Fapta de a folosi o organizaţie din cele prevăzute în art. 145, ori de a împiedica activitatea normală a acesteia, dacă fapta este de natură să submineze economia naţională, se pedepseşte cu închisoare de la 5 la 15 ani, interzicerea unor drepturi şi confiscarea parţială a averii.
-Dacă fapta prevăzută în alineatul precedent a produs pagube importante economiei naţionale, pedeapsa este moartea şi confiscarea totală a averii, sau închisoarea de la 15 la 20 de ani, interzicerea unor drepturi şi confiscarea parţială a averii.
+Fapta de a folosi o unitate din cele la care se referă art. 145, ori de a împiedica activitatea normală a acesteia, dacă fapta este de natura sa submineze economia naţionala, se pedepseşte cu închisoare de la 5 la 20 de ani şi interzicerea unor drepturi.
+Dacă fapta prevăzută în alineatul precedent a produs pagube importante economiei naţionale, pedeapsa este detenţiunea pe viaţa sau închisoarea de la 15 la 25 de ani şi interzicerea unor drepturi.
+Propaganda în favoarea statului totalitar
 
 Articolul 166
 
-Propaganda împotriva orînduirii socialiste
-Propaganda cu caracter fascist săvîrşită prin orice mijloace, în public, se pedepseşte cu închisoare de 5 la 15 ani şi interzicerea unor drepturi.
-Propaganda sau întreprinderea oricărei acţiuni pentru schimbarea orînduirii socialiste, sau din care ar rezulta un pericol pentru securitatea statului, se pedepseşte cu închisoare de la 5 la 15 ani şi interzicerea unor drepturi.
+Propaganda în vederea instaurării unui stat totalitar, săvârşită prin orice mijloace, în public, se pedepseşte cu închisoare de la 6 luni la 5 ani şi interzicerea unor drepturi.
+Propaganda consta în raspindirea, în mod sistematic, sau în apologia unor idei, concepţii sau doctrine cu intenţia de a convinge şi de a atrage noi adepţi.
+Acţiuni împotriva ordinii constituţionale
+
+Articolul 166^1
+
+Iniţierea, organizarea, săvârşirea sau sprijinirea de acţiuni care pot pune în pericol sub orice formă ordinea constituţională, caracterul naţional, suveran, independent, unitar şi indivizibil al statului român se pedepseşte cu închisoare de la 5 la 15 ani şi interzicerea unor drepturi.
+Fapta de a indemna publicul la săvârşirea faptelor prevăzute în alin. 1 se pedepseşte cu închisoare de la 2 la 7 ani.
+Dacă fapta prevăzută în alin. 2 a avut ca urmare săvârşirea infracţiunii la care s-a îndemnat, pedeapsa este cea prevăzută de lege pentru acea infracţiune.
+Întreprinderea oricărei acţiuni pentru schimbarea prin violenta a ordinii constituţionale se pedepseşte cu închisoare de la 10 la 20 de ani şi interzicerea unor drepturi.
+Complotul
 
 Articolul 167
 
-Complotul
-Iniţierea sau constituirea unei asociaţii sau grupări în scopul săvîrşirii vreuneia dintre infracţiunile prevăzute în art. 155-165, ori aderarea sau sprijinirea sub orice formă a unei astfel de asociaţii sau grupări, se pedepseşte cu moartea şi confiscarea totală a averii, sau cu închisoare de la 15 la 20 de ani, interzicerea unor drepturi şi confiscarea parţială a averii.
-Pedeapsa pentru complot nu poate fi mai mare decît sancţiunea prevăzută de lege pentru cea mai gravă dintre infracţiunile care intră în scopul asociaţiei sau grupării.
-Cu pedeapsa prevăzută în alin. 1 se sancţionează şi asocierea mai multor persoane în vederea desfăşurării unei activităţii cu caracter fascist ori antidemocratic, sau a oricărei alte activităţi prin care se urmăreşte schimbarea orînduirii socialiste, precum şi aderarea sau sprijinirea sub orice formă a unei astfel de asocieri.
-Dacă faptele prevăzute în alin. 1 sau 3 au fost urmate de săvîrşirea unei infracţiuni, se aplică regulile de la concursul de infracţiuni.
-Nu se pedepseşte persoana care, săvîrşind fapta prevăzută în alin. 1 sau 3, o denunţă mai înainte de a fi fost descoperită.
+Iniţierea sau constituirea unei asociaţii sau grupări în scopul săvârşirii vreuneia dintre infracţiunile prevăzute în art. 155-163, 165 şi 166^1, ori aderarea sau sprijinirea sub orice formă a unei astfel de asociaţii sau grupări se pedepseşte cu detenţiune pe viaţa sau cu închisoare de la 15 la 25 de ani şi interzicerea unor drepturi.
+Pedeapsa pentru complot nu poate fi mai mare decît sancţiunea prevăzută de lege pentru cea mai grava dintre infracţiunile care intră în scopul asociaţiei sau grupării.
+Dacă faptele prevăzute în alin. 1 au fost urmate de săvârşirea unei infracţiuni, se aplică regulile de la concursul de infracţiuni.
+Nu se pedepseşte persoana care, săvârşind fapta prevăzută în alin. 1 sau 3, o denunta mai înainte de a fi fost descoperită.
+Compromiterea unor interese de stat
 
 Articolul 168
 
-Compromiterea unor interese de stat
-Distrugerea, alterarea ori ascunderea unui document sau înscris în care sînt stabilite drepturi ale statului român în raport cu o putere străină, dacă fapta este de natură a compromite interesele de stat, se pedepsesc cu închisoare de la 5 la 15 ani şi interzicerea unor drepturi.
+Distrugerea, alterarea ori ascunderea unui document sau înscris în care sunt stabilite drepturi ale statului român în raport cu o putere străină, dacă fapta este de natura a compromite interesele de stat, se pedepsesc cu închisoare de la 5 la 15 ani şi interzicerea unor drepturi.
+Comunicarea de informaţii false
+
+Articolul 168^1
+
+Comunicarea sau raspindirea, prin orice mijloace, de ştiri, date sau informaţii false ori de documente falsificate, dacă fapta este de natura sa aducă atingere siguranţei statului sau relaţiilor internaţionale ale României, se pedepseşte cu închisoare de la unu la 5 ani.
+Divulgarea secretului care periclitează siguranţa statului
 
 Articolul 169
 
-Divulgarea secretului care periclitează securitatea statului
-Divulgarea unor documente sau a unor date care constituie secrete de stat ori a altor documente sau date, de către cel care le cunoaşte datorită atribuţiilor de serviciu, dacă fapta este de natură să pună în pericol securitatea statului, se pedepseşte cu închisoare de la 7 la 15 ani şi interzicerea unor drepturi.
-Deţinerea în afara îndatoririlor de serviciu a unui document ce constituie secret de stat, dacă fapta este de natură să pună în pericol securitatea statului, se pedepseşte cu închisoare de la 5 la 10 ani.
-Cu pedeapsa prevăzută în alin. 2 se sancţionează deţinerea în afară îndatoririlor de serviciu a altor documente în vederea divulgării, dacă fapta este de natură să pună în pericol securitatea statului.
-Dacă faptele prevăzute în alineatele precedente sînt săvîrşite de orice altă persoană, pedeapsa este închisoarea de la unu la 7 ani.
+Divulgarea unor documente sau a unor date care constituie secrete de stat ori a altor documente sau date, de către cel care le cunoaşte datorită atribuţiilor de serviciu, dacă fapta este de natura sa pună în pericol siguranţa statului, se pedepseşte cu închisoare de la 7 la 15 ani şi interzicerea unor drepturi.
+Deţinerea în afară îndatoririlor de serviciu a unui document ce constituie secret de stat, dacă fapta este de natura sa pună în pericol siguranţa statului, se pedepseşte cu închisoare de la 5 la 10 ani.
+Cu pedeapsa prevăzută în alin. 2 se sancţionează deţinerea în afară îndatoririlor de serviciu a altor documente în vederea divulgării, dacă fapta este de natura sa pună în pericol siguranţa statului.
+Dacă faptele prevăzute în alineatele precedente sunt săvârşite de orice altă persoană, pedeapsa este închisoarea de la unu la 7 ani.
+Nedenunţarea
 
 Articolul 170
 
-Nedenunţarea
-Omisiunea de a denunţa de îndată săvîrşirea vreuneia dintre infracţiunile prevăzute în art. 155-165 şi în art. 167 se pedepseşte cu închisoare de la 2 la 7 ani.
-Omisiunea de a denunţa, săvîrşită de soţ sau de o rudă apropiată, se pedepseşte numai atunci cînd prin denunţare s-ar fi putut împiedica consumarea vreuneia dintre infracţiunile arătate în alin. 1. În acest caz, limitele pedepsei prevăzute în alin. 1 se reduc la jumătate.
+Omisiunea de a denunta de îndată săvârşirea vreuneia dintre infracţiunile prevăzute în art. 155-163, 165, 166^1 şi 167 se pedepseşte cu închisoare de la 2 la 7 ani.
+Omisiunea de a denunta, săvârşită de soţ sau de o ruda apropiată, nu se pedepseşte.
 Nu se pedepseşte persoana care mai înainte de a se fi început urmărirea penală pentru infracţiunea nedenunţată, încunoştinţează autorităţile competente despre acea infracţiune sau care, chiar după ce s-a început urmărirea penală ori după ce vinovaţii au fost descoperiţi, a înlesnit arestarea acestora.
+Infracţiuni contra reprezentantului unui stat străin
 
 Articolul 171
 
-Infracţiuni contra reprezentantului unui stat străin
-Infracţiunile contra vieţii, integrităţii corporale, sănătăţii, libertăţii sau demnităţii, săvîrşite împotriva reprezentantului unui stat străin, se sancţionează cu pedeapsa prevăzută de lege pentru fapta săvîrşită, al cărei maxim se sporeşte cu 2 ani.
+Infracţiunile contra vieţii, integrităţii corporale, sănătăţii, libertăţii sau demnităţii, săvârşite împotriva reprezentantului unui stat străin, se sancţionează cu pedeapsa prevăzută de lege pentru fapta săvârşită, al carei maxim se sporeşte cu 2 ani.
 Acţiunea penală se pune în mişcare la dorinţa exprimată de guvernul străin.
+Unele cauze de nepedepsire sau de reducere a pedepsei
 
 Articolul 172
 
-Unele cauze de nepedepsire sau de reducere a pedepsei
-Participantul la infracţiunile prevăzute în prezentul titlu nu se pedepseşte, dacă denunţă în timp util săvîrşirea infracţiunii, astfel ca să fie împiedicată consumarea ei, sau dacă împiedică el însuşi consumarea infracţiunii şi apoi o denunţă.
-Participantul care, după ce urmărirea penală a început ori infractorii au fost descoperiţi, înlesneşte arestarea acestora, se sancţionează cu o pedeapsă ale cărei limite se reduc la jumătate.
+Participantul la infracţiunile prevăzute în prezentul titlu nu se pedepseşte, dacă denunta în timp util săvârşirea infracţiunii, astfel ca să fie împiedicată consumarea ei, sau dacă împiedica el însuşi consumarea infracţiunii şi apoi o denunta.
+Participantul care, după ce urmărirea penală a început ori infractorii au fost descoperiţi, înlesneşte arestarea acestora, se sancţionează cu o pedeapsă ale carei limite se reduc la jumătate.
+Sancţionarea tentativei, tăinuirii şi favorizării
 
 Articolul 173
 
-Sancţionarea tentativei, tăinuirii şi favorizării
 Tentativa infracţiunilor prevăzute în prezentul titlu se pedepseşte.
-Se consideră tentativă şi producerea sau procurarea mijloacelor ori instrumentelor, precum şi luarea de măsuri în vederea comiterii infracţiunilor prevăzute în art. 156, 157, 159-166 şi art. 158 raportat la infracţiunea de trădare prin ajutarea inamicului.
+Se considera tentativa şi producerea sau procurarea mijloacelor ori instrumentelor, precum şi luarea de măsuri în vederea comiterii infracţiunilor prevăzute în art. 156, 157, 159-163, 165, 166, 166^1 şi art. 158 raportat la infracţiunea de trădare prin ajutarea inamicului.
 Tăinuirea şi favorizarea privitoare la infracţiunile din acest titlu se pedepsesc cu închisoare de la 3 la 10 ani.
 Pedeapsa aplicată tăinuitorului sau favorizatorului nu poate fi mai mare decît pedeapsa prevăzută de lege pentru autor.
-Tăinuirea şi favorizarea săvîrşite de soţ sau de o rudă apropiată în cazul infracţiunilor prevăzute în art. 155-165 şi în art. 167 se pedepsesc. Limitele pedepsei prevăzute în alin. 3 se reduc la jumătate, iar în cazul celorlalte infracţiuni, tăinuirea şi favorizarea nu se pedepsesc.
+Tăinuirea şi favorizarea săvârşite de soţ sau de o ruda apropiată în cazul infracţiunilor prevăzute în art. 155-163, 165, 166^1 şi 167 se pedepsesc. Limitele pedepsei prevăzute în alin. 3 se reduc la jumătate, iar în cazul celorlalte infracţiuni tăinuirea şi favorizarea nu se pedepsesc.
 
 Titlul II INFRACŢIUNI CONTRA PERSOANEI
 
 
-Capitolul I INFRACŢIUNI CONTRA VIEŢII, INTEGRITĂŢII CORPORALE ŞI SĂNĂTĂŢII
+Capitolul 1 INFRACŢIUNI CONTRA VIEŢII, INTEGRITĂŢII CORPORALE ŞI SĂNĂTĂŢII
 
 
 Secţiunea I Omuciderea
 
+Omorul
 
 Articolul 174
 
-Omorul
 Uciderea unei persoane se pedepseşte cu închisoare de la 10 la 20 de ani şi interzicerea unor drepturi.
 Tentativa se pedepseşte.
+Omorul calificat
 
 Articolul 175
 
-Omorul calificat
-Omorul săvîrşit în vreuna din următoarele împrejurări:
+Omorul savirsit în vreuna din următoarele împrejurări:
 a) cu premeditare;
 b) din interes material;
 c) asupra soţului sau unei rude apropiate;
-d) profitînd de starea de neputinţa a victimei de a se apăra;
+d) profitind de starea de neputinţă a victimei de a se apara;
 e) prin mijloace ce pun în pericol viaţa mai multor persoane;
-f) în legătură cu îndeplinirea îndatoririlor de serviciu sau obşteşti ale victimei;
+f) în legătură cu îndeplinirea îndatoririlor de serviciu sau publice ale victimei;
 g) pentru a se sustrage ori pentru a sustrage pe altul de la urmărire sau arestare, ori de la executarea unei pedepse;
-h) pentru a înlesni sau a ascunde săvîrşirea altei infracţiuni,
-se pedepseşte cu închisoare de la 15 la 20 de ani şi interzicerea unor drepturi.
+h) pentru a înlesni sau a ascunde săvârşirea altei infracţiuni;
+i) în public,
+se pedepseşte cu închisoare de la 15 la 25 de ani şi interzicerea unor drepturi.
 Tentativa se pedepseşte.
+Omorul deosebit de grav
 
 Articolul 176
 
-Omorul deosebit de grav
-Omorul săvîrşit în vreuna din următoarele împrejurări:
+Omorul savirsit în vreuna din următoarele împrejurări:
 a) prin cruzimi;
-b) asupra a două sau mai multor persoane;
-c) de către o persoana care a mai săvîrşit un omor;
-d) pentru a săvîrşi sau a ascunde săvîrşirea unei tîlhării sau piraterii;
-e) asupra unei femei gravide,
-se pedepseşte cu moartea, sau cu închisoare de la 15 la 20 de ani şi interzicerea unor drepturi.
+b) asupra a doua sau mai multor persoane;
+c) de către o persoană care a mai savirsit un omor;
+d) pentru a savirsi sau a ascunde săvârşirea unei tilharii sau piraterii;
+e) asupra unei femei gravide;
+f) asupra unui magistrat, poliţist, jandarm ori asupra unui militar, în timpul sau în legătură cu îndeplinirea îndatoririlor de serviciu sau publice ale acestora,
+se pedepseşte cu detenţiune pe viaţa sau cu închisoare de la 15 la 25 de ani şi interzicerea unor drepturi.
 Tentativa se pedepseşte.
+Pruncuciderea
 
 Articolul 177
 
-Pruncuciderea
-Uciderea copilului nou-născut, săvîrşită imediat după naştere de către mama aflată într-o stare de tulburare pricinuită de naştere, se pedepseşte cu închisoare de la 2 la 7 ani.
+Uciderea copilului nou-născut, săvârşită imediat după naştere de către mama aflată într-o stare de tulburare pricinuită de naştere, se pedepseşte cu închisoare de la 2 la 7 ani.
+Uciderea din culpa
 
 Articolul 178
 
-Uciderea din culpă
-Uciderea din culpă a unei persoane se pedepseşte cu închisoare de la unu la 5 ani.
-Uciderea din culpă ca urmare a nerespectării dispoziţiilor legale ori a măsurilor de prevedere pentru exerciţiul unei profesii sau meserii, ori pentru efectuarea unei anume activităţi, se pedepseşte cu închisoare de la 2 la 7 ani.
-Cînd uciderea din culpă a unei persoane este săvîrşită de un conducător de vehicul cu tracţiune mecanică, avînd în sînge o îmbibaţie alcoolică care depăşeşte limita legală, sau care se află în stare de ebrietate, pedeapsa este închisoarea de la 5 la 12 ani.
-Cu aceeaşi pedeapsă se sancţionează fapta săvîrşită din culpă, de orice altă persoana în exerciţiul profesiei sau meseriei şi care se află în stare de ebrietate.
-Dacă prin fapta săvîrşită s-a cauzat moartea a două sau mai multor persoane, la maximul pedepselor prevăzute în alineatele precedente se poate adauga un spor pînă la 3 ani.
+Uciderea din culpa a unei persoane se pedepseşte cu închisoare de la unu la 5 ani.
+Uciderea din culpa ca urmare a nerespectării dispoziţiilor legale ori a măsurilor de prevedere pentru exerciţiul unei profesii sau meserii, ori pentru efectuarea unei anume activităţi, se pedepseşte cu închisoare de la 2 la 7 ani.
+Când uciderea din culpa a unei persoane este săvârşită de un conducător de vehicul cu tracţiune mecanică, având în singe o îmbibaţie alcoolică ce depăşeşte limita legală sau care se afla în stare de ebrietate, pedeapsa este închisoarea de la 5 ani la 15 ani.
+Cu aceeaşi pedeapsa se sancţionează fapta săvârşită din culpa, de orice altă persoană în exerciţiul profesiei sau meseriei şi care se afla în stare de ebrietate.
+Dacă prin fapta săvârşită s-a cauzat moartea a doua sau mai multor persoane, la maximul pedepselor prevăzute în alineatele precedente se poate adauga un spor până la 3 ani.
+Determinarea sau înlesnirea sinuciderii
 
 Articolul 179
 
-Determinarea sau înlesnirea sinuciderii
 Fapta de a determina sau de a înlesni sinuciderea unei persoane, dacă sinuciderea sau încercarea de sinucidere a avut loc, se pedepseşte cu închisoare de la 2 la 7 ani.
-Cînd fapta prevăzută în alineatul precedent s-a săvîrşit faţă de un minor sau faţă de o persoană care nu era în stare să-şi dea seama de fapta sa, ori nu putea fi stăpînă pe actele sale, pedeapsa este închisoarea de la 3 la 10 ani.
+Când fapta prevăzută în alineatul precedent s-a savirsit faţă de un minor sau faţă de o persoană care nu era în stare să-şi dea seama de fapta sa, ori nu putea fi stăpâna pe actele sale, pedeapsa este închisoarea de la 3 la 10 ani.
 
 Secţiunea II Lovirea şi vătămarea integrităţii corporale sau a sănătăţii
 
+Lovirea sau alte violenţe
 
 Articolul 180
 
-Lovirea sau alte violenţe
-Lovirea sau orice acte de violenţă cauzatoare de suferinţe fizice se pedepsesc cu închisoare de la o lună la 3 luni sau cu amendă.
-Lovirea sau actele de violenţă care au pricinuit o vătămare ce necesită pentru vindecare îngrijiri medicale de cel mult 10 zile se pedepsesc cu închisoare de la 3 luni la 1 an sau cu amendă.
+Lovirea sau orice acte de violenta cauzatoare de suferinţe fizice se pedepsesc cu închisoare de la o luna la 3 luni sau cu amendă.
+Lovirea sau actele de violenta care au pricinuit o vătămare ce necesita pentru vindecare îngrijiri medicale de cel mult 20 de zile se pedepsesc cu închisoare de la 3 luni la 2 ani sau cu amendă.
 Acţiunea penală se pune în mişcare la plîngerea prealabilă a persoanei vătămate.
-Împăcarea părţilor înlătură răspunderea penală.
+Împăcarea părţilor inlatura răspunderea penală.
+Vătămarea corporală
 
 Articolul 181
 
-Vătămarea corporală
-Fapta prin care s-a pricinuit integrităţii corporale sau sănătăţii o vătămare care necesită pentru vindecare îngrijiri medicale de cel mult 60 de zile se pedepseşte cu închisoare de la 6 luni la 3 ani.
+Fapta prin care s-a pricinuit integrităţii corporale sau sănătăţii o vătămare care necesita pentru vindecare îngrijiri medicale de cel mult 60 de zile se pedepseşte cu închisoare de la 6 luni la 5 ani.
 Acţiunea penală se pune în mişcare la plîngerea prealabilă a persoanei vătămate.
-Împăcarea părţilor înlătură răspunderea penală.
+Împăcarea părţilor inlatura răspunderea penală.
+Vătămarea corporală grava
 
 Articolul 182
 
-Vătămarea corporală gravă
-Fapta prin care s-a pricinuit integrităţii corporale sau sănătăţii o vătămare care necesită pentru vindecare îngrijiri medicale mai mult de 60 de zile, sau care a produs vreuna dintre următoarele consecinţe: pierderea unui simţ sau organ, încetarea funcţionarii acestora, o infirmitate permanentă fizică ori psihică, sluţirea, avortul, ori punerea în primejdie a vieţii persoanei, se pedepseşte cu închisoare de la 2 la 7 ani.
-Cînd fapta a fost săvîrşită în scopul producerii consecinţelor prevăzute în alineatul precedent, pedeapsa este închisoarea de la 3 la 8 ani.
+Fapta prin care s-a pricinuit integrităţii corporale sau sănătăţii o vătămare care necesita pentru vindecare îngrijiri medicale mai mult de 60 de zile, sau care a produs vreuna dintre următoarele consecinţe: pierderea unui simt sau organ, încetarea funcţionarii acestora, o infirmitate permanenta fizica ori psihică, sluţirea, avortul, ori punerea în primejdie a vieţii persoanei, se pedepseşte cu închisoare de la 2 la 7 ani.
+Când fapta a fost săvârşită în scopul producerii consecinţelor prevăzute în alineatul precedent, pedeapsa este închisoarea de la 3 la 10 ani.
 Tentativa faptei prevăzute în alin. 2 se pedepseşte.
+Lovirile sau vătămările cauzatoare de moarte
 
 Articolul 183
 
-Loviturile sau vătămările cauzatoare de moarte
-Dacă vreuna dintre faptele prevăzute în art. 180-182 a avut ca urmare moartea victimei, pedeapsa este închisoarea de la 3 la 10 ani.
+Dacă vreuna dintre faptele prevăzute în art. 180-182 a avut ca urmare moartea victimei, pedeapsa este închisoarea de la 5 la 15 ani.
+Vătămarea corporală din culpa
 
 Articolul 184
 
-Vătămarea corporală din culpă
-Fapta prevăzută în art. 181 săvîrşită din culpă se pedepsesc cu închisoare de la o lună la 3 luni sau cu amendă.
-Dacă fapta a avut vreuna din urmările prevăzute în art. 182 alin. 1, pedeapsa este închisoarea de la 3 luni la 2 ani.
-Cînd săvîrşirea faptei prevăzute în alin. 1 sau 2 este urmarea nerespectării dispoziţiilor legale sau a măsurilor de prevedere pentru exerciţiul unei profesii sau meserii, ori pentru îndeplinirea unei anume activităţi, pedeapsa este în cazul alin. 1 închisoarea de la 3 luni la 2 ani, iar în cazul alin. 2, închisoarea de la 6 luni la 3 ani.
-Pentru fapta prevăzută în alin. 1, acţiunea penală se pune în mişcare la plîngerea prealabilă a persoanei vătămate. Împăcarea părţilor înlătură răspunderea penală.
+Fapta prevăzută în art. 180 alin. 2 care a pricinuit o vătămare ce necesita pentru vindecare îngrijiri medicale mai mult de 10 zile, precum şi cea prevăzută în art. 181, săvârşite din culpa, se pedepsesc cu închisoare de la o luna la 3 luni sau cu amendă.
+Dacă fapta a avut vreuna din urmările prevăzute în art. 182 alin. 1, pedeapsa este închisoarea de la 3 luni la 2 ani sau amenda.
+Când săvârşirea faptei prevăzute în alin. 1 este urmarea nerespectării dispoziţiilor legale sau a măsurilor de prevedere pentru exerciţiul unei profesii sau meserii, ori pentru îndeplinirea unei anume activităţi, pedeapsa este închisoarea de la 3 luni la 2 ani sau amenda.
+Fapta prevăzută în alin. 2 dacă este urmarea nerespectării dispoziţiilor legale sau a măsurilor de prevedere arătate în alineatul precedent se pedepseşte cu închisoare de la 6 luni la 3 ani.
+Pentru faptele prevăzute în alin. 1 şi 3, acţiunea penală se pune în mişcare la plîngerea prealabilă a persoanei vătămate. Împăcarea părţilor inlatura răspunderea penală.
 
 Secţiunea III Avortul
 
+Provocarea ilegala a avortului
 
 Articolul 185
 
-Provocarea ilegală a avortului
-Întreruperea cursului sarcinii prin orice mijloace, în afară condiţiilor admise de lege, cu consimţămîntul femeii însărcinate, se pedepseşte cu închisoare de la unu la 3 ani.
-Fapta prevăzută în alin. 1, săvîrşită fără consimţămîntul femeii însărcinate, se pedepseşte cu închisoare de la 2 la 5 ani.
-Dacă prin fapta prevăzută în alineatele precedente s-a cauzat femeii însărcinate vreo vătămare corporală gravă, pedeapsa este în cazul prevăzut în alin. 1 închisoarea de la 2 la 5 ani, iar în cazul prevăzut în alin. 2, închisoarea de la 3 la 6 ani.
-Dacă prin fapta prevăzută în alin. 1 sau 2 s-a cauzat moartea femeii însărcinate, pedeapsa este în cazul prevăzut în alin. 1 închisoarea de la 5 la 10 ani, iar în cazul alin. 2, închisoarea de la 7 la 12 ani.
-Cînd fapta s-a comis în scopul de a se obţine un folos material, maximul special al pedepsei se sporeşte cu 2 ani.
-În cazul cînd avortul a fost provocat de un medic, pe lîngă pedeapsa închisorii se va putea aplica şi interdicţia exercitării profesiei de medic potrivit art. 64 lit. c.
+Întreruperea cursului sarcinii, prin orice mijloace, săvârşită în vreuna dintre următoarele împrejurări:
+a) în afară instituţiilor medicale sau cabinetelor medicale autorizate în acest scop;
+b) de către o persoană care nu are calitatea de medic de specialitate;
+c) dacă vârsta sarcinii a depăşit patrusprezece saptamini,
+se pedepseşte cu închisoare de la 6 luni la 3 ani.
+Întreruperea cursului sarcinii, săvârşită în orice condiţii, fără consimţământul femeii însărcinate, se pedepseşte cu închisoare de la 2 la 7 ani şi interzicerea unor drepturi.
+Dacă prin faptele prevăzute în alin. 1 şi 2 s-a cauzat femeii însărcinate vreo vătămare corporală grava, pedeapsa este închisoarea de la 3 la 10 ani şi interzicerea unor drepturi, iar dacă fapta a avut ca urmare moartea femeii însărcinate, pedeapsa este închisoarea de la 5 la 15 ani şi interzicerea unor drepturi.
+În cazul când fapta prevăzută în alin. 2 şi 3 a fost săvârşită de medic, pe lângă pedeapsa închisorii, se va aplica şi interdicţia exercitării profesiei de medic, potrivit art. 64 lit. c).
 Tentativa se pedepseşte.
+Nu se pedepseşte întreruperea cursului sarcinii efectuată de medic:
+a) dacă întreruperea cursului sarcinii era necesară pentru a salva viaţa, sănătatea sau integritatea corporală a femeii însărcinate de la un pericol grav şi iminent şi care nu putea fi înlăturat altfel;
+b) în cazul prevăzut în alin. 1 lit. c), când întreruperea cursului sarcinii se impunea din motive terapeutice, potrivit dispoziţiilor legale;
+c) în cazul prevăzut în alin. 2, când femeia însărcinată s-a aflat în imposibilitate de a-şi exprima voinţa, iar întreruperea cursului sarcinii se impunea din motive terapeutice, potrivit dispoziţiilor legale.
 
 Articolul 186
 
-Avortul provocat de femeie
-Întreruperea cursului sarcinii, săvîrşită de către femeia însărcinată, se pedepseşte cu închisoare de la 6 luni la 2 ani.
-Cu aceeaşi pedeapsă se sancţionează fapta femeii însărcinate de a fi consimţit la întreruperea cursului sarcinii efectuată de altă persoană.
+Abrogat.
 
 Articolul 187
 
-Deţinerea de instrumente sau materiale avortive
-Deţinerea, în afară instituţiilor sanitare de specialitate, a oricăror instrumente speciale pentru întreruperea cursului sarcinii, se pedepseşte cu închisoare de la 3 luni la 1 an.
-Cu aceeaşi pedeapsa se sancţionează deţinerea în afară instituţiilor sanitare de specialitate, în vederea întreruperii cursului sarcinii, a oricăror alte mijloace avortive, stabilite de organul competent.
+Abrogat.
 
 Articolul 188
 
-Omisiunea de a anunţa efectuarea avortului
-Fapta medicului care, după ce a efectuat în caz de extremă urgenţă întreruperea cursului sarcinii, fără a avea autorizaţie legală, nu anunţă despre aceasta organul competent, în termenul prevăzut de lege, se pedepseşte cu închisoare de la o lună la 3 luni.
+Abrogat.
 
-Capitolul II INFRACŢIUNI CONTRA LIBERTĂŢII PERSOANEI
+Capitolul 2 INFRACŢIUNI CONTRA LIBERTĂŢII PERSOANEI
 
+Lipsirea de libertate în mod ilegal
 
 Articolul 189
 
-Lipsirea de libertate în mod ilegal
-Lipsirea de libertate a unei persoane în mod ilegal se pedepseşte cu închisoare de la 3 luni la 2 ani sau cu amendă.
-În cazul în care fapta este săvîrşită prin simulare de calităţi oficiale, prin răpire, ori de către o persoană înarmată, sau de către două ori mai multe persoane împreună, sau dacă în schimbul eliberării se cere un folos material, ori dacă victima este un minor sau este supusă unor suferinţe, ori dacă sănătatea sau viaţa îi sînt puse în pericol, pedeapsa este închisoarea de la unu la 5 ani.
+Lipsirea de libertate a unei persoane în mod ilegal se pedepseşte cu închisoare de la unu la 5 ani.
+În cazul în care fapta este săvârşită prin simularea de calităţi oficiale, prin răpire, de o persoană înarmată, de doua sau mai multe persoane împreună sau dacă în schimbul eliberării se cere un folos material sau orice alt avantaj, precum şi în cazul în care victima este minora sau este supusă unor suferinţe ori sănătatea sau viaţa îi este pusă în pericol, pedeapsa este închisoarea de la 5 la 12 ani.
+Dacă pentru eliberarea persoanei se cere, în orice mod, ca statul, o persoană juridică, o organizaţie internationala interguvernamentală sau un grup de persoane sa îndeplinească sau sa nu îndeplinească un anumit act, pedeapsa este închisoarea de la 5 la 15 ani.
+Dacă fapta a avut ca urmare moartea sau sinuciderea victimei, pedeapsa este închisoarea de la 15 la 25 de ani.
+Tentativa faptelor prevăzute în alin. 1-3 se pedepseşte.
+Constituie tentativa şi producerea sau procurarea mijloacelor, a instrumentelor sau luarea de măsuri în vederea comiterii faptei prevăzute în alin. 3.
+Sclavia
 
 Articolul 190
 
-Sclavia
 Punerea sau ţinerea unei persoane în stare de sclavie, precum şi traficul de sclavi, se pedepsesc cu închisoare de la 3 la 10 ani şi interzicerea unor drepturi.
 Tentativa se pedepseşte.
+Supunerea la munca forţată sau obligatorie
 
 Articolul 191
 
-Supunerea la muncă forţată sau obligatorie
-Fapta de a supune o persoana, în alte cazuri decît cele prevăzute de dispoziţiile legale, la prestarea unei munci contra voinţei sale sau la o muncă obligatorie, se pedepseşte cu închisoare de la 6 luni la 3 ani.
+Fapta de a supune o persoană, în alte cazuri decît cele prevăzute de dispoziţiile legale, la prestarea unei munci contra voinţei sale sau la o munca obligatorie, se pedepseşte cu închisoare de la 6 luni la 3 ani.
+Violarea de domiciliu
 
 Articolul 192
 
-Violarea de domiciliu
-Pătrunderea fără drept, în orice mod, într-o locuinţă, încăpere, dependinţa sau loc împrejmuit ţinînd de acestea, fără consimţămîntul persoanei care le foloseşte, sau refuzul de a le părăsi la cererea acesteia, se pedepseşte cu închisoare de la 3 luni la 1 an sau cu amendă.
-În cazul în care fapta se săvîrşeşte de o persoană înarmată, de două sau mai multe persoane împreună, în timpul nopţii, sau prin folosire de calităţi mincinoase, pedeapsa este închisoarea de la 6 luni la 3 ani.
-Pentru fapta prevăzută în alin. 1, acţiunea penală se pune în mişcare la plîngerea prealabilă a persoanei vătămate. Împăcarea părţilor înlătură răspunderea penală.
+Pătrunderea fără drept, în orice mod, într-o locuinta, încăpere, dependinta sau loc împrejmuit ţinând de acestea, fără consimţământul persoanei care le foloseşte, sau refuzul de a le părăsi la cererea acesteia, se pedepseşte cu închisoare de la 3 luni la 3 ani sau cu amendă.
+În cazul în care fapta se săvârşeşte de o persoană înarmată, de doua sau mai multe persoane împreună, în timpul nopţii sau prin folosire de calităţi mincinoase, pedeapsa este închisoarea de la 2 la 7 ani.
+Pentru fapta prevăzută în alin. 1, acţiunea penală se pune în mişcare la plîngerea prealabilă a persoanei vătămate. Împăcarea părţilor inlatura răspunderea penală.
+Ameninţarea
 
 Articolul 193
 
-Ameninţarea
-Fapta de a ameninţa o persoana cu săvîrşirea unei infracţiuni sau a unei fapte păgubitoare îndreptate împotriva ei, a soţului ori a unei rude apropiate, dacă este de natură să o alarmeze, se pedepseşte cu închisoare de la o lună la 1 an sau cu amendă, fără ca pedeapsa aplicată să poată depăşi sancţiunea prevăzută de lege pentru infracţiunea care a format obiectul ameninţării.
+Fapta de a ameninta o persoană cu săvârşirea unei infracţiuni sau a unei fapte păgubitoare îndreptate împotriva ei, a soţului ori a unei rude apropiate, dacă este de natura sa o alarmeze, se pedepseşte cu închisoare de la 3 luni la 3 ani sau cu amendă, fără ca pedeapsa aplicată să poată depăşi sancţiunea prevăzută de lege pentru infracţiunea care a format obiectul ameninţării.
 Acţiunea penală se pune în mişcare la plîngerea prealabilă a persoanei vătămate.
-Împăcarea părţilor înlătură răspunderea penală.
+Împăcarea părţilor inlatura răspunderea penală.
+Şantajul
 
 Articolul 194
 
-Şantajul
-Constrîngerea unei persoane prin violenţă sau prin ameninţare, să dea, să facă, să nu facă sau să sufere ceva, dacă fapta este comisă spre a dobîndi în mod injust un folos, pentru sine sau pentru altul, se pedepseşte cu închisoare de la 3 luni la 2 ani.
-Cînd constrîngerea constă în ameninţarea dării în vileag a unei fapte reale sau imaginare, compromiţătoare pentru persoana ameninţată, pentru soţul acesteia sau pentru o rudă apropiată, pedeapsa este închisoarea de la 6 luni la 3 ani.
+Constringerea unei persoane, prin violenta sau ameninţare, sa dea, să facă, sa nu facă sau sa sufere ceva, dacă fapta este comisă spre a dobîndi în mod injust un folos, pentru sine sau pentru altul, se pedepseşte cu închisoare de la 6 luni la 5 ani.
+Când constringerea consta în ameninţarea cu darea în vileag a unei fapte reale sau imaginare, compromiţătoare pentru persoana ameninţată, pentru soţul acesteia sau pentru o ruda apropiată, pedeapsa este închisoarea de la 2 la 7 ani.
+Violarea secretului corespondentei
 
 Articolul 195
 
-Violarea secretului corespondenţei
-Deschiderea, fără drept, a unei corespondenţe, adresate altuia, ori interceptarea unei convorbiri sau comunicări efectuate prin telefon, telegraf sau prin alte mijloace de transmitere la distanţă, se pedepseşte cu închisoare de la o lună la 1 an sau cu amendă.
-Cu aceeaşi pedeapsă se sancţionează sustragerea, distrugerea sau reţinerea unei corespondenţe, precum şi divulgarea conţinutului unei corespondenţe, chiar atunci cînd a fost trimisă deschisă sau a fost deschisă din greşală, ori divulgarea conţinutului unei convorbiri sau comunicări interceptate, chiar în cazul în care făptuitorul a luat cunoştinţă de acesta din greşală sau din întîmplare.
+Deschiderea unei corespondente adresate altuia ori interceptarea unei convorbiri sau comunicări efectuate prin telefon, telegraf sau prin alte mijloace de transmitere la distanta, fără drept, se pedepseşte cu închisoare de la 6 luni la 3 ani.
+Cu aceeaşi pedeapsa se sancţionează sustragerea, distrugerea sau reţinerea unei corespondente, precum şi divulgarea conţinutului unei corespondente, chiar atunci când a fost trimisa deschisă sau a fost deschisă din greseala, ori divulgarea conţinutului unei convorbiri sau comunicări interceptate, chiar în cazul în care făptuitorul a luat cunoştinţa de acesta din greseala sau din întâmplare.
 Acţiunea penală se pune în mişcare la plîngerea prealabilă a persoanei vătămate.
-Împăcarea părţilor înlătură răspunderea penală.
+Împăcarea părţilor inlatura răspunderea penală.
+Divulgarea secretului profesional
 
 Articolul 196
 
-Divulgarea secretului profesional
-Divulgarea, fără drept, a unor date, de către acela căruia i-au fost încredinţate, sau de care a luat cunoştinţă în virtutea profesiei ori funcţiei, dacă fapta este de natură a aduce prejudicii unei persoane, se pedepseşte cu închisoare de la 3 luni la 2 ani.
-Acţiunea penală se pune în mişcare la plîngerea prealabilă a persoanei vătămate.
-Împăcarea părţilor înlătură răspunderea penală.
+Divulgarea, fără drept, a unor date, de către acela căruia i-au fost încredinţate, sau de care a luat cunoştinţa în virtutea profesiei ori funcţiei, dacă fapta este de natura a aduce prejudicii unei persoane, se pedepseşte cu închisoare de la 3 luni la 2 ani sau cu amendă.
+Acţiunea penal se pune în mişcare la plîngerea prealabilă a persoanei vătămate.
+Împăcarea părţilor inlatura răspunderea penală.
 
-Capitolul III INFRACŢIUNI PRIVITOARE LA VIAŢA SEXUALĂ
+Capitolul 3 INFRACŢIUNI PRIVITOARE LA VIATA SEXUALĂ
 
+Violul
 
 Articolul 197
 
-Violul
-Raportul sexual cu o persoană de sex feminin, prin constrîngerea acesteia, sau profitînd de imposibilitatea ei de a se apăra ori de a-şi exprima voinţa, se pedepseşte cu închisoare de la 2 la 7 ani.
-Pedeapsa este închisoarea de la 3 la 10 ani, dacă:
-a) victima nu împlinise vîrsta de 14 ani;
-b) fapta a fost săvîrşită de mai multe persoane;
-c) victima se afla în îngrijirea, ocrotirea, educarea, paza sau în tratamentul făptuitorului;
-d) s-a cauzat victimei o vătămare gravă a integrităţii corporale sau a sănătăţii.
-Pedeapsa este închisoarea de la 7 la 15 ani, dacă fapta a avut ca urmare moartea sau sinuciderea victimei.
+Raportul sexual cu o persoană de sex feminin, prin constringerea acesteia sau profitind de imposibilitatea ei de a se apara ori de a-şi exprima voinţa, se pedepseşte cu închisoare de la 3 la 10 ani.
+Pedeapsa este închisoarea de la 5 la 15 ani, dacă:
+a) fapta a fost săvârşită de doua sau mai multe persoane împreună;
+b) victima se afla în îngrijirea, ocrotirea, educarea, paza sau în tratamentul făptuitorului;
+c) s-a cauzat victimei o vătămare grava a integrităţii corporale sau a sănătăţii.
+Pedeapsa este închisoarea de la 10 la 20 de ani dacă victima nu a împlinit vârsta de 14 ani, iar dacă fapta a avut ca urmare moartea sau sinuciderea victimei, pedeapsa este închisoarea de la 15 la 25 de ani.
 Acţiunea penală pentru fapta prevăzută în alin. 1 se pune în mişcare la plîngerea prealabilă a persoanei vătămate.
-Faptele prevăzute în alin. 1 şi 2 nu se pedepsesc, dacă înainte ca hotărîrea să fi rămas definitivă a intervenit căsătoria dintre autor şi victimă, iar în caz de participaţie, dacă a intervenit căsătoria dintre victimă şi oricare dintre participanţi. Această cauză de nepedepsire produce efecte faţă de toţi participanţii.
+Faptele prevăzute în alin. 1, 2 lit. b) şi c) şi alin. 3 teza I nu se pedepsesc dacă înainte ca hotărârea sa fi rămas definitivă a intervenit căsătoria dintre autor şi victima. În caz de participaţie, în alte condiţii decît aceea prevăzută în alin. 2 lit. a), căsătoria dintre autor şi victima produce aceleaşi efecte şi faţă de participanţi.
+Raportul sexual cu o minora
 
 Articolul 198
 
-Raportul sexual cu o minoră
-Raportul sexual cu o persoană de sex feminin care nu a împlinit vîrsta de 14 ani se pedepseşte cu închisoare de la unu la 5 ani.
-Cu aceeaşi pedeapsă se sancţionează raportul sexual cu o persoană de sex feminin între 14-18 ani, dacă fapta este săvîrşită de tutore sau curator, ori de către supraveghetor, îngrijitor, medic curant, profesor sau educator, folosind calitatea sa.
-Cînd fapta prevăzută în alin. 1 a fost săvîrşită în împrejurările prevăzute în art. 197 alin. 2 lit. c, ori dacă faptele prevăzute în alin. 1 şi 2 au avut urmările prevăzute în art. 197 lit. d, pedeapsa este închisoarea de la 3 la 10 ani.
+Raportul sexual cu o persoană de sex feminin care nu a împlinit vârsta de 14 ani se pedepseşte cu închisoare de la unu la 5 ani.
+Cu aceeaşi pedeapsa se sancţionează raportul sexual cu o persoană de sex feminin între 14-18 ani, dacă fapta este săvârşită de tutore sau curator, ori de către supraveghetor, îngrijitor, medic curant, profesor sau educator, folosind calitatea sa.
+Când fapta prevăzută în alin. 1 a fost săvârşită în împrejurările prevăzute în art. 197 alin. 2 lit. b) ori dacă faptele prevăzute în alin. 1 şi 2 au avut urmările prevăzute în art. 197 alin. 2 lit. c), pedeapsa este închisoarea de la 3 la 12 ani.
 Dacă fapta a avut ca urmare moartea victimei, pedeapsa este închisoarea de la 7 la 15 ani.
 Dispoziţiile art. 197 alin. final se aplică şi în cazul faptelor prevăzute în alin. 1-3.
+Seducţia
 
 Articolul 199
 
-Seducţia
-Fapta aceluia care, prin promisiuni de căsătorie, determină o persoană de sex feminin mai mică de 18 ani de a avea cu el raport sexual, se pedepseşte cu închisoare de la unu la 5 ani.
-Împăcarea părţilor înlătură răspunderea penală.
+Fapta aceluia care, prin promisiuni de căsătorie, determina o persoană de sex feminin mai mica de 18 ani de a avea cu el raport sexual, se pedepseşte cu închisoare de la unu la 5 ani.
+Împăcarea părţilor inlatura răspunderea penală.
+Relaţii sexuale între persoane de acelaşi sex
 
 Articolul 200
 
-Relaţiile sexuale între persoane de acelaşi sex
-Relaţiile sexuale între persoane de acelaşi sex se pedepsesc cu închisoare de la unu la 5 ani.
-Fapta prevăzută în alin. 1, săvîrşită asupra unui minor, asupra unei persoane în imposibilitate de a se apăra, ori de a-şi exprima voinţa, sau prin constrîngere, se pedepseşte cu închisoare de 2 la 7 ani.
-Dacă fapta prevăzută în alin. 2 are ca urmare vătămarea gravă a integrităţii corporale sau a sănătăţii, pedeapsa este închisoarea de la 3 la 10 ani, iar dacă are ca urmare moartea sau sinuciderea victimei, pedeapsa este închisoarea de la 7 la 15 ani.
-Îndemnarea sau ademenirea unei persoane în vederea practicării faptei prevăzute în alin. 1 se pedepseşte cu închisoare de la unu la 5 ani.
+Relaţiile sexuale între persoane de acelaşi sex, săvârşite în public sau dacă au produs scandal public, se pedepsesc cu închisoare de la unu la 5 ani.
+Fapta majorului de a avea relaţii sexuale cu un minor de acelaşi sex se pedepseşte cu închisoare de la 2 la 7 ani şi interzicerea unor drepturi.
+Relaţiile sexuale cu o persoană de acelaşi sex în imposibilitate de a se apara ori de a-şi exprima voinţa sau prin constringere se pedepsesc cu închisoare de la 3 la 10 ani şi interzicerea unor drepturi.
+Dacă fapta prevăzută în alin. 2 şi 3 are ca urmare vătămarea grava a integrităţii corporale sau a sănătăţii, pedeapsa este închisoarea de la 5 la 15 ani şi interzicerea unor drepturi, iar dacă are ca urmare moartea sau sinuciderea victimei, pedeapsa este închisoarea de la 15 la 25 de ani şi interzicerea unor drepturi.
+Îndemnarea sau ademenirea unei persoane în vederea practicării de relaţii sexuale între persoane de acelaşi sex, precum şi propaganda ori asocierea sau orice alte acte de prozelitism săvârşite în acelaşi scop se pedepsesc cu închisoare de la unu la 5 ani.
+Perversiunea sexuală
 
 Articolul 201
 
-Perversiunea sexuală
-Săvîrşirea actelor de perversiune sexuală care au produs scandal public se pedepseşte cu închisoare de la unu la 5 ani.
-Dispoziţiile art. 200 alin. 2-4 se aplică în mod corespunzător.
+Actele de perversiune sexuală săvârşite în public sau dacă au produs scandal public se pedepsesc cu închisoare de la unu la 5 ani.
+Dispoziţiile art. 200 alin. 2-5 se aplică în mod corespunzător.
 Constituie acte de perversiune sexuală orice acte nefireşti în legătură cu viaţa sexuală, altele decît cele prevăzute în art. 200.
+Corupţia sexuală
 
 Articolul 202
 
-Corupţia sexuală
-Actele cu caracter obscen săvîrşite asupra unui minor sau în prezenţa unui minor se pedepsesc cu închisoare de la 3 luni la 2 ani.
+Actele cu caracter obscen săvârşite asupra unui minor sau în prezenta unui minor se pedepsesc cu închisoare de la 3 luni la 2 ani sau cu amendă.
+Incestul 
 
 Articolul 203
 
-Incestul
-Raportul sexual între rude în linie directă sau între fraţi şi surori se pedepseşte cu închisoare de la 2 la 7 ani.
+Raportul sexual între rude în linie directa sau între fraţi şi surori se pedepseşte cu închisoare de la 2 la 7 ani.
+Sancţionarea tentativei
 
 Articolul 204
 
-Sancţionarea tentativei
 Tentativa infracţiunilor prevăzute în art. 197-198 şi 200-203 se pedepseşte.
 
-Capitolul IV INFRACŢIUNI CONTRA DEMNITĂŢII
+Capitolul 4 INFRACŢIUNI CONTRA DEMNITĂŢII
 
+Insulta
 
 Articolul 205
 
-Insulta
-Atingerea adusă onoarei ori reputaţiei unei persoane prin cuvinte, prin gesturi sau prin alte mijloace, ori prin expunerea la batjocură, se pedepseşte cu închisoare de la o lună la 3 luni sau cu amendă.
-Aceeaşi pedeapsă se aplică şi în cazul cînd se atribuie unei persoane un defect, boală sau infirmitate care, chiar reale de-ar fi, nu ar trebui relevate.
-Acţiunea penală se pune în mişcare la plîngerea prealabilă a persoanei vătămate.
-Împăcarea părţilor înlătură răspunderea penală.
+Atingerea adusă onoarei ori reputaţiei unei persoane prin cuvinte, prin gesturi sau prin orice alte mijloace, ori prin expunerea la batjocura, se pedepseşte cu închisoare de la o luna la 2 ani sau cu amendă.
+Aceeaşi pedeapsa se aplică şi în cazul când se atribuie unei persoane un defect, boala sau infirmitate care, chiar reale de-ar fi, nu ar trebui relevate.
+Acţiunea penală se pune în mişcare la plîngerea prealabilă a persoanei vătămate. 
+Împăcarea părţilor inlatura răspunderea penală.
+Calomnia
 
 Articolul 206
 
-Calomnia
-Afirmarea ori imputarea în public a unei fapte determinate privitoare la o persoană, care, dacă ar fi adevărată, ar expune acea persoană la o sancţiune penală, administrativă sau disciplinară, ori dispreţului public, se pedepseşte cu închisoare de la 3 luni la 1 an sau cu amendă.
+Afirmarea ori imputarea în public, prin orice mijloace, a unei fapte determinate privitoare la o persoană, care, dacă ar fi adevarata, ar expune acea persoana la o sancţiune penală, administrativă sau disciplinară ori dispreţului public, se pedepseşte cu închisoare de la 3 luni la 3 ani sau cu amendă.
 Acţiunea penală se pune în mişcare la plîngerea prealabilă a persoanei vătămate.
-Împăcarea părţilor înlătură răspunderea penală.
+Împăcarea părţilor inlatura răspunderea penală.
+Proba verităţii
 
 Articolul 207
 
-Proba verităţii
-Proba verităţii celor afirmate sau imputate este admisibilă, dacă afirmarea sau imputarea a fost săvîrşită pentru apărarea unui interes legitim. Fapta cu privire la care s-a făcut proba verităţii nu constituie infracţiunea de insultă sau calomnie.
+Proba verităţii celor afirmate sau imputate este admisibilă, dacă afirmarea sau imputarea a fost săvârşită pentru apărarea unui interes legitim. Fapta cu privire la care s-a făcut proba verităţii nu constituie infracţiunea de insulta sau calomnie.
 
-Titlul III INFRACŢIUNI CONTRA AVUTULUI PERSONAL SAU PARTICULAR
+Titlul III INFRACŢIUNI CONTRA PATRIMONIULUI
 
+Furtul
 
 Articolul 208
 
-Furtul
-Luarea unui bun mobil din posesia sau detenţia altuia, fără consimţămîntul acestuia, în scopul de a şi-l însuşi pe nedrept, se pedepseşte cu închisoare de la 3 luni la 2 ani.
-Se consideră bunuri mobile şi orice energie care are o valoare economică, precum şi înscrisurile.
-Fapta constituie furt chiar dacă bunul aparţine în întregime sau în parte făptuitorului, dar în momentul săvîrşirii acel bun se găsea în posesia sau deţinerea legitimă a altei persoane.
+Luarea unui bun mobil din posesia sau detenţia altuia, fără consimţământul acestuia, în scopul de a şi-l însuşi pe nedrept, se pedepseşte cu închisoare de la unu la 12 ani.
+Se considera bunuri mobile şi orice energie care are o valoare economică, precum şi înscrisurile.
+Fapta constituie furt chiar dacă bunul aparţine în întregime sau în parte făptuitorului, dar în momentul săvârşirii acel bun se găsea în posesia sau deţinerea legitima a altei persoane.
 De asemenea, constituie furt luarea în condiţiile alin. 1 a unui vehicul, cu scopul de a-l folosi pe nedrept.
+Furtul calificat
 
 Articolul 209
 
-Furtul calificat
-Furtul săvîrşit în următoarele împrejurări:
-a) de două sau mai multe persoane împreună;
-b) de o persoană avînd asupra sa o armă sau o substanţă narcotică;
-c) într-un loc public;
-d) în vreun mijloc de transport în comun;
-e) în timpul nopţii;
-f) în timpul unei calamitaţi;
-g) prin efracţie, escaladare, sau prin folosirea fără drept a unei chei adevărate ori a unei chei mincinoase,
-se pedepseşte cu închisoare de la unu la 5 ani.
-Cu aceeaşi pedeapsă se sancţionează furtul unui act care serveşte pentru dovedirea stării civile, pentru legitimare sau identificare.
+Furtul savirsit în următoarele împrejurări:
+a) de doua sau mai multe persoane împreună;
+b) de o persoană având asupra sa o arma sau o substanţa narcotică;
+c) de către o persoană mascată, deghizată sau travestită;
+d) asupra unei persoane aflate în imposibilitatea de a-şi exprima voinţa sau de a se apara;
+e) într-un loc public;
+f) într-un mijloc de transport în comun;
+g) în timpul nopţii;
+h) în timpul unei calamitati;
+i) prin efracţie, escaladare sau prin folosirea fără drept a unei chei adevărate ori a unei chei mincinoase,
+se pedepseşte cu închisoare de la 3 la 15 ani.
+Cu aceeaşi pedeapsa se sancţionează şi furtul privind:
+a) produsele petroliere sau gazele naturale din conducte, depozite ori cisterne;
+b) un bun care face parte din patrimoniul cultural;
+c) un act care serveşte pentru dovedirea stării civile, pentru legitimare sau identificare.
+Furtul care a produs consecinţe deosebit de grave se pedepseşte cu închisoare de la 10 la 20 de ani şi interzicerea unor drepturi.
+Pedepsirea unor furturi la plîngerea prealabilă
 
 Articolul 210
 
-Pedepsirea unor furturi la plîngerea prealabilă
-Furtul săvîrşit între soţi ori între rude apropiate, sau de către un minor în paguba tutorelui său, ori de către cel care locuieşte împreună cu persoana vătămată sau este găzduit de aceasta, se urmăreşte numai la plîngerea prealabilă a persoanei vătămate.
-Împăcarea părţilor înlătura răspunderea penală.
+Furtul savirsit între soţi ori între rude apropiate, sau de către un minor în paguba tutorelui sau, ori de către cel care locuieşte împreună cu persoana vătămată sau este găzduit de aceasta, se urmăreşte numai la plîngerea prealabilă a persoanei vătămate.
+Împăcarea părţilor inlatura răspunderea penală.
+Tilharia
 
 Articolul 211
 
-Tîlhăria
-Furtul săvîrşit prin întrebuinţare de violenţe sau ameninţări, ori prin punerea victimei în stare de inconştienţă sau neputinţa de a se apăra, precum şi furtul urmat de întrebuinţarea unor astfel de mijloace pentru păstrarea bunului furat sau pentru înlăturarea urmelor infracţiunii, ori pentru ca făptuitorul să-şi asigure scăparea, se pedepseşte cu închisoare de la 2 la 7 ani.
-Dacă tîlhăria a avut vreuna dintre urmările arătate în art. 181 sau 182, pedeapsa este închisoarea de la 3 la 10 ani.
-Tîlhăria care a avut ca urmare moartea victimei se pedepseşte cu închisoare de la 7 la 15 de ani şi interzicerea unor drepturi.
+Furtul savirsit prin întrebuinţare de violenţe sau ameninţări ori prin punerea victimei în stare de inconstienta sau neputinţă de a se apara, precum şi furtul urmat de întrebuinţarea unor astfel de mijloace pentru păstrarea bunului furat sau pentru înlăturarea urmelor infracţiunii ori pentru ca făptuitorul să-şi asigure scăparea, se pedepseşte cu închisoare de la 3 la 18 ani.
+Tilharia săvârşită în următoarele împrejurări:
+a) de doua sau mai multe persoane împreună;
+b) de o persoană având asupra sa o arma sau o substanţa narcotică;
+c) de o persoană mascată, deghizată sau travestită;
+d) în timpul nopţii;
+e) într-un loc public sau într-un mijloc de transport;
+f) într-o locuinta sau în dependinţe ale acesteia;
+g) în timpul unei calamitati;
+h) a avut vreuna din urmările arătate în art. 182,
+se pedepseşte cu închisoare de la 5 la 20 de ani.
+Tilharia care a produs consecinţe deosebit de grave sau a avut ca urmare moartea victimei se pedepseşte cu închisoare de la 15 la 25 de ani şi interzicerea unor drepturi.
+Pirateria
 
 Articolul 212
 
-Pirateria
-Jefuirea prin acte de violenţă săvîrşite în scopuri personale, de echipajul sau pasagerii unei nave împotriva persoanelor sau bunurilor care se găsesc pe acea navă ori împotriva altei nave, dacă navele se afla în marea liberă sau într-un loc care nu este supus jurisdicţiei nici unui stat, se pedepseşte cu închisoare de la 2 la 7 ani.
-Dacă pirateria a avut vreuna dintre urmările arătate în art. 181 sau 182, pedeapsa este închisoarea de la 3 la 10 ani.
-Pirateria care a avut ca urmare moartea victimei se pedepseşte cu închisoare de la 7 la 15 ani şi interzicerea unor drepturi.
-Dispoziţiile alineatelor precedente se aplică în mod corespunzător şi cînd infracţiunea de piraterie s-a comis pe o aeronavă sau între aeronave şi nave.
+Jefuirea prin acte de violenta săvârşite în scopuri personale, de echipajul sau pasagerii unei nave împotriva persoanelor sau bunurilor care se găsesc pe acea nava ori împotriva altei nave, dacă navele se afla în marea libera sau într-un loc care nu este supus jurisdicţiei nici unui stat, se pedepseşte cu închisoare de la 3 la 18 ani.
+Dacă pirateria a avut vreuna dintre urmările arătate în art. 182, pedeapsa este închisoarea de la 5 la 20 de ani.
+Pirateria care a produs consecinţe deosebit de grave sau a avut ca urmare moartea victimei se pedepseşte cu închisoare de la 15 la 25 de ani şi interzicerea unor drepturi.
+Dispoziţiile alineatelor precedente se aplică în mod corespunzător şi când infracţiunea de piraterie s-a comis pe o aeronava sau între aeronave şi nave.
+Abuzul de încredere
 
 Articolul 213
 
-Abuzul de încredere
-Însuşirea unui bun mobil al altuia, deţinut cu orice titlu, sau dispunerea de acest bun pe nedrept, ori refuzul de a-l restitui, se pedepseşte cu închisoare de la 3 luni la 2 ani sau cu amendă.
-Acţiunea penală se pune în mişcare la plîngerea prealabilă a persoanei vătămate.
-Împăcarea părţilor înlătură răspunderea penală.
+Însuşirea unui bun mobil al altuia, deţinut cu orice titlu, sau dispunerea de acest bun pe nedrept ori refuzul de a-l restitui, se pedepseşte cu închisoare de la 3 luni la 4 ani sau cu amendă.
+Dacă bunul este proprietate privată, cu excepţia cazului când acesta este în întregime sau în parte al statului, acţiunea penală se pune în mişcare la plîngerea prealabilă a persoanei vătămate. Împăcarea părţilor inlatura răspunderea penală.
+Gestiunea frauduloasă
 
 Articolul 214
 
-Gestiunea frauduloasă
-Pricinuirea de pagube unei persoane, cu rea-credinţă, cu ocazia administrării sau conservării bunurilor acesteia, de către cel care are ori trebuie să aibă grija administrării sau conservării acelor bunuri, se pedepseşte cu închisoare de la 3 luni la 2 ani.
+Pricinuirea de pagube unei persoane, cu rea-credinţa, cu ocazia administrării sau conservării bunurilor acesteia, de către cel care are ori trebuie să aibă grija administrării sau conservării acelor bunuri, se pedepseşte cu închisoare de la 6 luni la 5 ani.
+Gestiunea frauduloasă săvârşită în scopul de a dobîndi un folos material se pedepseşte cu închisoare de la 3 la 10 ani, dacă fapta nu constituie o infracţiune mai grava.
+Dacă bunul este proprietate privată, cu excepţia cazului când acesta este în întregime sau în parte proprietatea statului, acţiunea penală pentru fapta prevăzută în alin. 1 se pune în mişcare la plîngerea prealabilă a persoanei vătămate.
+Înşelăciunea
 
 Articolul 215
 
-Înşelăciunea
-Inducerea în eroare a unei persoane, prin prezentarea ca adevărată a unei fapte mincinoase sau ca mincinoasă a unei fapte adevărate, în scopul de a obţine pentru sine sau pentru altul un folos material injust şi dacă s-a pricinuit o paguba, se pedepseşte cu închisoare de la 3 luni la 2 ani.
-Înşelăciunea săvîrşită prin folosire de nume sau calităţi mincinoase ori de alte mijloace frauduloase, se pedepseşte cu închisoare de la unu la 3 ani. Dacă mijlocul fraudulos constituie prin el însuşi o infracţiune, se aplică regulile privind concursul de infracţiuni.
-Inducerea sau menţinerea în eroare a unei persoane, cu prilejul încheierii sau executării unui contract, săvîrşită în aşa fel încît fără această eroare cel înşelat nu ar fi încheiat sau executat contractul în condiţiile stipulate, se sancţionează cu pedeapsa prevăzută în alineatele precedente, după distincţiile acele arătate.
+Inducerea în eroare a unei persoane, prin prezentarea ca adevarata a unei fapte mincinoase sau ca mincinoasă a unei fapte adevărate, în scopul de a obţine pentru sine sau pentru altul un folos material injust şi dacă s-a pricinuit o paguba, se pedepseşte cu închisoare de la 6 luni la 12 ani.
+Înşelăciunea săvârşită prin folosire de nume sau calităţi mincinoase ori de alte mijloace frauduloase se pedepseşte cu închisoare de la 3 la 15 ani. Dacă mijlocul fraudulos constituie prin el însuşi o infracţiune, se aplică regulile privind concursul de infracţiuni.
+Inducerea sau menţinerea în eroare a unei persoane cu prilejul încheierii sau executării unui contract, săvârşită în asa fel încât, fără aceasta eroare, cel înşelat nu ar fi încheiat sau executat contractul în condiţiile stipulate, se sancţionează cu pedeapsa prevăzută în alineatele precedente, după distincţiile acolo arătate.
+Emiterea unui cec asupra unei instituţii de credit sau unei persoane, ştiind ca pentru valorificarea lui nu exista provizia sau acoperirea necesară, precum şi fapta de a retrage, după emitere, provizia, în totul sau în parte, ori de a interzice trasului de a plati înainte de expirarea termenului de prezentare, în scopul arătat în alin. 1, dacă s-a pricinuit o paguba posesorului cecului, se sancţionează cu pedeapsa prevăzută în alin. 2.
+Înşelăciunea care a avut consecinţe deosebit de grave se pedepseşte cu închisoare de la 10 la 20 de ani şi interzicerea unor drepturi.
+Delapidarea
+
+Articolul 215^1
+
+Însuşirea, folosirea sau traficarea, de către un funcţionar, în interesul sau ori pentru altul, de bani, valori sau alte bunuri pe care le gestionează sau le administrează, se pedepsesc cu închisoare de la unu la 15 ani.
+În cazul în care delapidarea a avut consecinţe deosebit de grave, pedeapsa este închisoarea de la 10 la 20 de ani şi interzicerea unor drepturi.
+Însuşirea bunului găsit
 
 Articolul 216
 
-Însuşirea bunului găsit
-Fapta de a nu preda în termen de 10 zile un bun găsit autorităţilor sau celui care l-a pierdut, sau de a dispune de acel bun ca de al său, se pedepseşte cu închisoare de la o lună la 3 luni sau cu amendă.
-Cu aceeaşi pedeapsă se sancţionează şi însuşirea pe nedrept a unui bun mobil ce aparţine altuia, ajuns din eroare în posesia făptuitorului.
+Fapta de a nu preda în termen de 10 zile un bun găsit autorităţilor sau celui care l-a pierdut, sau de a dispune de acel bun ca de al său, se pedepseşte cu închisoare de la o luna la 3 luni sau cu amendă.
+Cu aceeaşi pedeapsa se sancţionează şi însuşirea pe nedrept a unui bun mobil ce aparţine altuia, ajuns din eroare în posesia făptuitorului.
+Distrugerea
 
 Articolul 217
 
-Distrugerea
-Distrugerea, degradarea ori aducerea în stare de neîntrebuinţare a unui bun aparţinînd altuia, sau împiedicarea luării măsurilor de conservare ori de salvare a unui astfel de bun, precum şi înlăturarea măsurilor luate, se pedepsesc cu închisoare de la o lună la 1 an sau cu amendă.
-În cazul în care bunul are deosebită valoare artistică, ştiinţifică, istorică, arhivistică sau o altă valoare socială, pedeapsa este închisoarea de la 3 luni la 3 ani.
-Cu pedeapsa prevăzută în alin. 2 se sancţionează şi distrugerea, degradarea ori aducerea în stare de neîntrebuinţare a unui cablu telegrafic, telefonic sau de înaltă tensiune ori a unei conducte petroliere.
-Dacă distrugerea, degradarea sau aducerea în stare de neîntrebuinţare se săvîrşeşte prin incendiere, explozie ori prin orice alt asemenea mijloc şi dacă rezultă pericol public, pedeapsa este închisoarea de la unu la 5 ani.
+Distrugerea, degradarea ori aducerea în stare de neîntrebuinţare a unui bun aparţinând altuia sau împiedicarea luării măsurilor de conservare ori de salvare a unui astfel de bun, precum şi înlăturarea măsurilor luate, se pedepsesc cu închisoare de la o luna la 3 ani sau cu amendă.
+În cazul în care bunul are deosebită valoare artistică, ştiinţifică, istorica, arhivistica sau o alta asemenea valoare, pedeapsa este închisoarea de la unu la 10 ani.
+Distrugerea, degradarea sau aducerea în stare de neîntrebuinţare a unei conducte petroliere sau de gaze, a unui cablu de înaltă tensiune, a echipamentelor şi instalaţiilor de telecomunicaţii sau pentru difuzarea programelor de radio şi televiziune ori a sistemelor de alimentare cu apa şi a conductelor magistrale de alimentare cu apa, se pedepsesc cu închisoare de la unu la 10 ani.
+Dacă distrugerea, degradarea sau aducerea în stare se neîntrebuinţare se săvârşeşte prin incendiere, explozie ori prin orice alt asemenea mijloc şi dacă rezultă pericol public, pedeapsa este închisoarea de la 3 la 15 ani.
 Dispoziţiile prevăzute în alin. 2, 3 şi 4 se aplică chiar dacă bunul aparţine făptuitorului.
-Acţiunea penală pentru fapta prevăzută în alin. 1 se pune în mişcare la plîngerea prealabilă a persoanei vătămate. Împăcarea părţilor înlătură răspunderea penală.
+Dacă bunul este proprietate privată, cu excepţia cazului când acesta este în întregime sau în parte al statului, acţiunea penală pentru fapta prevăzută în alin. 1 se pune în mişcare la plîngerea prealabilă a persoanei vătămate. Împăcarea părţilor inlatura răspunderea penală.
+Distrugerea calificată
 
 Articolul 218
 
-Distrugerea calificată
-Dacă faptele prevăzute în articolul precedent au avut consecinţe deosebit de grave, pedeapsa este închisoarea de la 5 la 15 ani şi interzicerea unor drepturi, iar dacă au avut ca urmare un dezastru, pedeapsa este închisoarea de la 10 la 20 de ani şi interzicerea unor drepturi.
-Dezastrul constă în distrugerea sau degradarea unor mijloace de transport în comun, de mărfuri sau persoane, ori a unor instalaţii sau lucrări şi care a avut ca urmare moartea sau vătămarea gravă a integrităţii corporale ori sănătăţii mai multor persoane.
+Dacă faptele prevăzute în art. 217 au avut consecinţe deosebit de grave, pedeapsa este închisoarea de la 10 la 20 de ani şi interzicerea unor drepturi, iar dacă au avut ca urmare un dezastru, pedeapsa este detenţiunea pe viaţa sau închisoarea de la 15 la 25 de ani şi interzicerea unor drepturi.
+Dezastrul consta în distrugerea sau degradarea unor mijloace de transport în comun, de mărfuri sau persoane, ori a unor instalaţii sau lucrări şi care a avut ca urmare moartea sau vătămarea grava a integrităţii corporale ori sănătăţii mai multor persoane.
+Distrugerea din culpa
 
 Articolul 219
 
-Distrugerea din culpă
-Distrugerea, degradarea ori aducerea în stare de neîntrebuinţare, din culpă, a unui bun, chiar dacă acesta aparţine făptuitorului, dacă fapta este săvîrşită prin incendiere, explozie sau prin orice alt asemenea mijloc şi dacă rezultă pericol public, se pedepsesc cu închisoare de la o lună la 1 an sau cu amendă.
-Cu aceeaşi pedeapsă se sancţionează distrugerea ori degradarea din culpă a unui cablu telegrafic, telefonic sau de înaltă tensiune ori a unei conducte petroliere, dacă a avut ca urmare aducerea în stare de neîntrebuinţare a acestora.
-Distrugerea, degradarea ori aducerea în stare de neîntrebuinţare, din culpă, a unui bun, chiar dacă acesta aparţine făptuitorului, dacă a avut consecinţe deosebit de grave, se pedepsesc cu închisoare de la unu la 5 ani, iar dacă a avut ca urmare un dezastru, pedeapsa este închisoarea de la 3 la 10 ani.
-Cînd dezastrul ori consecinţele deosebit de grave s-au produs ca urmare a părăsirii postului, sau a săvîrşirii oricărei alte fapte de către personalul de conducere al unui mijloc de transport în comun, ori de către personalul care asigură direct securitatea unor asemenea transporturi, pedeapsa este închisoarea de la 5 la 12 ani.
+Distrugerea, degradarea ori aducerea în stare de neîntrebuinţare, din culpa, a unui bun, chiar dacă acesta aparţine făptuitorului, în cazul în care fapta este săvârşită prin incendiere, explozie sau prin orice alt asemenea mijloc şi dacă rezultă pericol public, se pedepsesc cu închisoare de la o luna la 2 ani sau cu amendă.
+Cu aceeaşi pedeapsa se sancţionează distrugerea ori degradarea din culpa a unei conducte petroliere sau de gaze, a unui cablu de înaltă tensiune, a echipamentelor şi instalaţiilor de telecomunicaţii sau pentru difuzarea programelor de radio şi televiziune ori a sistemelor de alimentare cu apa şi a conductelor magistrale de alimentare cu apa, dacă a avut ca urmare aducerea în stare de neîntrebuinţare a acestora.
+Distrugerea, degradarea sau aducerea în stare de neîntrebuinţare, din culpa, a unui bun, chiar dacă acesta aparţine făptuitorului, în cazul în care a avut consecinţe deosebit de grave, se pedepsesc cu închisoare de la unu la 6 ani, iar dacă a avut ca urmare un dezastru, pedeapsa este închisoarea de la 3 la 12 ani.
+Când dezastrul ori consecinţele deosebit de grave s-au produs ca urmare a părăsirii postului sau a săvârşirii oricărei alte fapte de către personalul de conducere al unui mijloc de transport în comun ori de către personalul care asigura direct securitatea unor asemenea transporturi, pedeapsa este închisoarea de la 5 la 15 ani.
+Tulburarea de posesie
 
 Articolul 220
 
-Tulburarea de posesie
-Ocuparea în întregime sau în parte, fără drept, prin violenţă sau ameninţare, ori prin desfiinţarea sau strămutarea semnelor de hotar, a unui imobil aflat în posesia altuia, se pedepseşte cu închisoare de la o lună la 1 an sau cu amendă.
-Acţiunea penală se pune în mişcare la plîngerea prealabilă a persoanei vătămate.
-Împăcarea părţilor înlătură răspunderea penală.
+Ocuparea, în întregime sau în parte, fără drept, a unui imobil aflat în posesia altuia, se pedepseşte cu închisoare de la o luna la 2 ani sau cu amendă.
+Dacă fapta prevăzută în alin. 1 se săvârşeşte prin violenta sau ameninţare ori prin desfiinţarea sau strămutarea semnelor de hotar, a unui imobil aflat în posesia altuia, pedeapsa este închisoarea de la 6 luni la 5 ani.
+Dacă fapta prevăzută în alin. 2 se săvârşeşte de doua sau mai multe persoane împreună, pedeapsa este închisoarea de la unu la 7 ani.
+Dacă imobilul este în posesia unei persoane private, cu excepţia cazului când acesta este în întregime sau în parte al statului, acţiunea penală se pune în mişcare la plîngerea prealabilă a persoanei vătămate. Împăcarea părţilor inlatura răspunderea penală.
+Tăinuirea
 
 Articolul 221
 
-Tăinuirea
-Primirea, dobîndirea sau transformarea unui bun, ori înlesnirea valorificării acestuia, cunoscînd că bunul provine din săvîrşirea unei fapte prevăzute de legea penală, dacă prin aceasta s-a urmărit obţinerea pentru sine ori pentru altul a unui folos material, se pedepsesc cu închisoare de la 3 luni la 2 ani, fără ca sancţiunea aplicată să poată depăşi pedeapsa prevăzută de lege pentru infracţiunea din care provine bunul tăinuit.
-Tăinuirea săvîrşită de soţ sau de o rudă apropiată nu se pedepseşte.
+Primirea, dobindirea sau transformarea unui bun ori înlesnirea valorificării acestuia, cunoscând ca bunul provine din săvârşirea unei fapte prevăzute de legea penală, dacă prin aceasta s-a urmărit obţinerea, pentru sine ori pentru altul, a unui folos material, se pedepsesc cu închisoare de la 3 luni la 7 ani, fără ca sancţiunea aplicată să poată depăşi pedeapsa prevăzută de lege pentru infracţiunea din care provine bunul tăinuit.
+Tăinuirea săvârşită de soţ sau de o ruda apropiată nu se pedepseşte.
+Sancţionarea tentativei
 
 Articolul 222
 
-Sancţionarea tentativei
-Tentativa infracţiunilor prevăzute în art. 208-212, 215, 217 şi 218 se pedepseşte.
+Tentativa infracţiunilor prevăzute în art. 208-212, 215, 215^1, 217 şi 218 se pedepseşte.
 
 Titlul IV INFRACŢIUNI CONTRA AVUTULUI OBŞTESC
 
 
 Articolul 223
 
-Delapidarea
-Însuşirea, folosirea sau traficarea de către un funcţionar ori alt salariat, în interesul său ori pentru altul, de bani, valori sau alte bunuri din avutul obştesc, pe care le gestionează sau administrează, se pedepsesc cu închisoare de la 6 luni la 5 ani şi confiscarea parţială a averii.
-În cazul în care delapidarea a avut consecinţe grave, pedeapsa este închisoarea de la 5 la 15 ani, interzicerea unor drepturi şi confiscarea parţială a averii.
-Dacă delapidarea a avut consecinţe deosebit de grave, pedeapsa este moartea şi confiscarea totală a averii, sau închisoarea de la 15 la 20 de ani, interzicerea unor drepturi şi confiscarea parţială a averii.
+Abrogat.
 
 Articolul 224
 
-Furtul în paguba avutului obştesc
-Furtul săvîrşit în paguba avutului obştesc se pedepseşte cu închisoare de la 6 luni la 4 ani.
-Cînd furtul a avut consecinţe grave ori este calificat, pedeapsa este închisoarea de la 3 la 12 ani, interzicerea unor drepturi şi confiscarea parţială a averii.
-Dacă furtul a avut consecinţe deosebit de grave, pedeapsa este moartea şi confiscarea totală a averii, sau închisoarea de la 15 la 20 de ani, interzicerea unor drepturi şi confiscarea parţială a averii.
+Abrogat.
 
 Articolul 225
 
-Tîlhăria în paguba avutului obştesc
-Tîlhăria săvîrşită în paguba avutului obştesc se pedepseşte cu închisoare de la 3 la 12 ani, interzicerea unor drepturi şi confiscarea parţială a averii.
-Cînd tîlhăria a avut consecinţe grave ori vreuna dintre urmările prevăzute în art. 181 sau 182, pedeapsa este închisoarea de la 5 la 15 ani, interzicerea unor drepturi şi confiscarea parţială a averii.
-Dacă tîlhăria a avut ca urmare moartea victimei sau alte consecinţe deosebit de grave, pedeapsa este moartea şi confiscarea totală a averii, sau închisoarea de la 15 la 20 de ani, interzicerea unor drepturi şi confiscarea parţială a averii.
+Abrogat.
 
 Articolul 226
 
-Pirateria în paguba avutului obştesc
-Pirateria săvîrşită în paguba avutului obştesc se sancţionează cu pedepsele prevăzute în art. 225.
+Abrogat.
 
 Articolul 227
 
-Abuzul de încredere în paguba avutului obştesc
-Abuzul de încredere săvîrşit în paguba avutului obştesc se pedepseşte cu închisoare de la 6 luni la 4 ani.
+Abrogat.
 
 Articolul 228
 
-Gestiunea frauduloasă în paguba avutului obştesc
-Gestiunea frauduloasă săvîrşită în paguba avutului obştesc se pedepseşte cu închisoare de la 6 luni la 5 ani.
+Abrogat.
 
 Articolul 229
 
-Înşelăciunea în paguba avutului obştesc
-Înşelăciunea săvîrşită în paguba avutului obştesc se pedepseşte cu închisoare de la 6 luni la 5 ani.
-Înşelăciunea săvîrşită în condiţiile art. 215 alin. 2, ori care a avut consecinţe grave se pedepseşte cu închisoare de la 3 la 12 ani, interzicerea unor drepturi şi confiscarea parţială a averii.
-Dacă înşelăciunea a avut consecinţe deosebit de grave, pedeapsa este moartea şi confiscarea totală a averii, sau închisoarea de la 15 la 20 de ani, interzicerea unor drepturi şi confiscarea parţială a averii.
+Abrogat.
 
 Articolul 230
 
-Însuşirea în paguba avutului obştesc a bunului găsit
-Însuşirea în paguba avutului obştesc a unui bun găsit se pedepseşte cu închisoare de la 3 luni la 2 ani.
+Abrogat.
 
 Articolul 231
 
-Distrugerea în paguba avutului obştesc
-Distrugerea săvîrşită în paguba avutului obştesc se pedepseşte cu închisoare de la 3 luni la 3 ani.
-Distrugerea săvîrşită în condiţiile art. 217 alin. 2-4 se pedepseşte cu închisoare de la 3 la 10 ani, interzicerea unor drepturi şi confiscarea parţială a averii.
-Dacă distrugerea a avut consecinţe deosebit de grave, pedeapsa este închisoarea de la 10 la 15 ani, interzicerea unor drepturi şi confiscarea parţială a averii.
-Cînd distrugerea a avut ca urmare un dezastru, pedeapsa este moartea şi confiscarea totală a averii, sau închisoarea de la 15 la 20 de ani, interzicerea unor drepturi şi confiscarea parţială a averii.
+Abrogat.
 
 Articolul 232
 
-Distrugerea din culpă în paguba avutului obştesc
-Distrugerea din culpă în paguba avutului obştesc, săvîrşită în condiţiile art. 219 alin. 1 şi 2, se pedepseşte cu închisoare de la o lună la 2 ani.
-Cînd distrugerea a avut consecinţe deosebit de grave, pedeapsa este închisoarea de la 2 la 6 ani şi interzicerea unor drepturi.
-Dacă distrugerea a avut ca urmare un dezastru, pedeapsa este închisoarea de la 5 la 12 ani şi interzicerea unor drepturi.
-Cînd dezastrul sau consecinţele deosebit de grave s-au produs în condiţiile art. 219 alin. 4, pedeapsa este închisoarea de la 10 la 15 ani şi interzicerea unor drepturi.
+Abrogat.
 
 Articolul 233
 
-Tulburarea de posesie în paguba avutului obştesc
-Tulburarea de posesie săvîrşită în paguba avutului obştesc se pedepseşte cu închisoare de la 3 luni la 3 ani.
+Abrogat.
 
 Articolul 234
 
-Tăinuirea în paguba avutului obştesc
-Tăinuirea săvîrşită în paguba avutului obştesc se pedepseşte cu închisoare de la 6 luni la 5 ani.
-Tăinuirea săvîrşită de soţ sau de o ruda apropiată în cazul infracţiunilor prevăzute în art. 223 alin. 3, 224 alin. 3, 225 alin. 3 şi 229 alin. 3 se pedepseşte. Limitele pedepsei prevăzute în alin. 1 se reduc la jumătate, iar în cazul celorlalte infracţiuni, tăinuirea nu se pedepseşte.
+Abrogat.
 
 Articolul 235
 
-Sancţionarea tentativei
-Tentativa infracţiunilor prevăzute în art. 223-226, 229 şi 231 se pedepseşte.
+Abrogat.
 
-Titlul V INFRACŢIUNI CONTRA AUTORITĂŢILOR
+Titlul V INFRACŢIUNI CONTRA AUTORITĂŢII
 
+Ofensa adusă unor însemne
 
 Articolul 236
 
-Ofensa adusă unor însemne
-Orice manifestare prin care se exprimă dispreţ pentru însemnele Republicii Socialiste România se pedepseşte cu închisoare de la 6 luni la 3 ani.
-Manifestarea prin care se exprima dispreţ pentru emblemele sau semnele de care se folosesc autorităţile se pedepseşte cu închisoare de la 3 luni la 1 an sau cu amenda.
+Orice manifestare prin care se exprima dispreţ pentru însemnele României se pedepseşte cu închisoare de la 6 luni la 3 ani.
+Manifestarea prin care se exprima dispreţ pentru emblemele sau semnele de care se folosesc autorităţile se pedepseşte cu închisoare de la 3 luni la 1 an sau cu amendă.
+Defăimarea tarii sau a naţiunii
+
+Articolul 236^1
+
+Manifestările publice săvârşite cu intenţia de a defaima ţara sau naţiunea română se pedepsesc cu închisoare de la 6 luni la 3 ani.
 
 Articolul 237
 
-Defăimarea unei organizaţii
-Defăimarea unei organizaţii de stat sau obşteşti, prin orice mijloace, în public, se pedepseşte cu închisoare de la 3 luni la 2 ani sau cu amenda.
+Abrogat.
+Ofensa adusă autorităţii
 
 Articolul 238
 
-Ofensa adusă autorităţii
-Atingerea adusă onoarei sau ameninţarea, în public, săvîrşită împotriva uneia dintre persoanele prevăzute în art. 160, în legătură cu activitatea acesteia şi de natură să aducă atingere autorităţii, se pedepseşte cu închisoare de la 6 luni la 3 ani.
-Lovirea sau orice acte de violenţă săvîrşite împotriva uneia dintre persoanele şi în condiţiile arătate în alineatul precedent se pedepsesc cu închisoare de la unu la 5 ani.
+Atingerea adusă onoarei sau ameninţarea săvârşită în public, împotriva uneia dintre persoanele prevăzute în art. 160, în legătură cu activitatea acesteia şi de natura a aduce atingere autorităţii, se pedepseşte cu închisoare de la 6 luni la 5 ani.
+Lovirea sau orice alte acte de violenta, precum şi vătămarea corporală, săvârşite împotriva uneia dintre persoanele şi în condiţiile arătate în alin. 1, se pedepsesc cu închisoare de la 3 la 10 ani, iar dacă s-a produs vătămarea corporală grava, pedeapsa este închisoarea de la 5 la 15 ani şi interzicerea unor drepturi.
+Ultrajul
 
 Articolul 239
 
-Ultrajul
-Insulta, calomnia ori ameninţarea săvîrşită nemijlocit sau prin mijloace de comunicare directă, contra unui funcţionar care îndeplineşte o funcţie ce implică exerciţiul autorităţii de stat, aflat în exerciţiul funcţiunii ori pentru fapte îndeplinite în exerciţiul funcţiunii, se pedepsesc cu închisoare de la 3 luni la 2 ani sau cu amenda.
-Lovirea sau orice acte de violenţă, precum şi vătămarea corporală săvîrşite împotriva persoanei prevăzute în alineatul precedent, aflată în exerciţiul funcţiunii ori pentru fapte îndeplinite în exerciţiul funcţiunii, se pedepsesc cu închisoare de la 6 luni la 5 ani.
+Insulta, calomnia ori ameninţarea săvârşită nemijlocit sau prin mijloace de comunicare directa contra unui funcţionar public care îndeplineşte o funcţie ce implica exerciţiul autorităţii de stat, aflat în exerciţiul funcţiunii ori pentru fapte îndeplinite în exerciţiul funcţiunii, se pedepsesc cu închisoare de la 3 luni la 4 ani.
+Lovirea sau orice acte de violenta, precum şi vătămarea corporală săvârşite împotriva persoanei prevăzute în alin. 1, aflată în exerciţiul funcţiunii ori pentru fapte îndeplinite în exerciţiul funcţiunii, se pedepsesc cu închisoare de la 6 luni la 7 ani, iar dacă s-a produs vătămarea corporală grava, pedeapsa este închisoarea de la 3 la 12 ani.
+Dacă faptele prevăzute în alineatele precedente sunt săvârşite împotriva unui magistrat, poliţist sau jandarm ori alt militar, maximul special al pedepsei se majorează cu 3 ani.
+Cazuri speciale de pedepsire
+
+Articolul 239^1
+
+În cazul infracţiunilor prevăzute în art. 180-182, 189 şi 193 săvârşite împotriva soţului, copiilor sau părinţilor persoanelor prevăzute în art. 238 sau în art. 239 alin. 3, în scop de intimidare sau de răzbunare pentru acte sau fapte îndeplinite în exerciţiul funcţiunii, maximul pedepsei se majorează cu o treime.
+Uzurparea de calităţi oficiale
 
 Articolul 240
 
-Uzurparea de calităţi oficiale
 Folosirea fără drept a unei calităţi oficiale, însoţită sau urmată de îndeplinirea vreunui act legat de acea calitate, se pedepseşte cu închisoare de la 6 luni la 3 ani.
+Portul nelegal de decoraţii sau semne distinctive
 
 Articolul 241
 
-Portul nelegal de decoraţii sau de semne distinctive
 Purtarea, fără drept, de decoraţii, de uniforme sau de semne distinctive ale unui organ de stat, se pedepseşte cu închisoare de la o luna la 3 luni sau cu amendă.
 Purtarea, fără drept, de uniforme, grade sau insigne militare, se pedepseşte cu închisoare de la 3 luni la 2 ani sau cu amendă.
-Dacă fapta prevăzută în alineatul precedent se săvîrşeşte în timp de război, pedeapsa este închisoarea de la unu la 5 ani.
+Dacă fapta prevăzută în alineatul precedent se săvârşeşte în timp de război, pedeapsa este închisoarea de la unu la 5 ani.
+Sustragerea sau distrugerea de înscrisuri
 
 Articolul 242
 
-Sustragerea sau distrugerea de înscrisuri
-Sustragerea ori distrugerea unui dosar, registru, document sau orice alt înscris care se află în păstrarea ori în deţinerea unei organizaţii din cele prevăzute în art. 145, se pedepseşte cu închisoare de la 3 luni la 3 ani.
-Distrugerea din culpă a vreunuia dintre înscrisurile prevăzute în alineatul precedent, care prezintă o valoare artistică, ştiinţifică, istorică, arhivistică sau o altă valoare socială, se pedepseşte cu închisoare de la o lună la 1 an sau cu amendă.
-Dacă faptele prevăzute în alin. 1 şi 2 sînt săvîrşite de un funcţionar ori alt salariat în exerciţiul atribuţiilor de serviciu, maximul pedepselor prevăzute în aceste alineate se majorează cu un an.
+Sustragerea ori distrugerea unui dosar, registru, document sau orice alt înscris care se afla în păstrarea ori în deţinerea unui organ sau unei instituţii de stat ori a unei alte unităţi din cele la care se referă art. 145 se pedepseşte cu închisoare de la 3 luni la 5 ani.
+Distrugerea din culpa a vreunuia dintre înscrisurile prevăzute în alineatul precedent, care prezintă o valoare artistică, ştiinţifică, istorica, arhivistica sau o alta asemenea valoare, se pedepseşte cu închisoare de la 3 luni la 2 ani sau cu amendă.
+Dacă faptele prevăzute în alin. 1 şi 2 sunt săvârşite de un funcţionar public în exerciţiul atribuţiilor de serviciu, maximul pedepselor prevăzute în aceste alineate se majorează cu un an.
 Tentativa infracţiunii prevăzute în alin. 1 se pedepseşte.
+Ruperea de sigilii
 
 Articolul 243
 
-Ruperea de sigilii
-Înlăturarea ori distrugerea unui sigiliu legal aplicat se pedepseşte cu închisoare de la o lună la 1 an sau cu amendă.
-Dacă fapta a fost săvîrşită de custode, pedeapsa este închisoarea de la 3 luni la 2 ani.
+Înlăturarea ori distrugerea unui sigiliu legal aplicat se pedepseşte cu închisoare de la o luna la 1 an sau cu amendă.
+Dacă fapta a fost săvârşită de custode, pedeapsa este închisoarea de la 3 luni la 2 ani sau amenda.
+Sustragerea de sub sechestru
 
 Articolul 244
 
-Sustragerea de sub sechestru
-Sustragerea unui bun care este legal sechestrat se pedepseşte cu închisoare de la o lună la 1 an sau cu amendă.
-Dacă fapta a fost săvîrşită de custode, pedeapsa este închisoarea de la 3 luni la 2 ani.
+Sustragerea unui bun care este legal sechestrat se pedepseşte cu închisoare de la o luna la 1 an sau cu amendă.
+Dacă fapta a fost săvârşită de custode, pedeapsa este închisoarea de la 3 luni la 2 ani sau amenda.
 
 Articolul 245
 
-Trecerea frauduloasă a frontierei
-Intrarea sau ieşirea din ţară prin trecerea frauduloasă a frontierei se pedepseşte cu închisoare de la 6 luni la 3 ani.
-Tentativa la ieşirea frauduloasă din ţară se pedepseşte.
-Se consideră tentativă şi procurarea de mijloace ori instrumente sau luarea de măsuri, dacă rezultă în mod neîndoios că făptuitorul urmăreşte să treacă fraudulos frontiera.
+Abrogat.
 
-Titlul VI INFRACŢIUNI CARE ADUC ATINGERE ACTIVITĂŢII ORGANIZAŢIILOR DE STAT, ORGANIZAŢIILOR OBŞTEŞTI SAU ALTOR ACTIVITĂŢI REGLEMENTATE DE LEGE
+Titlul VI INFRACŢIUNI CARE ADUC ATINGERE UNOR ACTIVITĂŢI DE INTERES PUBLIC SAU ALTOR ACTIVITĂŢI REGLEMENTATE DE LEGE
 
 
-Capitolul I INFRACŢIUNI DE SERVICIU SAU ÎN LEGĂTURĂ CU SERVICIUL
+Capitolul 1 INFRACŢIUNI DE SERVICIU SAU ÎN LEGATURA CU SERVICIUL
 
+Abuzul în serviciu contra intereselor persoanelor
 
 Articolul 246
 
-Abuzul în serviciu contra intereselor persoanelor
-Fapta funcţionarului care în exerciţiul atribuţiilor sale de serviciu, cu ştiinţă, nu îndeplineşte un act ori îl îndeplineşte în mod defectuos şi prin aceasta cauzează o vătămare intereselor legale ale unei persoane, se pedepseşte cu închisoare de la 3 luni la 2 ani.
+Fapta funcţionarului public, care, în exerciţiul atribuţiilor sale de serviciu, cu ştiinţa, nu îndeplineşte un act ori îl îndeplineşte în mod defectuos şi prin aceasta cauzează o vătămare intereselor legale ale unei persoane se pedepseşte cu închisoare de la 6 luni la 3 ani.
+Abuzul în serviciu prin îngrădirea unor drepturi
 
 Articolul 247
 
-Abuzul în serviciu prin îngrădirea unor drepturi
-Îngrădirea de către un funcţionar a folosinţei sau a exerciţiului drepturilor vreunui cetăţean, ori crearea pentru acesta a unor situaţii de inferioritate pe temei de naţionalitate, rasă, sex sau religie, se pedepseşte cu închisoare de la 6 luni la 5 ani.
+Îngrădirea, de către un funcţionar public, a folosinţei sau a exerciţiului drepturilor vreunui cetăţean, ori crearea pentru acesta a unor situaţii de inferioritate pe temei de naţionalitate, rasa, sex sau religie, se pedepseşte cu închisoare de la 6 luni la 5 ani.
+Abuzul în serviciu contra intereselor publice
 
 Articolul 248
 
-Abuzul în serviciu contra intereselor obşteşti
-Fapta funcţionarului care în exerciţiul atribuţiilor sale de serviciu, cu ştiinţă, nu îndeplineşte un act ori îl îndeplineşte în mod defectuos şi prin aceasta cauzează o tulburare însemnată bunului mers al unei organizaţii din cele prevăzute în art. 145 sau o pagubă avutului obştesc, se pedepseşte cu închisoare de la 6 luni la 5 ani.
-Fapta prevăzută în alin. 1, dacă a avut ca urmare o perturbare deosebit de gravă a activităţii unei organizaţii din cele prevăzute în art. 145, ori a produs o pagubă importantă economiei naţionale, se pedepseşte cu închisoare de la 5 la 15 ani, interzicerea unor drepturi şi confiscarea parţială a averii.
+Fapta funcţionarului public, care, în exerciţiul atribuţiilor sale de serviciu, cu ştiinţa, nu îndeplineşte un act ori îl îndeplineşte în mod defectuos şi prin aceasta cauzează o tulburare însemnată bunului mers al unui organ sau al unei instituţii de stat ori al unei alte unităţi din cele la care se referă art. 145 sau o paguba patrimoniului acesteia se pedepseşte cu închisoare de la 6 luni la 5 ani.
+Abuzul în serviciu în forma calificată
+
+Articolul 248^1
+
+Dacă faptele prevăzute în art. 246, 247 şi 248 au avut consecinţe deosebit de grave, se pedepsesc cu închisoare de la 5 la 15 ani şi interzicerea unor drepturi.
+Neglijenţa în serviciu
 
 Articolul 249
 
-Neglijenţa de serviciu
-Încălcarea din culpă de către un funcţionar a unei îndatoriri de serviciu, prin neîndeplinirea acesteia sau prin îndeplinirea ei defectuoasă, dacă s-a cauzat o tulburare însemnată bunului mers al unei organizaţii din cele prevăzute în art. 145, ori o vătămare importantă intereselor legale ale unei persoane, sau o pagubă avutului obştesc, se pedepseşte cu închisoare de la o lună la 2 ani sau cu amendă.
-Fapta prevăzută în alin. 1, dacă a avut ca urmare o perturbare deosebit de gravă a activităţii unei organizaţii din cele prevăzute în art. 145, ori a produs o pagubă importantă economiei naţionale, se pedepseşte cu închisoare de la 2 la 10 ani.
+Încălcarea din culpa, de către un funcţionar public, a unei îndatoriri de serviciu, prin neîndeplinirea acesteia sau prin îndeplinirea ei defectuoasă, dacă s-a cauzat o tulburare însemnată bunului mers al unui organ sau al unei instituţii de stat ori al unei alte unităţi din cele la care se referă art. 145 sau o paguba patrimoniului acesteia ori o vătămare importanţa intereselor legale ale unei persoane, se pedepseşte cu închisoare de la o luna la 2 ani sau cu amendă.
+Fapta prevăzută în alin. 1, dacă a avut consecinţe deosebit de grave, se pedepseşte cu închisoare de la 2 la 10 ani.
+Purtarea abuzivă
 
 Articolul 250
 
-Purtarea abuzivă
-Întrebuinţarea de expresii jignitoare faţă de o persoană, de către un funcţionar în exerciţiul atribuţiilor de serviciu, se pedepseşte cu închisoare de la o luna la 1 an.
-Lovirile sau alte violenţe săvîrşite în aceleaşi condiţii se pedepsesc cu închisoare de la 3 luni la 2 ani.
+Întrebuinţarea de expresii jignitoare faţă de o persoană, de către un funcţionar public în exerciţiul atribuţiilor de serviciu, se pedepseşte cu închisoare de la 3 luni la 3 ani sau cu amendă.
+Lovirea sau alte acte de violenta săvârşite în condiţiile alin. 1 se pedepsesc cu închisoare de la 6 luni la 5 ani.
 
 Articolul 251
 
-Divulgarea unor secrete privind interesele obşteşti
-Divulgarea secretului de stat, dacă nu constituie infracţiunea prevăzută în art. 169, precum şi divulgarea de date sau informaţii care deşi nu constituie secrete de stat, nu sînt destinate publicităţii, dacă fapta este de natură să aducă atingere intereselor obşteşti, se pedepsesc cu închisoare de la 6 luni la 5 ani.
+Abrogat.
+Neglijenţa în păstrarea secretului de stat
 
 Articolul 252
 
-Neglijenţa în păstrarea secretului de stat
-Neglijenţa care are drept urmare distrugerea, alterarea, pierderea sau sustragerea unui document ce constituie secret de stat, precum şi neglijenţa care a dat prilej altei persoane să afle un asemenea secret, dacă fapta este de natura sa aducă atingere intereselor statului, se pedepsesc cu închisoare de la 3 luni la 3 ani.
+Neglijenţa care are drept urmare distrugerea, alterarea, pierderea sau sustragerea unui document ce constituie secret de stat, precum şi neglijenţa care a dat prilej altei persoane sa afle un asemenea secret, dacă fapta este de natura sa aducă atingere intereselor statului, se pedepsesc cu închisoare de la 3 luni la 3 ani.
 
 Articolul 253
 
-Refuzul înapoierii în ţară
-Fapta cetăţeanului român care, avînd o însărcinare de stat în străinătate, nu se întoarce în ţară la terminarea misiunii, se pedepseşte cu închisoare de la 6 luni la 5 ani şi interzicerea unor drepturi.
-Fapta prevăzută în alin. 1, dacă este săvîrşită de o persoană avînd o însărcinare de interes obştesc în străinătate, se pedepseşte cu închisoare de la 3 luni la 3 ani.
+Abrogat.
+Luarea de mită
 
 Articolul 254
 
-Luarea de mită
-Fapta funcţionarului care, direct sau indirect, pretinde ori primeşte bani sau alte foloase care nu i se cuvin, ori acceptă promisiunea unor astfel de foloase sau nu o respinge, în scopul de a îndeplini, a nu îndeplini, ori a întîrzia îndeplinirea unui act privitor la îndatoririle sale de serviciu, sau în scopul de a face un act contrar acestor îndatoriri, se pedepseşte cu închisoare de la 3 la 10 ani şi interzicerea unor drepturi.
-Banii, valorile sau orice alte bunuri care au făcut obiectul luării de mită se confiscă, iar dacă acestea nu se găsesc, condamnatul este obligat la plata echivalentului lor în bani.
+Fapta funcţionarului care, direct sau indirect, pretinde ori primeşte bani sau alte foloase care nu i se cuvin ori accepta promisiunea unor astfel de foloase sau nu o respinge, în scopul de a îndeplini, a nu îndeplini ori a intirzia îndeplinirea unui act privitor la îndatoririle sale de serviciu sau în scopul de a face un act contrar acestor îndatoriri, se pedepseşte cu închisoare de la 3 la 12 ani şi interzicerea unor drepturi.
+Fapta prevăzută în alin. 1, dacă a fost săvârşită de un funcţionar cu atribuţii de control, se pedepseşte cu închisoare de la 3 la 15 ani şi interzicerea unor drepturi.
+Banii, valorile sau orice alte bunuri care au făcut obiectul luării de mită se confisca, iar dacă acestea nu se găsesc, condamnatul este obligat la plata echivalentului lor în bani.
+Darea de mită
 
 Articolul 255
 
-Darea de mită
 Promisiunea, oferirea sau darea de bani ori alte foloase, în modurile şi scopurile arătate în art. 254, se pedepsesc cu închisoare de la 6 luni la 5 ani.
-Fapta prevăzută în alineatul precedent nu constituie infracţiune atunci cînd mituitorul a fost constrîns prin orice mijloace de către cel care a luat mită.
-Mituitorul nu se pedepseşte dacă denunţă autorităţii fapta mai înainte ca organul de urmărire să fi fost sesizat pentru acea infracţiune.
-Dispoziţiile art. 254 alin. 2 se aplică în mod corespunzător, chiar dacă oferta nu a fost urmată de acceptare.
+Fapta prevăzută în alineatul precedent nu constituie infracţiune atunci când mituitorul a fost constrîns prin orice mijloace de către cel care a luat mită.
+Mituitorul nu se pedepseşte dacă denunta autorităţii fapta mai înainte ca organul de urmărire sa fi fost sesizat pentru acea infracţiune.
+Dispoziţiile art. 254 alin. 3 se aplică în mod corespunzător, chiar dacă oferta nu a fost urmată de acceptare.
 Banii, valorile sau orice alte bunuri se restituie persoanei care le-a dat în cazurile arătate în alin. 2 şi 3.
+Primirea de foloase necuvenite
 
 Articolul 256
 
-Primirea de foloase necuvenite
-Primirea de către un funcţionar, direct sau indirect, de bani ori de alte foloase, după ce a îndeplinit un act în virtutea funcţiei sale şi care era obligat în temeiul acesteia, se pedepseşte cu închisoare de la o lună la 1 an sau cu amenda.
-Banii, valorile sau orice alte bunuri primite se confiscă, iar dacă acestea nu se găsesc, condamnatul este obligat la plata echivalentului lor în bani.
+Primirea de către un funcţionar, direct sau indirect, de bani ori de alte foloase, după ce a îndeplinit un act în virtutea funcţiei sale şi la care era obligat în temeiul acesteia, se pedepseşte cu închisoare de la 6 luni la 5 ani.
+Banii, valorile sau orice alte bunuri primite se confisca, iar dacă acestea nu se găsesc, condamnatul este obligat la plata echivalentului lor în bani.
+Traficul de influenţa
 
 Articolul 257
 
-Traficul de influenţă
-Primirea ori pretinderea de bani sau alte foloase, ori acceptarea de promisiuni, de daruri, direct sau indirect, pentru sine ori pentru altul, săvîrşită de către o persoana care are influenţă sau lasă să se creadă că are influenţă asupra unui funcţionar sau alt salariat, pentru a-l determina să facă ori să nu facă un act ce intră în atribuţiile sale de serviciu, se pedepseşte cu închisoare de la unu la 5 ani.
+Primirea ori pretinderea de bani sau alte foloase ori acceptarea de promisiuni, de daruri, direct sau indirect, pentru sine ori pentru altul, săvârşită de către o persoană care are influenţa sau lasă să se creadă ca are influenţa asupra unui funcţionar pentru a-l determina să facă ori sa nu facă un act ce intră în atribuţiile sale de serviciu, se pedepseşte cu închisoare de la 2 la 10 ani.
 Dispoziţiile art. 256 alin. 2 se aplică în mod corespunzător.
+Fapte săvârşite de alţi funcţionari
 
 Articolul 258
 
-Faptele săvîrşite de alţi salariaţi
-Dispoziţiile art. 248 şi 249 privitoare la funcţionari se aplică şi altor salariaţi, dacă s-a cauzat o pagubă avutului obştesc ori economiei naţionale.
-De asemenea, dispoziţiile din prezentul capitol privitoare la funcţionari se aplică şi altor salariaţi, cu excepţia cazurilor prevăzute în alin. 1, maximul pedepsei reducîndu-se însă cu o treime.
+Dispoziţiile art. 246-250 privitoare la funcţionari publici se aplică şi celorlalţi funcţionari, în acest caz maximul pedepsei reducându-se cu o treime.
 
-Capitolul II INFRACŢIUNI CARE ÎMPIEDICĂ ÎNFĂPTUIREA JUSTIŢIEI
+Capitolul 2 INFRACŢIUNI CARE IMPIEDICA ÎNFĂPTUIREA JUSTIŢIEI
 
+Denunţarea calomnioasă
 
 Articolul 259
 
-Denunţarea calomnioasă
-Învinuirea mincinoasă făcută prin denunţ sau plîngere, cu privire la săvîrşirea unei infracţiuni de către o anume persoană, se pedepseşte cu închisoare de la 6 luni la 3 ani.
+Învinuirea mincinoasă facuta prin denunţ sau plîngere, cu privire la săvârşirea unei infracţiuni de către o anume persoana, se pedepseşte cu închisoare de la 6 luni la 3 ani.
 Producerea ori ticluirea de probe mincinoase, în sprijinul unei învinuiri nedrepte, se pedepseşte cu închisoare de la unu la 5 ani.
-Dacă cel care a săvîrşit fapta declară mai înainte de punerea în mişcare a acţiunii penale faţă de persoana în contra căreia s-a făcut denunţul sau plîngerea, ori împotriva căreia s-au produs probele, ca denunţul, plîngerea sau probele sînt mincinoase, pedeapsa se reduce potrivit art. 76.
+Dacă cel care a savirsit fapta declara mai înainte de punerea în mişcare a acţiunii penale faţă de persoana în contra căreia s-a făcut denunţul sau plîngerea, ori împotriva căreia s-au produs probele, ca denunţul, plîngerea sau probele sunt mincinoase pedeapsa se reduce potrivit art. 76.
+Mărturia mincinoasă
 
 Articolul 260
 
-Mărturia mincinoasă
-Fapta martorului care într-o cauza penală, civilă, disciplinară sau în orice altă cauză în care se ascultă martori, face afirmaţii mincinoase, ori nu spune tot ce ştie privitor la împrejurările esenţiale asupra cărora a fost întrebat, se pedepseşte cu închisoare de la unu la 5 ani.
-Fapta prevăzută în alineatul precedent nu se pedepseşte dacă, în cazurile penale mai înainte de a se produce arestarea inculpatului, ori în toate cauzele mai înainte de a se fi pronunţat o hotărîre sau de a se fi dat o altă soluţie ca urmare a mărturiei mincinoase, martorul îşi retrage mărturia.
-Dacă retragerea mărturiei a intervenit în cauzele penale după ce s-a produs arestarea inculpatului sau în toate cauzele după ce s-a pronunţat o hotărîre sau după ce s-a dat o altă soluţie ca urmare a mărturiei mincinoase, instanţa va reduce pedeapsa potrivit art. 76.
+Fapta martorului care într-o cauza penală, civilă, disciplinară sau în orice alta cauza în care se asculta martori, face afirmaţii mincinoase, ori nu spune tot ce ştie privitor la împrejurările esenţiale asupra cărora a fost întrebat, se pedepseşte cu închisoare de la unu la 5 ani.
+Fapta prevăzută în alineatul precedent nu se pedepseşte dacă, în cauzele penale mai înainte de a se produce arestarea inculpatului, ori în toate cauzele mai înainte de a se fi pronunţat o hotărâre sau de a se fi dat o alta soluţie ca urmare a mărturiei mincinoase, martorul îşi retrage mărturia.
+Dacă retragerea mărturiei a intervenit în cauzele penale după ce s-a produs arestarea inculpatului sau în toate cauzele după ce s-a pronunţat o hotărâre sau după ce s-a dat o alta soluţie ca urmare a mărturiei mincinoase, instanţa va reduce pedeapsa potrivit art. 76.
 Dispoziţiile alin. 1-3 se aplică în mod corespunzător şi expertului sau interpretului.
+Încercarea de a determina mărturia mincinoasă
 
 Articolul 261
 
-Încercarea de a determina mărturia mincinoasă
-Încercarea de a determina o persoană prin constrîngere ori corupere să dea declaraţii mincinoase într-o cauză penală, civilă, disciplinară sau în orice altă cauză în care se ascultă martori, se pedepseşte cu închisoare de la 3 luni la 2 ani,
-Dispoziţiile din alineatul precedent se aplică şi în cazul în care fapta este săvîrşită faţă de un expert sau de un interpret.
+Încercarea de a determina o persoană prin constringere ori corupere sa dea declaraţii mincinoase într-o cauza penală, civilă, disciplinară sau în orice alta cauza în care se asculta martori, se pedepseşte cu închisoare de la 3 luni la 2 ani sau cu amendă.
+Dispoziţiile din alineatul precedent se aplică şi în cazul în care fapta este săvârşită faţă de un expert sau de un interpret.
+Împiedicarea participării în proces
+
+Articolul 261^1
+
+Împiedicarea participării într-o cauza penală, civilă, disciplinară sau în orice alta cauza, a unui martor, expert, interpret sau apărător, săvârşită prin violenta, ameninţare sau prin orice alt mijloc de constringere îndreptat împotriva sa ori a soţului sau a unei rude apropiate, se pedepseşte cu închisoare de la 6 luni la 7 ani.
+Tentativa se pedepseşte.
+Nedenunţarea unor infracţiuni
 
 Articolul 262
 
-Nedenunţarea unor infracţiuni
-Omisiunea de a denunţa de îndată săvîrşirea vreuneia dintre infracţiunile prevăzute în art. 174, 175, 176, 211, 212, 223-226, 229, 231 alin. 2-4 şi art. 276 alin. 3, se pedepseşte cu închisoare de la 3 luni la 3 ani.
-Fapta prevăzută în alin. 1, săvîrşită de soţ sau de o rudă apropiată, nu se pedepseşte.
-Nu se pedepseşte persoana care, mai înainte de a se fi început urmărirea penală pentru infracţiunea nedenunţată, încunoştiinţează autorităţile competente despre acea infracţiune sau care, chiar după ce s-a început urmărirea penală ori după ce vinovaţii au fost descoperiţi, a înlesnit arestarea acestora.
+Omisiunea de a denunta de îndată săvârşirea vreuneia dintre infracţiunile prevăzute în art. 174, 175, 176, 211, 212, 215^1, 217 alin. 2-4, art. 218 alin. 1 şi art. 276 alin. 3 se pedepseşte cu închisoare de la 3 luni la 3 ani.
+Fapta prevăzută în alin. 1, săvârşită de soţ sau de o ruda apropiată, nu se pedepseşte.
+Nu se pedepseşte persoana care, mai înainte de a se fi început urmărirea penală pentru infracţiunea nedenunţată, încunoştinţează autorităţile competente despre acea infracţiune sau care, chiar după ce s-a început urmărirea penală ori după ce vinovaţii au fost descoperiţi, a înlesnit arestarea acestora.
+Omisiunea sesizării organelor judiciare
 
 Articolul 263
 
-Omisiunea sesizării organelor judiciare
-Fapta funcţionarului sau a altui salariat care luînd cunoştinţă de săvîrşirea unei infracţiuni în legătură cu serviciul în cadrul căruia îşi îndeplineşte sarcinile, omite sesizarea de îndată a procurorului sau a organului de urmărire penală potrivit legii de procedură penală, se pedepseşte cu închisoare de la 3 luni la 3 ani.
-Dacă fapta este săvîrşită de către o persoană cu funcţie de conducere într-o organizaţie socialistă, sau de către o persoană cu atribuţii de control, pedeapsa este închisoarea de la 6 luni la 5 ani.
+Fapta funcţionarului public care, luând cunoştinţa de săvârşirea unei infracţiuni în legătură cu serviciul în cadrul căruia îşi îndeplineşte sarcinile, omite sesizarea de îndată a procurorului sau a organului de urmărire penală, potrivit legii de procedura penală, se pedepseşte cu închisoare de la 3 luni la 5 ani.
+Dacă fapta este săvârşită de către un funcţionar public cu atribuţii de conducere sau de control, pedeapsa este închisoarea de la 6 luni la 7 ani.
+Favorizarea infractorului
 
 Articolul 264
 
-Favorizarea infractorului
-Ajutorul dat unui infractor fără o înţelegere stabilită înainte sau în timpul săvîrşirii infracţiunii, pentru a îngreuna sau zădărnici urmărirea penală, judecata sau executarea pedepsei, ori pentru a asigura infractorului folosul sau produsul infracţiunii, se pedepseşte cu închisoare de la 3 luni la 3 ani.
-Dacă fapta prevăzută în alin. 1 priveşte o persoană care a săvîrşit o infracţiune contra avutului obştesc, pedeapsa este închisoarea de la 6 luni la 7 ani.
+Ajutorul dat unui infractor fără o înţelegere stabilită înainte sau în timpul săvârşirii infracţiunii, pentru a îngreuia sau zădărnici urmărirea penală, judecata sau executarea pedepsei ori pentru a asigura infractorului folosul sau produsul infracţiunii, se pedepseşte cu închisoare de la 3 luni la 7 ani.
 Pedeapsa aplicată favorizatorului nu poate fi mai mare decît pedeapsa prevăzută de lege pentru autor.
-Favorizarea săvîrşită de soţ sau de o rudă apropiată în cazul infracţiunilor prevăzute în art. 233 alin. 3, 224 alin. 3, 225 alin. 3, 229 alin. 3 şi 231 alin. 4 se pedepseşte. Limitele pedepsei prevăzute în alin. 2 se reduc la jumătate, iar în cazul celorlalte infracţiuni favorizarea nu se pedepseşte.
+Favorizarea săvârşită de soţ sau de o ruda apropiată nu se pedepseşte.
+Omisiunea de a incunostinta organele judiciare
 
 Articolul 265
 
-Omisiunea de a încunoştinţa organele judiciare
-Fapta de a nu aduce la cunoştinţă organelor judiciare a unor împrejurări care, dacă ar fi cunoscute, ar duce la stabilirea nevinovăţiei unei persoane trimise în judecată sau condamnate pe nedrept ori la eliberarea unei persoane ţinute în arest preventiv pe nedrept, se pedepseşte cu închisoare de la 3 luni la 1 an.
-Fapta prevăzută în alineatul precedent nu se pedepseşte dacă prin aducerea la cunoştinţă, persoana care are această obligaţie ar produce un prejudiciu pentru ea, pentru soţul sau pentru o rudă apropiată.
+Fapta de a nu aduce la cunoştinţa organelor judiciare a unor împrejurări care, dacă ar fi cunoscute, ar duce la stabilirea nevinovăţiei unei persoane trimise în judecata sau condamnate pe nedrept ori la eliberarea unei persoane ţinute în arest preventiv pe nedrept, se pedepseşte cu închisoare de la 3 luni la 1 an sau cu amendă.
+Fapta prevăzută în alineatul precedent nu se pedepseşte dacă prin aducerea la cunoştinţa, persoana care are aceasta obligaţie ar produce un prejudiciu pentru ea, pentru soţul sau sau pentru o ruda apropiată.
+Arestarea nelegală şi cercetarea abuzivă
 
 Articolul 266
 
-Arestarea nelegală şi cercetarea abuzivă
 Reţinerea sau arestarea nelegală, ori supunerea unei persoane la executarea unei pedepse, măsuri de siguranţă sau educative, în alt mod decît cel prevăzut prin dispoziţiile legale, se pedepseşte cu închisoare de la 6 luni la 3 ani.
-Întrebuinţarea de promisiuni, ameninţări sau violenţe împotriva unei persoane aflate în curs de cercetare, anchetă penală ori de judecată, pentru obţinerea de declaraţii, se pedepseşte cu închisoare de la unu la 5 ani.
+Întrebuinţarea de promisiuni, ameninţări sau violenţe împotriva unei persoane aflate în curs de cercetare, ancheta penală ori de judecată, pentru obţinerea de declaraţii, se pedepseşte cu închisoare de la unu la 5 ani.
 Cu aceeaşi pedeapsa se sancţionează şi întrebuinţarea de promisiuni, ameninţări sau violenţe faţă de un martor, expert sau interpret.
+Supunerea la rele tratamente
 
 Articolul 267
 
-Supunerea la rele tratamente
-Supunerea la rele tratamente a unei persoane aflate în stare de reţinere, deţinere ori în executarea unei măsuri de siguranţă sau educative, se pedepseşte cu închisoare de la unu la 3 ani.
+Supunerea la rele tratamente a unei persoane aflate în stare de reţinere, deţinere ori în executarea unei măsuri de siguranţă sau educative, se pedepseşte cu închisoare de la unu la 5 ani.
+Tortura
+
+Articolul 267^1
+
+Fapta prin care se provoacă unei persoane, cu intenţie, o durere sau suferinţe puternice, fizice ori psihice, îndeosebi cu scopul de a obţine de la aceasta persoana sau de la o persoană terta informaţii sau mărturisiri, de a o pedepsi pentru un act pe care aceasta sau o terta persoana l-a comis ori este banuita ca l-a comis, de a o intimida sau de a face presiuni asupra ei ori de a intimida sau a face presiuni asupra unei terţe persoane, sau pentru oricare alt motiv bazat pe o formă de discriminare oricare ar fi ea, atunci când o asemenea durere sau astfel de suferinţe sunt aplicate de către un agent al autorităţii publice sau de orice altă persoană care acţionează cu titlu oficial sau la instigarea ori cu consimţământul expres sau tacit al unor asemenea persoane, se pedepseşte cu închisoare de la 2 la 7 ani.
+Dacă fapta prevăzută la alin. 1 a avut vreuna din urmările arătate în art. 181 sau 182, pedeapsa este închisoarea de la 3 la 10 ani.
+Tortura care a avut ca urmare moartea victimei se pedepseşte cu detenţiune pe viaţa sau cu închisoare de la 15 la 25 ani.
+Tentativa se pedepseşte.
+Nici o împrejurare excepţionala, oricare ar fi ea, fie ca este vorba de stare de război sau de ameninţări cu războiul, de instabilitate politica interna sau de orice alta stare de excepţie, nu poate fi invocată pentru a justifica tortura; de asemenea, nu poate fi invocat nici ordinul superiorului sau al unei autorităţi publice.
+Faptele prevăzute în alin. 1 nu constituie infracţiunea de tortura dacă durerea sau suferinţele rezultă exclusiv din sancţiuni legale şi sunt inerente acestor sancţiuni sau ocazionate de ele.
+Represiunea nedreaptă
 
 Articolul 268
 
-Represiunea nedreaptă
-Fapta de a pune în mişcare acţiunea penală, de a dispune arestarea, de a trimite în judecată sau de a condamna pe o persoană, ştiind că este nevinovată, se pedepseşte cu închisoare de la 2 la 7 ani.
+Fapta de a pune în mişcare acţiunea penală, de a dispune arestarea, de a trimite în judecata sau de a condamna pe o persoană, ştiind ca este nevinovată, se pedepseşte cu închisoare de la 2 la 7 ani.
+Evadarea
 
 Articolul 269
 
-Evadarea
 Evadarea din starea legală de reţinere sau de deţinere se pedepseşte cu închisoare de la 6 luni la 2 ani.
-Dacă fapta este săvîrşită prin folosire de violenţe, de arme sau de alte instrumente, ori de către două sau mai multe persoane împreună, pedeapsa este închisoarea de la unu la 5 ani.
-Pedeapsa aplicată pentru infracţiunea de evadare se adaugă la pedeapsa ce se execută, fără a se putea depăşi maximul general al închisorii.
+Dacă fapta este săvârşită prin folosire de violenţe, de arme sau de alte instrumente ori de către doua sau mai multe persoane împreună, pedeapsa este închisoarea de la 2 la 8 ani.
+Pedeapsa aplicată pentru infracţiunea de evadare se adauga la pedeapsa ce se executa, fără a se putea depăşi maximul general al inchisorîi.
 Tentativa se pedepseşte.
+Înlesnirea evadării
 
 Articolul 270
 
-Înlesnirea evadării
-Înlesnirea prin orice mijloace a evadării se pedepseşte cu închisoare de la unu la 5 ani, iar dacă fapta s-a săvîrşit de către o persoană care avea îndatorirea de a păzi pe cel care a evadat, pedeapsa este închisoarea de la 2 la 7 ani.
-Înlesnirea evadării în condiţiile art. 269 alin. 2 se pedepseşte cu închisoare de la 2 la 8 ani, iar dacă fapta este săvîrşită de o persoană care avea îndatorirea de a păzi pe cel care a evadat, pedeapsa este închisoarea de la 3 la 10 ani.
-Înlesnirea evadării unei persoane reţinute, arestate sau condamnate pentru o infracţiune pentru care legea prevede o pedeapsă mai mare de 10 ani, se pedepseşte cu închisoare de la 3 la 10 ani, iar dacă fapta este săvîrşită de o persoană care avea îndatorirea de a păzi pe cel care a evadat, pedeapsa este închisoare de la 3 la 12 ani.
-Înlesnirea evadării săvîrşită din culpă, de către o persoană care avea îndatorirea de a păzi pe cel care a evadat, se pedepseşte cu închisoare de la 3 luni la 2 ani.
+Înlesnirea prin orice mijloace a evadării se pedepseşte cu închisoare de la unu la 5 ani, iar dacă fapta s-a savirsit de către o persoană care avea îndatorirea de a păzi pe cel care a evadat, pedeapsa este închisoarea de la 2 la 7 ani.
+Înlesnirea evadării în condiţiile art. 269 alin. 2 se pedepseşte cu închisoare de la 2 la 8 ani, iar dacă fapta este săvârşită de o persoană care avea îndatorirea de a păzi pe cel care a evadat, pedeapsa este închisoarea de la 3 la 10 ani.
+Înlesnirea evadării unei persoane reţinute, arestate sau condamnate pentru o infracţiune pentru care legea prevede o pedeapsă mai mare de 10 ani, se pedepseşte cu închisoare de la 3 la 10 ani, iar dacă fapta este săvârşită de o persoană care avea îndatorirea de a păzi pe cel care a evadat, pedeapsa este închisoarea de la 3 la 12 ani.
+Înlesnirea evadării săvârşită din culpa, de către o persoană care avea îndatorirea de a păzi pe cel care a evadat, se pedepseşte cu închisoare de la 3 luni la 2 ani.
 Tentativa la faptele prevăzute în alin. 1, 2 şi 3 se pedepseşte.
+Nerespectarea hotărîrilor judecătoreşti
 
 Articolul 271
 
-Nerespectarea hotărîrilor judecătoreşti
-Împotrivirea la executarea unei hotărîri judecătoreşti prin acte de violenţă sau de ameninţare faţă de organul de executare se pedepseşte cu închisoare de la 6 luni la 3 ani.
-Împiedicarea unei persoane de a folosi o locuinţă ori parte dintr-o locuinţă sau imobil, deţinute în baza unei hotărîri judecătoreşti, se pedepseşte cu închisoare de la 3 luni la 2 ani.
-Dacă fapta prevăzută în alin. 2 se săvîrşeşte prin ameninţare sau violenţă, pedeapsa este închisoarea de la 6 luni la 3 ani.
-Nerespectarea hotărîrilor judecătoreşti, prin sustragerea de la executarea măsurilor de siguranţă prevăzute în art. 112 lit. c şi d, se pedepseşte cu închisoare de la o lună la 3 luni.
+Împotrivirea la executarea unei hotărâri judecătoreşti, prin ameninţare faţă de organul de executare, se pedepseşte cu închisoare de la 6 luni la 3 ani, iar dacă fapta a fost săvârşită prin acte de violenta, pedeapsa este de la unu la 7 ani.
+Împiedicarea unei persoane de a folosi o locuinta ori parte dintr-o locuinta sau imobil, deţinute în baza unei hotărâri judecătoreşti, se pedepseşte cu închisoare de la 3 luni la 2 ani sau cu amendă.
+Dacă fapta prevăzută în alin. 2 se săvârşeşte prin ameninţare, pedeapsa este închisoarea de la 6 luni la 3 ani, iar dacă fapta a fost săvârşită prin acte de violenta, pedeapsa este închisoarea de la unu la 5 ani.
+Nerespectarea hotărîrilor judecătoreşti, prin sustragerea de la executarea măsurilor de siguranţă prevăzute în art. 112 lit. c) şi d), se pedepseşte cu închisoare de la o luna la 3 luni sau cu amendă.
+Reţinerea sau distrugerea de înscrisuri
 
 Articolul 272
 
-Reţinerea sau distrugerea de înscrisuri
-Reţinerea sau distrugerea unui înscris emis de un organ de urmărire penală, de o instanţă de judecată sau de un alt organ de jurisdicţie, ori împiedicarea în orice mod ca un înscris destinat unuia dintre organele sus-arătate să ajungă la acesta, cînd astfel de înscrisuri sînt necesare soluţionării unei cauze, se pedepseşte cu închisoare de la 3 luni la 2 ani.
+Reţinerea sau distrugerea unui înscris emis de un organ de urmărire penală, de o instanţa de judecată sau de un alt organ de jurisdicţie, ori împiedicarea în orice mod ca un înscris destinat unuia dintre organele sus-arătate sa ajungă la acesta, când astfel de înscrisuri sunt necesare soluţionării unei cauze, se pedepseşte cu închisoare de la 3 luni la 2 ani sau cu amendă.
 
-Capitolul III INFRACŢIUNI CONTRA SIGURANŢEI CIRCULAŢIEI PE CĂILE FERATE
+Capitolul 3 INFRACŢIUNI CONTRA SIGURANŢEI CIRCULAŢIEI PE CĂILE FERATE
 
+Neîndeplinirea îndatoririlor de serviciu sau îndeplinirea lor defectuoasă, din culpa
 
 Articolul 273
 
-Neîndeplinirea îndatoririlor de serviciu sau îndeplinirea lor defectuoasă, din culpă
-Neîndeplinirea îndatoririlor de serviciu sau îndeplinirea lor defectuoasă, din culpă, de către angajaţii căilor ferate, dacă aceasta ar fi putut pune în pericol siguranţa circulaţiei mijloacelor de transport ale căilor ferate, se pedepseşte cu închisoare de la 6 luni la 3 ani.
-Cînd fapta prevăzută în alineatul precedent a avut ca urmare o tulburare în activitatea de transport pe calea ferată sau un accident de cale ferată, pedeapsa este închisoarea de la 3 la 7 ani, iar în cazul cînd s-a produs o catastrofă de cale ferată, pedeapsa este închisoarea de la 5 la 15 ani.
+Neîndeplinirea îndatoririlor de serviciu sau îndeplinirea lor defectuoasă, din culpa, de către angajaţii căilor ferate, dacă aceasta ar fi putut pune în pericol siguranţa circulaţiei mijloacelor de transport ale căilor ferate, se pedepseşte cu închisoare de la 6 luni la 3 ani.
+Când fapta prevăzută în alineatul precedent a avut ca urmare o tulburare în activitatea de transport pe calea ferată sau un accident de cale ferată, pedeapsa este închisoarea de la 3 la 7 ani, iar în cazul când s-a produs o catastrofa de cale ferată, pedeapsa este închisoarea de la 5 la 15 ani.
+Neîndeplinirea cu ştiinţa a îndatoririlor de serviciu sau îndeplinirea lor defectuoasă
 
 Articolul 274
 
-Neîndeplinirea cu ştiinţă a îndatoririlor de serviciu sau îndeplinirea lor defectuoasă
-Neîndeplinirea cu ştiinţă a îndatoririlor de serviciu sau îndeplinirea lor defectuoasă, de către angajaţii căilor ferate, dacă aceasta ar putea pune în pericol siguranţa circulaţiei mijloacelor de transport ale căilor ferate, se pedepseşte cu închisoare de la unu la 5 ani.
-Dacă îndeplinirea defectuoasă sau neîndeplinirea cu ştiinţă arătată în alin. 1 a avut ca urmare o tulburare în activitatea de transport pe calea ferată sau un accident de cale ferată, pedeapsa este închisoarea de la 3 la 10 ani, iar în cazul cînd s-a produs o catastrofă de cale ferată, pedeapsa este închisoarea de la 10 la 15 ani, interzicerea unor drepturi şi confiscarea parţială a averii.
+Neîndeplinirea cu ştiinţa a îndatoririlor de serviciu sau îndeplinirea lor defectuoasă, de către angajaţii căilor ferate, dacă aceasta ar putea pune în pericol siguranţa circulaţiei mijloacelor de transport ale căilor ferate, se pedepseşte cu închisoare de la unu la 5 ani.
+Dacă îndeplinirea defectuoasă sau neîndeplinirea cu ştiinţa arătată în alin. 1 a avut ca urmare o tulburare în activitatea de transport pe calea ferată sau un accident de cale ferată, pedeapsa este închisoarea de la 3 la 10 ani, iar în cazul când s-a produs o catastrofa de cale ferată, pedeapsa este închisoarea de la 10 la 15 ani şi interzicerea unor drepturi.
+Părăsirea postului şi prezenta la serviciu în stare de ebrietate
 
 Articolul 275
 
-Părăsirea postului şi prezenţa la serviciu în stare de ebrietate
-Părăsirea postului, în orice mod şi sub orice formă, de angajaţii care asigură direct siguranţa circulaţiei mijloacelor de transport ale căilor ferate, dacă prin aceasta s-ar fi putut pune în pericol siguranţa circulaţiei mijloacelor de transport, se pedepseşte cu închisoare de la 2 la 7 ani.
-Cu aceeaşi pedeapsă se sancţionează exercitarea atribuţiilor de serviciu în stare de ebrietate de către angajaţii care asigură direct siguranţa circulaţiei mijloacelor de transport ale căilor ferate.
-Cînd prin faptele prevăzute în alineatele precedente s-a produs o tulburare în activitatea de transport pe calea ferată sau un accident de cale ferată, pedeapsa este închisoarea de la 5 la 15 ani, iar în cazul cînd s-a produs o catastrofă de cale ferată, pedeapsa este închisoarea de la 10 la 20 de ani, interzicerea unor drepturi şi confiscarea parţială a averii.
+Părăsirea postului, în orice mod şi sub orice formă, de angajaţii care asigura direct siguranţa circulaţiei mijloacelor de transport ale căilor ferate, dacă prin aceasta s-ar fi putut pune în pericol siguranţa circulaţiei mijloacelor de transport, se pedepseşte cu închisoare de la 2 la 7 ani.
+Cu aceeaşi pedeapsa se sancţionează exercitarea atribuţiilor de serviciu în stare de ebrietate de către angajaţii care asigura direct siguranţa circulaţiei mijloacelor de transport ale căilor ferate.
+Când prin faptele prevăzute în alineatele precedente s-a produs o tulburare în activitatea de transport pe calea ferată sau un accident de cale ferată, pedeapsa este închisoarea de la 5 la 15 ani, iar în cazul când s-a produs o catastrofa de cale ferată, pedeapsa este închisoarea de la 10 la 20 de ani şi interzicerea unor drepturi.
+Distrugerea şi semnalizarea falsa
 
 Articolul 276
 
-Distrugerea şi semnalizarea falsă
-Distrugerea, degradarea ori aducerea în stare de neîntrebuinţare a liniei ferate sau a instalaţiilor de cale ferată, ori aşezarea de obstacole pe linia ferată, dacă prin aceasta s-ar fi putut pune în pericol siguranţa mijloacelor de transport ale căilor ferate, se pedepsesc cu închisoare de la 3 la 12 ani.
-Cu aceeaşi pedeapsă se sancţionează săvîrşirea de acte de semnalizare falsă sau săvîrşirea oricăror alte acte de natură a induce în eroare personalul căilor ferate în timpul executării serviciului, dacă aceste fapte ar fi putut expune la un pericol de accident sau de catastrofă de cale ferată.
-În cazul cînd faptele prevăzute în alineatele precedente au avut ca urmare o tulburare în activitatea de transport pe calea ferată sau un accident de cale ferată, pedeapsa este închisoarea de la 10 la 15 ani, interzicerea unor drepturi şi confiscarea parţială a averii, iar dacă au produs o catastrofă de cale ferată, pedeapsa este moartea şi confiscarea totală a averii, sau închisoarea de la 15 la 20 de ani, interzicerea unor drepturi şi confiscarea parţială a averii.
-Săvîrşirea din culpă a faptelor arătate în alin. 1, 2 şi 3 se pedepseşte în cazul alin. 1 şi 2 cu închisoare de la unu la 5 ani, iar în cazul alin. 3, cu închisoare de la 3 la 7 ani dacă s-a produs o tulburare în activitatea de transport pe calea ferată sau un accident de cale ferată, şi închisoare de la 10 la 15 ani dacă s-a produs o catastrofă de cale ferată.
-Dacă vreuna dintre faptele prevăzute în acest articol este săvîrşită de către un angajat al căilor ferate, la maximul pedepsei prevăzute pentru fapta comisă se poate adăuga un spor pînă la 2 ani, fără a se putea depăşi maximul general al pedepsei.
+Distrugerea, degradarea ori aducerea în stare de neîntrebuinţare a liniei ferate sau a instalaţiilor de cale ferată, ori aşezarea de obstacole pe linia ferată, dacă prin aceasta s-ar fi putut pune în pericol siguranţa mijloacelor de transport ale căilor ferate, se pedepseşte cu închisoare de la 3 la 12 ani.
+Cu aceeaşi pedeapsa se sancţionează săvârşirea de acte de semnalizare falsa sau săvârşirea oricăror alte acte de natura a induce în eroare personalul căilor ferate în timpul executării serviciului, dacă aceste fapte ar fi putut expune la un pericol de accident sau de catastrofa de cale ferată.
+În cazul când faptele prevăzute în alineatele precedente au avut ca urmare o tulburare în activitatea de transport pe calea ferată sau un accident de cale ferată, pedeapsa este închisoarea de la 10 la 15 ani şi interzicerea unor drepturi, iar dacă au produs o catastrofa de cale ferată, pedeapsa este detenţiunea pe viaţa sau închisoarea de la 15 la 25 de ani şi interzicerea unor drepturi.
+Săvârşirea din culpa a faptelor arătate în alin. 1, 2 şi 3 se pedepseşte în cazul alin. 1 şi 2 cu închisoare de la unu la 5 ani, iar în cazul alin. 3, cu închisoare de la 3 la 7 ani dacă s-a produs o tulburare în activitatea de transport pe calea ferată sau un accident de cale ferată, şi închisoare de la 10 la 15 ani dacă s-a produs o catastrofa de cale ferată.
+Dacă vreuna dintre faptele prevăzute în acest articol este săvârşită de către un angajat al căilor ferate, la maximul pedepsei prevăzute pentru fapta comisă se poate adauga un spor până la 2 ani, fără a se putea depăşi maximul general al pedepsei.
 Tentativa la faptele prevăzute în alin. 1-3 se pedepseşte.
+Accidentul şi catastrofa de cale ferată
 
 Articolul 277
 
-Accidentul şi catastrofa de cale ferată
-Accidentul de cale ferată constă în distrugerea sau degradarea importantă adusă materialului rulant de cale sau altor instalaţii feroviare în cursul circulaţiei sau manevrei mijloacelor de transport ale căilor ferate.
-Catastrofa de cale ferată constă în deraierea, răsturnarea sau prăbuşirea unui mijloc de transport al căilor ferate, sau în producerea unui alt asemenea rezultat, precum şi în ciocnirea a două mijloace de transport ale căilor ferate sau a unui mijloc de transport al căilor ferate cu un alt vehicul, dacă s-au produs urmări deosebit de grave prin moartea sau vătămarea integrităţii corporale a unor persoane, ori prin distrugerea sau degradarea mijloacelor de transport ale căilor ferate, a instalaţiilor de cale ferată sau a mărfurilor încredinţate pentru transport.
+Accidentul de cale ferată consta în distrugerea sau degradarea importanţa adusă materialului rulant de cale sau altor instalaţii feroviare în cursul circulaţiei sau manevrei mijloacelor de transport ale căilor ferate.
+Catastrofa de cale ferată consta în deraierea, răsturnarea sau prăbuşirea unui mijloc de transport al căilor ferate, sau în producerea unui alt asemenea rezultat, precum şi în ciocnirea a doua mijloace de transport ale căilor ferate sau a unui mijloc de transport al căilor ferate cu un alt vehicul, dacă s-au produs urmări deosebit de grave prin moartea sau vătămarea integrităţii corporale a unor persoane, ori prin distrugerea sau degradarea mijloacelor de transport ale căilor ferate, a instalaţiilor de cale ferată sau a mărfurilor încredinţate pentru transport.
+Punerea în mişcare a acţiunii penale
 
 Articolul 278
 
-Punerea în mişcare a acţiunii penale
-Acţiunea penală pentru faptele prevăzute în art. 273 alin. 1, 274 alin. 1 şi 275 alin. 1 şi 2 se pune în mişcare numai la sesizarea organelor competente ale căilor ferate.
+Acţiunea penală pentru faptele prevăzute în art. 273 alin. 1, art. 274 alin. 1 şi art. 275 alin. 1 şi 2 se pune în mişcare numai la sesizarea organelor competente ale căilor ferate.
 
-Capitolul IV INFRACŢIUNI PRIVITOARE LA REGIMUL STABILIT PENTRU UNELE ACTIVITĂŢI REGLEMENTATE DE LEGE
+Capitolul 4 INFRACŢIUNI PRIVITOARE LA REGIMUL STABILIT PENTRU UNELE ACTIVITĂŢI REGLEMENTATE DE LEGE
 
+Nerespectarea regimului armelor şi muniţiilor
 
 Articolul 279
 
-Nerespectarea regimului armelor şi muniţiilor
 Deţinerea, portul, confecţionarea, transportul, precum şi orice operaţie privind circulaţia armelor şi muniţiilor sau funcţionarea atelierelor de reparat arme, fără drept, se pedepsesc cu închisoare de la 6 luni la 5 ani.
-Cu aceeaşi pedeapsă se sancţionează şi nedepunerea armei sau a muniţiei în termenul fixat de lege la organul competent, de către cel căruia i s-a respins cererea pentru prelungirea valabilităţii permisului.
+Cu aceeaşi pedeapsa se sancţionează şi nedepunerea armei sau a muniţiei în termenul fixat de lege la organul competent, de către cel căruia i s-a respins cererea pentru prelungirea valabilităţii permisului.
 Se pedepseşte cu închisoare de la 2 la 7 ani:
 a) deţinerea, înstrăinarea sau portul, fără drept, de arme ascunse ori de arme militare, precum şi a muniţiei pentru astfel de arme;
-b) deţinerea, înstrăinarea sau portul, fără drept, a mai multor arme cu excepţia celor prevăzute la lit. a, precum şi a armelor de panoplie, ori a muniţiei respective în cantităţi mari;
-c) portul de arme, fără drept, în localul organizaţiilor de stat sau obşteşti, la întruniri publice ori în localuri de alegeri.
+b) deţinerea, înstrăinarea sau portul, fără drept, a mai multor arme cu excepţia celor prevăzute la lit. a), precum şi a armelor de panoplie, ori muniţiei respective în cantităţi mari;
+c) portul de arme, fără drept, în localul unităţilor de stat sau altor unităţi publice, la întruniri publice ori în localuri de alegeri.
+Tentativa se pedepseşte.
+Nerespectarea regimului materialelor nucleare sau al altor materii radioactive
+
+Articolul 279^1
+
+Primirea, deţinerea, folosirea, cedarea, modificarea, înstrăinarea, dispersarea, expunerea, transportul sau deturnarea materialelor nucleare ori a altor materii radioactive, precum şi orice alte operaţiuni privind circulaţia acestora, fără drept, se pedepsesc cu închisoare de la 3 la 10 ani şi interzicerea unor drepturi.
+Dacă faptele prevăzute în alin. 1 au produs pericol public, au avut vreuna dintre urmările arătate în art. 181 sau 182 ori au cauzat o paguba materială, pedeapsa este închisoarea de la 4 la 12 ani şi interzicerea unor drepturi.
+Sustragerea ori distrugerea materialelor nucleare sau a altor materii radioactive se pedepseşte cu închisoare de la 5 la 15 ani şi interzicerea unor drepturi.
+Dacă faptele prevăzute în alin. 3 au produs pericol public sau au avut vreuna dintre urmările arătate în art. 181 sau 182, pedeapsa este închisoarea de la 5 la 20 de ani şi interzicerea unor drepturi.
+În cazul în care faptele prevăzute în alin. 1 şi 3 au avut consecinţe deosebit de grave, pedeapsa este închisoarea de la 10 la 20 de ani şi interzicerea unor drepturi, iar dacă s-a produs moartea uneia sau mai multor persoane, pedeapsa este detenţiunea pe viaţa sau închisoarea de la 15 la 25 de ani şi interzicerea unor drepturi.
+Ameninţarea, adresată unui stat, unei organizaţii internaţionale sau unei persoane fizice ori juridice, cu folosirea materialelor nucleare sau a altor materii radioactive, în scopul de a provoca vătămarea corporală sau moartea unor persoane ori pagube materiale, se pedepseşte cu închisoare de la 3 la 12 ani.
+Dacă fapta prevăzută în alin. 6 este condiţionată de îndeplinirea sau neîndeplinirea unui act sau când prin ameninţare, sub orice formă, se pretinde a se da ori a se preda materiale nucleare sau alte materii radioactive, pedeapsa este închisoarea de la 5 la 15 ani şi interzicerea unor drepturi.
+Tentativa se pedepseşte.
+Nerespectarea regimului materiilor explozive
 
 Articolul 280
 
-Nerespectarea regimului materiilor explozive sau radioactive
-Fabricarea, prelucrarea, deţinerea, transportul, folosirea sau orice operaţie privind circulaţia materiilor explozive ori radioactive, fără drept, se pedepsesc cu închisoare de la 6 luni la 5 ani.
+Producerea, experimentarea, prelucrarea, deţinerea, transportul sau folosirea materiilor explozive sau orice alte operaţiuni privind aceste materii fără drept se pedepsesc cu închisoare de la 3 la 10 ani şi interzicerea unor drepturi.
+Sustragerea materiilor explozive se pedepseşte cu închisoare de la 5 la 15 ani şi interzicerea unor drepturi.
+Când faptele prevăzute în alin. 1 şi 2 privesc o cantitate mai mare de 1 kg echivalent trotil sau când cantitatea de exploziv este însoţită de materiale de iniţiere, pedeapsa este închisoarea de la 5 la 20 de ani şi interzicerea unor drepturi.
+Faptele prevăzute în alin. 1 şi 2, dacă au produs pericol public sau au avut vreuna dintre urmările arătate în art. 181 sau 182, se pedepsesc cu închisoare de la 5 la 20 de ani şi interzicerea unor drepturi. Cu aceeaşi pedeapsa se sancţionează şi fapta prevăzută în alin. 1, dacă a cauzat o paguba materială.
+În cazul în care faptele prevăzute în alineatele precedente au avut consecinţe deosebit de grave, pedeapsa este închisoarea de la 10 la 20 de ani şi interzicerea unor drepturi, iar dacă s-a produs moartea uneia sau mai multor persoane, pedeapsa este detenţiunea pe viaţa sau închisoarea de la 15 la 25 de ani şi interzicerea unor drepturi.
+Ameninţarea, adresată unui stat, unei organizaţii internaţionale sau unei persoane fizice ori juridice, cu folosirea materiilor explozive în scopul de a provoca vătămarea corporală sau moartea unor persoane ori pagube materiale se pedepseşte cu închisoare de la 3 la 12 ani.
+Fapta de ameninţare cu folosirea materiilor explozive, săvârşită în condiţiile arătate în art. 279^1 alin. 7, se sancţionează cu pedeapsa prevăzută în acel alineat.
+Tentativa se pedepseşte.
+Nerespectarea regimului de ocrotire a unor bunuri
+
+Articolul 280^1
+
+Înstrăinarea, ascunderea sau orice alta fapta prin care se pricinuieşte pierderea pentru patrimoniul cultural naţional sau pentru fondul arhivistic naţional a unui bun care, potrivit legii, face parte din acel patrimoniu sau fond, se pedepseşte cu închisoare de la 2 la 7 ani.
+Dacă pierderea bunului pentru patrimoniul sau pentru fondul prevăzut în alineatul precedent a fost pricinuită prin săvârşirea unei fapte care constituie prin ea însăşi o alta infracţiune, pedeapsa este cea prevăzută de lege pentru infracţiunea săvârşită, al carei maxim se majorează cu 3 ani.
+Fapta prevăzută în alin. 1 nu se pedepseşte, iar în cazul faptelor prevăzute în alin. 2 pedeapsa nu se majorează, dacă înainte ca hotărârea sa fi rămas definitivă, făptuitorul inlatura rezultatul infracţiunii făcând ca bunul sa reintre în acel patrimoniu sau fond.
+Exercitarea fără drept a unei profesii
 
 Articolul 281
 
-Exercitarea fără drept a unei profesii
-Exercitarea fără drept a unei profesii sau a oricărei alte activităţi pentru care legea cere autorizaţie, ori exercitarea acestora în alte condiţii decît cele legale, dacă legea specială prevede că săvîrşirea unor astfel de fapte se sancţionează potrivit legii penale, se pedepseşte cu închisoare de la o lună la 1 an sau cu amendă.
+Exercitarea fără drept a unei profesii sau a oricărei alte activităţi pentru care legea cere autorizaţie, ori exercitarea acestora în alte condiţii decît cele legale, dacă legea specială prevede că săvârşirea unor astfel de fapte se sancţionează potrivit legii penale, se pedepseşte cu închisoare de la o luna la 1 an sau cu amendă.
 
 Titlul VII INFRACŢIUNI DE FALS
 
 
-Capitolul I FALSIFICAREA DE MONEDE, TIMBRE SAU DE ALTE VALORI
+Capitolul 1 FALSIFICAREA DE MONEDE, TIMBRE SAU DE ALTE VALORI
 
+Falsificarea de monede sau de alte valori
 
 Articolul 282
 
-Falsificarea de monede sau de alte valori
-Falsificarea de monedă metalică, monedă de hîrtie, titluri de credit public, cecuri, titluri de orice fel pentru efectuarea plăţilor, emise de instituţia bancară ori de alte instituţii de credit competente, sau falsificarea oricăror alte titluri ori valori asemănătoare, se pedepseşte cu închisoare de la 2 la 7 ani şi interzicerea unor drepturi.
-Cu aceeaşi pedeapsă se sancţionează punerea în circulaţie, în orice mod, a valorilor falsificate arătate în alineatul precedent, sau deţinerea lor în vederea punerii în circulaţie.
-Dacă faptele prevăzute în alineatele precedente ar fi putut cauza o pagubă importantă sistemului financiar, pedeapsa este închisoarea de la 5 la 15 ani, interzicerea unor drepturi şi confiscarea parţială a averii, iar dacă au cauzat o pagubă importantă sistemului financiar, pedeapsa este închisoarea de la 10 la 20 de ani, interzicerea unor drepturi şi confiscarea parţială a averii.
+Falsificarea de moneda metalică, moneda de hirtie, titluri de credit public, cecuri, titluri de orice fel pentru efectuarea plăţilor, emise de instituţia bancară ori de alte instituţii de credit competente, sau falsificarea oricăror alte titluri ori valori asemănătoare, se pedepseşte cu închisoare de la 3 la 12 ani şi interzicerea unor drepturi.
+Cu aceeaşi pedeapsa se sancţionează punerea în circulaţie, în orice mod, a valorilor falsificate arătate în alineatul precedent, sau deţinerea lor în vederea punerii în circulaţie.
+Dacă faptele prevăzute în alineatele precedente ar fi putut cauza o paguba importanţa sistemului financiar, pedeapsa este închisoarea de la 5 la 15 ani şi interzicerea unor drepturi, iar dacă au cauzat o paguba importanţa sistemului financiar, pedeapsa este închisoarea de la 10 la 20 de ani şi interzicerea unor drepturi.
 Tentativa se pedepseşte.
+Falsificarea de timbre, mărci sau de bilete de transport
 
 Articolul 283
 
-Falsificarea de timbre, mărci sau de bilete de transport
 Falsificarea de timbre, mărci poştale, plicuri poştale, cărţi poştale, bilete ori foi de călătorie sau transport, cupoane răspuns internaţional, ori punerea în circulaţie a unor astfel de valori falsificate, se pedepseşte cu închisoare de la 6 luni la 5 ani.
 Tentativa se pedepseşte.
+Falsificarea de valori străine
 
 Articolul 284
 
-Falsificarea de valori străine
-Dispoziţiile cuprinse în acest capitol se aplică şi în cazul cînd infracţiunea priveşte monede sau timbre ale altor state ori alte valori străine.
+Dispoziţiile cuprinse în acest capitol se aplică şi în cazul când infracţiunea priveşte monede sau timbre ale altor state ori alte valori străine.
+Deţinerea de instrumente în vederea falsificării de valori
 
 Articolul 285
 
-Deţinerea de instrumente în vederea falsificării de valori
 Fabricarea ori deţinerea de instrumente sau materiale cu scopul de a servi la falsificarea valorilor sau titlurilor enumerate în art. 282-284 se pedepseşte cu închisoare de la 6 luni la 5 ani.
 
-Capitolul II FALSIFICAREA INSTRUMENTELOR DE AUTENTIFICARE SAU DE MARCARE
+Capitolul 2 FALSIFICAREA INSTRUMENTELOR DE AUTENTIFICARE SAU DE MARCARE
 
+Falsificarea instrumentelor oficiale
 
 Articolul 286
 
-Falsificarea instrumentelor oficiale
-Falsificarea unui sigiliu, unei ştampile sau a unui instrument de marcare de care se folosesc organizaţiile prevăzute în art. 145 se pedepseşte cu închisoare de la 6 luni la 3 ani.
+Falsificarea unui sigiliu, unei ştampile sau a unui instrument de marcare de care se folosesc unităţile la care se referă art. 145 se pedepseşte cu închisoare de la 6 luni la 3 ani.
 Tentativa se pedepseşte.
+Folosirea instrumentelor oficiale false
 
 Articolul 287
 
-Folosirea instrumentelor oficiale false
 Folosirea instrumentelor false arătate în art. 286 se pedepseşte cu închisoare de la 3 luni la 3 ani.
-Folosirea fără drept a unui sigiliu ori a unei ştampile cu stema ţării se pedepseşte cu închisoare de la 3 luni la 2 ani.
+Folosirea fără drept a unui sigiliu ori a unei ştampile cu stema tarii se pedepseşte cu închisoare de la 3 luni la 2 ani sau cu amendă.
 
-Capitolul III FALSURI ÎN ÎNSCRISURI
+Capitolul 3 FALSURI ÎN ÎNSCRISURI
 
+Falsul material în înscrisuri oficiale
 
 Articolul 288
 
-Falsul material în înscrisuri oficiale
-Falsificarea unui înscris oficial prin contrafacerea scrierii ori a subscrierii sau prin alterarea lui în orice mod, de natură să producă consecinţe juridice, se pedepseşte cu închisoare de la 3 luni la 3 ani.
-Falsul prevăzut în alineatul precedent, săvîrşit de un funcţionar ori alt salariat în exerciţiul atribuţiilor de serviciu, se pedepseşte cu închisoare de la 6 luni la 5 ani.
-Sînt asimilate cu înscrisurile oficiale biletele, tichetele sau orice alte imprimate producătoare de consecinţe juridice.
+Falsificarea unui înscris oficial prin contrafacerea scrierii ori a subscrierii sau prin alterarea lui în orice mod, de natura sa producă consecinţe juridice, se pedepseşte cu închisoare de la 3 luni la 3 ani.
+Falsul prevăzut în alineatul precedent, savirsit de un funcţionar în exerciţiul atribuţiilor de serviciu, se pedepseşte cu închisoare de la 6 luni la 5 ani.
+Sunt asimilate cu înscrisurile oficiale biletele, tichetele sau orice alte imprimate producătoare de consecinţe juridice.
 Tentativa se pedepseşte.
+Falsul intelectual
 
 Articolul 289
 
-Falsul intelectual
-Falsificarea unui înscris oficial cu prilejul întocmirii acestuia, de către un funcţionar ori alt salariat aflat în exerciţiul atribuţiilor de serviciu, prin atestarea unor fapte sau împrejurări necorespunzătoare adevărului, ori prin omisiunea cu ştiinţă de a insera unele date sau împrejurări, se pedepseşte cu închisoare de la 6 luni la 5 ani.
+Falsificarea unui înscris oficial cu prilejul întocmirii acestuia, de către un funcţionar aflat în exerciţiul atribuţiilor de serviciu, prin atestarea unor fapte sau împrejurări necorespunzătoare adevărului ori prin omisiunea cu ştiinţa de a insera unele date sau împrejurări, se pedepseşte cu închisoare de la 6 luni la 5 ani.
 Tentativa se pedepseşte.
+Falsul în înscrisuri sub semnatura privată
 
 Articolul 290
 
-Falsul în înscrisuri sub semnătură privată
-Falsificarea unui înscris sub semnătură privată prin vreunul din modurile arătate în art. 288, dacă făptuitorul foloseşte înscrisul falsificat ori îl încredinţează altei persoane spre folosire, în vederea producerii unei consecinţe juridice, se pedepseşte cu închisoare de la 3 luni la 2 ani.
+Falsificarea unui înscris sub semnatura privată prin vreunul din modurile arătate în art. 288, dacă făptuitorul foloseşte înscrisul falsificat ori îl încredinţează altei persoane spre folosire, în vederea producerii unei consecinţe juridice, se pedepseşte cu închisoare de la 3 luni la 2 ani sau cu amendă.
 Tentativa se pedepseşte.
+Uzul de fals
 
 Articolul 291
 
-Uzul de fals
-Folosirea unui înscris oficial ori sub semnătură privată, cunoscînd că este fals, în vederea producerii unei consecinţe juridice, se pedepseşte cu închisoare de la 3 luni la 3 ani cînd înscrisul este oficial, şi cu închisoare de la 3 luni la 2 ani cînd înscrisul este sub semnătură privată.
+Folosirea unui înscris oficial ori sub semnatura privată, cunoscând ca este fals, în vederea producerii unei consecinţe juridice, se pedepseşte cu închisoare de la 3 luni la 3 ani când înscrisul este oficial, şi cu închisoare de la 3 luni la 2 ani sau cu amendă când înscrisul este sub semnatura privată.
+Falsul în declaraţii
 
 Articolul 292
 
-Falsul în declaraţii
-Declararea necorespunzătoare adevărului făcută unei organizaţii din cele prevăzute în art. 145, în vederea producerii unei consecinţe juridice, pentru sine sau pentru altul, atunci cînd potrivit legii ori împrejurărilor declaraţia făcută serveşte pentru producerea acelei consecinţe, se pedepseşte cu închisoare de la 3 luni la 2 ani.
+Declararea necorespunzătoare adevărului, facuta unui organ sau instituţii de stat ori unei alte unităţi dintre cele la care se referă art. 145, în vederea producerii unei consecinţe juridice, pentru sine sau pentru altul, atunci când, potrivit legii ori împrejurărilor, declaraţia facuta serveşte pentru producerea acelei consecinţe, se pedepseşte cu închisoare de la 3 luni la 2 ani sau cu amendă.
+Falsul privind identitatea
 
 Articolul 293
 
-Falsul privind identitatea
-Prezentarea sub o identitate falsă ori atribuirea unei asemenea identităţi altei persoane, pentru a induce sau menţine în eroare o organizaţie din cele prevăzute în art. 145, în vederea producerii unei consecinţe juridice, pentru sine ori pentru altul, se pedepseşte cu închisoare de la 3 luni la 3 ani.
-Cu aceeaşi pedeapsă se sancţionează încredinţarea unui înscris care serveşte pentru dovedirea stării civile ori pentru legitimare sau identificare, spre a fi folosit fără drept.
+Prezentarea sub o identitate falsa ori atribuirea unei asemenea identităţi altei persoane, pentru a induce sau a menţine în eroare un organ sau o instituţie de stat sau o alta unitate dintre cele la care se referă art. 145, în vederea producerii unei consecinţe juridice, pentru sine ori pentru altul, se pedepseşte cu închisoare de la 3 luni la 3 ani.
+Cu aceeaşi pedeapsa se sancţionează încredinţarea unui înscris care serveşte pentru dovedirea stării civile ori pentru legitimare sau identificare, spre a fi folosit fără drept.
+Falsul prin folosirea emblemei Crucii Roşii
 
 Articolul 294
 
-Falsul prin folosirea emblemei Crucii Roşii
-Folosirea fără drept a emblemei sau denumirii de "Crucea Roşie" ori a unei embleme sau denumiri asimilate acesteia, precum şi folosirea oricărui semn sau oricărei denumiri care constituie o imitaţie a vreunei asemenea embleme ori denumiri, dacă fapta a cauzat pagube materiale, se pedepsesc cu închisoare de la o lună la 1 an.
-Dacă fapta se săvîrşeşte în timp de război, pedeapsa este închisoarea de la unu la 5 ani.
+Folosirea fără drept a emblemei sau denumirii de "Crucea Roşie" ori a unei embleme sau denumiri asimilate acesteia, precum şi folosirea oricărui semn sau oricărei denumiri care constituie o imitaţie a vreunei asemenea embleme ori denumiri, dacă fapta a cauzat pagube materiale, se pedepsesc cu închisoare de la o luna la 1 an sau cu amendă.
+Dacă fapta se săvârşeşte în timp de război, pedeapsa este închisoarea de la unu la 5 ani.
 
 Titlul VIII INFRACŢIUNI LA REGIMUL STABILIT PENTRU ANUMITE ACTIVITĂŢI ECONOMICE
 
+Specula
 
 Articolul 295
 
-Specula
-Săvîrşirea uneia dintre următoarele fapte:
-a) cumpărarea în scop de revînzare a produselor industriale sau agricole care potrivit dispoziţiilor legale nu pot face obiectul comerţului particular;
-b) cumpărarea de produse industriale sau agricole, în scop de prelucrare în vederea revînzării, dacă ceea ce ar rezulta din prelucrare nu poate face, potrivit dispoziţiilor legale, obiectul comerţului particular;
-c) exercitarea comerţului fără autorizaţie, ca îndeletnicire;
-d) darea de bani cu dobîndă ca îndeletnicire sau cu dobîndă mai mare decît cea legală, precum şi primirea de dobîndă la dobîndă, se pedepseşte cu închisoare de la 6 luni la 5 ani.
+Săvârşirea uneia dintre următoarele fapte:
+a) cumpărarea în scop de revinzare a produselor industriale sau agricole care potrivit dispoziţiilor legale nu pot face obiectul comerţului particular;
+b) cumpărarea de produse industriale sau agricole, în scop de prelucrare în vederea revinzarii, dacă ceea ce ar rezultă din prelucrare nu poate face, potrivit dispoziţiilor legale, obiectul comerţului particular;
+c) abrogat;
+d) abrogat,
+se pedepseşte cu închisoare de la 6 luni la 5 ani.
+Înşelăciunea la măsurătoare
 
 Articolul 296
 
-Înşelăciunea la măsurătoare
-Înşelarea prin folosirea unui instrument de măsurat inexact, ori prin folosirea frauduloasă a unui instrument de măsurat exact, se pedepseşte cu închisoare de la 3 luni la 3 ani.
+Înşelarea prin folosirea unui instrument de măsurat inexact ori prin folosirea frauduloasă a unui instrument de măsurat exact se pedepseşte cu închisoare de la 3 luni la 5 ani.
 Tentativa se pedepseşte.
+Înşelăciunea cu privire la calitatea mărfurilor
 
 Articolul 297
 
-Înşelăciunea cu privire la calitatea mărfurilor
-Falsificarea ori substituirea de mărfuri sau orice alte produse, precum şi expunerea spre vînzare sau vînzarea de asemenea bunuri, cunoscînd că sînt falsificate ori substituite, se pedepsesc cu închisoare de la 6 luni la 3 ani.
-Dacă mărfurile sau produsele au devenit, prin falsificare sau substituire, vătămătoare sănătăţii, sînt aplicabile dispoziţiile art. 313.
+Falsificarea ori substituirea de mărfuri sau orice alte produse, precum şi expunerea spre vînzare sau vânzarea de asemenea bunuri, cunoscând ca sunt falsificate ori substituite, se pedepsesc cu închisoare de la 6 luni la 5 ani.
+Dacă mărfurile sau produsele au devenit, prin falsificare sau substituire, vătămătoare sănătăţii, sunt aplicabile dispoziţiile art. 313.
 Tentativa se pedepseşte.
+Divulgarea secretului economic
 
 Articolul 298
 
-Divulgarea secretului economic
-Divulgarea unor date sau informaţii care nu sînt destinate publicităţii, de către cel care le cunoaşte datorită atribuţiilor de serviciu, dacă fapta este de natură să producă pagube avutului obştesc, se pedepseşte cu închisoare de la 2 la 7 ani.
-Dacă fapta prevăzută în alineatul precedent este săvîrşită de altă persoană, oricare ar fi modul prin care a ajuns să cunoască datele sau informaţiile, pedeapsa este închisoarea de la 6 luni la 5 ani.
+Divulgarea unor date sau informaţii care nu sunt destinate publicităţii, de către cel care le cunoaşte datorită atribuţiilor de serviciu, dacă fapta este de natura sa producă pagube, se pedepseşte cu închisoare de la 2 la 7 ani.
+Dacă fapta prevăzută în alineatul precedent este săvârşită de altă persoană, oricare ar fi modul prin care a ajuns sa cunoască datele sau informaţiile, pedeapsa este închisoarea de la 6 luni la 5 ani.
+Contrafacerea obiectului unei invenţii
 
 Articolul 299
 
-Contrafacerea obiectului unei invenţii
 Contrafacerea sau folosirea, fără drept, a obiectului unei invenţii se pedepseşte cu închisoare de la 3 luni la 2 ani sau cu amendă.
+Punerea în circulaţie a produselor contrafăcute
 
 Articolul 300
 
-Punerea în circulaţie a produselor contrafăcute
-Punerea în circulaţie a produselor realizate ca urmare a contrafacerii sau folosirii, fără drept, a obiectului unei invenţii sau a unui model ori desen industrial, se pedepseşte cu închisoare de la 3 luni la 2 ani sau cu amendă.
+Punerea în circulaţie a produselor realizate ca urmare a contrafacerii sau folosirii fără drept a obiectului unei invenţii se pedepseşte cu închisoare de la 3 luni la 3 ani.
+Concurenta neloială
 
 Articolul 301
 
-Concurenţa neloială
-Fabricarea ori punerea în circulaţie a produselor care poartă denumiri de origine ori indicaţii de provenienţă false, precum şi aplicarea pe produsele puse în circulaţie de menţiuni false privind brevetele de invenţii, ori folosirea unor nume comerciale sau a denumirilor organizaţiilor de comerţ ori industriale, în scopul de a induce în eroare pe beneficiari, se pedepsesc cu închisoare de la o lună la 2 ani sau cu amendă.
+Fabricarea ori punerea în circulaţie a produselor care poarta denumiri de origine ori indicaţii de provenienţă false, precum şi aplicarea pe produsele puse în circulaţie de menţiuni false privind brevetele de invenţii, ori folosirea unor nume comerciale sau a denumirilor organizaţiilor de comerţ ori industriale, în scopul de a induce în eroare pe beneficiari, se pedepsesc cu închisoare de la o luna la 2 ani sau cu amendă.
+Nerespectarea dispoziţiilor privind operaţii de import sau export
 
 Articolul 302
 
-Nerespectarea dispoziţiilor privind operaţii de import sau export
-Efectuarea, fără autorizaţie, a oricăror acte sau fapte care potrivit dispoziţiilor legale sînt considerate operaţiuni de import, export, sau tranzit, se pedepseşte cu închisoare de la 2 la 7 ani şi confiscarea parţială a averii.
+Efectuarea, fără autorizaţie, a oricăror acte sau fapte care potrivit dispoziţiilor legale sunt considerate operaţiuni de import, export sau tranzit, se pedepseşte cu închisoare de la 2 la 7 ani.
+Deturnarea de fonduri
+
+Articolul 302^1
+
+Schimbarea destinaţiei fondurilor băneşti sau a resurselor materiale, fără respectarea prevederilor legale, dacă fapta a cauzat o perturbare a activităţii economico-financiare sau a produs o paguba unui organ ori unei instituţii de stat sau unei alte unităţi dintre cele la care se referă art. 145, se pedepseşte cu închisoare de la 6 luni la 5 ani.
+Dacă fapta prevăzută la alin. 1 a avut consecinţe deosebit de grave, pedeapsa este închisoarea de la 5 la 15 ani şi interzicerea unor drepturi.
+Nerespectarea dispoziţiilor privind importul de deşeuri şi reziduuri
+
+Articolul 302^2
+
+Efectuarea oricăror operaţiuni de import de deşeuri ori reziduuri de orice natura sau de alte mărfuri periculoase pentru sănătatea populaţiei şi pentru mediul înconjurător, precum şi introducerea, în orice mod, sau tranzitarea acestora pe teritoriul tarii, fără respectarea dispoziţiilor legale, se pedepsesc cu închisoare de la 2 la 7 ani.
+Dacă faptele prevăzute în alineatul precedent au pus în pericol sănătatea sau integritatea corporală a unui număr mare de persoane, au avut vreuna din urmările arătate în art. 182 ori au cauzat o paguba materială importanţa, pedeapsa este închisoarea de la 3 la 10 ani şi interzicerea unor drepturi, iar în cazul în care s-a produs moartea uneia sau mai multor persoane ori pagube importante economiei naţionale, pedeapsa este închisoarea de la 7 la 20 de ani şi interzicerea unor drepturi.
+Tentativa se pedepseşte.
 
 Titlul IX INFRACŢIUNI CARE ADUC ATINGERE UNOR RELAŢII PRIVIND CONVIEŢUIREA SOCIALĂ
 
 
-Capitolul I INFRACŢIUNI CONTRA FAMILIEI
+Capitolul 1 INFRACŢIUNI CONTRA FAMILIEI
 
+Bigamia
 
 Articolul 303
 
-Bigamia
 Încheierea unei noi căsătorii de către o persoană căsătorită se pedepseşte cu închisoare de la unu la 5 ani.
 Persoana necăsătorită care se căsătoreşte cu o persoană pe care o ştie căsătorită se pedepseşte cu închisoare de la 6 luni la 3 ani.
-Faptele prevăzute în prezentul articol nu se sancţionează dacă prima sau cea de-a doua căsătorie este declarată nulă pentru alt motiv decît bigamia.
+Faptele prevăzute în prezentul articol nu se sancţionează dacă prima sau cea de-a doua căsătorie este declarata nulă pentru alt motiv decît bigamia.
+Adulterul
 
 Articolul 304
 
-Adulterul
-Fapta persoanei căsătorite de a avea relaţii sexuale afară de căsătorie se pedepseşte cu închisoare de la o lună la 6 luni.
+Fapta persoanei căsătorite de a avea relaţii sexuale afară de căsătorie se pedepseşte cu închisoare de la o luna la 6 luni sau cu amendă.
 Acţiunea penală se pune în mişcare la plîngerea prealabilă a soţului nevinovat.
-Soţul nevinovat poate cere oricînd încetarea urmăririi penale sau a procesului penal, iar după rămînerea definitivă a hotărîrii, încetarea executării pedepsei.
-Proba adulterului se poate face numai prin procesul-verbal de constatare a infracţiunii flagrante sau prin scrisori care emană de la soţul vinovat.
+Soţul nevinovat poate cere oricând încetarea urmăririi penale sau a procesului penal, iar după rămînerea definitivă a hotărârii, încetarea executării pedepsei.
+Proba adulterului se poate face numai prin procesul-verbal de constatare a infracţiunii flagrante sau prin scrisori care emana de la soţul vinovat.
 Urmărirea sau procesul penal încetează şi în caz de moarte a soţului care a făcut plîngerea, precum şi în caz de anulare a căsătoriei soţului vinovat.
-Urmărirea penală nu poate începe dacă fapta a fost comisă după îndemnul sau încurajarea celuilalt soţ, sau dacă viaţa conjugală era întreruptă în fapt şi soţii trăiau despărţiţi.
-Dispoziţiile art. 27 nu sînt aplicabile.
+Urmărirea penală nu poate începe dacă fapta a fost comisă după îndemnul sau încurajarea celuilalt soţ, sau dacă viaţa conjugală era întreruptă în fapt şi sotii trăiau despărţiţi.
+Dispoziţiile art. 27 nu sunt aplicabile.
+Abandonul de familie
 
 Articolul 305
 
-Abandonul de familie
-Săvîrşirea de către persoana care are obligaţia legală de întreţinere, faţă de cel îndreptăţit la întreţinere, a uneia dintre următoarele fapte:
-a) părăsirea, alungarea sau lăsarea fără ajutor, expunîndu-l la suferinţe fizice sau morale;
-b) neîndeplinirea cu rea-credinţă a obligaţiilor de întreţinere prevăzute de lege;
-c) neplata cu rea-credinţă, timp de 2 luni, a pensiei de întreţinere stabilită pe cale judecătorească, se pedepseşte, în cazurile prevăzute la lit. a şi b cu închisoare de la 3 luni la 2 ani, iar în cazul prevăzut la lit. c, cu închisoare de la 6 luni la 3 ani.
+Săvârşirea de către persoana care are obligaţia legală de întreţinere, faţă de cel îndreptăţit la întreţinere, a uneia dintre următoarele fapte:
+a) părăsirea, alungarea sau lăsarea fără ajutor, expunându-l la suferinţe fizice sau morale;
+b) neîndeplinirea cu rea-credinţa a obligaţiei de întreţinere prevăzute de lege;
+c) neplata cu rea-credinţa, timp de doua luni, a pensiei de întreţinere stabilită pe cale judecătorească,
+se pedepseşte, în cazurile prevăzute la lit. a) şi b) cu închisoare de la 3 luni la 2 ani sau cu amendă, iar în cazul prevăzut la lit. c), cu închisoare de la 6 luni la 3 ani.
 Acţiunea penală se pune în mişcare la plîngerea prealabilă a persoanei vătămate.
-Împăcarea părţilor înlătură răspunderea penală.
-Dacă părţile nu s-au împăcat, dar în cursul judecăţii inculpatul îşi îndeplineşte obligaţiile, instanţa, în cazul cînd stabileşte vinovăţia, pronunţă împotriva inculpatului o condamnare cu suspendarea condiţionată a executării pedepsei, chiar dacă nu sînt îndeplinite condiţiile prevăzute în art. 81.
-Revocarea suspendării condiţionate nu are loc decît în cazul cînd, în cursul termenului de încercare, condamnatul săvîrşeşte din nou infracţiunea de abandon de familie.
+Împăcarea părţilor inlatura răspunderea penală.
+Dacă părţile nu s-au împăcat, dar în cursul judecaţii inculpatul îşi îndeplineşte obligaţiile, instanţa, în cazul când stabileşte vinovăţia, pronunţa împotriva inculpatului o condamnare cu suspendarea condiţionată a executării pedepsei, chiar dacă nu sunt îndeplinite condiţiile prevăzute în art. 81.
+Revocarea suspendării condiţionate nu are loc decît în cazul când, în cursul termenului de încercare, condamnatul săvârşeşte din nou infracţiunea de abandon de familie.
+Relele tratamente aplicate minorului
 
 Articolul 306
 
-Relele tratamente aplicate minorului
-Punerea în primejdie gravă, prin măsuri sau tratamente de orice fel, a dezvoltării fizice, intelectuale sau morale a minorului, de către părinţi sau de orice persoană căreia minorul i-a fost încredinţat spre creştere şi educare, se pedepseşte cu închisoare de la unu la 5 ani.
+Punerea în primejdie grava, prin măsuri sau tratamente de orice fel, a dezvoltării fizice, intelectuale sau morale a minorului, de către părinţi sau de orice persoană căreia minorul i-a fost încredinţat spre creştere şi educare, se pedepseşte cu închisoare de la 2 la 12 ani.
+Nerespectarea măsurilor privind încredinţarea minorului
 
 Articolul 307
 
-Nerespectarea măsurilor privind încredinţarea minorului
-Reţinerea de către un părinte a copilului său minor, fără consimţămîntul celuilalt părinte sau al persoanei căreia i-a fost încredinţat minorul potrivit legii, dacă creşterea şi educarea copilului ar fi primejduită, se pedepseşte cu închisoare de la o lună la 3 luni sau cu amendă.
-Cu aceeaşi pedeapsă se sancţionează fapta persoanei căreia i s-a încredinţat minorul prin hotărîre judecătorească, spre creştere şi educare, de a împiedica în mod repetat pe oricare dintre părinţi să aibă legături personale cu minorul, în condiţiile stabilite de părţi sau de către organul competent.
+Reţinerea de către un părinte a copilului sau minor, fără consimţământul celuilalt părinte sau al persoanei căreia i-a fost încredinţat minorul potrivit legii, se pedepseşte cu închisoare de la o luna la 3 luni sau cu amendă.
+Cu aceeaşi pedeapsa se sancţionează fapta persoanei căreia i s-a încredinţat minorul prin hotărâre judecătorească, spre creştere şi educare, de a împiedica în mod repetat pe oricare dintre părinţi să aibă legături personale cu minorul, în condiţiile stabilite de părţi sau de către organul competent.
 Acţiunea penală se pune în mişcare la plîngerea prealabilă a persoanei vătămate.
-Împăcarea părţilor înlătură răspunderea penală.
+Împăcarea părţilor inlatura răspunderea penală.
 
-Capitolul II INFRACŢIUNI CONTRA SĂNĂTĂŢII PUBLICE
+Capitolul 2 INFRACŢIUNI CONTRA SĂNĂTĂŢII PUBLICE
 
+Zădărnicirea combaterii bolilor
 
 Articolul 308
 
-Zădărnicirea combaterii bolilor
-Nerespectarea măsurilor privitoare la prevenirea sau combaterea bolilor molipsitoare, dacă a avut ca urmare răspîndirea unei asemenea boli, se pedepseşte cu închisoare de la o lună la 2 ani.
+Nerespectarea măsurilor privitoare la prevenirea sau combaterea bolilor molipsitoare, dacă a avut ca urmare raspindirea unei asemenea boli, se pedepseşte cu închisoare de la o luna la 2 ani sau cu amendă.
+Contaminarea venerică şi transmiterea sindromului imunodeficitar dobândit
 
 Articolul 309
 
-Contaminarea venerică
-Transmiterea unei boli venerice prin raport sexual, prin relaţii sexuale între persoane de acelaşi sex, sau prin acte de perversiune sexuală, de către o persoană care ştie că suferă de o astfel de boală, se pedepseşte cu închisoare de la 6 luni la 3 ani.
+Transmiterea unei boli venerice prin raport sexual, prin relaţii sexuale între persoane de acelaşi sex sau prin acte de perversiune sexuală, de către o persoană care ştie ca suferă de o astfel de boala, se pedepseşte cu închisoare de la unu la 5 ani.
+Transmiterea sindromului imunodeficitar dobândit - SIDA - de către o persoană care ştie ca suferă de aceasta boala se pedepseşte cu închisoare de la 5 la 15 ani.
+Instanţa de judecată va dispune măsura de siguranţă a obligării la tratament medical.
+Sustragerea de la tratament medical
+
+Articolul 309^1
+
+Sustragerea de la executarea măsurii de siguranţă a obligării la tratament medical, în cazul infracţiunii de contaminare venerică, se pedepseşte cu închisoare de la 3 luni la 1 an sau cu amendă.
+Raspindirea bolilor la animale sau plante
 
 Articolul 310
 
-Răspîndirea bolilor la animale sau plante
-Nerespectarea măsurilor privitoare la prevenirea sau combaterea bolilor molipsitoare la animale sau plante ori a dăunătorilor, dacă a avut ca urmare răspîndirea unei asemenea boli ori a dăunătorilor, sau alte urmări grave, se pedepseşte cu închisoare de la o lună la 1 an sau cu amendă.
+Nerespectarea măsurilor privitoare la prevenirea sau combaterea bolilor molipsitoare la animale sau plante ori a dăunătorilor, dacă a avut ca urmare raspindirea unei asemenea boli ori a dăunătorilor, sau alte urmări grave, se pedepseşte cu închisoare de la o luna la 1 an sau cu amendă.
+Infectarea apei
 
 Articolul 311
 
-Infectarea apei
-Infectarea prin orice mijloace a surselor sau reţelelor de apă, dacă este dăunătoare sănătăţii oamenilor, animalelor sau plantelor, se pedepseşte cu închisoare de la o lună la 1 an sau cu amendă.
+Infectarea prin orice mijloace a surselor sau reţelelor de apa, dacă este dăunătoare sănătăţii oamenilor, animalelor sau plantelor, se pedepseşte cu închisoare de la o luna la 1 an sau cu amendă.
+Traficul de stupefiante
 
 Articolul 312
 
-Traficul de stupefiante
-Producerea, deţinerea sau orice operaţie privind circulaţia produselor ori substanţelor stupefiante sau toxice, cultivarea în scop de prelucrare a plantelor care conţin astfel de substanţe, ori experimentarea produselor sau substanţelor toxice, toate acestea fără drept, se pedepsesc cu închisoare de la 6 luni la 5 ani.
-Cu aceeaşi pedeapsă se sancţionează prescrierea de către medic, fără a fi necesar, a produselor sau substanţelor stupefiante, precum şi organizarea ori îngăduirea consumului de asemenea produse sau substanţe, în locuri anumite.
+Producerea, deţinerea sau orice operaţiune privind circulaţia produselor ori substanţelor stupefiante sau toxice, cultivarea în scop de prelucrare a plantelor care conţin astfel de substanţe ori experimentarea produselor sau substanţelor toxice, toate acestea fără drept, se pedepsesc cu închisoare de la 3 la 15 ani şi interzicerea unor drepturi.
+Dacă fapta prevăzută în alin. 1 a fost săvârşită organizat, pedeapsa este detenţiunea pe viaţa sau închisoarea de la 15 la 25 de ani şi interzicerea unor drepturi.
+Prescrierea de către medic, fără a fi necesar, a produselor sau substanţelor stupefiante, se pedepseşte cu închisoare de la unu la 5 ani, iar organizarea sau îngăduirea consumului de asemenea produse ori substanţe în locuri anumite se pedepseşte cu închisoare de la 3 la 15 ani şi interzicerea unor drepturi.
+Tentativa se pedepseşte.
+Falsificarea de alimente sau alte produse
 
 Articolul 313
 
-Falsificarea de alimente sau alte produse
-Prepararea de alimente ori băuturi falsificate, alterate sau interzise consumului, vătămătoare sănătăţii, expunerea spre vînzare sau vînzarea unor astfel de alimente sau băuturi cunoscînd că sînt falsificate sau alterate ori interzise consumului, se pedepsesc cu închisoare de la 6 luni la 5 ani.
-Cu aceeaşi pedeapsă se sancţionează falsificarea sau substituirea altor mărfuri sau produse, dacă prin falsificare sau substituire acestea au devenit vătămătoare sănătăţii.
-Punerea în consumul public de carne sau produse de carne, provenite din tăieri de animale sustrase controlului veterinar, dacă a avut ca urmare îmbolnăvirea unei persoane, se pedepseşte cu închisoare de la unu la 5 ani.
+Prepararea de alimente ori băuturi falsificate, alterate sau interzise consumului, vătămătoare sănătăţii, expunerea spre vînzare sau vânzarea unor astfel de alimente sau băuturi, cunoscând ca sunt falsificate sau alterate ori interzise consumului, se pedepsesc cu închisoare de la unu la 8 ani.
+Cu aceeaşi pedeapsa se sancţionează falsificarea sau substituirea altor mărfuri sau produse, dacă prin falsificare sau substituire acestea au devenit vătămătoare sănătăţii.
+Punerea în consum public de carne sau produse din carne, provenite din tăieri de animale sustrase controlului veterinar, dacă a avut ca urmare îmbolnăvirea unei persoane, se pedepseşte cu închisoare de la 2 la 8 ani, iar dacă a avut ca urmare moartea, pedeapsa este închisoarea de la 5 la 15 ani.
 
-Capitolul III INFRACŢIUNI PRIVITOARE LA ASISTENŢA CELOR ÎN PRIMEJDIE
+Capitolul 3 INFRACŢIUNI PRIVITOARE LA ASISTENŢA CELOR ÎN PRIMEJDIE
 
+Punerea în primejdie a unei persoane în neputinţă de a se îngriji
 
 Articolul 314
 
-Punerea în primejdie a unei persoane în neputinţa de a se îngriji
-Părăsirea, alungarea sau lăsarea fără ajutor, în orice mod, a unui copil sau a unei persoane care nu are putinţa de a se îngriji, de către acela care o are sub pază sau îngrijire, punîndu-i în pericol iminent viaţa, sănătatea sau integritatea corporală, se pedepsesc cu închisoare de la 3 luni la 3 ani.
-Este apărată de pedeapsă persoana care, după săvîrşirea faptei, îşi reia de bună-voie îndatoririle.
+Părăsirea, alungarea sau lăsarea fără ajutor, în orice mod, a unui copil sau a unei persoane care nu are putinta de a se îngriji, de către acela care o are sub paza sau îngrijire, punându-i în pericol iminent viaţa, sănătatea sau integritatea corporală, se pedepsesc cu închisoare de la 3 luni la 3 ani.
+Este apărată de pedeapsa persoana care, după săvârşirea faptei, îşi reia de buna-voie îndatoririle.
+Lăsarea fără ajutor
 
 Articolul 315
 
-Lăsarea fără ajutor
-Omisiunea de a da ajutorul necesar sau de a înştiinţa autoritatea, de către cel care a găsit o persoană a cărei viaţă, sănătate sau integritate corporală este în primejdie şi care este lipsită de putinţa de a se salva, se pedepseşte cu închisoare de la o lună la un an sau cu amendă.
+Omisiunea de a da ajutorul necesar sau de a înştiinţa autoritatea, de către cel care a găsit o persoană a carei viaţa, sănătate sau integritate corporală este în primejdie şi care este lipsită de putinta de a se salva, se pedepseşte cu închisoare de la o luna la 1 an sau cu amendă.
+Lăsarea fără ajutor prin omisiunea de înştiinţare
 
 Articolul 316
 
-Lăsarea fără ajutor prin omisiunea de înştiinţare
-Neînştiinţarea autorităţii de către cel ce găseşte o persoană abandonată sau pierdută, care are nevoie de ajutor, fiindu-i pusă în pericol viaţa, sănătatea ori integritatea corporală, se pedepseşte cu închisoare de la o lună la 6 luni sau cu amendă.
+Neînştiinţarea autorităţii de către cel ce găseşte o persoană abandonată sau pierdută, care are nevoie de ajutor, fiindu-i pusă în pericol viaţa, sănătatea ori integritatea corporală, se pedepseşte cu închisoare de la o luna la 6 luni sau cu amendă.
 
-Capitolul IV ALTE INFRACŢIUNI CARE ADUC ATINGERE UNOR RELAŢII PRIVIND CONVIEŢUIREA SOCIALĂ
+Capitolul 4 ALTE INFRACŢIUNI CARE ADUC ATINGERE UNOR RELAŢII PRIVIND CONVIEŢUIREA SOCIALĂ
 
+Propaganda naţionalist-şovină
 
 Articolul 317
 
-Propaganda naţionalist-şovină
-Propaganda naţionalist-şovină, aţîţarea urii de rasă sau naţionale, dacă fapta nu constituie infracţiunea prevăzută în art. 166, se pedepseşte cu închisoare de la 6 luni la 5 ani.
+Propaganda naţionalist-şovină, ațâțarea urii de rasa sau naţionale, dacă fapta nu constituie infracţiunea prevăzută în art. 166, se pedepseşte cu închisoare de la 6 luni la 5 ani.
+Împiedicarea libertăţii cultelor
 
 Articolul 318
 
-Împiedicarea libertăţii cultelor
-Împiedicarea sau tulburarea libertăţii de exercitare a vreunui cult religios, care este organizat şi funcţionează potrivit legii, se pedepseşte cu închisoare de la o lună la 6 luni sau cu amendă.
-Cu aceeaşi pedeapsă se sancţionează fapta de a obliga o persoană, prin constrîngere, să participe la serviciile religioase ale vreunui cult, sau să îndeplinească un act religios legat de exercitarea unui cult.
+Împiedicarea sau tulburarea libertăţii de exercitare a vreunui cult religios, care este organizat şi funcţionează potrivit legii, se pedepseşte cu închisoare de la o luna la 6 luni sau cu amendă.
+Cu aceeaşi pedeapsa se sancţionează fapta de a obliga o persoană, prin constringere, sa participe la serviciile religioase ale vreunui cult, sau sa îndeplinească un act religios legat de exercitarea unui cult.
+Profanarea de morminte
 
 Articolul 319
 
-Profanarea de morminte
-Profanarea prin orice mijloace a unui mormînt, a unui monument sau a unei urne funerare ori a unui cadavru, se pedepseşte cu închisoare de la 3 luni la 3 ani.
+Profanarea prin orice mijloace a unui mormint, a unui monument sau a unei urne funerare ori a unui cadavru, se pedepseşte cu închisoare de la 3 luni la 3 ani.
+Tulburarea folosinţei locuinţei
 
 Articolul 320
 
-Tulburarea folosinţei locuinţei
-Fapta prin care se tulbură în mod repetat folosinţa locuinţei locatarilor dintr-un imobil, ori prin care se împiedică normala folosinţă a locuinţei, se pedepseşte cu închisoare de la 3 luni la 2 ani sau cu amendă.
+Fapta prin care se tulbura în mod repetat folosinţă locuinţei locatarilor dintr-un imobil, ori prin care se împiedica normală folosinţă a locuinţei, se pedepseşte cu închisoare de la 3 luni la 2 ani sau cu amendă.
 Acţiunea penală se pune în mişcare la plîngerea prealabilă a persoanei vătămate.
-Împăcarea părţilor înlătură răspunderea penală.
+Împăcarea părţilor inlatura răspunderea penală.
+Ultrajul contra bunelor moravuri şi tulburarea liniştii publice
 
 Articolul 321
 
-Ultrajul contra bunelor moravuri şi tulburarea liniştii publice
-Fapta persoanei care, în public, săvîrşeşte acte sau gesturi, proferează cuvinte ori expresii, sau se dedă la orice alte manifestări prin care se aduce atingere bunelor moravuri sau se produce scandal public, se pedepseşte cu închisoare de la 3 luni la 2 ani.
+Fapta persoanei care, în public, săvârşeşte acte sau gesturi, proferează cuvinte ori expresii, sau se deda la orice alte manifestări prin care se aduce atingere bunelor moravuri sau se produce scandal public, se pedepseşte cu închisoare de la 3 luni la 2 ani sau cu amendă.
 Dacă prin fapta prevăzută în alin. 1 s-a tulburat grav liniştea publică, pedeapsa este închisoarea de la 6 luni la 5 ani.
+Încăierarea
 
 Articolul 322
 
-Încăierarea
-Participarea la o încăierare între mai multe persoane se pedepseşte cu închisoare de la o lună la 6 luni sau cu amendă.
-Dacă în cursul încăierării s-a cauzat o vătămare gravă integrităţii corporale sau sănătăţii unei persoane, cel care a săvîrşit această faptă se pedepseşte pentru infracţiunea săvîrşită, al cărei maxim se reduce cu un an. Ceilalţi participanţi la încăierare se pedepsesc cu pedeapsa prevăzută în alin. 1.
-În cazul prevăzut în alin. 2, dacă nu se cunoaşte care dintre participanţi au săvîrşit faptele arătate în acel alineat, se aplică tuturor închisoarea de la 6 luni la 5 ani pentru fapta de vătămare a integrităţii corporale sau sănătăţii. În cazul în care s-a cauzat moartea, pedeapsa este închisoarea de la 3 la 10 ani.
-Nu se pedepseşte cel care a fost prins în încăierare împotriva voinţei sale, sau care a încercat să despartă pe alţii, să respingă un atac ori să apere pe altul.
+Participarea la o încăierare între mai multe persoane se pedepseşte cu închisoare de la o luna la 6 luni sau cu amendă.
+Dacă în cursul încăierării s-a cauzat o vătămare grava integrităţii corporale sau sănătăţii unei persoane, cel care a savirsit aceasta fapta se pedepseşte pentru infracţiunea săvârşită, al carei maxim se reduce cu un an. Ceilalţi participanţi la încăierare se pedepsesc cu pedeapsa prevăzută în alin. 1.
+În cazul prevăzut în alin. 2, dacă nu se cunoaşte care dintre participanţi a savirsit faptele arătate în acel alineat, se aplică tuturor închisoarea de la 6 luni la 5 ani, când s-a cauzat vătămarea integrităţii corporale sau sănătăţii. În cazul în care s-a cauzat moartea, pedeapsa este închisoarea de la 3 la 15 ani.
+Nu se pedepseşte cel care a fost prins în încăierare împotriva voinţei sale, sau care a încercat sa despartă pe alţii, sa respingă un atac ori sa apere pe altul.
+Asocierea pentru săvârşirea de infracţiuni
 
 Articolul 323
 
-Asocierea pentru săvîrşirea de infracţiuni
-Fapta de a se asocia sau de a iniţia constituirea unei asocieri în scopul săvîrşirii uneia sau mai multor infracţiuni, altele decît cele arătate în art. 167, ori aderarea sau sprijinirea sub orice formă a unei astfel de asocieri, se pedepseşte cu închisoare de la 6 luni la 5 ani, fără a se putea depăşi pedeapsa prevăzută de lege pentru infracţiunea ce intră în scopul asocierii.
-Dacă fapta de asociere a fost urmată de săvîrşirea unei infracţiuni, se aplică celor care au săvîrşit infracţiunea respectivă pedeapsa pentru acea infracţiune, în concurs cu pedeapsa prevăzută în alin. 1.
-Nu se pedepsesc persoanele prevăzute în alin. 1, care denunţă autorităţilor asocierea mai înainte de a fi fost descoperită şi de a se fi început săvîrşirea infracţiunii care intră în scopul asocierii.
+Fapta de a se asocia sau de a iniţia constituirea unei asocieri în scopul săvârşirii uneia sau mai multor infracţiuni, altele decît cele arătate în art. 167, ori aderarea sau sprijinirea sub orice formă a unei astfel de asocieri, se pedepseşte cu închisoare de la 3 la 15 ani, fără a se putea depăşi pedeapsa prevăzută de lege pentru infracţiunea ce intră în scopul asocierii.
+Dacă fapta de asociere a fost urmată de săvârşirea unei infracţiuni, se aplică celor care au savirsit infracţiunea respectiva pedeapsa pentru acea infracţiune, în concurs cu pedeapsa prevăzută în alin. 1.
+Nu se pedepsesc persoanele prevăzute în alin. 1, care denunta autorităţilor asocierea mai înainte de a fi fost descoperită şi de a se fi început săvârşirea infracţiunii care intră în scopul asocierii.
+Instigarea publică şi apologia infracţiunilor
 
 Articolul 324
 
-Instigarea publică şi apologia infracţiunilor
-Fapta de a îndemna publicul prin grai, scris sau prin orice alte mijloace, de a nu respecta legile, ori de a săvîrşi fapte ce constituie infracţiuni, se pedepseşte cu închisoare de la 3 luni la 3 ani, fără a se putea depăşi pedeapsa prevăzută de lege pentru infracţiunea la săvîrşirea căreia s-a instigat.
-Dacă instigarea publică a avut ca urmare săvîrşirea infracţiunii la care s-a instigat, pedeapsa este cea prevăzută de lege pentru acea infracţiune.
+Fapta de a indemna publicul prin grai, scris sau prin orice alte mijloace, de a nu respecta legile, ori de a savirsi fapte ce constituie infracţiuni, se pedepseşte cu închisoare de la 3 luni la 3 ani, fără a se putea depăşi pedeapsa prevăzută de lege pentru infracţiunea la săvârşirea căreia s-a instigat.
+Dacă fapta prevăzută în alin. 1 este săvârşită de un funcţionar public care îndeplineşte o funcţie ce implica exerciţiul autorităţii de stat ori de către o persoană dintre cele prevăzute în art. 160, pedeapsa este închisoarea de la unu la 5 ani, fără a se putea depăşi pedeapsa prevăzută de lege pentru infracţiunea la săvârşirea căreia s-a instigat.
+Dacă instigarea publică a avut ca urmare săvârşirea infracţiunii la care s-a instigat, pedeapsa este cea prevăzută de lege pentru acea infracţiune.
 Purtarea în public a unei uniforme, embleme, insigne sau altor asemenea semne distinctive neautorizate, în scopurile arătate în alin. 1, se pedepseşte cu închisoare de la 3 luni la 3 ani.
-Cu aceeaşi pedeapsă se sancţionează lăudarea în public a celor care au săvîrşit infracţiuni sau a infracţiunilor săvîrşite de aceştia.
+Cu aceeaşi pedeapsa se sancţionează lăudarea în public a celor care au savirsit infracţiuni sau a infracţiunilor săvârşite de aceştia.
+Raspindirea de materiale obscene
 
 Articolul 325
 
-Răspîndirea de materiale obscene
-Fapta de a vinde sau răspîndi, precum şi de a confecţiona ori deţine în vederea răspîndirii, obiecte, desene, scrieri sau alte materiale cu caracter obscen, se pedepseşte cu închisoare de la 3 luni la 2 ani sau cu amendă.
+Fapta de a vinde sau raspindi, precum şi de a confecţiona ori deţine, în vederea răspândirii, obiecte, desene, scrieri sau alte materiale cu caracter obscen, se pedepseşte cu închisoare de la 6 luni la 4 ani sau cu amendă.
+Cerşetoria
 
 Articolul 326
 
-Cerşetoria
-Fapta persoanei care, avînd capacitatea de a munci, apelează în mod repetat la mila publicului, cerînd ajutor material, se pedepseşte cu închisoare de la o lună la 3 ani.
+Fapta persoanei care, având capacitatea de a munci, apelează în mod repetat la mila publicului, cerind ajutor material, se pedepseşte cu închisoare de la o luna la 3 ani.
+Vagabondajul
 
 Articolul 327
 
-Vagabondajul
-Fapta persoanei care nu are locuinţa statornică şi nici mijloace de trai şi care, deşi are capacitatea de a munci, nu exercită în mod obişnuit o ocupaţie sau profesie, ori nu prestează nici o altă muncă pentru întreţinerea sa, se pedepseşte cu închisoare de la o lună la 3 ani.
+Fapta persoanei care nu are locuinta statornică şi nici mijloace de trai şi care, deşi are capacitate de a munci, nu exercita în mod obişnuit o ocupaţie sau profesie, ori nu prestează nici o alta munca pentru întreţinerea sa, se pedepseşte cu închisoare de la o luna la 3 ani.
+Prostituţia
 
 Articolul 328
 
-Prostituţia
-Fapta persoanei care îşi procură mijloacele de existenţă sau principalele mijloace de existenţă, practicînd în acest scop raporturi sexuale cu diferite persoane, se pedepseşte cu închisoare de la 3 luni la 3 ani.
+Fapta persoanei care îşi procura mijloacele de existenta sau principalele mijloace de existenta, practicând în acest scop raporturi sexuale cu diferite persoane, se pedepseşte cu închisoare de la 3 luni la 3 ani.
+Proxenetismul
 
 Articolul 329
 
-Proxenitismul
-Îndemnul sau constrîngerea la prostituţie, ori înlesnirea practicării prostituţiei, sau tragerea de foloase de pe urma practicării prostituţiei de către o persoană, precum şi recrutarea unei persoane pentru prostituţie, ori traficul de persoane în acest scop, se pedepsesc cu închisoare de la unu la 5 ani şi interzicerea unor drepturi.
-Dacă fapta prevăzută în alin. 1 este săvîrşită faţă de un minor sau prezintă un alt caracter grav, pedeapsa este închisoarea de la 3 la 10 ani şi interzicerea unor drepturi.
+Îndemnul sau constringerea la prostituţie ori înlesnirea practicării prostituţiei sau tragerea de foloase de pe urma practicării prostituţiei de către o persoană, precum şi recrutarea unei persoane pentru prostituţie ori traficul de persoane în acest scop, se pedepsesc cu închisoare de la 2 la 7 ani şi interzicerea unor drepturi.
+Dacă fapta prevăzută în alin. 1 este săvârşită faţă de un minor sau prezintă un alt caracter grav, pedeapsa este închisoarea de la 3 la 10 ani şi interzicerea unor drepturi.
+Banii, valorile sau orice alte bunuri care au servit sau au fost destinate sa servească, direct sau indirect, la comiterea infracţiunii prevăzute în alin. 1 şi 2 şi cele care au fost dobîndite prin săvârşirea acesteia se confisca, iar dacă acestea nu se găsesc, condamnatul este obligat la plata echivalentului lor în bani.
 Tentativa se pedepseşte.
+Jocul de noroc
 
 Articolul 330
 
-Jocul de noroc
 Organizarea sau îngăduirea jocurilor de noroc pentru public, fără autorizare, se pedepseşte cu închisoare de la 3 luni la 2 ani sau cu amendă.
-Cu aceeaşi pedeapsă se sancţionează organizarea sau îngăduirea în mod obişnuit a jocurilor de noroc, într-o casă particulară, în scopul de a realiza foloase materiale.
+Cu aceeaşi pedeapsa se sancţionează organizarea sau îngăduirea în mod obişnuit a jocurilor de noroc, într-o casa particulară, în scopul de a realiza foloase materiale.
 
-Titlul X INFRACŢIUNI CONTRA CAPACITĂŢII DE APĂRARE A REPUBLICII SOCIALISTE ROMÂNIA
+Titlul X INFRACŢIUNI CONTRA CAPACITĂŢII DE APĂRARE A ROMÂNIEI
 
 
-Capitolul I INFRACŢIUNI SĂVÎRŞITE DE MILITARI
+Capitolul 1 INFRACŢIUNI SĂVÎRŞITE DE MILITARI
 
 
 Secţiunea I Infracţiuni contra ordinii şi disciplinei militare
 
+Absenta nejustificată
 
 Articolul 331
 
-Absenţa nejustificată
-Absenţa nejustificată de la unitate sau serviciu, care a depăşit de 24 ore dar nu mai mult de 3 zile, a militarului, în termen sau concentrat, pînă la gradul de sergent inclusiv, se pedepseşte cu închisoare de la 3 luni la 1 an.
-Pedeapsa aplicată militarului în termen se execută într-o unitate militară disciplinară.
-În timp de război, absenţa nejustificată a oricărui militar de la unitate sau serviciu, care a depăşit 4 ore dar nu mai mult de 24 ore, se pedepseşte, cu închisoare de la unu la 5 ani.
+Absenta nejustificată de la unitate sau serviciu, care a depăşit 24 de ore dar nu mai mult de 3 zile, a militarului, în termen sau concentrat, până la gradul de sergent inclusiv, se pedepseşte cu închisoare de la 3 luni la 1 an.
+Pedeapsa aplicată militarului în termen se executa într-o închisoare militară.
+În timp de război, absenta nejustificată a oricărui militar de la unitate sau serviciu, care a depăşit 4 ore, dar nu mai mult de 24 de ore, se pedepseşte cu închisoare de la unu la 5 ani.
+Dezertarea
 
 Articolul 332
 
-Dezertarea
-Absenţa nejustificată de la unitate sau serviciu, care depăşeşte 3 zile, a oricărui militar, se pedepseşte cu închisoare de la unu la 7 ani.
-În timp de război, absenţa nejustificată a oricărui militar de la unitate sau serviciu, care a depăşit 24 ore, se pedepseşte cu închisoare de la 3 la 12 ani.
+Absenta nejustificată de la unitate sau serviciu, care depăşeşte 3 zile, a oricărui militar, se pedepseşte cu închisoare de la unu la 7 ani.
+În timp de război, absenta nejustificată a oricărui militar de la unitate sau serviciu, care a depăşit 24 de ore, se pedepseşte cu închisoare de la 3 la 12 ani.
+Călcarea de consemn
 
 Articolul 333
 
-Călcarea de consemn
-Călcarea regulilor serviciului de gardă, de pază, de însoţire sau de securitate, se pedepseşte cu închisoare de la 3 luni la 1 an.
-Cu aceeaşi pedeapsă se sancţionează şi părăsirea comenzii sau oricărui alt post de către militar.
-Călcarea consemnului de către santinela aflată în serviciu de gardă sau de pază pe lîngă depozitele de armament, muniţii sau materiale explozive, la frontieră ori în alte posturi de un deosebit interes militar sau de stat, ori dacă fapta ar fi putut avea urmări grave, se pedepseşte cu închisoare de la unu la 5 ani.
-Faptele de mai sus săvîrşite în timp de război se pedepsesc cu închisoare de la 3 la 12 ani.
+Călcarea regulilor serviciului de garda, de paza, de însoţire sau de securitate, se pedepseşte cu închisoare de la 3 luni la 1 an.
+Cu aceeaşi pedeapsa se sancţionează şi părăsirea comenzii sau oricărui alt post de către militar.
+Călcarea consemnului de către santinela aflată în serviciu de garda sau de paza pe lângă depozitele de armament, muniţii sau materiale explozive, la frontiera ori în alte posturi de un deosebit interes militar sau de stat, ori dacă fapta ar fi putut avea urmări grave, se pedepseşte cu închisoare de la unu la 5 ani.
+Faptele de mai sus săvârşite în timp de război se pedepsesc cu închisoare de la 3 la 12 ani.
+Insubordonarea
 
 Articolul 334
 
-Insubordonarea
 Refuzul de a executa un ordin cu privire la îndatoririle de serviciu se pedepseşte cu închisoare de la 6 luni la 2 ani.
-Dacă fapta este săvîrşită de un ofiţer, de un maistru militar sau subofiţer, de doi sau mai mulţi militari împreună, ori în faţa trupei adunate, sau dacă fapta are urmări grave, pedeapsa este închisoarea de la unu la 5 ani.
+Dacă fapta este săvârşită de un ofiţer, de un maistru militar sau subofiţer, de un militar angajat, de doi sau mai mulţi militari împreună ori în faţa trupei adunate sau dacă fapta are urmări grave, pedeapsa este închisoarea de la unu la 5 ani.
 În timp de război, pedeapsa pentru fapta prevăzută în alin. 1 este închisoarea de la 2 la 7 ani, iar pentru fapta prevăzută în alin. 2, de la 3 la 12 ani.
+Lovirea sau insulta superiorului
 
 Articolul 335
 
-Lovirea sau insulta superiorului
 Lovirea superiorului de către inferior sau a şefului de către subordonat se pedepseşte cu închisoare de la 3 luni la 2 ani.
-În cazul în care cel lovit se găseşte în exerciţiul atribuţiilor de serviciu, pedeapsa este închisoare de la unu la 5 ani.
-Insulta superiorului de către inferior sau a şefului de către subordonat se pedepseşte cu închisoare de la o lună la 1 an.
-Dacă faptele de mai sus sînt săvîrşite în timp de război, maximul pedepselor se sporeşte cu 2 ani.
+În cazul în care cel lovit se găseşte în exerciţiul atribuţiilor de serviciu, pedeapsa este închisoarea de la unu la 5 ani.
+Insulta superiorului de către inferior sau a şefului de către subordonat se pedepseşte cu închisoare de la o luna la 1 an.
+Dacă faptele de mai sus sunt săvârşite în timp de război, maximul pedepselor se sporeşte cu 2 ani.
+Lovirea sau insulta inferiorului
 
 Articolul 336
 
-Lovirea sau insulta inferiorului
-Lovirea inferiorului ori subordonatului de către superior sau şef se pedepseşte cu închisoare de la o lună la 1 an.
-Insulta inferiorului ori subordonatului de către superior sau şef se pedepseşte cu închisoare de la o lună la 6 luni.
+Lovirea inferiorului ori subordonatului de către superior sau şef se pedepseşte cu închisoare de la o luna la 1 an.
+Insulta inferiorului ori subordonatului de către superior sau şef se pedepseşte cu închisoare de la o luna la 6 luni.
 Dispoziţiile alin. 1 şi 2 nu se aplică în timp de război, dacă faptele au fost determinate de o necesitate militară.
+Punerea în mişcare a acţiunii penale
 
 Articolul 337
 
-Punerea în mişcare a acţiunii penale
 Acţiunea penală pentru infracţiunile din prezenta secţiune se pune în mişcare numai la sesizarea comandantului.
 
-Secţiunea II Infracţiuni pe cîmpul de luptă
+Secţiunea II Infracţiuni pe câmpul de lupta
 
+Capitularea
 
 Articolul 338
 
-Capitularea
-Predarea în mîinile inamicului de către comandant a forţelor militare pe care le comandă, lăsarea în mîinile duşmanului, distrugerea sau aducerea în stare de neîntrebuinţare de către comandant a mijloacelor de luptă sau a altor mijloace necesare pentru purtarea războiului, fără ca aceasta să fi fost determinată de condiţiile de luptă, se pedepsesc cu moartea şi confiscarea totală a averii, sau cu închisoare de la 15 la 20 de ani, interzicerea unor drepturi şi confiscarea totală a averii.
+Predarea în miinile inamicului de către comandant a forţelor militare pe care le comanda, lăsarea în miinile duşmanului, distrugerea sau aducerea în stare de neîntrebuinţare de către comandant a mijloacelor de lupta sau a altor mijloace necesare pentru purtarea războiului, fără ca aceasta sa fi fost determinata de condiţiile de lupta, se pedepsesc cu detenţiune pe viaţa sau cu închisoare de la 15 la 25 de ani şi interzicerea unor drepturi.
 Tentativa se pedepseşte.
+Părăsirea câmpului de lupta
 
 Articolul 339
 
-Părăsirea cîmpului de luptă
-Părăsirea cîmpului de lupta sau refuzul de a acţiona, săvîrşite în timpul luptei, ori predarea în captivitate, sau săvîrşirea altor asemenea fapte de natură a servi cauza duşmanului, se pedepseşte cu moartea şi confiscarea totală a averii, sau cu închisoare de la 15 la 20 de ani, interzicerea unor drepturi şi confiscarea totală a averii.
+Părăsirea câmpului de lupta sau refuzul de a acţiona, săvârşite în timpul luptei, ori predarea în captivitate, sau săvârşirea altor asemenea fapte de natura a servi cauza duşmanului, se pedepseşte cu detenţiune pe viaţa sau cu închisoare de la 15 la 25 de ani şi interzicerea unor drepturi.
 Tentativa se pedepseşte.
 
 Secţiunea III Infracţiuni specifice aviaţiei şi marinei militare
 
+Zborul neautorizat
 
 Articolul 340
 
-Zborul neautorizat
-Zborul cu o aeronavă aparţinînd forţelor armate ale statului român, fără prealabilă autorizare, precum şi nerespectarea regulilor de zbor, dacă prin aceasta se periclitează securitatea zborului în spaţiul aerian sau a aeronavei, se pedepsesc cu închisoare de la 3 luni la 2 ani.
+Zborul cu o aeronava aparţinând forţelor armate ale statului român, fără prealabilă autorizare, precum şi nerespectarea regulilor de zbor, dacă prin aceasta se periclitează securitatea zborului în spaţiul aerian sau a aeronavei, se pedepsesc cu închisoare de la 3 luni la 2 ani.
 Dacă fapta prevăzută în alineatul precedent a cauzat urmări grave, pedeapsa este închisoarea de la unu la 5 ani, iar dacă a cauzat un dezastru, pedeapsa este închisoarea de la 5 la 15 ani şi interzicerea unor drepturi.
+Părăsirea navei
 
 Articolul 341
 
-Părăsirea navei
-Părăsirea unei nave militare în caz de naufragiu, de către comandant, mai înainte de a-şi fi exercitat pînă la capăt îndatoririle de serviciu, precum şi de către orice persoană ce face parte din echipajul navei, fără ordinul comandantului, se pedepseşte cu închisoare de la 6 luni la 5 ani.
-Aceeaşi faptă săvîrşită în timp de război se pedepseşte cu moartea şi confiscarea totală a averii, sau cu închisoare de la 15 la 20 de ani, interzicerea unor drepturi şi confiscarea totală a averii.
+Părăsirea unei nave militare în caz de naufragiu, de către comandant, mai înainte de a-şi fi exercitat până la capăt îndatoririle de serviciu, precum şi de către orice persoană ce face parte din echipajul navei, fără ordinul comandantului, se pedepseşte cu închisoare de la 6 luni la 5 ani.
+Aceeaşi fapta săvârşită în timp de război se pedepseşte cu detenţiune pe viaţa sau cu închisoare de la 15 la 25 de ani şi interzicerea unor drepturi.
+Părăsirea comenzii
 
 Articolul 342
 
-Părăsirea comenzii
 Părăsirea comenzii de către comandantul unei nave sau al unei grupări de nave militare, în situaţii ce ar fi putut periclita nava sau navele militare ori echipajul acestora, se pedepseşte cu închisoare de la 2 la 7 ani.
-În cazul în care părăsirea comenzii s-a săvîrşit în timpul luptei, de către comandantul unei nave sau al unei grupări de nave militare, pedeapsa este moartea şi confiscarea totală a averii, sau închisoarea de la 15 la 20 de ani, interzicerea unor drepturi şi confiscarea totală a averii.
+În cazul în care părăsirea comenzii s-a savirsit în timpul luptei, de către comandantul unei nave sau al unei grupări de nave militare, pedeapsa este detenţiunea pe viaţa sau închisoarea de la 15 la 25 de ani şi interzicerea unor drepturi.
+Neluarea măsurilor necesare în operaţiile navale
 
 Articolul 343
 
-Neluarea măsurilor necesare în operaţiile navale
-Fapta comandantului unei nave militare sau grupări de nave militare care fără a fi fost oprit prin vreun ordin, sau fără a fi fost împiedicat de misiunea specială pe care o avea, nu ia măsurile necesare să atace, să lupte împotriva duşmanului, să ajute o navă a statului român sau a unei ţări aliate urmărită de duşman ori angajată în luptă, sau nu ia măsurile necesare pentru a distruge un convoi duşman, ori nu urmăreşte navele de război sau comerciale ale duşmanului, se pedepseşte cu moartea şi confiscarea totală a averii, sau cu închisoare de la 15 la 20 de ani, interzicerea unor drepturi şi confiscarea totală a averii.
+Fapta comandantului unei nave militare sau grupări de nave militare care fără a fi fost oprit prin vreun ordin, sau fără a fi fost împiedicat de misiunea specială pe care o avea, nu ia măsurile necesare sa atace, sa lupte împotriva duşmanului, sa ajute o nava a statului român sau a unei tari aliate urmărită de duşman ori angajata în lupta, sau nu ia măsurile necesare pentru a distruge un convoi duşman, ori nu urmăreşte navele de război sau comerciale ale duşmanului, se pedepseşte cu detenţiune pe viaţa sau cu închisoare de la 15 la 25 de ani şi interzicerea unor drepturi.
+Coborirea pavilionului
 
 Articolul 344
 
-Coborirea pavilionului
-Coborirea pavilionului în timpul luptei, în scopul de a servi cauza duşmanului, săvîrşită de către comandantul unei nave militare sau al unei grupări de nave militare, precum şi de către orice altă persoană ambarcată, se pedepseşte cu moartea şi confiscarea totală a averii, sau cu închisoare de la 15 la 20 de ani, interzicerea unor drepturi şi confiscarea totală a averii.
+Coborirea pavilionului în timpul luptei, în scopul de a servi cauza duşmanului, săvârşită de către comandantul unei nave militare sau al unei grupări de nave militare, precum şi de către orice altă persoană ambarcată, se pedepseşte cu detenţiune pe viaţa sau cu închisoare de la 15 la 25 de ani şi interzicerea unor drepturi.
+Coliziunea
 
 Articolul 345
 
-Coliziunea
-Fapta comandantului unei nave militare sau a oricărei persoane aflate la bordul navei, prin care s-a cauzat, din culpă, o coliziune sau punerea pe uscat a navei, dacă fapta a avut ca urmare avarierea gravă a navei sau alte urmări grave, se pedepseşte cu închisoare de la 6 luni la 3 ani.
-În cazul în care fapta prevăzută în alineatul precedent a fost săvîrşită cu intenţie, pedeapsa este închisoarea de la 5 la 20 de ani, interzicerea unor drepturi şi confiscarea parţială a averii.
-În timp de război, fapta prevăzută în alin. 2 se pedepseşte cu moartea şi confiscarea totală a averii, sau cu închisoare de la 15 la 20 de ani, interzicerea unor drepturi şi confiscarea totală a averii.
+Fapta comandantului unei nave militare sau a oricărei persoane aflate la bordul navei, prin care s-a cauzat, din culpa, o coliziune sau punerea pe uscat a navei, dacă fapta a avut ca urmare avarierea grava a navei sau alte urmări grave, se pedepseşte cu închisoare de la 6 luni la 3 ani.
+În cazul în care fapta prevăzută în alineatul precedent a fost săvârşită cu intenţie, pedeapsa este închisoarea de la 5 la 20 de ani şi interzicerea unor drepturi.
+În timp de război, fapta prevăzută în alin. 2 se pedepseşte cu detenţiune pe viaţa sau cu închisoare de la 15 la 25 de ani şi interzicerea unor drepturi.
+Sancţionarea tentativei
 
 Articolul 346
 
-Sancţionarea tentativei
 Tentativa infracţiunilor prevăzute în art. 340, 341, 342, 344 şi 345 alin. 2 şi 3 se pedepseşte.
+Infracţiuni privitoare la aeronave
 
 Articolul 347
 
-Infracţiuni privitoare la aeronave
 Dispoziţiile art. 341-346 se aplică în mod corespunzător şi în ce priveşte aeronavele militare.
 
-Capitolul II INFRACŢIUNI SĂVÎRŞITE DE MILITARI SAU CIVILI
+Capitolul 2 INFRACŢIUNI SĂVÎRŞITE DE MILITARI SAU DE CIVILI
 
+Sustragerea de la serviciul militar
 
 Articolul 348
 
-Sustragerea de la serviciul militar
-Fapta persoanei care îşi provoacă vătămări integrităţii corporale sau sănătăţii, simulează o boală sau infirmitate, foloseşte înscrisuri false sau orice alte mijloace, în scopul de a se sustrage de la serviciul militar, se pedepseşte cu închisoare de la 6 luni la 5 ani, iar în timp de război cu închisoare de la 3 la 10 ani.
+Fapta persoanei care îşi provoacă vătămări integrităţii corporale sau sănătăţii, simulează o boala sau infirmitate, foloseşte înscrisuri false sau orice alte mijloace, în scopul de a se sustrage de la serviciul militar, se pedepseşte cu închisoare de la 6 luni la 5 ani, iar în timp de război cu închisoare de la 3 la 10 ani.
 Acţiunea penală se pune în mişcare numai la sesizarea comandantului.
+Defetismul
 
 Articolul 349
 
-Defetismul
-Răspîndirea sau publicarea în timp de război de zvonuri sau informaţii false, exagerate sau tendenţioase relative la situaţia economică şi politică a ţării, la starea morală a populaţiei în legătura cu declararea şi mersul războiului, precum şi săvîrşirea altor asemenea fapte de natură să slăbească rezistenţa morală a populaţiei, se pedepsesc cu închisoare de la 5 la 15 ani şi interzicerea unor drepturi.
+Raspindirea sau publicarea în timp de război de zvonuri sau informaţii false, exagerate sau tendenţioase relative la situaţia economică şi politica a tarii, la starea morala a populaţiei în legătură cu declararea şi mersul războiului, precum şi săvârşirea altor asemenea fapte de natura sa slăbească rezistenta morala a populaţiei, se pedepsesc cu închisoare de la 5 la 15 ani şi interzicerea unor drepturi.
+Jefuirea celor căzuţi pe câmpul de lupta
 
 Articolul 350
 
-Jefuirea celor căzuţi pe cîmpul de luptă
-Jefuirea pe cîmpul de luptă a morţilor sau răniţilor de obiectele aflate asupra lor se pedepseşte cu închisoare de la 3 la 10 ani şi interzicerea unor drepturi.
-Cu aceeaşi pedeapsă se sancţionează fapta arătată în alineatul precedent, care, fără să fie săvîrşită pe cîmpul de luptă, este urmarea unor operaţii de război.
+Jefuirea pe câmpul de lupta a morţilor sau răniţilor de obiectele aflate asupra lor se pedepseşte cu închisoare de la 3 la 10 ani şi interzicerea unor drepturi.
+Cu aceeaşi pedeapsa se sancţionează fapta arătată în alineatul precedent, care, fără să fie săvârşită pe câmpul de lupta, este urmarea unor operaţii de război.
+Folosirea emblemei Crucii Roşii în timpul operaţiilor militare
 
 Articolul 351
 
-Folosirea emblemei Crucii Roşii în timpul operaţiilor militare
 Folosirea, fără drept, în timp de război şi în legătură cu operaţiile militare, a emblemei ori denumirii de "Crucea Roşie" sau a celor asimilate acesteia, se pedepseşte cu închisoare de la 3 la 7 ani.
+Sustragerea de la rechiziţii militare
 
 Articolul 352
 
-Sustragerea de la rechiziţii militare
-Refuzul nejustificat de a pune la dispoziţia forţelor armate bunurile legal rechiziţionate, sustragerea de la îndeplinirea acestor obligaţii, ori nedeclararea la recensămînt a bunurilor supuse rechiziţionării, se pedepseşte cu închisoare de la 3 luni la 2 ani.
-În cazul cînd fapta se săvîrşeşte în timp de război, pedeapsa este închisoarea de la 6 luni la 5 ani.
+Refuzul nejustificat de a pune la dispoziţia forţelor armate bunurile legal rechiziţionate, sustragerea de la îndeplinirea acestor obligaţii, ori nedeclararea la recensamint a bunurilor supuse rechiziţionării, se pedepseşte cu închisoare de la 3 luni la 2 ani.
+În cazul când fapta se săvârşeşte în timp de război, pedeapsa este închisoarea de la 6 luni la 5 ani.
 
-Capitolul III INFRACŢIUNI SĂVÎRŞITE DE CIVILI
+Capitolul 3 INFRACŢIUNI SĂVÎRŞITE DE CIVILI
 
+Sustragerea de la recrutare
 
 Articolul 353
 
-Sustragerea de la recrutare
-Sustragerea de la recrutare în timp de pace se pedepseşte cu închisoare de la o lună la 3 luni sau cu amendă.
+Sustragerea de la recrutare în timp de pace se pedepseşte cu închisoare de la o luna la 3 luni sau cu amendă.
 Sustragerea de la recrutare în timp de război se pedepseşte cu închisoare de la unu la 5 ani.
+Neprezentarea la încorporare sau concentrare
 
 Articolul 354
 
-Neprezentarea la încorporare sau concentrare
 Neprezentarea la încorporare sau concentrare în termen de 3 zile de la încunoştinţare, iar dacă termenul de prezentare fixat este mai mare de 3 zile, neprezentarea la acest termen a celui chemat de autoritatea militară, se pedepseşte cu închisoare de la unu la 5 ani.
-Cu aceeaşi pedeapsă se sancţionează şi neprezentarea celor încorporaţi sau concentraţi la unitatea la care au fost repartizaţi.
-În timp de mobilizare sau război, precum şi în caz de chemare urgentă, expres prevăzută în ordinul de chemare, termenele de prezentare vor fi cele specificate în ordin. În caz de neprezentare, pedeapsa este închisoarea de la 3 la 10 ani.
-Termenele de prezentare prevăzute în alineatele precedente se sporesc cu 10 zile în cazul în care cei chemaţi se află în străinătate.
+Cu aceeaşi pedeapsa se sancţionează şi neprezentarea celor încorporaţi sau concentraţi la unitatea la care au fost repartizaţi.
+În timp de mobilizare sau război, precum şi în caz de chemare urgenta, expres prevăzută în ordinul de chemare, termenele de prezentare vor fi cele specificate în ordin. În caz de neprezentare, pedeapsa este închisoarea de la 3 la 10 ani.
+Termenele de prezentare prevăzute în alineatele precedente se sporesc cu 10 zile în cazul în care cei chemaţi se afla în străinătate.
+Punerea în mişcare a acţiunii penale
 
 Articolul 355
 
-Punerea în mişcare a acţiunii penale
 Acţiunea penală pentru infracţiunile prevăzute în prezentul capitol se pune în mişcare numai la sesizarea comandantului.
 
 Titlul XI INFRACŢIUNI CONTRA PĂCII ŞI OMENIRII
 
+Propaganda pentru război
 
 Articolul 356
 
-Propaganda pentru război
-Propaganda pentru război, răspîndirea de ştiri tendenţioase sau inventate, de natură să servească aţîţării la război, sau orice alte manifestări în favoarea dezlănţuirii unui război, săvîrşite prin grai, scris, radio, televiziune, cinematograf sau prin alte asemenea mijloace, se pedepsesc cu închisoare de la 5 la 15 ani, interzicerea unor drepturi şi confiscarea parţială a averii.
+Propaganda pentru război, raspindirea de ştiri tendenţioase sau inventate, de natura sa servească ațâțării la război, sau orice alte manifestări în favoarea dezlănţuirii unui război, săvârşite prin grai, scris, radio, televiziune, cinematograf sau prin alte asemenea mijloace, se pedepsesc cu închisoare de la 5 la 15 ani şi interzicerea unor drepturi.
+Genocidul
 
 Articolul 357
 
-Genocidul
-Săvîrşirea în scopul de a distruge în întregime sau în parte o colectivitate sau un grup naţional, etnic, rasial, sau religios, a vreuneia dintre următoarele fapte;
+Săvârşirea în scopul de a distruge în întregime sau în parte o colectivitate sau un grup naţional, etnic, rasial sau religios, a vreuneia dintre următoarele fapte:
 a) uciderea membrilor colectivităţii sau grupului;
-b) vătămarea gravă a integrităţii fizice sau mintale a membrilor colectivităţii sau grupului;
-c) supunerea colectivităţii ori grupului la condiţii de existenţă sau tratament de natură să ducă la distrugere fizică;
-d) luarea de măsuri tinzînd la împiedicarea naşterilor în sînul colectivităţii sau grupului;
-e) transferarea forţată a copiilor aparţinînd unei colectivităţi sau unui grup, în altă colectivitate sau în alt grup,
-se pedepseşte cu moartea şi confiscarea totală a averii, sau cu închisoare de la 15 la 20 de ani, interzicerea unor drepturi şi confiscarea parţială a averii.
-Dacă fapta este săvîrşită în timp de război, pedeapsa este moartea şi confiscarea totală a averii.
-Înţelegerea în vederea săvîrşirii infracţiunii de genocid se pedepseşte cu închisoare de la 5 la 15 ani, interzicerea unor drepturi şi confiscarea parţială a averii.
+b) vătămarea grava a integrităţii fizice sau mintale a membrilor colectivităţii sau grupului;
+c) supunerea colectivităţii ori grupului la condiţii de existenta sau tratament de natura sa ducă la distrugere fizica;
+d) luarea de măsuri tinzind la împiedicarea naşterilor în sinul colectivităţii sau grupului;
+e) transferarea forţată a copiilor aparţinând unei colectivităţi sau unui grup, în alta colectivitate sau în alt grup,
+se pedepseşte cu detenţiune pe viaţa sau cu închisoare de la 15 la 25 de ani şi interzicerea unor drepturi.
+Dacă fapta este săvârşită în timp de război, pedeapsa este detenţiunea pe viaţa.
+Înţelegerea în vederea săvârşirii infracţiunii de genocid se pedepseşte cu închisoare de la 5 la 20 de ani şi interzicerea unor drepturi.
+Tratamentele neomenoase
 
 Articolul 358
 
-Tratamentele neomenoase
-Supunerea la tratamente neomenoase a răniţilor ori bolnavilor, a membrilor personalului civil sanitar sau al Crucii Roşii ori al organizaţiilor asimilate acesteia, a naufragiaţilor, a prizonierilor de război şi în general a oricărei alte persoane căzute sub puterea adversarului, ori supunerea acestora la experienţe medicale sau ştiinţifice care nu sînt justificate de un tratament medical în interesul lor, se pedepseşte cu închisoare de la 5 la 15 ani, interzicerea unor drepturi şi confiscarea parţială a averii.
-Cu aceeaşi pedeapsă se sancţionează săvîrşirea faţă de persoanele arătate în alineatul precedent a vreuneia dintre următoarele fapte:
-a) constrîngerea de a servi în forţele armate ale adversarului;
+Supunerea la tratamente neomenoase a răniţilor ori bolnavilor, a membrilor personalului civil sanitar sau al Crucii Roşii ori al organizaţiilor asimilate acesteia, a naufragiaţilor, a prizonierilor de război şi în general a oricărei alte persoane căzute sub puterea adversarului, ori supunerea acestora la experienţe medicale sau ştiinţifice care nu sunt justificate de un tratament medical în interesul lor, se pedepseşte cu închisoare de la 5 la 20 de ani şi interzicerea unor drepturi.
+Cu aceeaşi pedeapsa se sancţionează săvârşirea faţă de persoanele arătate în alineatul precedent a vreuneia dintre următoarele fapte:
+a) constringerea de a servi în forţele armate ale adversarului;
 b) luarea de ostateci;
 c) deportarea;
 d) dislocarea sau lipsirea de libertate fără temei legal;
-e) condamnarea sau execuţia fără o judecată prealabilă efectuată de către un tribunal constituit în mod legal şi care să fi judecat cu respectarea garanţiilor judiciare fundamentale prevăzute de lege.
-Torturarea, mutilarea sau exterminarea celor prevăzuţi în alin. 1 se pedepseşte cu moartea şi confiscarea totală a averii, sau cu închisoare de la 15 la 20 de ani, interzicerea unor drepturi şi confiscarea parţială a averii.
-Dacă faptele prevăzute în prezentul articol sînt săvîrşite în timp de război, pedeapsa este moartea şi confiscarea totală a averii.
+e) condamnarea sau execuţia fără o judecata prealabilă efectuată de către un tribunal constituit în mod legal şi care să fi judecat cu respectarea garanţiilor judiciare fundamentale prevăzute de lege.
+Torturarea, mutilarea sau exterminarea celor prevăzuţi în alin. 1 se pedepseşte cu detenţiune pe viaţa sau cu închisoare de la 15 la 25 de ani şi interzicerea unor drepturi.
+Dacă faptele prevăzute în prezentul articol sunt săvârşite în timp de război, pedeapsa este detenţiunea pe viaţa.
+Distrugerea unor obiective şi însuşirea unor bunuri
 
 Articolul 359
 
-Distrugerea unor obiective şi însuşirea unor bunuri
-Distrugerea în întregime sau în parte;
+Distrugerea în întregime sau în parte:
 a) a clădirilor, a oricăror alte construcţii sau a navelor care servesc de spitale;
 b) a mijloacelor de transport de orice fel afectate unui serviciu sanitar sau de Cruce Roşie, ori al organizaţiilor asimilate acesteia, pentru transportul răniţilor, bolnavilor, materialelor sanitare sau al materialelor Crucii Roşii ori ale organizaţiilor asimilate acesteia;
 c) a depozitelor de materiale sanitare,
-dacă toate acestea poartă semnele distinctive reglementare, se pedepseşte cu închisoare de la 5 la 15 ani, interzicerea unor drepturi şi confiscarea parţială a averii.
-Cu aceeaşi pedeapsă se sancţionează însuşirea sub orice formă, nejustificată de o necesitate militară şi săvîrşită în proporţii mari, a mijloacelor sau materialelor destinate pentru ajutorul ori îngrijirea răniţilor sau bolnavilor căzuţi sub puterea adversarului.
-Tot astfel se sancţionează distrugerea în întregime sau în parte, ori însuşirea sub orice formă, nejustificată de vreo necesitate militară şi săvîrşită în proporţii mari, a oricăror alte bunuri.
+dacă toate acestea poarta semnele distinctive reglementate, se pedepseşte cu închisoare de la 5 la 20 de ani şi interzicerea unor drepturi.
+Cu aceeaşi pedeapsa se sancţionează însuşirea sub orice formă, nejustificată de o necesitate militară şi săvârşită în proporţii mari, a mijloacelor sau materialelor destinate pentru ajutorul ori îngrijirea răniţilor sau bolnavilor căzuţi sub puterea adversarului.
+Tot astfel se sancţionează distrugerea în întregime sau în parte, ori însuşirea sub orice formă, nejustificată de vreo necesitate militară şi săvârşită în proporţii mari, a oricăror alte bunuri.
+Distrugerea, jefuirea sau însuşirea unor valori culturale
 
 Articolul 360
 
-Distrugerea, jefuirea sau însuşirea unor valori culturale
-Distrugerea sub orice formă, fără necesitate militară, de monumente sau construcţii care au o valoare artistică, istorică ori arheologică, de muzee, mari biblioteci, arhive de valoare istorică sau ştiinţifică, opere de artă, manuscrise, cărţi de valoare, colecţii ştiinţifice sau colecţii importante de cărţi, de arhive, ori de reproduceri ale bunurilor de mai sus şi în general a oricăror valori culturale ale popoarelor, se pedepseşte cu închisoare de la 5 la 15 ani, interzicerea unor drepturi şi confiscarea parţială a averii.
-Cu aceeaşi pedeapsă se sancţionează jefuirea sau însuşirea sub orice formă a vreuneia dintre valorile culturale arătate în prezentul articol, de pe teritoriile aflate sub ocupaţie militară.
+Distrugerea sub orice formă, fără necesitate militară, de monumente sau construcţii care au o valoare artistică, istorica ori arheologică, de muzee, mari biblioteci, arhive de valoare istorica sau ştiinţifică, opere de arta, manuscrise, cărţi de valoare, colecţii ştiinţifice sau colecţii importante de cărţi, de arhive, ori de reproduceri ale bunurilor de mai sus şi în general a oricăror valori culturale ale popoarelor, se pedepseşte cu închisoare de la 5 la 20 de ani şi interzicerea unor drepturi.
+Cu aceeaşi pedeapsa se sancţionează jefuirea sau însuşirea sub orice formă a vreuneia dintre valorile culturale arătate în prezentul articol, de pe teritoriile aflate sub ocupaţie militară.
+Sancţionarea tentativei, tăinuirii şi favorizării
 
 Articolul 361
 
-Sancţionarea tentativei, tăinuirii şi favorizării
 Tentativa infracţiunilor prevăzute în prezentul titlu se pedepseşte.
 Tăinuirea şi favorizarea privitoare la infracţiunile din acest titlu se pedepsesc cu închisoare de la 3 la 10 ani.
-Tăinuirea şi favorizarea săvîrşite de soţ sau de o rudă apropiată în cazul infracţiunilor prevăzute în art. 357 şi 358 alin. 3 şi 4 se pedepsesc. Limitele pedepsei prevăzute în alin. 2 se reduc la jumătate, iar în cazul celorlalte infracţiuni, tăinuirea şi favorizarea nu se pedepsesc.
+Tăinuirea şi favorizarea săvârşite de soţ sau de o ruda apropiată în cazul infracţiunilor prevăzute în art. 357 şi 358 alin. 3 şi 4 se pedepsesc. Limitele pedepsei prevăzute în alin. 2 se reduc la jumătate, iar în cazul celorlalte infracţiuni, tăinuirea şi favorizarea nu se pedepsesc.
 DISPOZIŢII FINALE
 
 Articolul 362
 
-Dispoziţiile din partea generală a acestui cod se aplică şi faptelor sancţionate penal prin legi speciale, afară de cazul cînd legea dispune astfel.
+Dispoziţiile din partea generală a acestui cod se aplică şi faptelor sancţionate penal prin legi speciale, afară de cazul când legea dispune altfel.
 
 Articolul 363
 
 Prezentul cod intră în vigoare la data de 1 ianuarie 1969.
-Această lege a fost votată de Marea Adunare Naţională la 21 iunie 1968, cu unanimitatea voturilor celor 432 deputaţi prezenţi la şedinţă.
-
-Preşedintele
-
-Marii Adunări Naţionale,
-
-ŞTEFAN VOITEC
-Bucureşti, 21 iunie 1968
-Nr. 15
-ÎN CONFORMITATE CU DISPOZIŢIILE ARTICOLULUI 57 DIN CONSTITUŢIA REPUBLICII SOCIALISTE ROMÎNIA, SEMNĂM ACEASTĂ LEGE,
-
-Preşedintele Consiliului de Stat,
-
-NICOLAE CEAUŞESCU
-Bucureşti, 21 iunie 1968
-------
+NOTĂ:
+Potrivit art. 2 alin. 1 din Legea nr. 140/1996, dispoziţiile prevăzute în această lege referitoare la liberarea condiţionată nu se aplică celor condamnaţi definitiv înainte de intrarea în vigoare a legii, cu excepţia celor care s-au sustras de la executare.
+Potrivit art. 2 alin. 2 din Legea nr. 140/1996, dispoziţiile art. 39 alin. 6 din Codul penal sunt aplicabile şi în cazul în care condamnarea la pedeapsa cu moartea a fost comutată sau înlocuită cu pedeapsa detenţiunii pe viaţa sau cu pedeapsa închisorii.
+----------
