@@ -1,18 +1,21 @@
-- html
-  - http://legislatie.just.ro/Public/DetaliiDocument/191?isFormaDeBaza=True
-- print - http://legislatie.just.ro/Public/FormaPrintabila/00000G0WNMHMLYSENWG3UCW3TJO4VORB
+- html  - http://legislatie.just.ro/Public/DetaliiDocument/31993
+- print - http://legislatie.just.ro/Public/FormaPrintabila/00000G0D5J27P4G32DB04CR50TDSYIYR
+- modifica
+  - http://www.cdep.ro/pls/legis/legis_pck.htp_act?ida=32756 (LEGE nr.15 din 21 iunie 1968 Codul Penal al României)
+  - http://www.cdep.ro/pls/legis/legis_pck.htp_act_text?idt=31092 (textul republicat in aprilie 1997)
+  - http://www.cdep.ro/pls/legis/legis_pck.htp_act?ida=8679
+  - http://www.cdep.ro/pls/legis/legis_pck.htp_act?ida=11472
 
-CODUL PENAL din 21 iunie 1968 (*republicat*)
+CODUL PENAL din 21 iunie 1968 - (**republicat**) (*actualizat*)
+actualizat până la data de 01 octombrie 2001
 EMITENT	
 PARLAMENTUL
-Publicat în  MONITORUL OFICIAL nr. 65 din 16 aprilie 1997
 
 
 
----------
-Notă *) Republicat în temeiul art. 3 din Legea nr. 140/1996, publicată în Monitorul Oficial al României, Partea I, nr. 289 din 14 noiembrie 1996.
 
-Codul penal a fost publicat în Buletinul Oficial nr. 79-79 bis din 21 iunie 1968 şi a mai fost republicat în Buletinul Oficial nr. 55-56 din 23 aprilie 1973, în temeiul art. 3 din Legea nr. 6/1973, publicată în Buletinul Oficial nr. 49 din 6 aprilie 1973.
+-----------
+*) Codul penal a fost publicat în B. Of., Partea I, nr. 79-79 bis din 21 iunie 1968; republicat B. Of., Partea I, nr. 55-56 din 23 aprilie 1973; republicat în M. Of., Partea I, nr. 65 din 16 aprilie 1997, în temeiul art. III din Legea nr. 140/1996, publicată în M. Of. al României, Partea I, nr. 289 din 14 noiembrie 1996.
 
 Partea GENERALĂ
 
@@ -619,12 +622,14 @@ Articolul 75
 
 Următoarele împrejurări constituie circumstanţe agravante:
 a) săvârşirea faptei de trei sau de mai multe persoane împreună;
-b) săvârşirea infracţiunii prin acte de cruzime sau prin metode ori mijloace care prezintă pericol public;
+b) săvârşirea infracţiunii prin acte de cruzime, prin violenţe asupra membrilor familiei ori prin metode sau mijloace care prezintă pericol public;*)
 c) săvârşirea infracţiunii de către un infractor major, dacă aceasta a fost comisă împreună cu un minor;
 d) săvârşirea infracţiunii din motive josnice;
 e) săvârşirea infracţiunii în stare de beţie anume provocată în vederea comiterii faptei;
 f) săvârşirea infracţiunii de către o persoană care a profitat de situaţia prilejuită de o calamitate.
 Instanţa poate retine ca circumstanţe agravante şi alte împrejurări care imprima faptei un caracter grav.
+-------------
+*) Lit. b) de la primul aliniat este reprodusa astfel cum a fost modificată prin Legea nr. 197/2000 pentru modificarea şi completarea unor dispoziţii din Codul penal, publicată în M. Of., Partea I, nr. 568 din 15 noiembrie 2000.
 Efectele circumstanţelor atenuante
 
 Articolul 76
@@ -672,10 +677,13 @@ a) pedeapsa aplicată este închisoarea de cel mult 3 ani sau amenda;
 b) infractorul nu a mai fost condamnat anterior la pedeapsa închisorii mai mare de 6 luni, afară de cazul când condamnarea intră în vreunul dintre cazurile prevăzute în art. 38;
 c) se apreciază ca scopul pedepsei poate fi atins chiar fără executarea acesteia.
 Suspendarea condiţionată a executării pedepsei poate fi acordată şi în caz de concurs de infracţiuni, dacă pedeapsa aplicată este închisoarea de cel mult 2 ani şi sunt întrunite condiţiile prevăzute în alin. 1 lit. b) şi c).
-Suspendarea condiţionată a executării pedepsei nu poate fi dispusă în cazul infracţiunilor intenţionate pentru care legea prevede pedeapsa închisorii mai mare de 12 ani, precum şi în cazul infracţiunilor de vătămare corporală grava, viol şi tortura.
-În cazul condamnării pentru o infracţiune prin care s-a produs o paguba, instanţa poate dispune suspendarea condiţionată a executării pedepsei numai dacă până la pronunţarea hotărârii paguba a fost integral reparată sau plata despăgubirii este garantată de o societate de asigurare.
+Suspendarea condiţionată a executării pedepsei nu poate fi dispusă în cazul infracţiunilor intenţionate pentru care legea prevede pedeapsa închisorii mai mare de 15 ani, precum şi în cazul infracţiunilor prevăzute la art. 182, art. 183, art. 197 alin. 1 şi 2 şi art. 267^1 alin. 1 şi 2.*)
+În cazul condamnării pentru o infracţiune prin care s-a produs o paguba, instanţa poate dispune suspendarea condiţionată a executării pedepsei numai dacă până la pronunţarea hotărârii paguba a fost integral reparată sau plata despăgubirii este garantată de o societate de asigurare.**)
 Suspendarea condiţionată a executării pedepsei nu atrage suspendarea executării măsurilor de siguranţă şi a obligaţiilor civile prevăzute în hotărârea de condamnare.
 Suspendarea condiţionată a executării pedepsei trebuie motivată.
+------------
+*) Alin. 3 al art. 81 este reprodus astfel cum a fost modificat prin Legea nr. 456/2001 publicată în M. Of. nr. 410 din 25 iulie 2001 care aproba cu modificări şi completări ORDONANŢA DE URGENŢĂ nr. 207/2000 privind modificarea şi completarea Codului penal şi a Codului de procedura penală.
+**) Prin decizia nr. 463 din 13 noiembrie 1997, definitivă, publicată în M. Of. nr. 53 din 6 februarie 1998, Curtea Constituţională, admite excepţia de neconstituţionalitate şi constata ca dispoziţiile art. 81 alin. (4) din Codul penal, sunt neconstituţionale.
 Termenul de încercare
 
 Articolul 82
@@ -720,8 +728,11 @@ a) pedeapsa aplicată este închisoarea de cel mult 4 ani;
 b) infractorul nu a mai fost condamnat anterior la pedeapsa închisorii mai mare de un an, afară de cazurile când condamnarea intră în vreunul dintre cazurile prevăzute în art. 38;
 c) se apreciază, ţinând seama de persoana condamnatului, de comportamentul sau după comiterea faptei, ca pronunţarea condamnării constituie un avertisment pentru acesta şi, chiar fără executarea pedepsei, condamnatul nu va mai savirsi infracţiuni.
 Suspendarea executării pedepsei sub supraveghere poate fi acordată şi în cazul concursului de infracţiuni, dacă pedeapsa aplicată este închisoarea de cel mult 3 ani şi sunt întrunite condiţiile prevăzute în alin. 1 lit. b) şi c).
-Suspendarea executării pedepsei sub supraveghere nu poate fi dispusă în cazul infracţiunilor intenţionate pentru care legea prevede pedeapsa închisorii mai mare de 12 ani, precum şi în cazul infracţiunilor de vătămare corporală grava, viol şi tortura.
-Dispoziţiile art. 81 alin. 4 şi 5 se aplică şi în cazul suspendării executării pedepsei sub supraveghere.
+Suspendarea executării pedepsei sub supraveghere nu poate fi dispusă în cazul infracţiunilor intenţionate pentru care legea prevede pedeapsa închisorii mai mare de 15 ani, precum şi în cazul infracţiunilor prevăzute la art. 182, art. 183, art. 197 alin. 1 şi 2 şi art. 267^1 alin. 1 şi 2. Suspendarea executării pedepsei sub supraveghere poate fi dispusă în cazul infracţiunii de furt calificat prevăzute la art. 209 alin. 3, dacă pedeapsa aplicată este închisoarea de cel mult 2 ani.*)
+Dispoziţiile art. 81 alin. 4 şi 5 se aplică şi în cazul suspendării executării pedepsei sub supraveghere.**)
+-------------
+*) Alin. 3 al art. 86^1 este reprodus astfel cum a fost modificat prin Legea nr. 456/2001 publicată în M.Of. 410/25.07.2001 pentru aprobarea cu modificări şi completări a ORDONANŢEI DE URGENTA nr. 207/2000.
+**) Prin decizia nr. 25 din 10 februarie 1998, definitivă, publicată în M. Of. nr. 143 din 8 aprilie 1998, Curtea Constituţională, a admis excepţia de neconstituţionalitate a dispoziţiilor art. 86^1 alin. 4 Cod penal şi a constatat ca aceste prevederi sunt neconstituţionale, cat priveşte trimiterea la prevederile art. 81 alin. 4 din acelaşi cod.
 Termenul de încercare
 
 Articolul 86^2
@@ -774,8 +785,10 @@ Articolul 86^7
 a) pedeapsa aplicată este închisoarea de cel mult 5 ani;
 b) cel în cauza nu a mai fost condamnat anterior la pedeapsa închisorii mai mare de 1 an, afară de cazul când condamnarea intră în vreunul din cazurile prevăzute în art. 38.
 Executarea pedepsei la locul de muncă poate fi dispusă şi în caz de concurs de infracţiuni, dacă pedeapsa aplicată pentru concursul de infracţiuni este de cel mult 3 ani închisoare şi sunt întrunite celelalte condiţii prevăzute în alineatul precedent.
-Executarea pedepsei la locul de muncă nu poate fi dispusă în cazul infracţiunilor intenţionate pentru care legea prevede pedeapsa închisorii mai mare de 12 ani, precum şi în cazul infracţiunilor de vătămare corporală grava, viol şi tortura.
+Executarea pedepsei la locul de muncă nu poate fi dispusă în cazul infracţiunilor intenţionate pentru care legea prevede pedeapsa închisorii mai mare de 15 ani, precum şi în cazul infracţiunilor prevăzute la art. 182, art. 183, art. 197 alin. 1 şi 2 şi art. 267^1 alin. 1 şi 2. Executarea pedepsei la locul de muncă poate fi dispusă în cazul infracţiunii de furt calificat prevăzute la art. 209 alin. 3, dacă pedeapsa aplicată este închisoarea de cel mult 2 ani.*)
 Dispoziţiile alin. 1 şi 2 se aplică şi în cazul în care condamnatul nu desfăşoară o activitate la data aplicării pedepsei.
+------------
+*) Alin. 3 al art. 86^7 este reprodus astfel cum a fost modificat prin Legea nr. 456/2001 publicată în M.Of. 410/25.07.2001 pentru aprobarea cu modificări şi completări a ORDONANŢEI DE URGENTA nr. 207/2000.
 Modul de executare
 
 Articolul 86^8
@@ -798,7 +811,7 @@ Revocarea executării pedepsei la locul de muncă
 
 Articolul 86^9
 
-Dacă după rămînerea definitivă a hotărârii prin care s-a dispus executarea pedepsei la locul de muncă, cel condamnat săvârşeşte din nou o infracţiune, înainte de începerea executării pedepsei sau în timpul executării acesteia, instanţa revoca executarea pedepsei la locul de muncă. Pedeapsa se aplică potrivit dispoziţiilor art. 39 alin. 1 şi 2 sau, după caz, ale art. 40.
+Dacă după raminerea definitivă a hotărârii prin care s-a dispus executarea pedepsei la locul de muncă, cel condamnat săvârşeşte din nou o infracţiune, înainte de începerea executării pedepsei sau în timpul executării acesteia, instanţa revoca executarea pedepsei la locul de muncă. Pedeapsa se aplică potrivit dispoziţiilor art. 39 alin. 1 şi 2 sau, după caz, ale art. 40.
 Dacă infracţiunea ulterioară este săvârşită din culpa, instanţa poate dispune şi pentru aceasta infracţiune executarea pedepsei la locul de muncă. În acest caz, revocarea nu mai are loc şi pedeapsa se aplică potrivit regulilor pentru concursul de infracţiuni.
 Dacă condamnatul se sustrage de la prestarea activităţii în cadrul unităţii sau nu-şi îndeplineşte în mod corespunzător îndatoririle ce-i revin la locul de muncă ori nu respecta măsurile de supraveghere sau obligaţiile stabilite prin hotărârea de condamnare, instanţa poate să revoce executarea pedepsei la locul de muncă, dispunind executarea pedepsei într-un loc de deţinere.
 Când condamnatul nu mai poate presta munca din cauza pierderii totale a capacităţii de muncă, instanţa revoca executarea pedepsei la locul de muncă şi, ţinând seama de împrejurările care au determinat incapacitatea de muncă şi dispoziţiile art. 72, dispune suspendarea condiţionată a executării pedepsei chiar dacă nu sunt întrunite condiţiile prevăzute în art. 81 sau 86^1.
@@ -859,7 +872,9 @@ Articolul 91
 Când instanţa dispune înlocuirea răspunderii penale, aplica una din următoarele sancţiuni cu caracter administrativ:
 a) mustrarea;
 b) mustrarea cu avertisment;
-c) amenda de la 100.000 lei la 1.000.000 lei.
+c) amenda de la 100.000 lei la 10.000.000 lei.*)
+--------------
+*) Art. 91 este reprodus astfel cum a fost modificat prin ORDONANŢA DE URGENŢĂ nr. 207/2000.
 
 Articolul 92
 
@@ -1007,6 +1022,9 @@ c) interzicerea de a ocupa o funcţie sau de a exercita o profesie, o meserie or
 d) interzicerea de a se afla în anumite localităţi;
 e) expulzarea străinilor;
 f) confiscarea specială.
+g) interdicţia de a reveni în locuinta familiei pe o perioadă determinata.*)
+-------------
+*) Lit. g) a art. 112 a fost introdusă prin Legea nr. 197/2000.
 
 Capitolul 2 REGIMUL MĂSURILOR DE SIGURANTA
 
@@ -1057,6 +1075,13 @@ b) lucrurile care au servit sau care au fost destinate se servească la săvâr�
 c) lucrurile care au fost date pentru a determina săvârşirea unei infracţiuni sau pentru a rasplati pe infractor;
 d) lucrurile dobîndite în mod vadit prin săvârşirea infracţiunii, dacă nu sunt restituite persoanei vătămate şi în măsura în care nu servesc la despăgubirea acesteia;
 e) lucrurile deţinute în contra dispoziţiilor legale.
+Interdicţia de a reveni în locuinta familiei pe o perioadă determinata
+
+Articolul 118^1
+
+Când persoana condamnata la pedeapsa închisorii de cel puţin un an pentru loviri sau orice alte acte de violenta cauzatoare de suferinţe fizice şi psihice, săvârşite asupra membrilor familiei, dacă instanţa constata ca prezenta acesteia în locuinta familiei constituie un pericol grav pentru ceilalţi membri ai familiei, poate lua faţă de aceasta persoana măsura interzicerii de a reveni în locuinta familiei, la cererea părţii vătămate. Aceasta măsura poate fi luată pe o durată de până la 2 ani.*)
+-------------
+*) Art. 118^1 a fost introdus, cu acest conţinut, prin Legea nr. 197/2000.
 
 Titlul VII CAUZELE CARE INLATURA RĂSPUNDEREA PENALĂ SAU CONSECINŢELE CONDAMNĂRII
 
@@ -1261,8 +1286,10 @@ Consecinţe deosebit de grave
 
 Articolul 146
 
-Prin "consecinţe deosebit de grave" se înţelege o paguba materială mai mare de 50.000.000 lei sau o perturbare deosebit de grava a activităţii, cauzată unei autorităţi publice sau oricăreia dintre unităţile la care se referă art. 145 ori altei persoane juridice sau fizice.
-Funcţionar public şi funcţionar 
+Prin "consecinţe deosebit de grave" se înţelege o paguba materială mai mare de 2.000.000.000 lei sau o perturbare deosebit de grava a activităţii, cauzată unei autorităţi publice sau oricăreia dintre unităţile la care se referă art. 145, ori altei persoane juridice sau fizice.
+-------------
+*) Art. 146 este reprodus astfel cum a fost modificat prin Legea nr. 456/2001 publicată în M. Of. 410/25.07.2001 pentru aprobarea cu modificări şi completări a ORDONANŢEI DE URGENTA nr. 207/2000.
+Funcţionar public şi funcţionar
 
 Articolul 147
 
@@ -1278,6 +1305,13 @@ Articolul 149
 
 "Rude apropiate" sunt ascendenţii şi descendenţii, fraţii şi surorile, copiii acestora, precum şi persoanele devenite prin înfiere, potrivit legii, astfel de rude.
 Dispoziţiile din legea penală privitoare la rude apropiate, în limitele prevăzute de alineatul precedent, se aplică în caz de înfiere cu efecte depline, persoanei înfiate cît şi descendenţilor acesteia şi în raport cu rudele fireşti, iar în caz de înfiere cu efecte restrânse, înfiatului cît şi descendenţilor acestuia şi în raport cu rudele înfietorului.
+Membru de familie
+
+Articolul 149^1
+
+Prin membru de familie se înţelege soţul sau ruda apropiată, dacă aceasta din urma locuieşte şi gospodareste împreună cu făptuitorul.*)
+-------------
+*) Art. 149^1 a fost introdus, cu acest conţinut, prin Legea nr. 197/2000.
 Secrete de stat şi înscrisuri oficiale
 
 Articolul 150
@@ -1519,16 +1553,23 @@ Lovirea sau alte violenţe
 Articolul 180
 
 Lovirea sau orice acte de violenta cauzatoare de suferinţe fizice se pedepsesc cu închisoare de la o luna la 3 luni sau cu amendă.
+1^1 Faptele prevăzute la alin. 1 săvârşite asupra membrilor familiei se pedepsesc cu închisoare de la 6 luni la un an sau cu amendă.
 Lovirea sau actele de violenta care au pricinuit o vătămare ce necesita pentru vindecare îngrijiri medicale de cel mult 20 de zile se pedepsesc cu închisoare de la 3 luni la 2 ani sau cu amendă.
-Acţiunea penală se pune în mişcare la plîngerea prealabilă a persoanei vătămate.
-Împăcarea părţilor inlatura răspunderea penală.
+2^1 Faptele prevăzute la alin. 2 săvârşite asupra membrilor familiei se pedepsesc cu închisoare de la unu la 2 ani sau cu amendă.
+Acţiunea penală se pune în mişcare la plângerea prealabilă a persoanei vătămate. În cazul faptelor prevăzute la alin. 1^1 şi 2^1 acţiunea penală se pune în mişcare şi din oficiu.
+Împăcarea părţilor inlatura răspunderea penală, producandu-şi efectele şi în cazul în care acţiunea penală a fost pusă în mişcare din oficiu.*)
+-------------
+*) Art. 180 este reprodus astfel cum a fost completat şi modificat prin Legea nr. 197/2000.
 Vătămarea corporală
 
 Articolul 181
 
 Fapta prin care s-a pricinuit integrităţii corporale sau sănătăţii o vătămare care necesita pentru vindecare îngrijiri medicale de cel mult 60 de zile se pedepseşte cu închisoare de la 6 luni la 5 ani.
-Acţiunea penală se pune în mişcare la plîngerea prealabilă a persoanei vătămate.
-Împăcarea părţilor inlatura răspunderea penală.
+1^1 Fapta prevăzută la alin. 1 săvârşită asupra membrilor familiei se pedepseşte cu închisoare de la unu la 5 ani.*)
+Acţiunea penală se pune în mişcare la plângerea prealabilă a persoanei vătămate. În cazul faptelor prevăzute la alin. 1^1 acţiunea penală se pune în mişcare şi din oficiu.
+Împăcarea părţilor inlatura răspunderea penală, producandu-şi efectele şi în cazul în care acţiunea penală a fost pusă în mişcare din oficiu.
+------------
+*) Alin. 1^1 al art. 181 a fost introdus prin Legea nr. 197/2000, iar alin. 2 şi 3 sunt reproduse astfel cum au fost modificate şi completate prin aceeaşi lege.
 Vătămarea corporală grava
 
 Articolul 182
@@ -1648,23 +1689,28 @@ Violul
 
 Articolul 197
 
-Raportul sexual cu o persoană de sex feminin, prin constringerea acesteia sau profitind de imposibilitatea ei de a se apara ori de a-şi exprima voinţa, se pedepseşte cu închisoare de la 3 la 10 ani.
-Pedeapsa este închisoarea de la 5 la 15 ani, dacă:
+(1) Actul sexual, de orice natura, cu o persoană de sex diferit sau de acelaşi sex, prin constrângerea acesteia sau profitând de imposibilitatea ei de a se apara ori de a-şi exprima voinţa, se pedepseşte cu închisoare de la 3 la 10 ani şi interzicerea unor drepturi.
+(2) Pedeapsa este închisoarea de la 5 la 18 ani şi interzicerea unor drepturi, dacă:
 a) fapta a fost săvârşită de doua sau mai multe persoane împreună;
 b) victima se afla în îngrijirea, ocrotirea, educarea, paza sau în tratamentul făptuitorului;
+b^1) victima este membru al familiei;
 c) s-a cauzat victimei o vătămare grava a integrităţii corporale sau a sănătăţii.
-Pedeapsa este închisoarea de la 10 la 20 de ani dacă victima nu a împlinit vârsta de 14 ani, iar dacă fapta a avut ca urmare moartea sau sinuciderea victimei, pedeapsa este închisoarea de la 15 la 25 de ani.
-Acţiunea penală pentru fapta prevăzută în alin. 1 se pune în mişcare la plîngerea prealabilă a persoanei vătămate.
-Faptele prevăzute în alin. 1, 2 lit. b) şi c) şi alin. 3 teza I nu se pedepsesc dacă înainte ca hotărârea sa fi rămas definitivă a intervenit căsătoria dintre autor şi victima. În caz de participaţie, în alte condiţii decît aceea prevăzută în alin. 2 lit. a), căsătoria dintre autor şi victima produce aceleaşi efecte şi faţă de participanţi.
-Raportul sexual cu o minora
+(3) Pedeapsa este închisoarea de la 10 la 20 de ani şi interzicerea unor drepturi dacă victima nu a împlinit vârsta de 15 ani, iar dacă fapta a avut ca urmare moartea sau sinuciderea victimei, pedeapsa este închisoarea de la 15 la 25 de ani şi interzicerea unor drepturi.
+(4) Acţiunea penală pentru fapta prevăzută în alin. 1 se pune în mişcare la plîngerea prealabilă a persoanei vătămate.
+------------
+Alin. 1 al art. 197 este reprodus astfel cum a fost modificat prin Legea nr. 197/2000; lit. b^1) de la alin. 2 a fost introdusă prin aceeaşi lege, care de asemenea a abrogat alin. 5. ce avea următorul conţinut: "alin. 5. Faptele prevăzute în alin. 1, 2 lit. b) şi c) şi alin. 3 teza I nu se pedepsesc dacă înainte ca hotărârea sa fi rămas definitivă a intervenit căsătoria dintre autor şi victima. În caz de participaţie, în alte condiţii decît aceea prevăzută în alin. 2 lit. a), căsătoria dintre autor şi victima produce aceleaşi efecte şi faţă de participanţi".
+Alin. (1), (2) şi (3) ale art. 197 au fost modificate de ORDONANŢA DE URGENŢĂ nr. 89 din 21 iunie 2001 publicată în MONITORUL OFICIAL nr. 338 din 26 iunie 2001.
+Actul sexual cu un minor
 
 Articolul 198
 
-Raportul sexual cu o persoană de sex feminin care nu a împlinit vârsta de 14 ani se pedepseşte cu închisoare de la unu la 5 ani.
-Cu aceeaşi pedeapsa se sancţionează raportul sexual cu o persoană de sex feminin între 14-18 ani, dacă fapta este săvârşită de tutore sau curator, ori de către supraveghetor, îngrijitor, medic curant, profesor sau educator, folosind calitatea sa.
-Când fapta prevăzută în alin. 1 a fost săvârşită în împrejurările prevăzute în art. 197 alin. 2 lit. b) ori dacă faptele prevăzute în alin. 1 şi 2 au avut urmările prevăzute în art. 197 alin. 2 lit. c), pedeapsa este închisoarea de la 3 la 12 ani.
-Dacă fapta a avut ca urmare moartea victimei, pedeapsa este închisoarea de la 7 la 15 ani.
-Dispoziţiile art. 197 alin. final se aplică şi în cazul faptelor prevăzute în alin. 1-3.
+Actul sexual, de orice natura, cu o persoană de sex diferit sau de acelaşi sex care nu a împlinit vârsta de 15 ani se pedepseşte cu închisoare de la 2 la 7 ani şi interzicerea unor drepturi.
+Cu aceeaşi pedeapsa se sancţionează actul sexual, de orice natura, cu o persoană de sex diferit sau de acelaşi sex între 15-18 ani, dacă fapta este săvârşită de tutore sau curator, ori de către supraveghetor, îngrijitor, medic curant, profesor sau educator folosind calitatea sa.
+Când fapta prevăzută în alin. 1 a fost săvârşită în împrejurările prevăzute în art. 197 alin. 2 lit. b) ori dacă faptele prevăzute în alin. 1 şi 2 au avut urmările prevăzute în art. 197 alin. 2 lit. c), pedeapsa este închisoarea de la 3 la 15 ani şi interzicerea unor drepturi.
+Dacă fapta a avut ca urmare moartea victimei, pedeapsa este închisoarea de la 7 la 18 ani şi interzicerea unor drepturi.
+------------
+Titlul marginal al art. 198 a fost modificat prin Legea nr. 197/2000; alin. 1 şi 2 sunt reproduse astfel cum au fost modificate prin aceeaşi lege care, de asemenea, abroga alin. 5.
+Art. 198 a fost modificat de ORDONANŢA DE URGENŢĂ nr. 89 din 21 iunie 2001 publicată în MONITORUL OFICIAL nr. 338 din 26 iunie 2001.
 Seducţia
 
 Articolul 199
@@ -1675,24 +1721,32 @@ Relaţii sexuale între persoane de acelaşi sex
 
 Articolul 200
 
-Relaţiile sexuale între persoane de acelaşi sex, săvârşite în public sau dacă au produs scandal public, se pedepsesc cu închisoare de la unu la 5 ani.
-Fapta majorului de a avea relaţii sexuale cu un minor de acelaşi sex se pedepseşte cu închisoare de la 2 la 7 ani şi interzicerea unor drepturi.
-Relaţiile sexuale cu o persoană de acelaşi sex în imposibilitate de a se apara ori de a-şi exprima voinţa sau prin constringere se pedepsesc cu închisoare de la 3 la 10 ani şi interzicerea unor drepturi.
-Dacă fapta prevăzută în alin. 2 şi 3 are ca urmare vătămarea grava a integrităţii corporale sau a sănătăţii, pedeapsa este închisoarea de la 5 la 15 ani şi interzicerea unor drepturi, iar dacă are ca urmare moartea sau sinuciderea victimei, pedeapsa este închisoarea de la 15 la 25 de ani şi interzicerea unor drepturi.
-Îndemnarea sau ademenirea unei persoane în vederea practicării de relaţii sexuale între persoane de acelaşi sex, precum şi propaganda ori asocierea sau orice alte acte de prozelitism săvârşite în acelaşi scop se pedepsesc cu închisoare de la unu la 5 ani.
+Abrogat.
+------------
+Art. 200 a fost abrogat de ORDONANŢA DE URGENŢĂ nr. 89 din 21 iunie 2001 publicată în MONITORUL OFICIAL nr. 338 din 26 iunie 2001.
 Perversiunea sexuală
 
 Articolul 201
 
-Actele de perversiune sexuală săvârşite în public sau dacă au produs scandal public se pedepsesc cu închisoare de la unu la 5 ani.
-Dispoziţiile art. 200 alin. 2-5 se aplică în mod corespunzător.
-Constituie acte de perversiune sexuală orice acte nefireşti în legătură cu viaţa sexuală, altele decît cele prevăzute în art. 200.
+(1) Actele de perversiune sexuală săvârşite în public sau dacă au produs scandal public se pedepsesc cu închisoare de la unu la 5 ani.
+(2) Actele de perversiune sexuală cu o persoană care nu a împlinit vârsta de 15 ani se pedepsesc cu închisoare de la 2 la 7 ani şi interzicerea unor drepturi.
+(3) Cu aceeaşi pedeapsa se sancţionează şi actele de perversiune sexuală cu o persoană între 15-18 ani, dacă fapta este săvârşită de tutore sau curator, ori de către supraveghetor, îngrijitor, medic curant, profesor sau educator folosind calitatea sa.
+(4) Actele de perversiune sexuală cu o persoană în imposibilitate de a se apara ori de a-şi exprima voinţa sau prin constrângere se pedepsesc cu închisoare de la 3 la 10 ani şi interzicerea unor drepturi.
+(5) Dacă fapta prevăzută în alin. 1-4 are ca urmare vătămarea grava a integrităţii corporale sau a sănătăţii, pedeapsa este închisoarea de la 5 la 18 ani şi interzicerea unor drepturi, iar dacă are ca urmare moartea sau sinuciderea victimei, pedeapsa este închisoarea de la 15 la 25 de ani şi interzicerea unor drepturi.
+------------
+Alin. (2) şi (3) ale art. 201 au fost modificate de ORDONANŢA DE URGENŢĂ nr. 89 din 21 iunie 2001 publicată în MONITORUL OFICIAL nr. 338 din 26 iunie 2001.
+Alin. (4) şi (5) ale art. 201 au fost introduse de ORDONANŢA DE URGENŢĂ nr. 89 din 21 iunie 2001 publicată în MONITORUL OFICIAL nr. 338 din 26 iunie 2001.
 Corupţia sexuală
 
 Articolul 202
 
-Actele cu caracter obscen săvârşite asupra unui minor sau în prezenta unui minor se pedepsesc cu închisoare de la 3 luni la 2 ani sau cu amendă.
-Incestul 
+(1) Actele cu caracter obscen săvârşite asupra unui minor sau în prezenta unui minor se pedepsesc cu închisoare de la 3 luni la 2 ani sau cu amendă.
+(2) Când actele prevăzute la alin. 1 se savarsesc în cadrul familiei, pedeapsa este închisoarea de la unu la 3 ani.
+(3) Ademenirea unei persoane în vederea săvârşirii de acte sexuale cu un minor de sex diferit sau de acelaşi sex se pedepseşte cu închisoare de la unu la 5 ani.
+--------------
+Alin. 2 al art. 202 a fost introdus, cu acest conţinut, prin Legea nr. 197/2000.
+Alin. (3) al art. 202 a fost introdus de ORDONANŢA DE URGENŢĂ nr. 89 din 21 iunie 2001 publicată în MONITORUL OFICIAL nr. 338 din 26 iunie 2001.
+Incestul
 
 Articolul 203
 
@@ -1701,7 +1755,9 @@ Sancţionarea tentativei
 
 Articolul 204
 
-Tentativa infracţiunilor prevăzute în art. 197-198 şi 200-203 se pedepseşte.
+Tentativa infracţiunilor prevăzute în art. 197, 198 şi 201-203 se pedepseşte.
+--------------
+Art. 204 a fost modificat de ORDONANŢA DE URGENŢĂ nr. 89 din 21 iunie 2001 publicată în MONITORUL OFICIAL nr. 338 din 26 iunie 2001.
 
 Capitolul 4 INFRACŢIUNI CONTRA DEMNITĂŢII
 
@@ -1711,7 +1767,7 @@ Articolul 205
 
 Atingerea adusă onoarei ori reputaţiei unei persoane prin cuvinte, prin gesturi sau prin orice alte mijloace, ori prin expunerea la batjocura, se pedepseşte cu închisoare de la o luna la 2 ani sau cu amendă.
 Aceeaşi pedeapsa se aplică şi în cazul când se atribuie unei persoane un defect, boala sau infirmitate care, chiar reale de-ar fi, nu ar trebui relevate.
-Acţiunea penală se pune în mişcare la plîngerea prealabilă a persoanei vătămate. 
+Acţiunea penală se pune în mişcare la plîngerea prealabilă a persoanei vătămate.
 Împăcarea părţilor inlatura răspunderea penală.
 Calomnia
 
@@ -1752,10 +1808,24 @@ h) în timpul unei calamitati;
 i) prin efracţie, escaladare sau prin folosirea fără drept a unei chei adevărate ori a unei chei mincinoase,
 se pedepseşte cu închisoare de la 3 la 15 ani.
 Cu aceeaşi pedeapsa se sancţionează şi furtul privind:
-a) produsele petroliere sau gazele naturale din conducte, depozite ori cisterne;
-b) un bun care face parte din patrimoniul cultural;
-c) un act care serveşte pentru dovedirea stării civile, pentru legitimare sau identificare.
+a) un bun care face parte din patrimoniul cultural;
+b) un act care serveşte pentru dovedirea stării civile, pentru legitimare sau identificare.
+Furtul privind următoarele categorii de bunuri:
+a) ţiţei, produse petroliere, gazolina, condensat, etan lichid sau gaze naturale din conducte, depozite, cisterne ori vagoane-cisterna;
+b) componente ale sistemelor de irigaţii;
+c) componente ale reţelelor electrice;
+d) un dispozitiv ori un sistem de semnalizare, alarmare ori alertare în caz de incendiu sau alte situaţii de urgenta publică;
+e) un mijloc de transport sau orice alt mijloc de intervenţie la incendiu, la accidente de cale ferată, rutiere, navale sau aeriene, ori în caz de dezastru;
+f) instalaţii de siguranţă şi dirijare a traficului feroviar, rutier, naval, aerian şi componente ale acestora, precum şi componente ale mijloacelor de transport aferente;
+g) bunuri prin însuşirea cărora se pune în pericol siguranţa traficului şi a persoanelor pe drumurile publice;
+h) cabluri, linii, echipamente şi instalaţii de telecomunicaţii, radiocomunicatii, precum şi componente de comunicaţii
+se pedepseşte cu închisoare de la 4 la 18 ani.*)
 Furtul care a produs consecinţe deosebit de grave se pedepseşte cu închisoare de la 10 la 20 de ani şi interzicerea unor drepturi.
+În cazul prevăzut la alin. 3 lit. a) este considerată tentativa şi efectuarea de săpături pe terenul aflat în apropierea conductei de transport al ţiţeiului, produselor petroliere, gazolinei, condensatului, etanului lichid sau gazelor naturale, precum şi deţinerea, în acele locuri sau în apropierea depozitelor, cisternelor sau vagoanelor-cisterna, a stuturilor, instalaţiilor sau a oricăror alte dispozitive de prindere ori de perforare.
+-------------
+*) Alin. 2 al art. 209 este reprodus astfel cum a fost modificat prin ORDONANŢA DE URGENŢĂ nr. 207/2000.
+Alin. 3 al art. 209 a fost introdus prin ORDONANŢA DE URGENŢĂ nr. 207/2000, lit. a) de la alin. 3 a fost modificată prin ORDONANŢA DE URGENŢĂ nr. 10/2001; întregul alineat este modificat prin Legea nr. 456/2001 publicată în M.Of. 410/25.07.2001, fostul alin. 3 devenind alin. 4.
+Alin. 5 al art. 209 a fost introdus prin ORDONANŢA DE URGENŢĂ 10/2001.
 Pedepsirea unor furturi la plîngerea prealabilă
 
 Articolul 210
@@ -1852,6 +1922,8 @@ Ocuparea, în întregime sau în parte, fără drept, a unui imobil aflat în po
 Dacă fapta prevăzută în alin. 1 se săvârşeşte prin violenta sau ameninţare ori prin desfiinţarea sau strămutarea semnelor de hotar, a unui imobil aflat în posesia altuia, pedeapsa este închisoarea de la 6 luni la 5 ani.
 Dacă fapta prevăzută în alin. 2 se săvârşeşte de doua sau mai multe persoane împreună, pedeapsa este închisoarea de la unu la 7 ani.
 Dacă imobilul este în posesia unei persoane private, cu excepţia cazului când acesta este în întregime sau în parte al statului, acţiunea penală se pune în mişcare la plîngerea prealabilă a persoanei vătămate. Împăcarea părţilor inlatura răspunderea penală.
+--------------
+NOTĂ: Prin decizia nr. 165 din 21 octombrie 1999, definitivă, publicată în M. Of. nr. 624 din 21 decembrie 1999, Curtea Constituţională, a admis excepţia de neconstituţionalitate şi a constatat ca dispoziţia "cu excepţia cazului când acesta este în întregime sau în parte al statului" din art. 220 alin. 4 C.pen., este neconstitutionala.
 Tăinuirea
 
 Articolul 221
@@ -2163,7 +2235,7 @@ Articolul 269
 
 Evadarea din starea legală de reţinere sau de deţinere se pedepseşte cu închisoare de la 6 luni la 2 ani.
 Dacă fapta este săvârşită prin folosire de violenţe, de arme sau de alte instrumente ori de către doua sau mai multe persoane împreună, pedeapsa este închisoarea de la 2 la 8 ani.
-Pedeapsa aplicată pentru infracţiunea de evadare se adauga la pedeapsa ce se executa, fără a se putea depăşi maximul general al inchisorîi.
+Pedeapsa aplicată pentru infracţiunea de evadare se adauga la pedeapsa ce se executa, fără a se putea depăşi maximul general al închisorii.
 Tentativa se pedepseşte.
 Înlesnirea evadării
 
@@ -2466,17 +2538,20 @@ Articolul 305
 Săvârşirea de către persoana care are obligaţia legală de întreţinere, faţă de cel îndreptăţit la întreţinere, a uneia dintre următoarele fapte:
 a) părăsirea, alungarea sau lăsarea fără ajutor, expunându-l la suferinţe fizice sau morale;
 b) neîndeplinirea cu rea-credinţa a obligaţiei de întreţinere prevăzute de lege;
-c) neplata cu rea-credinţa, timp de doua luni, a pensiei de întreţinere stabilită pe cale judecătorească,
-se pedepseşte, în cazurile prevăzute la lit. a) şi b) cu închisoare de la 3 luni la 2 ani sau cu amendă, iar în cazul prevăzut la lit. c), cu închisoare de la 6 luni la 3 ani.
+c) neplata cu rea-credinţa, timp de doua luni, a pensiei de întreţinere stabilite pe cale judecătorească, se pedepseşte, în cazurile prevăzute la lit. a) şi b), cu închisoare de la 6 luni la 2 ani sau cu amendă, iar în cazul prevăzut la lit. c), cu închisoare de la unu la 3 ani sau cu amendă.*)
 Acţiunea penală se pune în mişcare la plîngerea prealabilă a persoanei vătămate.
 Împăcarea părţilor inlatura răspunderea penală.
 Dacă părţile nu s-au împăcat, dar în cursul judecaţii inculpatul îşi îndeplineşte obligaţiile, instanţa, în cazul când stabileşte vinovăţia, pronunţa împotriva inculpatului o condamnare cu suspendarea condiţionată a executării pedepsei, chiar dacă nu sunt îndeplinite condiţiile prevăzute în art. 81.
 Revocarea suspendării condiţionate nu are loc decît în cazul când, în cursul termenului de încercare, condamnatul săvârşeşte din nou infracţiunea de abandon de familie.
+------------
+*) Alin. 1 al art. 305 este reprodus astfel cum a fost modificat prin Legea nr. 197/2000.
 Relele tratamente aplicate minorului
 
 Articolul 306
 
-Punerea în primejdie grava, prin măsuri sau tratamente de orice fel, a dezvoltării fizice, intelectuale sau morale a minorului, de către părinţi sau de orice persoană căreia minorul i-a fost încredinţat spre creştere şi educare, se pedepseşte cu închisoare de la 2 la 12 ani.
+Punerea în primejdie grava, prin măsuri sau tratamente de orice fel, a dezvoltării fizice, intelectuale sau morale a minorului, de către părinţi sau de către orice persoană căreia minorul i-a fost încredinţat spre creştere şi educare, se pedepseşte cu închisoare de la 3 la 12 ani.*)
+----------
+*) Art. 306 este reprodus astfel cum a fost modificat prin Legea nr. 197/2000.
 Nerespectarea măsurilor privind încredinţarea minorului
 
 Articolul 307
@@ -2519,10 +2594,9 @@ Traficul de stupefiante
 
 Articolul 312
 
-Producerea, deţinerea sau orice operaţiune privind circulaţia produselor ori substanţelor stupefiante sau toxice, cultivarea în scop de prelucrare a plantelor care conţin astfel de substanţe ori experimentarea produselor sau substanţelor toxice, toate acestea fără drept, se pedepsesc cu închisoare de la 3 la 15 ani şi interzicerea unor drepturi.
-Dacă fapta prevăzută în alin. 1 a fost săvârşită organizat, pedeapsa este detenţiunea pe viaţa sau închisoarea de la 15 la 25 de ani şi interzicerea unor drepturi.
-Prescrierea de către medic, fără a fi necesar, a produselor sau substanţelor stupefiante, se pedepseşte cu închisoare de la unu la 5 ani, iar organizarea sau îngăduirea consumului de asemenea produse ori substanţe în locuri anumite se pedepseşte cu închisoare de la 3 la 15 ani şi interzicerea unor drepturi.
-Tentativa se pedepseşte.
+Abrogat.*)
+-----------
+*) Art. 312 a fost abrogat prin art. 32 al Legii privind combaterea traficului şi consumului ilicit de droguri, nr. 143/2000, publicată în M. Of. nr. 362 din 3 august 2000.
 Falsificarea de alimente sau alte produse
 
 Articolul 313
@@ -2537,8 +2611,10 @@ Punerea în primejdie a unei persoane în neputinţă de a se îngriji
 
 Articolul 314
 
-Părăsirea, alungarea sau lăsarea fără ajutor, în orice mod, a unui copil sau a unei persoane care nu are putinta de a se îngriji, de către acela care o are sub paza sau îngrijire, punându-i în pericol iminent viaţa, sănătatea sau integritatea corporală, se pedepsesc cu închisoare de la 3 luni la 3 ani.
+Părăsirea, alungarea sau lăsarea fără ajutor, în orice mod, a unui copil sau a unei persoane care nu are putinta de a se îngriji, de către acela care o are sub paza sau îngrijire, punându-i în pericol iminent viaţa, sănătatea sau integritatea corporală, se pedepseşte cu închisoare de la unu la 3 ani.*)
 Este apărată de pedeapsa persoana care, după săvârşirea faptei, îşi reia de buna-voie îndatoririle.
+-----------
+*) Alin. 1 al art. 314 este reprodus astfel cum a fost modificat prin Legea nr. 197/2000.
 Lăsarea fără ajutor
 
 Articolul 315
