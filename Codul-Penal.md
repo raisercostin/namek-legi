@@ -1,13 +1,17 @@
-- html  - http://legislatie.just.ro/Public/DetaliiDocument/31993
-- print - http://legislatie.just.ro/Public/FormaPrintabila/00000G0D5J27P4G32DB04CR50TDSYIYR
-- modifica
+source:
+  html: http://legislatie.just.ro/Public/DetaliiDocument/44824
+  print: http://legislatie.just.ro/Public/FormaPrintabila/00000G08DGT6ACUEBXP0HCERK1MYZT0I
+
+details
   - http://www.cdep.ro/pls/legis/legis_pck.htp_act?ida=32756 (LEGE nr.15 din 21 iunie 1968 Codul Penal al României)
   - http://www.cdep.ro/pls/legis/legis_pck.htp_act_text?idt=31092 (textul republicat in aprilie 1997)
   - http://www.cdep.ro/pls/legis/legis_pck.htp_act?ida=8679
   - http://www.cdep.ro/pls/legis/legis_pck.htp_act?ida=11472
 
-CODUL PENAL din 21 iunie 1968 - (**republicat**) (*actualizat*)
-actualizat până la data de 01 octombrie 2001
+---
+
+CODUL PENAL din 21 iunie 1968 (*republicat*)(**actualizat**)
+(actualizat până la data de 5 noiembrie 2002**)
 EMITENT	
 PARLAMENTUL
 
@@ -16,6 +20,7 @@ PARLAMENTUL
 
 -----------
 *) Codul penal a fost publicat în B. Of., Partea I, nr. 79-79 bis din 21 iunie 1968; republicat B. Of., Partea I, nr. 55-56 din 23 aprilie 1973; republicat în M. Of., Partea I, nr. 65 din 16 aprilie 1997, în temeiul art. III din Legea nr. 140/1996, publicată în M. Of. al României, Partea I, nr. 289 din 14 noiembrie 1996.
+**) Textul iniţial a fost publicat în MONITORUL OFICIAL nr. 65 din 16 aprilie 1997. Aceasta este forma actualizată de S.C. "Centrul Teritorial de Calcul Electronic" S.A. Piatra Neamt până la data de 5 noiembrie 2002, cu modificările şi completările aduse de: LEGEA nr. 143 din 26 iulie 2000; LEGEA nr. 197 din 13 noiembrie 2000; ORDONANŢA DE URGENŢĂ nr. 207 din 15 noiembrie 2000; ORDONANŢA DE URGENŢĂ nr. 10 din 11 ianuarie 2001; ORDONANŢA DE URGENŢĂ nr. 89 din 21 iunie 2001; LEGEA nr. 456 din 18 iulie 2001; LEGEA nr. 20 din 10 ianuarie 2002; LEGEA nr. 61 din 16 ianuarie 2002; LEGEA nr. 169 din 10 aprilie 2002; ORDONANŢA DE URGENŢĂ nr. 58 din 23 mai 2002; ORDONANŢA DE URGENŢĂ nr. 93 din 20 iunie 2002; ORDONANŢA DE URGENŢĂ nr. 143 din 24 octombrie 2002.
 
 Partea GENERALĂ
 
@@ -339,9 +344,12 @@ Legitima apărare
 
 Articolul 44
 
-Nu constituie infracţiune fapta prevăzută de legea penală, săvârşită în stare de legitima apărare.
-Este în stare de legitima apărare acela care săvârşeşte fapta pentru a inlatura un atac material, direct, imediat şi injust, îndreptat împotriva sa, a altuia sau împotriva unui interes obştesc, şi care pune în pericol grav persoana sau drepturile celui atacat ori interesul obştesc.
-Este de asemenea în legitima apărare şi acela care din cauza tulburării sau temerii a depăşit limitele unei apărări proporţionale cu gravitatea pericolului şi cu împrejurările în care s-a produs atacul.
+(1) Nu constituie infracţiune fapta prevăzută de legea penală, săvârşită în stare de legitima apărare.
+(2) Este în stare de legitima apărare acela care săvârşeşte fapta pentru a inlatura un atac material, direct, imediat şi injust, îndreptat împotriva sa, a altuia sau împotriva unui interes obştesc, şi care pune în pericol grav persoana sau drepturile celui atacat ori interesul obştesc.
+(2^1) Se prezuma ca este în legitima apărare, şi acela care săvârşeşte fapta pentru a respinge pătrunderea fără drept a unei persoane prin violenta, viclenie, efracţie sau prin alte asemenea mijloace, într-o locuinta, încăpere, dependinta sau loc împrejmuit ţinând de acestea.
+(3) Este de asemenea în legitima apărare şi acela care din cauza tulburării sau temerii a depăşit limitele unei apărări proporţionale cu gravitatea pericolului şi cu împrejurările în care s-a produs atacul.
+------------
+Alin. (2^1) al art. 44 a fost introdus de LEGEA nr. 169 din 10 aprilie 2002 publicată în MONITORUL OFICIAL nr. 261 din 18 aprilie 2002.
 Starea de necesitate
 
 Articolul 45
@@ -407,11 +415,13 @@ Pedepsele sunt principale, complimentare şi accesorii.
 1. Pedepsele principale sunt:
 a) detenţiunea pe viaţa;
 b) închisoarea de la 15 zile la 30 de ani;
-c) amenda de la 100.000 lei la 50.000.000 lei.
+c) amenda de la 1.000.000 lei la 500.000.000 lei.
 2. Pedepsele complimentare sunt:
 a) interzicerea unor drepturi de la unu la 10 ani;
 b) degradarea militară.
 3. Pedeapsa accesorie este interzicerea unor drepturi anume prevăzute de lege.
+-------------
+Litera c) a pct. 1 al art. 53 a fost modificată de LEGEA nr. 169 din 10 aprilie 2002 publicată în MONITORUL OFICIAL nr. 261 din 18 aprilie 2002.
 
 Capitolul 3 PEDEPSELE PRINCIPALE
 
@@ -517,11 +527,13 @@ Stabilirea amenzii
 
 Articolul 63
 
-Pedeapsa amenzii consta în suma de bani pe care infractorul este condamnat sa o plătească.
-Ori de cîte ori legea prevede că o infracţiune se pedepseşte numai cu amendă, fără a-i arata limitele, minimul special al acesteia este de 150.000 lei, iar maximul de 10.000.000 lei.
-Când legea prevede pedeapsa amenzii fără a-i arata limitele, alternativ cu pedeapsa închisorii de cel mult un an, minimul special al amenzii este de 250.000 lei şi maximul special de 15.000.000 lei, iar când prevede pedeapsa amenzii alternativ cu pedeapsa închisorii mai mare de un an, minimul special este de 350.000 lei şi maximul special de 30.000.000 lei.
-În caz de aplicare a cauzelor de atenuare sau de agravare a pedepselor, amenda nu poate să depăşească limitele generale arătate în art. 53 pct. 1 lit. c).
-Amenda se stabileşte tinindu-se seama de dispoziţiile art. 72, fără a-l pune însă pe infractor în situaţia de a nu-şi putea îndeplini îndatoririle privitoare la întreţinerea, creşterea, învăţătura şi pregătirea profesională a persoanelor faţă de care are aceste obligaţii legale.
+(1) Pedeapsa amenzii consta în suma de bani pe care infractorul este condamnat sa o plătească.
+(2) Ori de câte ori legea prevede că o infracţiune se pedepseşte numai cu amendă, fără a-i arata limitele, minimul special al acesteia este de 1.500.000 lei, iar maximul de 100.000.000 lei.
+(3) Când legea prevede pedeapsa amenzii fără a-i arata limitele, alternativ cu pedeapsa închisorii de cel mult un an, minimul special al amenzii este de 3.000.000 lei şi maximul special de 150.000.000 lei, iar când prevede pedeapsa amenzii alternativ cu pedeapsa închisorii mai mare de un an, minimul special este de 5.000.000 lei şi maximul special de 300.000.000 lei.
+(4) În caz de aplicare a cauzelor de atenuare sau de agravare a pedepselor, amenda nu poate să depăşească limitele generale arătate în art. 53 pct. 1 lit. c).
+(5) Amenda se stabileşte tinindu-se seama de dispoziţiile art. 72, fără a-l pune însă pe infractor în situaţia de a nu-şi putea îndeplini îndatoririle privitoare la întreţinerea, creşterea, învăţătura şi pregătirea profesională a persoanelor faţă de care are aceste obligaţii legale.
+------------
+Alin. (2) şi (3) ale art. 63 au fost modificate de LEGEA nr. 169 din 10 aprilie 2002 publicată în MONITORUL OFICIAL nr. 261 din 18 aprilie 2002.
 Înlocuirea pedepsei amenzii
 
 Articolul 63^1
@@ -537,13 +549,15 @@ Interzicerea unor drepturi
 
 Articolul 64
 
-Pedeapsa complimentară a interzicerii unor drepturi consta în interzicerea unuia sau unora din următoarele drepturi:
+(1) Pedeapsa complimentară a interzicerii unor drepturi consta în interzicerea unuia sau unora din următoarele drepturi:
 a) dreptul de a alege şi de a fi ales în autorităţile publice sau în funcţii elective publice;
 b) dreptul de a ocupa o funcţie implicind exerciţiul autorităţii de stat;
-c) dreptul de a ocupa o funcţie sau de a exercita o profesie de natura aceleia de care s-a folosit condamnatul pentru săvârşirea infracţiunii;
+c) dreptul de a ocupa o funcţie sau de a exercita o profesie ori de a desfăşura o activitate, de natura aceleia de care s-a folosit condamnatul pentru săvârşirea infracţiunii;
 d) drepturile părinteşti;
 e) dreptul de a fi tutore sau curator.
-Interzicerea drepturilor prevăzute la lit. b) nu se poate pronunţa decît pe lângă interzicerea drepturilor prevăzute la lit. a), afară de cazul când legea dispune altfel.
+(2) Interzicerea drepturilor prevăzute la lit. b) nu se poate pronunţa decît pe lângă interzicerea drepturilor prevăzute la lit. a), afară de cazul când legea dispune altfel.
+------------
+Litera c) a alin. (1) al art. 64 a fost modificată de ORDONANŢA DE URGENŢĂ nr. 93 din 20 iunie 2002 publicată în MONITORUL OFICIAL nr. 453 din 27 iunie 2002.
 Aplicarea pedepsei interzicerii unor drepturi
 
 Articolul 65
@@ -634,15 +648,17 @@ Efectele circumstanţelor atenuante
 
 Articolul 76
 
-În cazul în care exista circumstanţe atenuante, pedeapsa principala se reduce sau se schimba după cum urmează:
+(1) În cazul în care exista circumstanţe atenuante, pedeapsa principala se reduce sau se schimba după cum urmează:
 a) când minimul special al pedepsei închisorii este de 10 ani sau mai mare, pedeapsa se coboară sub minimul special, dar nu mai jos de 3 ani;
 b) când minimul special al pedepsei închisorii este de 5 ani sau mai mare, pedeapsa se coboară sub minimul special, dar nu mai jos de un an;
 c) când minimul special al pedepsei închisorii este de 3 ani sau mai mare, pedeapsa se coboară sub minimul special, dar nu mai jos de 3 luni;
 d) când minimul special al pedepsei închisorii este de un an sau mai mare, pedeapsa se coboară sub acest minim, până la minimul general;
-e) când minimul special al pedepsei închisorii este de 3 luni sau mai mare, pedeapsa se coboară sub acest minim, până la minimul general, sau se aplică o amenda care nu poate fi mai mica de 300.000 lei, iar când minimul special este sub 3 luni, se aplică o amenda care nu poate fi mai mica de 200.000 lei;
-f) când pedeapsa prevăzută de lege este amenda, aceasta se coboară sub minimul ei special, putind fi redusă până la 150.000 lei în cazul când minimul special este de 350.000 lei sau mai mare, ori până la minimul general când minimul special este sub 350.000 lei.
-În cazul infracţiunilor contra siguranţei statului, al infracţiunilor contra păcii şi omenirii, al infracţiunii de omor, al infracţiunilor săvârşite cu intenţie care au avut ca urmare moartea unei persoane, sau al infracţiunilor prin care s-au produs consecinţe deosebit de grave, dacă se constată că exista circumstanţe atenuante, pedeapsa închisorii poate fi redusă cel mult până la o treime din minimul special.
-Când exista circumstanţe atenuante, pedeapsa complimentară privativă de drepturi, prevăzută de lege pentru infracţiunea săvârşită, poate fi înlăturată.
+e) când minimul special al pedepsei închisorii este de 3 luni sau mai mare, pedeapsa se coboară sub acest minim, până la minimul general, sau se aplică o amenda care nu poate fi mai mica de 2.500.000 lei, iar când minimul special este sub 3 luni, se aplică o amenda care nu poate fi mai mica de 2.000.000 lei;
+f) când pedeapsa prevăzută de lege este amenda, aceasta se coboară sub minimul ei special, putând fi redusă până la 1.500.000 lei în cazul când minimul special este de 5.000.000 lei sau mai mare, ori până la minimul general, când minimul special este sub 5.000.000 lei.
+(2) În cazul infracţiunilor contra siguranţei statului, al infracţiunilor contra păcii şi omenirii, al infracţiunii de omor, al infracţiunilor săvârşite cu intenţie care au avut ca urmare moartea unei persoane, sau al infracţiunilor prin care s-au produs consecinţe deosebit de grave, dacă se constată că exista circumstanţe atenuante, pedeapsa închisorii poate fi redusă cel mult până la o treime din minimul special.
+(3) Când exista circumstanţe atenuante, pedeapsa complimentară privativă de drepturi, prevăzută de lege pentru infracţiunea săvârşită, poate fi înlăturată.
+-------------
+Literele e) şi f) ale alin. (1) al art. 76 au fost modificate de LEGEA nr. 169 din 10 aprilie 2002 publicată în MONITORUL OFICIAL nr. 261 din 18 aprilie 2002.
 Circumstanţele atenuante în cazul pedepsei detenţiunii pe viaţa
 
 Articolul 77
@@ -811,7 +827,7 @@ Revocarea executării pedepsei la locul de muncă
 
 Articolul 86^9
 
-Dacă după raminerea definitivă a hotărârii prin care s-a dispus executarea pedepsei la locul de muncă, cel condamnat săvârşeşte din nou o infracţiune, înainte de începerea executării pedepsei sau în timpul executării acesteia, instanţa revoca executarea pedepsei la locul de muncă. Pedeapsa se aplică potrivit dispoziţiilor art. 39 alin. 1 şi 2 sau, după caz, ale art. 40.
+Dacă după rămînerea definitivă a hotărârii prin care s-a dispus executarea pedepsei la locul de muncă, cel condamnat săvârşeşte din nou o infracţiune, înainte de începerea executării pedepsei sau în timpul executării acesteia, instanţa revoca executarea pedepsei la locul de muncă. Pedeapsa se aplică potrivit dispoziţiilor art. 39 alin. 1 şi 2 sau, după caz, ale art. 40.
 Dacă infracţiunea ulterioară este săvârşită din culpa, instanţa poate dispune şi pentru aceasta infracţiune executarea pedepsei la locul de muncă. În acest caz, revocarea nu mai are loc şi pedeapsa se aplică potrivit regulilor pentru concursul de infracţiuni.
 Dacă condamnatul se sustrage de la prestarea activităţii în cadrul unităţii sau nu-şi îndeplineşte în mod corespunzător îndatoririle ce-i revin la locul de muncă ori nu respecta măsurile de supraveghere sau obligaţiile stabilite prin hotărârea de condamnare, instanţa poate să revoce executarea pedepsei la locul de muncă, dispunind executarea pedepsei într-un loc de deţinere.
 Când condamnatul nu mai poate presta munca din cauza pierderii totale a capacităţii de muncă, instanţa revoca executarea pedepsei la locul de muncă şi, ţinând seama de împrejurările care au determinat incapacitatea de muncă şi dispoziţiile art. 72, dispune suspendarea condiţionată a executării pedepsei chiar dacă nu sunt întrunite condiţiile prevăzute în art. 81 sau 86^1.
@@ -1574,9 +1590,12 @@ Vătămarea corporală grava
 
 Articolul 182
 
-Fapta prin care s-a pricinuit integrităţii corporale sau sănătăţii o vătămare care necesita pentru vindecare îngrijiri medicale mai mult de 60 de zile, sau care a produs vreuna dintre următoarele consecinţe: pierderea unui simt sau organ, încetarea funcţionarii acestora, o infirmitate permanenta fizica ori psihică, sluţirea, avortul, ori punerea în primejdie a vieţii persoanei, se pedepseşte cu închisoare de la 2 la 7 ani.
-Când fapta a fost săvârşită în scopul producerii consecinţelor prevăzute în alineatul precedent, pedeapsa este închisoarea de la 3 la 10 ani.
-Tentativa faptei prevăzute în alin. 2 se pedepseşte.
+Fapta prin care s-a pricinuit integrităţii corporale sau sănătăţii o vătămare care necesita pentru vindecare îngrijiri medicale mai mult de 60 de zile, se pedepseşte cu închisoare de la 2 la 7 ani.
+Dacă fapta a produs vreuna din următoarele consecinţe: pierderea unui simt sau organ, încetarea funcţionarii acestora, o infirmitate permanenta fizica ori psihică, sluţirea, avortul, ori punerea în primejdie a vieţii persoanei, pedeapsa este închisoarea de la 2 la 10 ani.
+Când fapta a fost săvârşită în scopul producerii consecinţelor prevăzute la alin. 1 şi 2, pedeapsa este închisoarea de la 3 la 12 ani.
+Tentativa faptei prevăzute în alin. 3 se pedepseşte.
+-------------
+Art. 182 a fost modificat de LEGEA nr. 169 din 10 aprilie 2002 publicată în MONITORUL OFICIAL nr. 261 din 18 aprilie 2002.
 Lovirile sau vătămările cauzatoare de moarte
 
 Articolul 183
@@ -1586,11 +1605,15 @@ Vătămarea corporală din culpa
 
 Articolul 184
 
-Fapta prevăzută în art. 180 alin. 2 care a pricinuit o vătămare ce necesita pentru vindecare îngrijiri medicale mai mult de 10 zile, precum şi cea prevăzută în art. 181, săvârşite din culpa, se pedepsesc cu închisoare de la o luna la 3 luni sau cu amendă.
-Dacă fapta a avut vreuna din urmările prevăzute în art. 182 alin. 1, pedeapsa este închisoarea de la 3 luni la 2 ani sau amenda.
-Când săvârşirea faptei prevăzute în alin. 1 este urmarea nerespectării dispoziţiilor legale sau a măsurilor de prevedere pentru exerciţiul unei profesii sau meserii, ori pentru îndeplinirea unei anume activităţi, pedeapsa este închisoarea de la 3 luni la 2 ani sau amenda.
-Fapta prevăzută în alin. 2 dacă este urmarea nerespectării dispoziţiilor legale sau a măsurilor de prevedere arătate în alineatul precedent se pedepseşte cu închisoare de la 6 luni la 3 ani.
-Pentru faptele prevăzute în alin. 1 şi 3, acţiunea penală se pune în mişcare la plîngerea prealabilă a persoanei vătămate. Împăcarea părţilor inlatura răspunderea penală.
+(1) Fapta prevăzută la art. 180 alin. 2 şi 2^1, care a pricinuit o vătămare ce necesita pentru vindecare îngrijiri medicale mai mari de 10 zile, precum şi cea prevăzută la art. 181, săvârşite din culpa, se pedepsesc cu închisoare de la o luna la 3 luni sau cu amendă.
+(2) Dacă fapta a avut vreuna din urmările prevăzute la art. 182 alin. 1 sau 2, pedeapsa este închisoarea de la 3 luni la 2 ani sau amenda.
+(3) Când săvârşirea faptei prevăzute în alin. 1 este urmarea nerespectării dispoziţiilor legale sau a măsurilor de prevedere pentru exerciţiul unei profesii sau meserii, ori pentru îndeplinirea unei anume activităţi, pedeapsa este închisoarea de la 3 luni la 2 ani sau amenda.
+(4) Fapta prevăzută în alin. 2 dacă este urmarea nerespectării dispoziţiilor legale sau a măsurilor de prevedere arătate în alineatul precedent se pedepseşte cu închisoare de la 6 luni la 3 ani.
+(4^1) Dacă faptele prevăzute la alin. 3 şi 4 sunt săvârşite de către o persoană care se afla în stare de ebrietate, pedeapsa este închisoarea de la unu la 3 ani, în cazul alin. 3, şi închisoarea de la unu la 5 ani, în cazul alin. 4.
+(5) Pentru faptele prevăzute în alin. 1 şi 3, acţiunea penală se pune în mişcare la plîngerea prealabilă a persoanei vătămate. Împăcarea părţilor inlatura răspunderea penală.
+-------------
+Alin. (1) şi (2) ale art. 184 au fost modificate de LEGEA nr. 169 din 10 aprilie 2002 publicată în MONITORUL OFICIAL nr. 261 din 18 aprilie 2002.
+Alin. (4^1) al art. 184 a fost introdus de LEGEA nr. 169 din 10 aprilie 2002 publicată în MONITORUL OFICIAL nr. 261 din 18 aprilie 2002.
 
 Secţiunea III Avortul
 
@@ -1630,12 +1653,16 @@ Lipsirea de libertate în mod ilegal
 
 Articolul 189
 
-Lipsirea de libertate a unei persoane în mod ilegal se pedepseşte cu închisoare de la unu la 5 ani.
-În cazul în care fapta este săvârşită prin simularea de calităţi oficiale, prin răpire, de o persoană înarmată, de doua sau mai multe persoane împreună sau dacă în schimbul eliberării se cere un folos material sau orice alt avantaj, precum şi în cazul în care victima este minora sau este supusă unor suferinţe ori sănătatea sau viaţa îi este pusă în pericol, pedeapsa este închisoarea de la 5 la 12 ani.
-Dacă pentru eliberarea persoanei se cere, în orice mod, ca statul, o persoană juridică, o organizaţie internationala interguvernamentală sau un grup de persoane sa îndeplinească sau sa nu îndeplinească un anumit act, pedeapsa este închisoarea de la 5 la 15 ani.
+Lipsirea de libertate a unei persoane în mod ilegal se pedepseşte cu închisoare de la 3 la 10 ani.
+În cazul în care fapta este săvârşită prin simularea de calităţi oficiale, prin răpire, de o persoană înarmată, de doua sau mai multe persoane împreună sau dacă în schimbul eliberării se cere un folos material sau orice alt avantaj, precum şi în cazul în care victima este minora sau este supusă unor suferinţe ori sănătatea sau viaţa îi este pusă în pericol, pedeapsa este închisoarea de la 7 la 15 ani.
+Cu pedeapsa închisorii de la 7 la 15 ani se sancţionează şi lipsirea de libertate a unei persoane săvârşită în scopul de a o obliga la practicarea prostituţiei.
+Dacă pentru eliberarea persoanei se cere, în orice mod, ca statul, o persoană juridică, o organizaţie internationala interguvernamentală sau un grup de persoane sa îndeplinească sau sa nu îndeplinească un anumit act, pedeapsa este închisoarea de la 7 la 18 ani.
+Dacă faptele prevăzute la alin. 1-4 se savarsesc de către o persoană care face parte dintr-un grup organizat, pedeapsa este închisoarea de la 5 la 15 ani, în cazul alin. 1, închisoarea de la 7 la 18 ani, în cazul alin. 2 şi 3, închisoarea de la 10 la 20 de ani, în cazul alin. 4.
 Dacă fapta a avut ca urmare moartea sau sinuciderea victimei, pedeapsa este închisoarea de la 15 la 25 de ani.
-Tentativa faptelor prevăzute în alin. 1-3 se pedepseşte.
-Constituie tentativa şi producerea sau procurarea mijloacelor, a instrumentelor sau luarea de măsuri în vederea comiterii faptei prevăzute în alin. 3.
+Tentativa faptelor prevăzute la alin. 1-4 se pedepseşte.
+Constituie tentativa şi producerea sau procurarea mijloacelor, a instrumentelor sau luarea de măsuri în vederea comiterii faptei prevăzute la alin. 4.
+-------------
+Art. 189 a fost modificat de LEGEA nr. 169 din 10 aprilie 2002 publicată în MONITORUL OFICIAL nr. 261 din 18 aprilie 2002.
 Sclavia
 
 Articolul 190
@@ -1651,9 +1678,11 @@ Violarea de domiciliu
 
 Articolul 192
 
-Pătrunderea fără drept, în orice mod, într-o locuinta, încăpere, dependinta sau loc împrejmuit ţinând de acestea, fără consimţământul persoanei care le foloseşte, sau refuzul de a le părăsi la cererea acesteia, se pedepseşte cu închisoare de la 3 luni la 3 ani sau cu amendă.
-În cazul în care fapta se săvârşeşte de o persoană înarmată, de doua sau mai multe persoane împreună, în timpul nopţii sau prin folosire de calităţi mincinoase, pedeapsa este închisoarea de la 2 la 7 ani.
-Pentru fapta prevăzută în alin. 1, acţiunea penală se pune în mişcare la plîngerea prealabilă a persoanei vătămate. Împăcarea părţilor inlatura răspunderea penală.
+(1) Pătrunderea fără drept, în orice mod, într-o locuinta, încăpere, dependinta sau loc împrejmuit ţinând de acestea, fără consimţământul persoanei care le foloseşte, sau refuzul de a le părăsi la cererea acesteia, se pedepseşte cu închisoare de la 6 luni la 4 ani.
+(2) În cazul în care fapta se săvârşeşte de o persoană înarmată, de doua sau mai multe persoane împreună, în timpul nopţii sau prin folosire de calităţi mincinoase, pedeapsa este închisoarea de la 3 la 10 ani.
+(3) Pentru fapta prevăzută în alin. 1, acţiunea penală se pune în mişcare la plîngerea prealabilă a persoanei vătămate. Împăcarea părţilor inlatura răspunderea penală.
+------------
+Alin. (1) şi (2) ale art. 192 au fost modificate de LEGEA nr. 169 din 10 aprilie 2002 publicată în MONITORUL OFICIAL nr. 261 din 18 aprilie 2002.
 Ameninţarea
 
 Articolul 193
@@ -1695,22 +1724,27 @@ a) fapta a fost săvârşită de doua sau mai multe persoane împreună;
 b) victima se afla în îngrijirea, ocrotirea, educarea, paza sau în tratamentul făptuitorului;
 b^1) victima este membru al familiei;
 c) s-a cauzat victimei o vătămare grava a integrităţii corporale sau a sănătăţii.
-(3) Pedeapsa este închisoarea de la 10 la 20 de ani şi interzicerea unor drepturi dacă victima nu a împlinit vârsta de 15 ani, iar dacă fapta a avut ca urmare moartea sau sinuciderea victimei, pedeapsa este închisoarea de la 15 la 25 de ani şi interzicerea unor drepturi.
+(3) Pedeapsa este închisoarea de la 10 la 25 de ani şi interzicerea unor drepturi, dacă victima nu a împlinit vârsta de 15 ani, iar dacă fapta a avut ca urmare moartea sau sinuciderea victimei, pedeapsa este închisoarea de la 15 la 25 de ani şi interzicerea unor drepturi.
 (4) Acţiunea penală pentru fapta prevăzută în alin. 1 se pune în mişcare la plîngerea prealabilă a persoanei vătămate.
 ------------
 Alin. 1 al art. 197 este reprodus astfel cum a fost modificat prin Legea nr. 197/2000; lit. b^1) de la alin. 2 a fost introdusă prin aceeaşi lege, care de asemenea a abrogat alin. 5. ce avea următorul conţinut: "alin. 5. Faptele prevăzute în alin. 1, 2 lit. b) şi c) şi alin. 3 teza I nu se pedepsesc dacă înainte ca hotărârea sa fi rămas definitivă a intervenit căsătoria dintre autor şi victima. În caz de participaţie, în alte condiţii decît aceea prevăzută în alin. 2 lit. a), căsătoria dintre autor şi victima produce aceleaşi efecte şi faţă de participanţi".
 Alin. (1), (2) şi (3) ale art. 197 au fost modificate de ORDONANŢA DE URGENŢĂ nr. 89 din 21 iunie 2001 publicată în MONITORUL OFICIAL nr. 338 din 26 iunie 2001.
+Alin. (3) al art. 197 a fost modificat de ORDONANŢA DE URGENŢĂ nr. 143 din 24 octombrie 2002 publicată în MONITORUL OFICIAL nr. 804 din 5 noiembrie 2002.
 Actul sexual cu un minor
 
 Articolul 198
 
-Actul sexual, de orice natura, cu o persoană de sex diferit sau de acelaşi sex care nu a împlinit vârsta de 15 ani se pedepseşte cu închisoare de la 2 la 7 ani şi interzicerea unor drepturi.
-Cu aceeaşi pedeapsa se sancţionează actul sexual, de orice natura, cu o persoană de sex diferit sau de acelaşi sex între 15-18 ani, dacă fapta este săvârşită de tutore sau curator, ori de către supraveghetor, îngrijitor, medic curant, profesor sau educator folosind calitatea sa.
-Când fapta prevăzută în alin. 1 a fost săvârşită în împrejurările prevăzute în art. 197 alin. 2 lit. b) ori dacă faptele prevăzute în alin. 1 şi 2 au avut urmările prevăzute în art. 197 alin. 2 lit. c), pedeapsa este închisoarea de la 3 la 15 ani şi interzicerea unor drepturi.
-Dacă fapta a avut ca urmare moartea victimei, pedeapsa este închisoarea de la 7 la 18 ani şi interzicerea unor drepturi.
+Actul sexual, de orice natura, cu o persoană de sex diferit sau de acelaşi sex, care nu a împlinit vârsta de 15 ani, se pedepseşte cu închisoare de la 3 la 10 ani şi interzicerea unor drepturi.
+Cu aceeaşi pedeapsa se sancţionează actul sexual, de orice natura, cu o persoană de sex diferit sau de acelaşi sex între 15-18 ani, dacă fapta este săvârşită de tutore sau curator ori de către supraveghetor, îngrijitor, medic curant, profesor sau educator, folosindu-se de calitatea sa, ori dacă făptuitorul a abuzat de încrederea victimei sau de autoritatea ori influenţa sa asupra acesteia.
+Dacă actul sexual, de orice natura, cu o persoană de sex diferit sau de acelaşi sex, care nu a împlinit vârsta de 18 ani, a fost determinat de oferirea sau darea de bani ori alte foloase de către făptuitor, direct sau indirect, victimei, pedeapsa este închisoarea de la 3 la 12 ani şi interzicerea unor drepturi.
+Dacă faptele prevăzute în alin. 1-3 au fost săvârşite în scopul producerii de materiale pornografice, pedeapsa este închisoarea de la 5 la 15 ani şi interzicerea unor drepturi, iar dacă pentru realizarea acestui scop s-a folosit constrângerea, pedeapsa este închisoarea de la 5 la 18 ani şi interzicerea unor drepturi.
+Când fapta prevăzută în alin. 1 a fost săvârşită în împrejurările prevăzute în art. 197 alin. 2 lit. b) ori dacă faptele prevăzute în alin. 1-4 au avut urmările prevăzute în art. 197 alin. 2 lit. c), pedeapsa este închisoarea de la 5 la 18 ani şi interzicerea unor drepturi.
+Dacă fapta a avut ca urmare moartea sau sinuciderea victimei, pedeapsa este închisoarea de la 15 la 25 de ani şi interzicerea unor drepturi.
 ------------
 Titlul marginal al art. 198 a fost modificat prin Legea nr. 197/2000; alin. 1 şi 2 sunt reproduse astfel cum au fost modificate prin aceeaşi lege care, de asemenea, abroga alin. 5.
 Art. 198 a fost modificat de ORDONANŢA DE URGENŢĂ nr. 89 din 21 iunie 2001 publicată în MONITORUL OFICIAL nr. 338 din 26 iunie 2001.
+Alin. (2) al art. 198 a fost modificat de LEGEA nr. 61 din 16 ianuarie 2002 publicată în MONITORUL OFICIAL nr. 65 din 30 ianuarie 2002.
+Art. 198 a fost modificat de ORDONANŢA DE URGENŢĂ nr. 143 din 24 octombrie 2002 publicată în MONITORUL OFICIAL nr. 804 din 5 noiembrie 2002.
 Seducţia
 
 Articolul 199
@@ -1724,33 +1758,48 @@ Articolul 200
 Abrogat.
 ------------
 Art. 200 a fost abrogat de ORDONANŢA DE URGENŢĂ nr. 89 din 21 iunie 2001 publicată în MONITORUL OFICIAL nr. 338 din 26 iunie 2001.
-Perversiunea sexuală
+Perversiunea
 
 Articolul 201
 
-(1) Actele de perversiune sexuală săvârşite în public sau dacă au produs scandal public se pedepsesc cu închisoare de la unu la 5 ani.
-(2) Actele de perversiune sexuală cu o persoană care nu a împlinit vârsta de 15 ani se pedepsesc cu închisoare de la 2 la 7 ani şi interzicerea unor drepturi.
-(3) Cu aceeaşi pedeapsa se sancţionează şi actele de perversiune sexuală cu o persoană între 15-18 ani, dacă fapta este săvârşită de tutore sau curator, ori de către supraveghetor, îngrijitor, medic curant, profesor sau educator folosind calitatea sa.
+(1) Actele de perversiune sexuală săvârşite în public sau dacă au produs scandal sexuală public se pedepsesc cu închisoare de la unu la 5 ani.
+(2) Actele de perversiune sexuală cu o persoană care nu a împlinit vârsta de 15 ani se pedepsesc cu închisoare de la 3 la 10 ani şi interzicerea unor drepturi.
+(3) Cu aceeaşi pedeapsa se sancţionează şi actele de perversiune sexuală cu o persoană între 15-18 ani, dacă fapta este săvârşită de tutore sau curator ori de către supraveghetor, îngrijitor, medic curant, profesor sau educator, folosindu-se de calitatea sa, ori dacă făptuitorul a abuzat de încrederea victimei sau de autoritatea ori influenţa sa asupra acesteia.
+(3^1) Dacă actele de perversiune sexuală cu o persoană care nu a împlinit vârsta de 18 ani au fost determinate de oferirea sau darea de bani ori alte foloase de către făptuitor, direct sau indirect, victimei, pedeapsa este închisoarea de la 3 la 12 ani şi interzicerea unor drepturi.
+(3^2) Dacă faptele prevăzute în alin. 2, 3 şi 3^1 au fost săvârşite în scopul producerii de materiale pornografice, pedeapsa este închisoarea de la 5 la 15 ani şi interzicerea unor drepturi, iar dacă pentru realizarea acestui scop s-a folosit constrângerea, pedeapsa este închisoarea de la 5 la 18 ani şi interzicerea unor drepturi.
 (4) Actele de perversiune sexuală cu o persoană în imposibilitate de a se apara ori de a-şi exprima voinţa sau prin constrângere se pedepsesc cu închisoare de la 3 la 10 ani şi interzicerea unor drepturi.
-(5) Dacă fapta prevăzută în alin. 1-4 are ca urmare vătămarea grava a integrităţii corporale sau a sănătăţii, pedeapsa este închisoarea de la 5 la 18 ani şi interzicerea unor drepturi, iar dacă are ca urmare moartea sau sinuciderea victimei, pedeapsa este închisoarea de la 15 la 25 de ani şi interzicerea unor drepturi.
+(5) Dacă fapta prevăzută în alin. 1-4 are ca urmare vătămarea grava a integrităţii corporale sau a sănătăţii, pedeapsa este închisoarea de la 5 la 18 ani şi interzicerea unor drepturi, iar dacă are ca urmare moartea sau sinuciderea victimei, pedeapsa este închisoarea de la 15 la 25 ani şi interzicerea unor drepturi.
 ------------
 Alin. (2) şi (3) ale art. 201 au fost modificate de ORDONANŢA DE URGENŢĂ nr. 89 din 21 iunie 2001 publicată în MONITORUL OFICIAL nr. 338 din 26 iunie 2001.
-Alin. (4) şi (5) ale art. 201 au fost introduse de ORDONANŢA DE URGENŢĂ nr. 89 din 21 iunie 2001 publicată în MONITORUL OFICIAL nr. 338 din 26 iunie 2001.
+Alin. (4) şi (5) ale art. 201 au fost introduse de ORDONANŢA DE URGENŢĂ nr. 89 din 21 iunie 2001 publicată în MONITORUL OFICIAL nr. 338 din 26 iunie 2001, modificare abrogată de LEGEA nr. 61 din 16 ianuarie 2002 publicată în MONITORUL OFICIAL nr. 65 din 30 ianuarie 2002.
+Art. 201 a fost modificat de LEGEA nr. 61 din 16 ianuarie 2002 publicată în MONITORUL OFICIAL nr. 65 din 30 ianuarie 2002.
+Alin. (2) şi (3) ale art. 201 au fost modificate de ORDONANŢA DE URGENŢĂ nr. 143 din 24 octombrie 2002 publicată în MONITORUL OFICIAL nr. 804 din 5 noiembrie 2002.
+Alin. (3^1) şi (3^2) ale art. 201 au fost introduse de ORDONANŢA DE URGENŢĂ nr. 143 din 24 octombrie 2002 publicată în MONITORUL OFICIAL nr. 804 din 5 noiembrie 2002.
 Corupţia sexuală
 
 Articolul 202
 
-(1) Actele cu caracter obscen săvârşite asupra unui minor sau în prezenta unui minor se pedepsesc cu închisoare de la 3 luni la 2 ani sau cu amendă.
-(2) Când actele prevăzute la alin. 1 se savarsesc în cadrul familiei, pedeapsa este închisoarea de la unu la 3 ani.
+(1) Actele cu caracter obscen săvârşite asupra unui minor sau în prezenta unui minor se pedepsesc cu închisoare de la 6 luni la 5 ani.
+(2) Când actele prevăzute în alin. 1 se savarsesc în cadrul familiei, pedeapsa este închisoarea de la unu la 7 ani.
+(2^1) Dacă faptele prevăzute în alin. 1 şi 2 au fost săvârşite în scopul producerii de materiale pornografice, maximul special al pedepsei se majorează cu 2 ani.
 (3) Ademenirea unei persoane în vederea săvârşirii de acte sexuale cu un minor de sex diferit sau de acelaşi sex se pedepseşte cu închisoare de la unu la 5 ani.
---------------
-Alin. 2 al art. 202 a fost introdus, cu acest conţinut, prin Legea nr. 197/2000.
+-------------
+Alin. (2) al art. 202 a fost introdus, cu acest conţinut, prin Legea nr. 197/2000.
 Alin. (3) al art. 202 a fost introdus de ORDONANŢA DE URGENŢĂ nr. 89 din 21 iunie 2001 publicată în MONITORUL OFICIAL nr. 338 din 26 iunie 2001.
+Alin. (1) şi (2) ale art. 202 au fost modificate de ORDONANŢA DE URGENŢĂ nr. 143 din 24 octombrie 2002 publicată în MONITORUL OFICIAL nr. 804 din 5 noiembrie 2002.
+Alin. (2^1) al art. 202 a fost introdus de ORDONANŢA DE URGENŢĂ nr. 143 din 24 octombrie 2002 publicată în MONITORUL OFICIAL nr. 804 din 5 noiembrie 2002.
 Incestul
 
 Articolul 203
 
 Raportul sexual între rude în linie directa sau între fraţi şi surori se pedepseşte cu închisoare de la 2 la 7 ani.
+Hartuirea
+
+Articolul 203^1
+
+Hartuirea unei persoane prin ameninţare sau constrângere, în scopul de a obţine satisfactii sexuală de natura sexuală, de către o persoană care abuzeaza de autoritatea sau influenţa pe care i-o conferă funcţia îndeplinită la locul de muncă se pedepseşte cu închisoare de la 3 luni la 2 ani sau cu amendă.
+-------------
+Art. 203^1 a fost introdus de LEGEA nr. 61 din 16 ianuarie 2002 publicată în MONITORUL OFICIAL nr. 65 din 30 ianuarie 2002.
 Sancţionarea tentativei
 
 Articolul 204
@@ -1765,17 +1814,21 @@ Insulta
 
 Articolul 205
 
-Atingerea adusă onoarei ori reputaţiei unei persoane prin cuvinte, prin gesturi sau prin orice alte mijloace, ori prin expunerea la batjocura, se pedepseşte cu închisoare de la o luna la 2 ani sau cu amendă.
-Aceeaşi pedeapsa se aplică şi în cazul când se atribuie unei persoane un defect, boala sau infirmitate care, chiar reale de-ar fi, nu ar trebui relevate.
-Acţiunea penală se pune în mişcare la plîngerea prealabilă a persoanei vătămate.
-Împăcarea părţilor inlatura răspunderea penală.
+(1) Atingerea adusă onoarei ori reputaţiei unei persoane prin cuvinte, prin gesturi sau prin orice alte mijloace, ori prin expunerea la batjocura, se pedepseşte cu amendă.
+(2) Aceeaşi pedeapsa se aplică şi în cazul când se atribuie unei persoane un defect, boala sau infirmitate care, chiar reale de-ar fi, nu ar trebui relevate.
+(3) Acţiunea penală se pune în mişcare la plîngerea prealabilă a persoanei vătămate.
+(4) Împăcarea părţilor inlatura răspunderea penală.
+------------
+Alin. (1) al art. 205 a fost modificat de ORDONANŢA DE URGENŢĂ nr. 58 din 23 mai 2002 publicată în MONITORUL OFICIAL nr. 351 din 27 mai 2002.
 Calomnia
 
 Articolul 206
 
-Afirmarea ori imputarea în public, prin orice mijloace, a unei fapte determinate privitoare la o persoană, care, dacă ar fi adevarata, ar expune acea persoana la o sancţiune penală, administrativă sau disciplinară ori dispreţului public, se pedepseşte cu închisoare de la 3 luni la 3 ani sau cu amendă.
-Acţiunea penală se pune în mişcare la plîngerea prealabilă a persoanei vătămate.
-Împăcarea părţilor inlatura răspunderea penală.
+(1) Afirmarea sau imputarea în public, prin orice mijloace, a unei fapte determinate privitoare la o persoană, care, dacă ar fi adevarata, ar expune acea persoana la o sancţiune penală, administrativă sau disciplinară, ori dispreţului public, se pedepseşte cu închisoare de la 2 luni la 2 ani sau cu amendă.
+(2) Acţiunea penală se pune în mişcare la plîngerea prealabilă a persoanei vătămate.
+(3) Împăcarea părţilor inlatura răspunderea penală.
+------------
+Alin. (1) al art. 206 a fost modificat de ORDONANŢA DE URGENŢĂ nr. 58 din 23 mai 2002 publicată în MONITORUL OFICIAL nr. 351 din 27 mai 2002.
 Proba verităţii
 
 Articolul 207
@@ -1796,7 +1849,7 @@ Furtul calificat
 
 Articolul 209
 
-Furtul savirsit în următoarele împrejurări:
+(1) Furtul savirsit în următoarele împrejurări:
 a) de doua sau mai multe persoane împreună;
 b) de o persoană având asupra sa o arma sau o substanţa narcotică;
 c) de către o persoană mascată, deghizată sau travestită;
@@ -1807,11 +1860,11 @@ g) în timpul nopţii;
 h) în timpul unei calamitati;
 i) prin efracţie, escaladare sau prin folosirea fără drept a unei chei adevărate ori a unei chei mincinoase,
 se pedepseşte cu închisoare de la 3 la 15 ani.
-Cu aceeaşi pedeapsa se sancţionează şi furtul privind:
+(2) Cu aceeaşi pedeapsa se sancţionează şi furtul privind:
 a) un bun care face parte din patrimoniul cultural;
 b) un act care serveşte pentru dovedirea stării civile, pentru legitimare sau identificare.
-Furtul privind următoarele categorii de bunuri:
-a) ţiţei, produse petroliere, gazolina, condensat, etan lichid sau gaze naturale din conducte, depozite, cisterne ori vagoane-cisterna;
+(3) Furtul privind următoarele categorii de bunuri:
+a) ţiţei, gazolina, condensat, etan lichid, benzina, motorina, alte produse petroliere sau gaze naturale din conducte, depozite, cisterne ori vagoane-cisterna;
 b) componente ale sistemelor de irigaţii;
 c) componente ale reţelelor electrice;
 d) un dispozitiv ori un sistem de semnalizare, alarmare ori alertare în caz de incendiu sau alte situaţii de urgenta publică;
@@ -1819,13 +1872,15 @@ e) un mijloc de transport sau orice alt mijloc de intervenţie la incendiu, la a
 f) instalaţii de siguranţă şi dirijare a traficului feroviar, rutier, naval, aerian şi componente ale acestora, precum şi componente ale mijloacelor de transport aferente;
 g) bunuri prin însuşirea cărora se pune în pericol siguranţa traficului şi a persoanelor pe drumurile publice;
 h) cabluri, linii, echipamente şi instalaţii de telecomunicaţii, radiocomunicatii, precum şi componente de comunicaţii
-se pedepseşte cu închisoare de la 4 la 18 ani.*)
-Furtul care a produs consecinţe deosebit de grave se pedepseşte cu închisoare de la 10 la 20 de ani şi interzicerea unor drepturi.
-În cazul prevăzut la alin. 3 lit. a) este considerată tentativa şi efectuarea de săpături pe terenul aflat în apropierea conductei de transport al ţiţeiului, produselor petroliere, gazolinei, condensatului, etanului lichid sau gazelor naturale, precum şi deţinerea, în acele locuri sau în apropierea depozitelor, cisternelor sau vagoanelor-cisterna, a stuturilor, instalaţiilor sau a oricăror alte dispozitive de prindere ori de perforare.
+se pedepseşte cu închisoare de la 4 la 18 ani.
+(4) Furtul care a produs consecinţe deosebit de grave se pedepseşte cu închisoare de la 10 la 20 de ani şi interzicerea unor drepturi.
+(5) În cazul prevăzut la alin. 3 lit. a), sunt considerate tentativa şi efectuarea de săpături pe terenul aflat în zona de protecţie a conductei de transport al ţiţeiului, gazolinei, condensatului, etanului lichid, benzinei, motorinei, altor produse petroliere sau gazelor naturale, precum şi deţinerea, în acele locuri sau în apropierea depozitelor, cisternelor sau vagoanelor-cisterna, a stuturilor, instalaţiilor sau oricăror altor dispozitive de prindere ori perforare.
 -------------
-*) Alin. 2 al art. 209 este reprodus astfel cum a fost modificat prin ORDONANŢA DE URGENŢĂ nr. 207/2000.
+Alin. 2 al art. 209 este reprodus astfel cum a fost modificat prin ORDONANŢA DE URGENŢĂ nr. 207/2000.
 Alin. 3 al art. 209 a fost introdus prin ORDONANŢA DE URGENŢĂ nr. 207/2000, lit. a) de la alin. 3 a fost modificată prin ORDONANŢA DE URGENŢĂ nr. 10/2001; întregul alineat este modificat prin Legea nr. 456/2001 publicată în M.Of. 410/25.07.2001, fostul alin. 3 devenind alin. 4.
-Alin. 5 al art. 209 a fost introdus prin ORDONANŢA DE URGENŢĂ 10/2001.
+Alin. 5 al art. 209 a fost introdus iniţial prin ORDONANŢA DE URGENŢĂ nr. 10/2001 publicată în MONITORUL OFICIAL nr. 62 din 6 februarie 2001.
+Alin. (5) a fost modificat de LEGEA nr. 20 din 10 ianuarie 2002 publicată în MONITORUL OFICIAL nr. 59 din 28 ianuarie 2002 care aproba ORDONANŢA DE URGENŢĂ nr. 10/2001 publicată în MONITORUL OFICIAL nr. 62 din 6 februarie 2001.
+Litera a) a alin. (3) al art. 209 a fost modificată de LEGEA nr. 20 din 10 ianuarie 2002 publicată în MONITORUL OFICIAL nr. 59 din 28 ianuarie 2002.
 Pedepsirea unor furturi la plîngerea prealabilă
 
 Articolul 210
@@ -1836,18 +1891,21 @@ Tilharia
 
 Articolul 211
 
-Furtul savirsit prin întrebuinţare de violenţe sau ameninţări ori prin punerea victimei în stare de inconstienta sau neputinţă de a se apara, precum şi furtul urmat de întrebuinţarea unor astfel de mijloace pentru păstrarea bunului furat sau pentru înlăturarea urmelor infracţiunii ori pentru ca făptuitorul să-şi asigure scăparea, se pedepseşte cu închisoare de la 3 la 18 ani.
-Tilharia săvârşită în următoarele împrejurări:
+(1) Furtul savirsit prin întrebuinţare de violenţe sau ameninţări ori prin punerea victimei în stare de inconstienta sau neputinţă de a se apara, precum şi furtul urmat de întrebuinţarea unor astfel de mijloace pentru păstrarea bunului furat sau pentru înlăturarea urmelor infracţiunii ori pentru ca făptuitorul să-şi asigure scăparea, se pedepseşte cu închisoare de la 3 la 18 ani.
+(2) Tâlhăria săvârşită în următoarele împrejurări:
+a) de o persoană mascată, deghizată sau travestită;
+b) în timpul nopţii;
+c) într-un loc public sau într-un mijloc de transport, se pedepseşte cu închisoare de la 5 la 20 de ani.
+(2^1) Pedeapsa este închisoarea de la 7 la 20 de ani, dacă tâlhăria a fost săvârşită:
 a) de doua sau mai multe persoane împreună;
-b) de o persoană având asupra sa o arma sau o substanţa narcotică;
-c) de o persoană mascată, deghizată sau travestită;
-d) în timpul nopţii;
-e) într-un loc public sau într-un mijloc de transport;
-f) într-o locuinta sau în dependinţe ale acesteia;
-g) în timpul unei calamitati;
-h) a avut vreuna din urmările arătate în art. 182,
-se pedepseşte cu închisoare de la 5 la 20 de ani.
-Tilharia care a produs consecinţe deosebit de grave sau a avut ca urmare moartea victimei se pedepseşte cu închisoare de la 15 la 25 de ani şi interzicerea unor drepturi.
+b) de o persoană având asupra sa o arma, o substanţa narcotică ori paralizanta;
+c) într-o locuinta sau în dependinţe ale acesteia;
+d) în timpul unei calamitati;
+e) a avut vreuna din urmările arătate în art. 182.
+(3) Tilharia care a produs consecinţe deosebit de grave sau a avut ca urmare moartea victimei se pedepseşte cu închisoare de la 15 la 25 de ani şi interzicerea unor drepturi.
+------------
+Alin. (2) al art. 211 a fost modificat de LEGEA nr. 169 din 10 aprilie 2002 publicată în MONITORUL OFICIAL nr. 261 din 18 aprilie 2002.
+Alin. (2^1) al art. 211 a fost introdus de LEGEA nr. 169 din 10 aprilie 2002 publicată în MONITORUL OFICIAL nr. 261 din 18 aprilie 2002.
 Pirateria
 
 Articolul 212
@@ -2012,20 +2070,28 @@ Ofensa adusă autorităţii
 
 Articolul 238
 
-Atingerea adusă onoarei sau ameninţarea săvârşită în public, împotriva uneia dintre persoanele prevăzute în art. 160, în legătură cu activitatea acesteia şi de natura a aduce atingere autorităţii, se pedepseşte cu închisoare de la 6 luni la 5 ani.
-Lovirea sau orice alte acte de violenta, precum şi vătămarea corporală, săvârşite împotriva uneia dintre persoanele şi în condiţiile arătate în alin. 1, se pedepsesc cu închisoare de la 3 la 10 ani, iar dacă s-a produs vătămarea corporală grava, pedeapsa este închisoarea de la 5 la 15 ani şi interzicerea unor drepturi.
+Abrogat.
+-------------
+Art. 238 a fost abrogat de ORDONANŢA DE URGENŢĂ nr. 58 din 23 mai 2002 publicată în MONITORUL OFICIAL nr. 351 din 27 mai 2002.
 Ultrajul
 
 Articolul 239
 
-Insulta, calomnia ori ameninţarea săvârşită nemijlocit sau prin mijloace de comunicare directa contra unui funcţionar public care îndeplineşte o funcţie ce implica exerciţiul autorităţii de stat, aflat în exerciţiul funcţiunii ori pentru fapte îndeplinite în exerciţiul funcţiunii, se pedepsesc cu închisoare de la 3 luni la 4 ani.
-Lovirea sau orice acte de violenta, precum şi vătămarea corporală săvârşite împotriva persoanei prevăzute în alin. 1, aflată în exerciţiul funcţiunii ori pentru fapte îndeplinite în exerciţiul funcţiunii, se pedepsesc cu închisoare de la 6 luni la 7 ani, iar dacă s-a produs vătămarea corporală grava, pedeapsa este închisoarea de la 3 la 12 ani.
-Dacă faptele prevăzute în alineatele precedente sunt săvârşite împotriva unui magistrat, poliţist sau jandarm ori alt militar, maximul special al pedepsei se majorează cu 3 ani.
+(1) Insulta sau calomnia săvârşită nemijlocit ori prin mijloace de comunicare directa contra unui funcţionar public care îndeplineşte o funcţie ce implica exerciţiul autorităţii de stat, aflat în exerciţiul funcţiunii ori pentru fapte îndeplinite în exerciţiul funcţiunii, se pedepseşte cu închisoare de la 3 luni la 3 ani.
+(1') Ameninţarea săvârşită nemijlocit sau prin mijloace de comunicare directa contra unui funcţionar public care îndeplineşte o funcţie ce implica exerciţiul autorităţii de stat, aflat în exerciţiul funcţiunii ori pentru fapte îndeplinite în exerciţiul funcţiunii, se pedepseşte cu închisoare de la 3 luni la 4 ani*).
+(2) Lovirea sau orice acte de violenta, precum şi vătămarea corporală săvârşite împotriva persoanei prevăzute în alin. 1, aflată în exerciţiul funcţiunii ori pentru fapte îndeplinite în exercitiul funcţiunii, se pedepsesc cu închisoare de la 6 luni la 7 ani, iar dacă s-a produs vătămarea corporală grava, pedeapsa este închisoarea de la 3 la 12 ani.
+(3) Dacă faptele prevăzute în alineatele precedente sunt săvârşite împotriva unui magistrat, poliţist sau jandarm ori alt militar, maximul special al pedepsei se majorează cu 3 ani.
+------------
+Alin. (1) al art. 239 a fost modificat de ORDONANŢA DE URGENŢĂ nr. 58 din 23 mai 2002 publicată în MONITORUL OFICIAL nr. 351 din 27 mai 2002.
+*) NOTA C.T.C.E.:
+ORDONANŢA DE URGENŢĂ nr. 58 din 23 mai 2002, publicată în MONITORUL OFICIAL nr. 351 din 27 mai 2002, la punctul 5 al art. I, a prevăzut introducerea unui nou alineat, fără ca legiuitorul sa-l numeroteze. De aceea, consideram ca este alineatul (1'), rămânând valabilă numerotarea anterioară a celorlalte alineate ale art. 239.
 Cazuri speciale de pedepsire
 
 Articolul 239^1
 
-În cazul infracţiunilor prevăzute în art. 180-182, 189 şi 193 săvârşite împotriva soţului, copiilor sau părinţilor persoanelor prevăzute în art. 238 sau în art. 239 alin. 3, în scop de intimidare sau de răzbunare pentru acte sau fapte îndeplinite în exerciţiul funcţiunii, maximul pedepsei se majorează cu o treime.
+În cazul infracţiunilor prevăzute în art. 180-182, 189 şi 193 săvârşite împotriva soţului, copiilor sau părinţilor persoanelor prevăzute în art. 239 alin. 4, în scop de intimidare sau de răzbunare pentru acte sau fapte îndeplinite în exerciţiul funcţiunii, maximul pedepsei se majorează cu o treime.
+------------
+Art. 239^1 a fost modificat de ORDONANŢA DE URGENŢĂ nr. 58 din 23 mai 2002 publicată în MONITORUL OFICIAL nr. 351 din 27 mai 2002.
 Uzurparea de calităţi oficiale
 
 Articolul 240
@@ -2258,7 +2324,9 @@ Reţinerea sau distrugerea de înscrisuri
 
 Articolul 272
 
-Reţinerea sau distrugerea unui înscris emis de un organ de urmărire penală, de o instanţa de judecată sau de un alt organ de jurisdicţie, ori împiedicarea în orice mod ca un înscris destinat unuia dintre organele sus-arătate sa ajungă la acesta, când astfel de înscrisuri sunt necesare soluţionării unei cauze, se pedepseşte cu închisoare de la 3 luni la 2 ani sau cu amendă.
+Reţinerea sau distrugerea unui înscris emis de un organ de urmărire penală, de o instanţa de judecată sau de un alt organ de jurisdicţie, ori împiedicarea în orice mod ca un înscris destinat unuia dintre organele sus-arătate sa ajungă la acesta, când astfel de înscrisuri sunt necesare soluţionării unei cauze, se pedepseşte cu închisoare de la 6 luni la 3 ani.
+------------
+Art. 272 a fost modificat de LEGEA nr. 169 din 10 aprilie 2002 publicată în MONITORUL OFICIAL nr. 261 din 18 aprilie 2002.
 
 Capitolul 3 INFRACŢIUNI CONTRA SIGURANŢEI CIRCULAŢIEI PE CĂILE FERATE
 
@@ -2309,13 +2377,16 @@ Nerespectarea regimului armelor şi muniţiilor
 
 Articolul 279
 
-Deţinerea, portul, confecţionarea, transportul, precum şi orice operaţie privind circulaţia armelor şi muniţiilor sau funcţionarea atelierelor de reparat arme, fără drept, se pedepsesc cu închisoare de la 6 luni la 5 ani.
-Cu aceeaşi pedeapsa se sancţionează şi nedepunerea armei sau a muniţiei în termenul fixat de lege la organul competent, de către cel căruia i s-a respins cererea pentru prelungirea valabilităţii permisului.
-Se pedepseşte cu închisoare de la 2 la 7 ani:
+(1) Deţinerea, portul, confecţionarea, transportul, precum şi orice operaţie privind circulaţia armelor şi muniţiilor sau funcţionarea atelierelor de reparat arme, fără drept, se pedepsesc cu închisoare de la 2 la 8 ani.
+(2) Cu aceeaşi pedeapsa se sancţionează şi nedepunerea armei sau a muniţiei în termenul fixat de lege la organul competent, de către cel căruia i s-a respins cererea pentru prelungirea valabilităţii permisului.
+(3) Se pedepseşte cu închisoare de la 3 la 10 ani:
 a) deţinerea, înstrăinarea sau portul, fără drept, de arme ascunse ori de arme militare, precum şi a muniţiei pentru astfel de arme;
-b) deţinerea, înstrăinarea sau portul, fără drept, a mai multor arme cu excepţia celor prevăzute la lit. a), precum şi a armelor de panoplie, ori muniţiei respective în cantităţi mari;
-c) portul de arme, fără drept, în localul unităţilor de stat sau altor unităţi publice, la întruniri publice ori în localuri de alegeri.
-Tentativa se pedepseşte.
+b) deţinerea, înstrăinarea sau portul, fără drept, a mai multor arme cu excepţia celor prevăzute la alit. a), precum şi a armelor de panoplie, ori muniţiei respective în cantităţi mari.
+(3^1) Portul de arme, fără drept, în localul unităţilor de stat sau al altor unităţi la care se referă art. 145, la întruniri publice ori în localuri de alegeri, se pedepseşte cu închisoare de la 5 la 15 ani.
+(4) Tentativa se pedepseşte.
+-------------
+Alin. (1) şi (3) ale art. 279 au fost modificate de LEGEA nr. 169 din 10 aprilie 2002 publicată în MONITORUL OFICIAL nr. 261 din 18 aprilie 2002.
+Alin. (3^1) al art. 279 a fost introdus de LEGEA nr. 169 din 10 aprilie 2002 publicată în MONITORUL OFICIAL nr. 261 din 18 aprilie 2002.
 Nerespectarea regimului materialelor nucleare sau al altor materii radioactive
 
 Articolul 279^1
@@ -2465,9 +2536,11 @@ Tentativa se pedepseşte.
 
 Articolul 297
 
-Falsificarea ori substituirea de mărfuri sau orice alte produse, precum şi expunerea spre vînzare sau vânzarea de asemenea bunuri, cunoscând ca sunt falsificate ori substituite, se pedepsesc cu închisoare de la 6 luni la 5 ani.
-Dacă mărfurile sau produsele au devenit, prin falsificare sau substituire, vătămătoare sănătăţii, sunt aplicabile dispoziţiile art. 313.
-Tentativa se pedepseşte.
+(1) Falsificarea ori substituirea de mărfuri sau orice alte produse, precum şi expunerea spre vânzare sau vânzarea de asemenea bunuri, cunoscând ca sunt falsificate ori substituite, se pedepsesc cu închisoare de la unu la 7 ani.
+(2) Dacă mărfurile sau produsele au devenit, prin falsificare sau substituire, vătămătoare sănătăţii, sunt aplicabile dispoziţiile art. 313.
+(3) Tentativa se pedepseşte.
+-------------
+Alin. (1) al art. 297 a fost modificat de ORDONANŢA DE URGENŢĂ nr. 93 din 20 iunie 2002 publicată în MONITORUL OFICIAL nr. 453 din 27 iunie 2002.
 Divulgarea secretului economic
 
 Articolul 298
@@ -2549,9 +2622,10 @@ Relele tratamente aplicate minorului
 
 Articolul 306
 
-Punerea în primejdie grava, prin măsuri sau tratamente de orice fel, a dezvoltării fizice, intelectuale sau morale a minorului, de către părinţi sau de către orice persoană căreia minorul i-a fost încredinţat spre creştere şi educare, se pedepseşte cu închisoare de la 3 la 12 ani.*)
+Punerea în primejdie grava, prin măsuri sau tratamente de orice fel, a dezvoltării fizice, intelectuale sau morale a minorului, de către părinţi sau de către orice persoană căreia minorul i-a fost încredinţat spre creştere şi educare, se pedepseşte cu închisoare de la 3 la 15 ani şi interzicerea unor drepturi.
 ----------
-*) Art. 306 este reprodus astfel cum a fost modificat prin Legea nr. 197/2000.
+Art. 306 este reprodus astfel cum a fost modificat prin Legea nr. 197/2000.
+Art. 306 a fost modificat de ORDONANŢA DE URGENŢĂ nr. 143 din 24 octombrie 2002 publicată în MONITORUL OFICIAL nr. 804 din 5 noiembrie 2002.
 Nerespectarea măsurilor privind încredinţarea minorului
 
 Articolul 307
@@ -2584,12 +2658,16 @@ Raspindirea bolilor la animale sau plante
 
 Articolul 310
 
-Nerespectarea măsurilor privitoare la prevenirea sau combaterea bolilor molipsitoare la animale sau plante ori a dăunătorilor, dacă a avut ca urmare raspindirea unei asemenea boli ori a dăunătorilor, sau alte urmări grave, se pedepseşte cu închisoare de la o luna la 1 an sau cu amendă.
+Nerespectarea măsurilor privitoare la prevenirea sau combaterea bolilor molipsitoare la animale sau plante ori a dăunătorilor, dacă a avut ca urmare răspândirea unei asemenea boli ori a dăunătorilor sau alte urmări grave, se pedepseşte cu închisoare de la 3 luni la 3 ani sau cu amendă.
+-------------
+Art. 310 a fost modificat de LEGEA nr. 169 din 10 aprilie 2002 publicată în MONITORUL OFICIAL nr. 261 din 18 aprilie 2002.
 Infectarea apei
 
 Articolul 311
 
-Infectarea prin orice mijloace a surselor sau reţelelor de apa, dacă este dăunătoare sănătăţii oamenilor, animalelor sau plantelor, se pedepseşte cu închisoare de la o luna la 1 an sau cu amendă.
+Infectarea prin orice mijloace a surselor şi reţelelor de apa, dacă este dăunătoare sănătăţii oamenilor, animalelor sau plantelor, se pedepseşte cu închisoare de la 6 luni la 4 ani sau cu amendă.
+-------------
+Art. 311 a fost modificat de LEGEA nr. 169 din 10 aprilie 2002 publicată în MONITORUL OFICIAL nr. 261 din 18 aprilie 2002.
 Traficul de stupefiante
 
 Articolul 312
@@ -2601,9 +2679,15 @@ Falsificarea de alimente sau alte produse
 
 Articolul 313
 
-Prepararea de alimente ori băuturi falsificate, alterate sau interzise consumului, vătămătoare sănătăţii, expunerea spre vînzare sau vânzarea unor astfel de alimente sau băuturi, cunoscând ca sunt falsificate sau alterate ori interzise consumului, se pedepsesc cu închisoare de la unu la 8 ani.
-Cu aceeaşi pedeapsa se sancţionează falsificarea sau substituirea altor mărfuri sau produse, dacă prin falsificare sau substituire acestea au devenit vătămătoare sănătăţii.
-Punerea în consum public de carne sau produse din carne, provenite din tăieri de animale sustrase controlului veterinar, dacă a avut ca urmare îmbolnăvirea unei persoane, se pedepseşte cu închisoare de la 2 la 8 ani, iar dacă a avut ca urmare moartea, pedeapsa este închisoarea de la 5 la 15 ani.
+(1) Prepararea de alimente ori băuturi falsificate, alterate sau interzise consumului, vătămătoare sănătăţii, expunerea spre vânzare sau vânzarea unor astfel de alimente sau băuturi, cunoscând ca sunt falsificate sau alterate ori interzise consumului, se pedepsesc cu închisoare de la 3 la 10 ani.
+(2) Cu aceeaşi pedeapsa se sancţionează falsificarea sau substituirea altor mărfuri sau produse, dacă prin falsificare sau substituire acestea au devenit vătămătoare sănătăţii.
+(3) Punerea în consum public de carne sau produse din carne, provenite din tăieri de animale sustrase controlului veterinar, dacă a avut ca urmare îmbolnăvirea unei persoane, se pedepseşte cu închisoare de la 3 la 10 ani, iar dacă a avut ca urmare moartea, pedeapsa este închisoarea de la 7 la 20 de ani şi interzicerea unor drepturi.
+(4) Dacă prin faptele prevăzute în alin. 1 sau 2 s-au produs vătămări uneia sau mai multor persoane care necesita pentru vindecare îngrijiri medicale de cel mult 20 de zile, pedeapsa este închisoarea de la 4 la 12 ani şi interzicerea unor drepturi, iar dacă necesita îngrijiri medicale de cel mult 60 de zile, pedeapsa este închisoarea de la 5 la 12 ani şi interzicerea unor drepturi.
+(5) În cazul în care prin faptele prevăzute în alin. 1 sau 2 s-au produs vătămări uneia sau mai multor persoane care necesita pentru vindecare mai mult de 60 de zile de îngrijiri medicale ori vreuna din consecinţele prevăzute în art. 182 alin. 1, pedeapsa este închisoarea de la 5 la 15 ani şi interzicerea unor drepturi, iar dacă a avut ca urmare moartea, pedeapsa este închisoarea de la 7 la 20 de ani şi interzicerea unor drepturi.
+(6) Tentativa infracţiunilor prevăzute la alin. 1 şi 2 se pedepseşte.
+-----------
+Alin. (1) şi (3) ale art. 313 au fost modificate de ORDONANŢA DE URGENŢĂ nr. 93 din 20 iunie 2002 publicată în MONITORUL OFICIAL nr. 453 din 27 iunie 2002.
+Alin. (4), (5) şi (6) ale art. 313 au fost introduse de ORDONANŢA DE URGENŢĂ nr. 93 din 20 iunie 2002 publicată în MONITORUL OFICIAL nr. 453 din 27 iunie 2002.
 
 Capitolul 3 INFRACŢIUNI PRIVITOARE LA ASISTENŢA CELOR ÎN PRIMEJDIE
 
@@ -2651,12 +2735,14 @@ Articolul 320
 Fapta prin care se tulbura în mod repetat folosinţă locuinţei locatarilor dintr-un imobil, ori prin care se împiedica normală folosinţă a locuinţei, se pedepseşte cu închisoare de la 3 luni la 2 ani sau cu amendă.
 Acţiunea penală se pune în mişcare la plîngerea prealabilă a persoanei vătămate.
 Împăcarea părţilor inlatura răspunderea penală.
-Ultrajul contra bunelor moravuri şi tulburarea liniştii publice
+Ultrajul contra bunelor moravuri şi tulburarea ordinii şi liniştii publice
 
 Articolul 321
 
-Fapta persoanei care, în public, săvârşeşte acte sau gesturi, proferează cuvinte ori expresii, sau se deda la orice alte manifestări prin care se aduce atingere bunelor moravuri sau se produce scandal public, se pedepseşte cu închisoare de la 3 luni la 2 ani sau cu amendă.
-Dacă prin fapta prevăzută în alin. 1 s-a tulburat grav liniştea publică, pedeapsa este închisoarea de la 6 luni la 5 ani.
+Fapta persoanei care, în public, săvârşeşte acte sau gesturi, proferează cuvinte ori expresii, sau se deda la orice alte manifestări prin care se aduce atingere bunelor moravuri sau se produce scandal public ori se tulbura, în alt mod, liniştea şi ordinea publică, se pedepseşte cu închisoare de la unu la 5 ani.
+Dacă prin fapta prevăzută la alin. 1 s-au tulburat grav liniştea şi ordinea publică, pedeapsa este închisoarea de la 2 la 7 ani.
+-------------
+Art. 321 a fost modificat de LEGEA nr. 169 din 10 aprilie 2002 publicată în MONITORUL OFICIAL nr. 261 din 18 aprilie 2002.
 Încăierarea
 
 Articolul 322
@@ -2705,10 +2791,14 @@ Proxenetismul
 
 Articolul 329
 
-Îndemnul sau constringerea la prostituţie ori înlesnirea practicării prostituţiei sau tragerea de foloase de pe urma practicării prostituţiei de către o persoană, precum şi recrutarea unei persoane pentru prostituţie ori traficul de persoane în acest scop, se pedepsesc cu închisoare de la 2 la 7 ani şi interzicerea unor drepturi.
-Dacă fapta prevăzută în alin. 1 este săvârşită faţă de un minor sau prezintă un alt caracter grav, pedeapsa este închisoarea de la 3 la 10 ani şi interzicerea unor drepturi.
-Banii, valorile sau orice alte bunuri care au servit sau au fost destinate sa servească, direct sau indirect, la comiterea infracţiunii prevăzute în alin. 1 şi 2 şi cele care au fost dobîndite prin săvârşirea acesteia se confisca, iar dacă acestea nu se găsesc, condamnatul este obligat la plata echivalentului lor în bani.
-Tentativa se pedepseşte.
+(1) Îndemnul ori înlesnirea practicării prostituţiei sau tragerea de foloase de pe urma practicării prostituţiei de către o persoană se pedepseşte cu închisoarea de la 2 la 7 ani şi interzicerea u nor drepturi.
+(2) Recrutarea unei persoane pentru prostituţie ori traficul de persoane în acest scop, precum şi constrângerea la prostituţie se pedepsesc cu închisoarea de la 3 la 10 ani şi interzicerea unor drepturi.
+(3) Dacă fapta prevăzută în alin. 1 sau 2 este săvârşită faţă de un minor sau prezintă un alt caracter grav, pedeapsa este închisoarea de la 5 la 18 ani şi interzicerea unor drepturi.
+(4) Banii, valorile sau orice alte bunuri care au servit sau au fost destinate sa servească, direct sau indirect, la comiterea infracţiunii prevăzute la alin. 1-3 şi cele care au fost dobândite prin săvârşirea acesteia se confisca, iar dacă acestea nu se găsesc, condamnatul este obligat la plata echivalentului lor în bani.
+(5) Tentativa se pedepseşte.
+------------
+Art. 329 a fost modificat de LEGEA nr. 169 din 10 aprilie 2002 publicată în MONITORUL OFICIAL nr. 261 din 18 aprilie 2002.
+Alin. (3) al art. 329 a fost modificat de ORDONANŢA DE URGENŢĂ nr. 143 din 24 octombrie 2002 publicată în MONITORUL OFICIAL nr. 804 din 5 noiembrie 2002.
 Jocul de noroc
 
 Articolul 330
@@ -2946,7 +3036,9 @@ Articolul 361
 Tentativa infracţiunilor prevăzute în prezentul titlu se pedepseşte.
 Tăinuirea şi favorizarea privitoare la infracţiunile din acest titlu se pedepsesc cu închisoare de la 3 la 10 ani.
 Tăinuirea şi favorizarea săvârşite de soţ sau de o ruda apropiată în cazul infracţiunilor prevăzute în art. 357 şi 358 alin. 3 şi 4 se pedepsesc. Limitele pedepsei prevăzute în alin. 2 se reduc la jumătate, iar în cazul celorlalte infracţiuni, tăinuirea şi favorizarea nu se pedepsesc.
+
 DISPOZIŢII FINALE
+
 
 Articolul 362
 
