@@ -1,2597 +1,4455 @@
-- html - https://lege5.ro/Gratuit/g42tamju/codul-penal-din-1864
+- html - https://lege5.ro/Gratuit/heztqnzu/codul-penal-din-1936
 
 
-Ministerul Justiției - MJ
-Codul Penal din 1864
-Modificări (...), Reviste (2), Jurisprudență
+Parlamentul României
+Codul Penal din 1936
+Modificări (...), Referințe (2), Derogări (1), Reviste (11), Jurisprudență
 Text publicat în M.Of. al României.
-În vigoare de la 30 aprilie 1865 până la 17 martie 1936, fiind înlocuit prin Codul Penal 1936;
-Formă aplicabilă de la 22 octombrie 1912 până la 17 martie 1936
-
-1) Codul penal român a fost promulgat și publicat la 30 Octomvrie 1864 și pus în aplicare la 1 Maiu 1865. El a suferit însă în cursul timpului multe modificări și anume: prin legea dela 17 Februarie 1874, care i-a modificat 109 articole prin legea dela 21 Februarie 1882; prin legea dela 28 Maiu 1893, 15 Februarie 1894 și, în fine, prin legea dela 4 Maiu 1895.
-
-Înaintea acestui cod, în Moldova se aplica Codul penal din anul 1826 iar în Muntenia Condica Criminală, lucrată de divanul obștesc, sub Barbu Știrbei, în 1850-1853. Ea a fost în vigoare, cu modificările ce i s'au făcut în 1853, până în anul 1865, când, conform art. 398 din actualul Cod penal, ea a fost abrogată, intrând în vigoare prezentul cod.
-
-Dispozițiunile din actualul Cod penal sunt împrumutate din Codul penal prusian dela 1851 și din cel francez dela legile penale anterioare, menționate mai sus.
-
-DISPOZIȚIUNI PRELIMINARE
-Art. 1. -
-Infracțiunea ce se pedepsește de lege cu pedepsele:
-
-Munca silnică,
-
-Recluziunea,
-
-Detențiunea și
-
-Degradațiunea civică, se numește crimă.
-
-Infracțiunea ce se pedepsește de lege cu:
-
-Închisoare corecțională.
-
-Interdicțiunea unora din drepturile politice, civile ori de familie și amendă dela 26 lei în sus2) se numește delict.
+În vigoare de la 18 martie 1936 până la 01 februarie 1948, fiind înlocuit prin Codul Penal 1936;
 
 
-2) Conform art. 399, al. 2 din Codul penal, toate amenzile fixate în corpul codului vor trebui reduse la jumătate, deoarece Codul penal fiind decretat la 12 Octomvrie 1864, leii vechi cari circulau pe atunci trebuesc, transformați în lei noui.
+*) Denumit "Carol al II-lea" potrivit legii intitulată: "Denumirea Codurilor de unificare a legislației", decretată sub Nr. 577/1936 și publicată în Monitorul Oficial, partea I, Nr. 73 din 27 Martie 1936.
 
-Art. 399, al. 2 însă nu este aplicabil și la amenzile înființate prin legile modificatoare Codului penal dela 1874 încoace, deoarece leii vechi nu mai sunt în circulație din acel timp, înlocuiți fiind cu lei noui, iar legiuitorul modificator nu putea prescrie o pedeapsă într'o monetă ce nu mai exista în anul 1874 și cu atât mai mult în anii din urmă. Prin noua lege din 1923 însă, toate aceste amenzi trebuesc mărite de zece ori; această dispozițiune însă este provizorie și luată în vederea deprecierei valutei leului.
-
-Infracțiunea pe care legea o pedepsește cu:
-
-Închisoare polițienescă și cu amendă se numește contravențiune.
-
-Art. 2. -
-Nici o infracțiune nu se va pedepsi, dacă pedepsele nu vor fi fost hotărîte înaintea săvârșirei sale.
-
-Infracțiunile săvârșite în timpul legiuirei celei vechi se vor pedepsi după acea legiuire; iar când pedepsele prevăzute prin legea de față vor fi mai ușoare, se va aplica pedeapsa cea mai ușoră.
-
-Infracțiunile săvârșite sub codicele vechiu, dar neprevăzute de codicele actual, nu se mai pedepsesc.
-
-Art. 3. -
-(Modif. L. 15 Febr. 1894). Disposițiunile acestui codice se aplică la infracțiunile comise pe pământul României sau pe o navă română1).
-
-
-1) A se vedea nota 2 dela art. 1 și art. 399, al. II.
-
-Art. 4. -
-(Modif. L. 15 Febr. 1894). Oricare Român va putea fi urmărit și judecat, chiar în lipsă, pentru crimele săvârșite, fie ca autor, fie ca complice, în afară de teritoriul României.
-
-De asemenea, el va putea fi urmărit și judecat pentru faptele săvârșite, fie ca autor, fie ca complice, în afară de teritoriul României, și calificate delicte după acest codice, dacă acele fapte sunt pedepsite după legislațiunea țărei unde au fost săvârșite, afară de delictele prevăzute și pedepsite de art. 180, 181, 238, 243, 247, 249, 258, 299 § 1, 321, 352, 353, 355 și 356 din codul penal.
-
-În caz de deosebire între pedepsele prevăzute de legislațiunea țărei unde s'a comis crima sau delictul și acele prevăzute de acest codice, se va aplica pedeapsa cea mai ușoară.
-
-Nici o urmărire nu se va putea face pentru crimele sau delictele săvârșite de Români, în afară de teritoriul României, dacă inculpatul va dovedi că pentru acele fapte a fost judecat într'un mod definitiv în străinătate și, în caz de condamnare, că a executat pedeapsa sau că a fost grațiat.
-
-Nici o urmărire nu se va putea face pentru delictele săvârșite de Români în afară de teritoriul României, decât după întoarcerea voluntară a Românului în țară sau după obținerea extradițiunei lui. Acțiunea publică nu se va putea prescrie însă, decât prin un îndoit termen de cel prevăzut de art. 595 din procedura criminală.
-
-Art. 5. -
-(Modif. L. 15 Febr. 1894). Dispozițiunile din articolul precedent sunt aplicabile străinilor domiciliați în România, dacă nu sunt supuși unei țări cu care România are tratat de extradițiune și dacă extradiția lor nu a fost cerută de țara lor.
-
-Ori-care străin care, în afară de teritoriul României, va fi săvârșit, fie ca autor, fie ca complice, ver-o crimă în contra siguranței Statului, sau ver-o crimă de contrafacere a sigiliului Statului, a monetei naționale, având curs în România, a hârtiilor de credit sau titlurilor Statului român, a biletelor de bancă autorizate de lege, va putea fi urmărit, judecat și pedepsit în România dacă va fi prins pe teritoriul român sau dacă guvernul va obține extrădarea lui.
-
-Competența instanței represive, în cazurile de mai sus precum și în cele prevăzute de art. 4, se va determina, pentru urmărirea și judecarea culpabilului, după locul de reședință al inculpatului, sau după locul unde inculpatul a fost prins.
-
-Cu toate acestea, după cererea ministerului public sau a părților, Curtea de casație va putea strămuta cercetarea afacerei dinaintea instanței judecătorești celei mai apropiate de locul unde crima s'a comis.
-
-Art. 6. -
-Dispozițiunile acestei legi se aplică și la militari, afară de cazurile speciale prevăzute de legea penală militară.
+În text sunt cuprinse rectificările din Monitorul Oficial, p. I, Nr. 83 din 8 Aprilie 1936, pag. 3177.
 
 CARTEA I
-DESPRE PEDEPSE ȘI EFECTELE LOR
-TITLU I
-DESPRE NATURA PEDEPSELOR
-Art. 7. -
-Pedepsele pentru crime sunt:
-
-7.1. Munca silnică pe toată viața;
-
-7.2. Munca silnică pe timp mărginit dela 5 până la 20 ani;
-
-7.3. Recluziunea într'o casă de muncă, dela 5 ani până la 10 ani;
-
-7.4. Detențiunea dela 3 ani până la 10 ani;
-
-7.5. Degradațiunea civică dela 3 ani până la 10 ani.
-
-Art. 8. -
-Pedepsele pentru delicte sunt:
-
-8.1. Închisoarea dela 15 zile până la 5 ani;
-
-8.2. Interdicțiunea dela 6 luni până la 6 ani a unora din drepturile politice, civile ori de familie;
-
-8.3. Amenda dela 26 lei în sus1).
-
-
-1) A se vedea și nota 2 dela art. 1 și art. 399, al. II.
-
-Art. 9. -
-Pedepsele peatru contravențiuni sunt:
-
-9.1. Închisoarea dela 1 până la 15 zile;
-
-9.2. Amenda dela 5 până la 25 lei1).
-
-TITLU II
-DESPRE APLICAREA ȘI EXECUTAREA PEDEPSELOR
-§1. Munca silnică
-Art. 10. -
-Munca silnică se va face, sau în minele Statului, sau în stabilimentele penitenciare.
-
-Acei condamnați la asemenea pedeapsă vor fi supuși la un regim aspru.
-
-Până la înființarea sistemului penitenciar, osândiții la asemenea pedeapsă se vor întrebuința la lucrările cele mai aspre înăuntrul minelor, sau și afară din mine, pentru lucrările de utilitate publică.
-
-Ei vor fi puși în fiare.
-
-Acei cari lucreză la mine, noaptea se vor scoate afară și se vor închide în temniță, având și fiare de picioare.
-
-Art. 11. -
-Femeile condamnate la muncă silnică se vor închide în deosebite stabilimente, totdeauna separate de bărbați și supuse la muncă potrivit cu vârsta și cu sexul lor.
-
-Ele vor fi asemenea supuse la un regim aspru.
-
-Art. 12. -
-Osîndiții sau osânditele la munca silnică pe viață se vor ține osebiți de acei osândiți la munca silnică pe timp mărginit și se vor deosebi prin costumul lor.
-
-Art. 13. -
-În timpul pedepsei lor, acei osândiți la munca silnică vor fi incapabili de a-și administra starea și a dispune de dânsa prin acte între vii.
-
-Ei vor fi puși sub curatelă, după formele admise pentru numirea curatorilor, și nu li se va putea da, în timpul duratei pedepsei lor, nici o parte din starea sau venitul lor.
-
-Averea osândituli i sa va da înapoi după încetarea osândei, și curatorul îi va da socoteală despre administrarea averei sale.
-
-Osânda la munca silnică atrage după sine degradațiunea civică pe timpul osândei.
-
-Art. 14. -
-Osânda la munca silnică pe viață sau pe timp mărginit nu se va putea pronunța în contra acelora cari, la pronunțarea sentinței definitive, vor fi împlinit al 60-lea an1), și în locul acestei pedepse se vor osândi la recluziune pe acelaș timp pe care ar fi trebuit a se osândi la munca silnică.
-
-
-1) Art. francez corespunzător, 72, prevede 70 de ani împliniți în loc de 60, cum prevede textul român.
-
-§2. Recluziunea
-Art. 15. -
-Osînditul la recluziune se va închide într'o casă de muncă, destinată pentru acesta.
-
-Va fi întrebuințat la lucrări determinate prin regulamentele acelei case de recluziune.
-
-Folosul ce va rezulta din produsul muncei sale se va împărți între Stat și osândit; iar din partea ce se cuvine osândituli, jumătate i se va da în cursul osândei, iar cealaltă jumătate se va depune deoparte, spre a forma pentru osândit un capital da rezervă, care i se va da la liberarea lui, conform dispozițiunilor regulamentare ce se vor face întru aceasta.
-
-Ei vor fi puși în fiare.
-
-Art. 16. -
-Se va aplica osândiților la recluziune dispozițiunile art. 13.
-
-În timpul osândei însă, se va putea da osândituli o mică parte din veniturile sale, care se va fi determinat prin hotărîrea judecătorescă, ca să-i serve numai drept ajutor la a sa viețuire, de va merita prin a sa conduită.
-
-Art. 17. -
-Regimul special al caselor de recluziune va fi, în principiu, bazat pe munca obligatorie.
-
-Art. 18. -
-Până la înființarea caselor speciale de recluziune, un regulament de administrațiune publică va determina locurile unde se vor ținea provizoriu osândiții la această pedeapsă.
-
-Art. 19. -
-Femeile osândite la recluziune se vor închide într'o casă separată.
-
-§
-3. Detențiunea
-
-Art. 20. -
-Osîndiții la această pedeapsă se vor închide într'una din mânăstirile ce se vor determina anume prin regulamente de administrațiune publică.
-
-Ei vor fi liberi a comunica atât cu persoanele dinăuntru cât și cu orice alte persoane din afară, în timpul și conform regulamentelor de poliție întărite printr'un decret domnesc.
-
-Asemenea, osândiții la detențiune nu vor purta costumul de închisoare și își vor putea procura, prin propriile lor mijloace, ori-ce îndulcire în locuință și nutriment, compatibilă cu regimul închisorii.
-
-Ei nu vor fi supuși la nici un fel de muncă1).
-
-
-1) În art. francez corespunzător, 20, lipsesc ultimele două aliniate.
-
-Art. 21. -
-Femeile osândite la detențiune se vor închide într'o mânăstire, separate de bărbați.
-
-§4. Degradațiunea civică
-Art. 22. -
-Degradațiunea civică consistă:
-
-22.1. În destituirea și excluderea condamnaților dela ori-ce funcțiune și oficiu public;
-
-22.2. În pierderea dreptului de vot, alegere și eligibilitate și, în general, de toate drepturile civile și politice și de dreptul de a purta vre-o decorațiune sau vre-un alt semn ori titlu distinctiv de onoare;
-
-22.3. În necapacitatea de a fi numit jurat sau expert, de a fi întrebuințat ca martor în acte și de a depune mărturii în judecată, decât pentru a da niște simple arătări;
-
-22.4. În necapacitatea de a face parte din vre-un consiliu de familie, de a fi tutore, curatore, subrogat-tutore2) sau consilier judecătoresc, decât numai al copiilor săi, și atunci după chibzuirea familiei;
-
-22.5. În pierderea dreptului de a purta arme, de a servi în armata română, de a ține școală sau de a fi impiegat în vre-unul din stabilimentele de instucțiune ca profesore, institutor, învățător, repetitor sau priveghetor.
-
-
-2) În codul nostru civil spre diferență de cel francez, nu există instituțiune de subrogator. Credem că din eroare s'a tradus și acest cuvânt din textul Codului penal francez.
-
-Art. 23. -
-Degradațiunea civică, când va fi pronunțată ca pedeapsă principală, va putea fi însoțită și de o închisoare corecțională, a căreia durată, fixată prin hotărîrea de condamnațiune, nu va putea trece peste doi ani.
-
-Când culpabilul va fi străin, sau un român care și-a pierdut dreptul său de naționalitate, pedeapsa închisorii va trebui neapărat a fi pronunțată.
-
-§5. Închisoarea
-Art. 24. -
-Osînditul la închisoare va fi închis într'o casă de corecțiune.
-
-El va fi întrebuințat la lucru, pe cât se va putea, potrivit cu a sa meserie și după a sa alegere.
-
-Folosul ce va produce lucrul fie-cărui arestat se va întrebuința parte pentru cheltuelile casei de închisoare, parte spre a-i procura oarecare îndulcire1) și parte spre a forma pentru dânsul un capital de rezervă, care să i se dea la a sa liberare, conform regulamentelor speciale.
-
-
-1) Art. francez corespunzător, 41, adaugă: <<s'il les merite>>.
-
-Art. 25. -
-Regimul închisorii corecționale va fi mai blând decât al celorlalte închisori; se va putea însă agrava pentru cei cu rele purtări, conform regulamentelor disciplinare, cari vor putea prescrie chiar punerea în fiare, numai pentru cauză de securitate sau de disciplină.
-
-Art. 26. -
-Pe cât putința va sta, se vor deosebi osândiții după categoria infracțiunilor lor.
-
-Femeile vor fi separate de bărbați și se vor întrebuința la lucru potrivit sexului lor.
-
-§.6. Interdicțiunea corecțională
-Art. 27. -
-La întâmplările prevăzute de lege, judecătoriile vor putea pronunța interdicțiunea unuia sau mai multora din drepturile arătate la art. 22.
-
-§.7. Amenzi
-Art. 28. -
-Amenda se pronunță sau singură, sau însoțită de altă pedeapsă.
-
-La caz de nesolvabilitate a condamnatului, amenda se va înlocui cu închisoare.
-
-Durata închisorii se va determina de judecătorie, socotindu-se drept 10 lei2) de amendă o zi de închisoare; durata însă a închisorei nu va putea fi, în asemenea caz, mai mare de un an.
-
-
-2) A se vedea nota 2 dela art. 1. Conform art. 399, al. II, acești 10 lei fiind lei vechi, trebuesc reduși la jumătate. Deci, trebuie socotit 5 lei noui, amendă o zi închisoare. A se vedea și partea finală dela nota 2 a art. 1.
-
-§.8. Închisoarea polițienească
-Art. 29. -
-Acei osândiți la închisoare polițienească se vor închide în vre-una din casele de arest ce vor fi întocmite într'adins pentru aceasta.
-
-Nu vor putea fi întrebuințați la lucru, fără voia lor, nici în închisoare, nici afară din închisoare.
-
-Regimul va fi forte blând și, la nici un caz, nu se va putea agrava prin punerea fiarelor.
-
-Femeile vor fi separate de bărbați.
-
-§.9. Amenda polițienească
-Art. 30. -
-Amenda se pronunță sau singură, sau însoțită cu închisoare polițienească.
-
-La caz de nesolvabilitate a condamnatului, amenda se va înlocui cu închisoare, a cărea durată se va determina de judecătorie, socotindu-se drept 10 lei amendă o zi de închisoare1).
-
-
-1) A se vedea nota 2 dela art. 1. Conform art. 399, al. III: << amenzile pentru contravențiuni se socotesc în lei noui, fără nici o reducere>>.
-
-Art. 31. -
-Condamnații la munca silnică, recluziune, închisoare corecțională, precum și închisoare polițienească, vor fi liberi a comunica cu părinții, copiii, soțul, precum și cu celelalte rude de mai aprope; aceasta însă, numai conformându-se întru totul condițiunilor prescrise de regulamentele speciale ale fie-cărei închisori.
-
-Art. 32. -
-Durata pedepselor se va socoti din ziua când sentința sau deciziunea condamnatoare va fi rămas definitivă.
-
-Dacă individul se află în detențiune preventivă, durata pedepsei se va socoti, dacă condamnatul nu va fi făcut apel sau recurs, din ziua sentinței sau a hotărîrei, fără a se împiedeca aceasta de apelul sau recursul ministerului public și ori-care ar fi rezultatul acestui apel sau recurs.
-
-Asemenea se va urma și în cazul când pedeapsa se va reduce de instanța mai înaltă, după apelul sau recursul condamnatului.
-
-Art. 33. -
-Când durata pedepselor este hotărîtă pe zile, luni sau ani, ziua se socotește de 24 ore, luna de 30 zile și anul de 365 zile.
-
-Ziua din care începe pedeapsa și ziua în care încetează se vor ține în semă osândituli ca zile depline2).
-
-
-2) În textul art. prusian corespunzător, 15, lipsește acest al 2-lea aliniat. În schimb, textul prusian are un aliniat următor, care lămurește că pedeapsa închisorii <<nu poate fi mai mică de o zi>>.
-
-Art. 34. -
-Toate hotărîrile ce vor pronunța pedeapsa la munca silnică pe toată viața sau pe timp mărginit, la recluziune, la detențiune, la degradațiunile civică, se vor publica în extract, se vor afige în orașul unde se va fi pronunțat hotărîrea, în comuna locului unde s'a comis crima, la locul unde se va executa pedeapsa și la locul domiciliului condamnatului.
-
-Art. 35. -
-Pedeapsa pecuniară, adică amenda, nu va putea fi executată asupra moștenirei condamnatului, decât în cazul când hotărîrea de condamnațiune va fi devenit nerevocabilă înaintea morței sale.
-
-Art. 36. -
-Condamnatul, afară de restituțiune, când va avea loc, va putea fi asemenea osândit și la alte desdăunări către partea civilă, dacă aceasta o va cere.
-
-În acest caz, suma desdăunărei se va determina de judecător, dacă nu este determinată chiar de lege.
-
-Judecătorii, însă, nu vor putea, chiar prin consimțirea zisei părți, să încuviințeze întrebuințarea desdăunărei sau a restituțiunei pentru ori-care alt sfârșit, chiar când ar fi vorba de vre-o operă de utilitate publică.
-
-Art. 37. -
-Judecătorii vor putea ordona să se confiște:
-
-37.1. Lucrurile produse prin crimă, delict sau contravențiune;
-
-37.2. Lucrurile cari au servit, sau care au fost destinate spre a comite vre-o infracțiune, dacă aceste lucruri vor fi ale autorului infracțiunei sau ale vre-unui complice.
-
-37.3. Scrierile, imaginele sau figurile cari ar prezenta elementele unei acțiuni condamnabile; pentru aceasta se va ordona, în acelaș timp, și distrucțiunea tutolor exemplarelor ce se vor fi găsit, precum și a planchetelor, formatelor sau tiparelor cari vor fi destinate spre a le reproduce.
-
-Confiscarea sau destrucțiunea vor fi parțiale, la caz când numai unele pasaje sau unele părți din planchete, formate sau tipare vor fi contrarii legei.
-
-37.4. Toate lucrurile făcute sau menținute în contra regulamentelor polițienești.
-
-Acestea, la caz de a fi vătămătore sănătăței publice, se vor distruge în total sau în parte1).
-
-
-1) Art. prusian corespunzător, 19, nu cuprinde cele două aliniate No. 4 al art. 37 Cod. penal Român.
-
-TITLU III
-DESPRE TENTATIVĂ
-Art. 38. -
-Tentativa de crimă, adică ori-ce început de execuțiune a crimei, de se va fi curmat din împrejurări cu totul neatârnate de voința autorului ei, se va pedepsi cu o pedeapsă de o treptă mai jos decât aceea ce s'ar fi cuvenit de s'ar fi executat crima1).
-
-Crima săvârșită, dar neisbutită, se va pedepsi cu minimul pedepsei ce s'ar fi cuvenit de s'ar fi executat crima.
-
-Când pedeapsa va fi aceea a recluziunei, tentativa se va pedepsi cu închisoare corecțională dela doi ani până la cinci ani.
-
-Când pedeapsa va fi munca silnică pe toată viața, crima săvârșită dar neisbutită, se va pedepsi cu maximul muncei silnice pe timp mărginit.
-
-
-1) Conform art. 31, 32 și 33 Codul penal prusian tentativele de crimă și delict se pedepsesc cu aceeaș pedeapsă ca și cum crima sau delictul s'au comis.
-
-Art. 39. -
-Tentativa de vre-un delict, adică ori-ce început de execuțiune a delictului, care se va fi curmat din împrejurări cu totul neatârnate de voința autorului, precum și delictul neizbutit, se vor pedepsi numai la întîmplările prevăzute prin vre-o dispozițiune specială a legei1).
-
-
-1) Conform art. 31, 32 și 33 Codul penal prusian tentativele de crimă și delict se pedepsesc cu aceeaș pedeapsă ca și cum crima sau delictul s'au comis.
-
-TITLU IV
-DESPRE CONCURSUL MAI MULTOR INFRACȚIUNI ȘI DESPRE RECIDIVĂ
-Art. 40. -
-Când inculpatul se va fi dat în judecată pentru mai multe crime sau delicte, se va aplica numai osânda cea mai grea, dacă acele crime sau delicte vor fi de deosebite naturi și supuse la osebite pedepse; iar de vor fi de aceeaș natură și supuse la aceleași pedepse, judecata va hotărî maximul pedepsei2).
-
-
-2) Art. francez corespunzător, 365, din Pr. penală dela 1808, în partea sa finală diferă de textul român <<En cas de convinction de plusieurs crimes et detils, la peine la plus forte sera seule prononcee>>. În Codul penal francez dela 1832, actualmente în vigoare, materia recidivei este cuprinsă în art. 56-58 și diferă mult de textul român. Art. nostru 40 este inspirat mai mult după art. 55, 56 și 57 din Codul penal prusian din 1851.
-
-Art. 41. -
-Ori-care, osândit fiind, printr'o hotărîre nerevocabilă la o pedeapsă criminală, dacă, după împlinirea pedepsei, va fi comis o a doua crimă, se va condamna la o pedeapsă cu un grad mai mare decât aceea ce hotărăște legea pentru crima ce a săvârșit.
-
-Art. 42. -
-Acela care, fiind osândit mai înainte pentru crimă, după împlinirea pedepsei va săvârși vre-un delict care va merita pedeapsă corecțională, se va osândi la maximul pedepsei prescrise de lege pentru acel delict, și acea pedeapsă poate a se și îndoi, când osânda prescrisă pentru delictul săvârșit ar fi chiar acel maximum.
-
-Art. 43. -
-Acei cari vor fi fost osândiți pentru pricini corecționale la închisoare mai mult de 6 luni, la întîmplare de recidivă de delicte, se vor supune la maximul pedepsei prescris de lege pentru acel delict, și acea pedeapsă poate a se îndoi, când osânda prescrisă pentru delictul săvârșit va fi chiar acel maximum.
-
-(Adaos L. 17 Febr. 1874). În materie de crimă, delict de presă sau politic, delicventul nu se va considera ca recidivist, decât dacă prima osândă va fi fost asemenea pentru delict de presă sau politic1).
-
-
-1) Art. francez corespunzător, 58, nu cuprinde acest al 2-lea aliniat.
-
-Art. 44. -
-Acela care, fugind din munca ocnei, sau dintr'o casă de închisoare criminală sau corecțională, sau în timpul când suferă una din aceste pedepse, va comite o a doua crimă sau delict, se va pedepsi după chipul următor:
-
-1. Dacă pedeapsa ce legea hotărăște pentru a doua faptă este mai grea decât cea dintâi, atunci se va aplica maximul pedepsei hotărîte de lege pentru cea din urmă faptă;
-
-2. Dacă pedeapsa faptei a doua este mai ușoară decât cea dintâi, atunci inculpatul își va împlini pedeapsa cea dintâi fără alt adaus.
-
-Însă când, scăzându-se timpul ce mai rămâne până la împlinirea pedepsei întâi din timpul ce legea hotărăște pentru pedeapsa a doua, va rămânea un prisos de timp, atunci condamnatul, după ce va ieși din cea dintâi închisoare, va împlini și acest rest în cea de a doua închisoare.
-
-Art. 45. -
-Nu se socotește în stare de recidivă acela care, osândit fiind pentru un delict, a săvârșit la urmă o crimă.
-
-Art. 46. -
-Agravarea pedepsei de recidivă nu se va pronunța, dacă au trecut 10 ani din momentul de când condamnatul și-a terminat pedeapsa celei din urmă crime sau delict.
-
-TITLU V
-DESPRE COMPLICITATE
-Art. 47. -
-Sunt agenți provocatori aceia cari, prin daruri, promisiuni, amenințări, abuz de autoritate sau de putere, uneltiri culpabile, vor fi provocat la o infracțiune sau vor fi dat instrucțiuni spre a o comite.
-
-Sunt asemenea agenți provocatori aceia cari, prin vre-unul din mijloacele enumerate în art. 294, vor fi provocat direct la comiterea unei crime sau unui delict prevăzut de codicele penal.
-
-Acești agenți se pedepsesc întocmai ca autorul.
-
-Acei cari, prin vre-unul din mijloacele indicate în citatul art. 294, vor provoca direct la comiterea unei crime sau delict prevăzut prin codicele penal, fără ca acea provocațiune să fi produs vre-un efect, se vor pedepsi cu închisoare dela trei luni până la 2 ani și cu amendă de la 500 până la 5000 lei1).
-
-Pentru delictele de presă sunt răspunzători: autorul, când este cunoscut sau când se dovedește, iar în lipsa lui, girantul, editorul.
-
-
-1) A se vedea nota 2 dela art. 1, precum și art. 399, al. II Codul penal.
-
-Art. 48. -
-Complicele se va pedepsi cu un grad mai jos decât autorul principal, însă după natura crimei privită ca comisă de el, iar nu după natura sau agravarea ce poate lua crima sau delictul, în raport cu autorul principal, din circumstanțe personale ale acestuia sau din circumstanțe survenite în cursul execuțiunei crimei sau delictului, fără știrea complicelui.
-
-Art. 49. -
-Când pedeapsa autorului principal va fi recluziunea, pedeapsa complicelui va fi închisoarea corecțională de la 2 până la 5 ani.
-
-Când pedeapsa autorului principal va fi închisoarea corecțională, pedeapsa complicelui va fi minimul acestei pedepse.
-
-Art. 50. -
-Vor fi pedepsiți ca complici ai unei fapte calificate crimă sau delict:
-
-50.1. Aceia cari vor fi procurat arme, instrumente, sau ori-ce alte mijloace cari au servit la comiterea faptei, știind că o să servească la această comitere;
-
-50.2. Acei cari, cu bună știință, vor fi ajutat sau vor fi asistat pe autorul sau pe autorii acțiunei în faptele care au pregătit-o sau au înlesnit-o, sau în acelea care au săvârșit-o, fără prejudițiul pedepselor cari sunt prevăzute pentru autorii de comploturi sau de provocațiune în contra siguranței interioare sau exterioare a Statului, chiar în cazul când crima ce aveau în vedere conspiratorii sau provocatorii nu se va fi executat;
-
-50.3. (Adaos L. 17 Febr. 1874). Aceia cari vor fi contribuit, în cunoștință de cauză, la vânzarea sau numai la distribuirea ori expunerea unei scrieri, unui imprimant, unui desen sau unei gravuri, cari nu vor arăta lămurit numele și domiciliul adevărat al autorului, girantului, editorului, când scrierea, imprimatul, desenul sau gravura conțin crimă sau delict.
-
-Persoanele de mai sus sunt scutite de ori-ce pedeapsă:
-
-50.3.1. Dacă vor arăta pe adevăratul individ dela care țin scrierea, imprimatul, desenul sau gravura.
-
-50.3.2. Dacă vor arăta pe adevărații autori, giranți și editori.
-
-Art. 51. -
-Complicele se va pedepsi întocmai ca și autorul principal, când cooperațiunea lui a fost ast-fel încât fără ea delictul nu s-ar fi comis.
-
-Art. 52. -
-Aceia cari cunoscând culpabila purtare a făcătorilor de rele în uneltire de tâlharii sau de silnicii în contra siguranței Statului, a liniștei obștești, a persoanelor sau a proprietăților, sunt deprinși a le da mai întotdeauna găzduire, loc de scăpare ori de întîlnire, se vor pedepsi ca complici ai acelor făcători de rele.
-
-Art. 53. -
-Aceia cari, cu bună știință, vor fi ascuns, în tot sau în parte, lucrurile sau banii ce provin din furt sau din săvârșirea ori-cărei alte crime sau delict, sunt tăinuitori, iar nu complici.
-
-Tăinuitori sunt acei cari cu știință vor cumpăra, vor primi în schimb sau dar, vor lua ca să neguțătorească, se desființeze ori să prefacă, ori vor primi drept plată sau zălog, lucruri sau bani proveniți din vre-o crimă sau delict.
-Jurisprudență (1)
-
-Rudele de sus și de jos, bărbatul și muierea, frații și surorile, nu se socotesc tăinuitori.
-
-Art. 54. -
-Tăinuitorii se vor pedepsi cu închisoare corecțională până la 2 ani.
-
-Art. 55. -
-Tăinuitorii de lucruri molipsite se vor pedepsi cu 2 ani închisoare corecțională.
-
-Art. 56. -
-Aceia cari, mai înainte sau în timpul săvârșirei crimei sau a delictului, ar fi avut înțelegere ca se ascundă lucrurile ce vor proveni din infracțiune, se vor pedepsi ca complici.
-
-TITLU IV
-DESPRE CAUZELE CARI APĂRĂ DE PEDEAPSĂ SAU MICȘOREAZĂ PEDEAPSA
-Art. 57. -
-Nu se socotește nici crimă, nici delict faptul săvârșit în stare de smintire și în ori-care altă stare de perderea uzului rațiunei sale prin cauze independente de voința sa.
-
-Art. 58. -
-Nu este nici crimă, nici delict când fapta va fi săvârșită din cauză de legitimă apărare.
-Reviste (1)
-
-Apărarea este legitimă când este necesară spre a respinge un atac material1), actual și injust, în contra persoanei sale sau a altuia.
-
-Se socotește ca legitimă apărare și cazul când agentul, sub imperiul turburărei, temerei sau teroarei, a trecut peste marginile apărărei.
-
-
-1) În art. prusian, 41, lipsește cuvântul <<material>>.
-
-Art. 59. -
-Nici o crimă sau delict nu poate fi scuzat, nici pedeapsa nu se va putea micșora, decât în cazurile și în circumstanțele acelea în cari legea declară fapta scuzabilă sau permite de a aplica o pedeapsă mai puțin riguroasă.
-
-Art. 60. -
-Afară de cauzele de scuze anume prevăzute de lege, mai sunt și alte cauze de micșorarea pedepsei, lăsate cu totul la aprecierea juriului sau a judecătorului corecțional, care se numesc circumstanțe atenuante.
-
-Când juriul va declara că există în favorea acuzatului, recunoscut culpabil, circumstanțe atenuante, pedeapsa ce pronunță legea în contra unor asemenea acuzații, se va modifica după cum urmează:
-
-Dacă pedeapsa ce pronunță legea este munca silnică pe viață, Curtea va aplica pedeapsa muncei silnice pe timp mărginit sau recluziunea.
-
-Dacă pedeapsa este aceea a muncei silnice pe timp mărginit, Curtea va aplica pedeapsa recluziunei sau maximul închisorii.n.dac.o
-
-Dacă pedeapsa va fi aceea a recluziunei, detențiunei, degradațiunei civice, sau maximul închisorii corecționale.
-
-Curtea sau tribunalul va aplica închisoarea corecțională, fără a o putea reduce la mai puțin de un an.
-
-Curtea va putea încă aplica și o amendă dela 500 până la 1500 lei1).
-
-În cazul când legea pronunță maximul unei pedepse criminale, curtea va aplica minimul aceleiaș pedepse sau chiar pedeapsa ce vine cu un grad mai jos.
-
-Dacă legea pronunță pedeapsa închisorii sau acea a amenzei și dacă tribunalele corecțiunale vor constata circumstanțe atenuante, ele sunt autorizate, chiar în caz de recidivă, a reduce pedeapsa închisorei până la minimul de 15 zile și chiar mai jos, precum asemenea și pedeapsa amenzei până la minimul de lei 261) și chiar mai jos. Tribunalele pot să substituie, în asemenea caz, închisorei amenda, fără însă să se poată coborî, în nici un caz, mai jos de simplă poliție.
-
-
-1) A se vedea nota 2 dela art. 1 și art. 399, al. II Codul penal.
-
-Art. 61. -
-Infracțiunea comisă de un copil mai mic de opt ani deplini nu se pedepsește.
-
-Art. 62. -
-Crimele sau delictele comise de un minor, ce are vârsta dela 8 ani deplini până la 15 ani deplini, nu se vor pedepsi, dacă se va decide de judecată că acuzatul a lucrat fără pricepere, dar, după împrejurări, se va încredința părinților săi, spre a avea o îngrijire mai de aproape, sau se va pune într'o mânăstire, ce într'adins se va determina pentru corecțiunea unor asemenea copii, unde se va ține într'un timp de ani determinați prin hotărîrea judecăței, fără însă ca acești ani să poată covârși vârsta de 20 ani a culpabilului.
-
-Art. 63. -
-Când se va decide că acuzatul a lucrat cu pricepere, sau de va fi în etate dela 15 ani deplini până la 20 ani deplini, pedepsele se vor pronunța după chipul următor:
-
-Dacă a sa infracțiune va merita pedeapsa de muncă silnică pe viață sau pe timp mărginit, se va condamna dela 3 până la 15 ani închisoare.
-
-În celelalte cazuri, judecătorul este autorizat a aplica pedeapsa închisorei, pe un timp egale cel puțin cu a treia parte, sau cel mult cu jumătatea timpului pentru care ar fi putut fi condamnat la una din pedepsele privitoare la acele cazuri.
-
-Art. 64. -
-În toate cazurile prevăzute în articolul precedent, pedeapsa închisorei se va executa, sau într'un stabiliment anume destinat pentru aceasta, sau într'o parte separată a casei de închisoare corecțională.
-
-Art. 65. -
-Cei mai mici în vârstă de 20 ani deplini, cari nu vor avea complici de față mai mari de această vârstă și cari vor fi acuzați de crime, se vor judica de către judecătoriile corecționale, iar nu de curtea juraților.
-
-Judecătoriile corecționale însă se vor conforma articolelor 62, 63 și 64.
-
-CARTEA II
-DESPRE CRIME ȘI DELICTE ÎN SPECIAL ȘI DESPRE PEDEPSELE LOR
-TITLU I
-CRIMA DE ÎNALTĂ TRĂDARE
-CAPITOLUL I
-Crime în contra siguranței exterioare a Statului
-Art. 66. -
-Ori-ce Românu va fi purtat armele în contra țărei, se va pedepsi cu muncă silnică pe toată viața.
-
-Art. 67. -
-Ori-ce Românu va fi uneltit mașinațiuni sau se va fi pus în înțelegere cu guverne străine sau cu agenții lor, spre a provoca răsboiu în contra patriei sale, spre a înlesni și a aduce ocupațiune străină, spre a răsturna cu ori-ce mijloc guvernul țărei, se va pedepsi cu munca silnică pe toată viața.
-
-Dacă însă răsboiul, ocupațiunea sau răsturnarea nu se va fi urmat, se va pedepsi cu recluziunea.
-
-Art. 68. -
-Asemenea vor fi pedepsiți cu munca silnică pe viață acei cari în timpul unui răsboiu în contra țărei:
-
-68.1. Vor fi predat cu trădare inamicului orașe, porturi, locuri întărite sau ori-ce alte posturi de apărare;
-
-68.2. Vor fi predat, tot cu trădare, case publice, arsenale, magazii sau depozite de arme, munițiuni sau alte obiecte de răsboiu, sau ori-ce fel de bastimente ale țărei;
-
-68.3. Vor fi procurat inamicului ajutoare de soldați, oameni, boi, proviziuni de hrană, arme sau munițiuni de răsboiu, sau vor fi îndemnat pe soldații armatei române a trece la inamic;
-
-68.4. Vor fi comunicat inamicului planurile de operațiuni militare sau planurile locurilor sau posturilor întărite;
-
-68.5. Vor fi servit inamicului de spioni sau călăuze sau vor fi ajutat și ascuns pe spionii inamicului;
-
-68.6. Vor fi ațîțat revoltă în trupele de apărare ale țărei.
-
-Art. 69. -
-Dacă corespondența cu supușii unei puteri străine n'a avut de obiect una din crimele enunțate în articolele precedente, dar a avut cu toate acestea rezultatul de a da inamicului instrucțiuni vătămătore situațiunei militare sau politice a României1), acei cari au întreținut aceste corespondențe, vor fi pedepsiți cu detențiunea fără a fi scutiți de pedepse mai grele, în caz când aceste instrucțiuni ar fi urmarea unei împreună înțelegeri ce ar constitui un fapt de spionaj.
-
-
-1) Art. francez corespunzător, 78, adaugă: <<ou de ses allies>>.
-
-Art. 70. -
-Va fi supus muncei silnice pe viață ori-ce funcționar public, ori-ce agent al guvernului, sau ori-ce altă persoană, care, însărcinată sau încunoștiințată oficial, sau din cauza situațiunei în care se află, de secretul unei negoțiațiuni sau unei expedițiuni, va trăda acel secret agenților unei puteri străine sau inamicului.
-
-Art. 71. -
-Va fi asemenea supus muncei silnice pe viață ori-ce funcționar public, ori-ce agent care, însărcinat din cauza funcțiunei sale, cu păstrarea planurilor de fortificațiune, de arsenale, porturi sau rade, ar da aceste planuri sau unul din planuri inamicului sau agenților inamicului. Pedeapsa va fi detențiunea, când planurile se vor da agenților unei puteri străine neutre sau aliate.
-
-Art. 72. -
-Ori-ce altă persoană care reușind, prin corupțiune, fraude sau violență, a sustrage zisele planuri, le ar da inamicului, sau agenților unei puteri străine, va fi pedepsită cu munca silnică pe timp mărginit.
-
-Dacă zisele planuri se găsesc, fără să se fi întrebuințat mijlocele arătate, în mâinile persoanei ce le a dat, pedeapsa va fi recluziunea.
-
-Art. 73. -
-Se va pedepsi cu recluziunea acela care, cu bună știință, sfărâmă, falsifică sau ascunde documente, sau acte cari stabilesc niște drepturi ale Statului Român în raport cu un guvern străin.
-
-Art. 74. -
-Ori-cine, prin acțiuni ostile, neaprobate de guvern, va expune Statul la o declarațiune de răsboiu, va fi pedepsit cu detențiunea și, dacă dintr'acesta răsboiul s'a și făcut, pedeapsa va fi recluziunea.
-
-Art. 75. -
-Ori-cine, prin acte neaprobate de guvern, va expune pe Români la represalii, se va pedepsi cu detențiunea.
-
-CAPITOLUL II
-Crime și delicte în contra siguranței interioare a Statului
-I. Despre atentate și comploturi în contra persoanei Domnitorului
-și a familiei sale
-
-Art. 76. -
-Ori-ce atentat în contra vieței Domnului sau în contra persoanei sale, se va pedepsi cu munca silnică pe toată viața.
-
-Art. 77. -
-Ori-ce ofensă comisă în public contra persoanei Domnitorului sau a Doamnei, sau a fiilor lor, chiar prin vre-unul din mijloacele arătate în art. 294, se va pedepsi cu închisoare dela 1 an până la 2 ani și cu amendă dela 2000 până la 10.000 lei1).
-
-Asemenea, ori-ce ofensă comisă în public, sau prin vreunul din mijloacele enumărate la art. 294, contra persoanei vre-unui alt membru al familiei Domnitorului, se va pedepsi cu închisoare dela 3 luni până la 18 luni și cu amendă dela 500 până la 3000 lei2).
-
-Prin familia Domnitorului se înțelege rudele ascendente și descendente și colateralii până la al treilea grad, precum și afinii de aceeaș categorie.
-
-Se vor pedepsi cu închisoare dela 6 luni până la 2 ani și cu amendă dela 2000 până la 10.000 lei3) acela care, prin aceleași mijloace, va ataca autoritatea constituțională a Domnitorului, sau inviolabilitatea persoanei sale, sau drepturile constituționale ale dinastiei lui, precum și cela ce va imputa Domnitorului actele guvernului său, pentru cari numai miniștrii sunt responsabili.
-
-
-1) și 2) A se vedea nota 2 dela art. 1 și art. 399, al. II Codul penal.
-
-3) A se vedea nota 2 dela art. 1 și art. 399, al. II Codul penal.
-
-Art. 78. -
-Atentatul ce ar avea de scop de a surpa, prin mijloace răsvrătitoare și ridicare de popor, forma guvernului, sau de a ațâța pe locuitori de a se scula în contra autorităței Domnului, se va pedepsi cu recluziunea.
-
-Art. 79. -
-Complotul ce ar avea de scop vre-una din crimele menționate la art. 76 și 78, dacă a fost urmat de un act săvârșit sau început spre a pregăti executarea acelor crime, se va pedepsi cu detențiunea; iar dacă complotul n'a fost urmat de nici un act săvârșit sau început spre a prepara executarea vre-uneia din acele crime, pedeapsa va fi aceea a închisorei.
-
-Complotul este atunci când, prin sfătuire, se va fi luat întrega hotărîre și se va fi făcut punerea la cale între două sau mai multe persoane spre a ajunge la săvârșirea vre-uneia din acele două crime prevăzute la art. 76 și 78.
-
-Art. 80. -
-Când un individ va lua singur hotărârea de a comite crima prevăzută, la art. 76 și 781), și va comite sau va începe a face el singur, și fără ajutorul nimănui vre-un act prin care pregătește executarea crimei, se va pedepsi cu detențiunea.
-
-
-1) Art. francez corespunzător, 90, se referă numai la crima prevăzută de art. 86 (76 român), nu și la aceea prevăzută de art. 87 (78 român), cum face art. 80 din Codul nostru penal.
-
-II. Crime și delicte în contra liniștei Statului prin
-răsboiu civil, prin ilegală întrebuințare a forței armate,
-prin devastațiuni și jafuri publice
-
-Art. 81. -
-Atentatul care va avea de scop a ațâța răsboiu civil, înarmând sau ridicând pe locuitori a se înarma unii contra altora, ori a săvârși omoruri și jefuiri într'unul sau mai multe orașe sau sate, se va pedepsi cu munca silnică, pe toată viața.
-
-Complotul uneltit spre acest sfârșit, se va pedepsi cu pedepsele hotărîte la art. 79, conform deosebirilor ce se fac într'acel articol.
-
-Art. 82. -
-Se vor pedepsi cu munca silnică pe toată viața acei cari, fără ordine sau autorizare din partea autorităței legale, vor fi ridicat sau vor fi făcut a se ridica trupe armate și le vor fi dat sau le vor fi înlesnit dare de arme ori munițiuni; asemenea se vor pedepsi și acei cari vor fi angajat sau înrolat, sau vor fi făcut a se angaja sau înrola soldați.
-
-Art. 83. -
-Se vor pedepsi cu munca silnică pe timp mărginit:
-
-a) Acei cari, fără cădere sau fără causă iertată de lege, vor fi luat comanda unui corp de oștire, a unui post, unui port, sau unui oraș, a unui sau mai multe bastimente de răsboiu, a unei cetăți sau loc întărit;
-
-b) Acei cari, în contra ordinului guvernului, vor mai ținea vre-o comandă militară;
-
-c) Comandirii cari vor ținea adunată oștirea lor, în contra ordinelor ce li se va fi dat, de a o libera sau a o desființa.
-
-Art. 84. -
-Ori-ce persoană, care, putând dispune de forță publică, va fi cerut, sau va fi ordinat mișcarea acestei forțe, sau întrebuințarea ei în contra unei înrolări sau redicări de oameni pentru oștirea întocmită de lege, se va pedepsi cu recluziunea.
-
-Dacă asemenea ordin, va fi avut efect, culpabilul se va pedepsi cu munca silnică pe viață.
-
-Art. 85. -
-Ori-ce persoană va fi incendiat sau distrus prin exploziunea unei mine, edificii, magazine, arsenale, corăbii sau alte proprietăți ale Statului, se va pedepsi cu munca silnică pe timp mărginit.
-
-Art. 86. -
-Se va pedepsi cu munca silnică pe viață acela care, ori ca să răpească banii publici, ori ca să jefuiască orașe sau sate, magazine, arsenale de ale Statului, case publice, fortărețe, posturi, porturi, corăbii sau bastimente ale Statului ori, în fine, ca să atace sau ca să reziste în contra puterei publice, care se va afla în goana săvârșitorilor unor asemenea crime, se va fi pus în capul unor cete armate, sau va fi exercitat într'ânsele vre-o funcțiune ori comandă oare-care.
-
-Se vor supune la munca silnică pe viață și acei cari vor fi directat, vor fi ridicat sau vor fi făcut a se ridica acele cete, sau cari le vor fi dat ori le vor fi înlesnit, cu bună știință și voință, arme, munițiuni și unelte de crime, sau cari le vor fi trimis mijloace de viețuire, sau cari, în orice alt chip, vor fi avut înțelegere culpabilă cu directorii sau comandirii acelor cete.
-
-Art. 87. -
-Dacă vre-una sau mai multe din crimele menționate în articolele 76, 78, și 81 se vor fi săvârșit sau încercat a se săvârși de către vre-o ceată, se vor pedepsi cu munca silnică pe toată viața, fără osebire, toți aceia cari vor face parte din acea ceată, și se vor fi prins la locul răsvrătitoarei întâlniri.
-
-Acel, care fără a se prinde la locul răsvrătitoarei întîlniri, va fi fost directorul răsvrătirei, ori va fi avut în ceată vre-o comandă, se va pedepsi iarăși cu munca silnică pe toată viața.
-
-Art. 88. -
-Afară de cazul în care reunirea sedițiosă ar fi avut de obiect sau de rezultat una sau mai multe din crimele enunțate în art. 76, 78 și 81, individii ce fac parte din bandele de cari s'a vorbit mai sus, fără să exerciteze într'însele vre-o comandă sau funcțiune, și cari s'ar prinde pe loc, se vor pedepsi cu recluziunea.
-
-Art. 89. -
-Acei cari cunoscând scopul și caracterul numitelor cete, și fără a fi siluiți, le vor fi găsduit, ori le vor fi dat loc de ascundere sau de întâlnire, se vor pedepsi cu recluziunea.
-
-Art. 90. -
-Întrunindu-se adunări sau cete turburătoare liniștei obștești, dacă după trei somațiuni, ce li se vor face de către autoritățile competente, nu se vor risipi și va mijloci lucrarea puterei armate, câți vor fi complici la dânsele și se vor prinde acolo, pe loc, se vor pedepsi cu închisoare dela șease luni până la doi ani: iar căpeteniile lor se vor pedepsi cu 2 ani închisoare.
-
-Însă acei din complici sau din căpetenii, care vor fi cu arme, se vor pedepsi cu recluziune.
-
-Art. 91. -
-Se socotesc arme, ori-ce unelte sau mașini sau instrumente înțepătoare, tăietoare sau sdrobitoare, precum: pușcă, pistol, lance, suliță, coasă, topor, bardă, cuțit, ciomag și alte asemenea1).
-
-Cuțitele de buzunar, foarfecile și bastoanele nu vor fi considerate ca arme, decât atunci când se vor fi întrebuințat a lovi, a răni sau a omorî.
-
-
-1) Art. francez corespunzător, 101, nu cuprinde și enumărarea uneltelor socotite arme: <<precum: pușcă, pistol, lance, suliță, coasă, topor, bardă, cuțit ciomag și alte asemenea>> care au fost adause de legiutorul român.
-
-Art. 92. -
-Vor fi apărați de pedepsele pronunțate în contra autorilor de comploturi sau de alte crime în contra siguranței interioare sau exterioare a Statului, acei culpabili cari, înaintea săvârșirei sau a tentativei acestor comploturi sau crime și mai înainte de ori-ce urmărire, vor fi dat, ei cei dintâi, guvernului sau autorităților administrative ori poliției judiciare, cunoștință despre aceste comploturi sau crime și despre autorii și complicii lor sau cari, chiar după ce s'au început urmăririle sau descoperirea culpabililor, vor fi înlesnit arestarea acelor autori sau complici.
+Dispozițiuni generale
+TITLUL I
+Legalitatea încriminării, pedepsei și măsurilor
+de siguranță
+Art. 1. -
+Nimeni nu poate fi pedepsit pentru o faptă, care, în timpul când a fost săvârșită, nu era prevăzută de lege ca infracțiune și nici condamnat la alte pedepse sau supus la alte măsuri de siguranță, decât acelea pe care le prevede legea.
 
 TITLUL II
-CRIME ȘI DELICTE ÎN CONTRA CONSTITUȚIUNEI
+Aplicarea legii penale
 CAPITOLUL I
-Crime și delicte în contra exercițiului drepturilor politice
-Art. 93. -
-Atentatul, al căruia scop este de a risipi cu violență adunarea legiuitoare ce se află în exercițiul legal al mandatului ei, de a o sili să ia sau să nu ia o hotărâre, de a izgoni cu violență pe unul sau pe mai mulți din membrii săi, se va pedepsi cu munca silnică pe timp mărginit.
+Aplicarea legii penale în timp
+Art. 2. -
+Infracțiunea săvârșită sub legea veche dar neprevăzută de legea nouă nu se pedepsește. Executarea pedepsii și a măsurii de siguranță, pronunțate în virtutea legii vechi, precum și toate consecințele penale ale hotărîrii judecătorești pentru acea infracțiune, încetează prin simplul fapt al intrării în vigoare a legii noi.
 
-Art. 94. -
-Acela care, prin violență, va împiedica pe un membru al corpului legiuitor de a merge la adunare sau de a vota, se va pedepsi cu recluziune.
+Art. 3. - Jurisprudență (1)
+Dacă după săvârșirea infracțiunii și înainte de condamnarea infractorului printr'o hotărîre definitivă, intervine o lege sau mai multe legi succesive, se aplică legea ale cărei dispozițiuni sunt mai favorabile infractorului.
 
-Art. 95. -
-Când se împiedică, prin atrupament, violență sau amenințări, unul sau mai mulți cetățeni de a-și exercita drepturile lor civice, fie-care din culpabili va fi pedepsit cu închisoare de șease luni cel puțin, și cu interdicțiunea dreptului de a vota și de a fi eligibil în timp de cinci ani cel puțin și de zece ani cel mult.
-
-Art. 96. -
-Dacă această crimă s'a comis în urmarea unui plan concertat ca să fie executat, fie în toată țera, fie într'unul sau mai multe județe, fie într'una sau mai multe plăși, pedeapsa va fi detențiunea.
-
-Art. 97. -
-Se va pedepsi cu închisoare dela un an până la doi ani:
-
-97.1. Acela care, fiind însărcinat de a aduna bilete de votare, a adăugit sau a micșorat, cu rea credință, numărul lor legitim;
-
-97.2. Acela care falsifică sau schimbă un bilet de votare, sau înscrie, pe biletele persoanelor cari nu știu carte, alte nume decât acelea care i s'au dictat;
-
-97.3. Acela care, fiind însărcinat cu ținerea procesului verbal al unei operațiuni electorale, a înscris într'însul alte nume decât acelea care i s'au dictat;
-
-97.4. Ori-ce persoană, funcționar public sau nu, care, fiind însărcinat de lege cu săvârșirea unei lucrări în formarea listelor electorale sau în operațiunile electorale, ar refuza, fără motiv justificat, de a îndeplini sarcina ce-i impune legea.
-
-În toate aceste cazuri, judecătorul va pronunța și interdicțiunea pe un timp mărginit.
-
-Art. 98. -
-Ori-cine va cumpăra sau va vinde un vot într'o alegere, se va pedepsi cu închisoare de la trei luni până la un an, și va putea fi osândit și la interdicțiune pe timp mărginit.
-
-CAPITOLUL II
-Atentate în contra libertăței
-Art. 99. -
-Când vre-un funcționar public, un agente sau un însărcinat al guvernulul, va fi ordinat sau va fi făcut vre-un act arbitrar prin care să se atace libertatea individuală a unuia sau mai multor cetățeni, sau Constituțiunea țărei, se va pedepsi cu închisoare dela șease luni până la doi ani și cu interdicțiune pe timp mărginit.
-
-Ca toate acestea, când se va dovedi că el a săvârșit asemenea faptă după ordinul superiorilor săi, în pricini ce privesc la atribuțiunile acestora și pentru care el era dator să le dea supunere în ordinea ierarhiei, va fi aparat de pedeapsa care, în asemenea caz, se va aplica numai superiorilor ce vor fi dat asemenea ordine.
-
-Art. 100. -
-Despăgubirea pentru pagubele cercetate în urma faptelor pomenite în art. 99, se va hotări conform cu persoanele, cu împrejurările și cu vătămarea ce va fi suferit siluitul, fără însă a putea fi, nici o dată și pentru ori-cine măcar, acea despăgubire mai puțin de 25 lei pe zi pentru fie-care persoană și pentru fie-care zi de arestare ilegală și arbitrară.
-
-Art. 101. -
-Dacă fapta arbitrară sau atentatoare drepturilor cetățenești se va fi săvârșit prin plăsmuită subscriere a vre-unui Ministru sau a altui funcționar public, plastografii, precum și cei ce cu bună știință se vor fi servit cu acea plastografie, se vor pedepsi cu munca silnică pe timp mărginit.
-
-Art. 102. -
-Funcționarii publici, însărcinați cu poliția administrativă sau judecătorească, cari au refuzat, sau cari au negrijit de a da ascultare unei reclamațiuni legale ținând a constata detențiunile ilegale și arbitrare, fie în închisorile destinate pentru paza deținuților, fie chiar în ori-ce alt loc, și cari nu vor justifica că au denunțat aceasta autorităței superioare, se vor pedepsi cu degradațiunea civică și vor fi răspunzători de pagube și interese, cari se vor regula după cum se arată în art. 100.
-
-Art. 103. -
-Directorii, superiorii sau custozii închisorilor sau ai ori-cărei alte case de arest, cari vor fi primit un arestat fără mandat sau act judecătoresc1) sau fără ordinul provizoriu al autorităților competente, acei cari-îl vor ținea închis sau vor refuza de a-l înfățișa ofițerului de poliție, sau aceluia ce aduce ordinele sale, fără a justifica că opunerea lui provine din ordinul procurorului sau judecătorului, aceia cari vor refuza de a înfățișa registrele lor ofițerului de poliție, se vor pedepsi ca culpabili de închidere arbitrară, cu închisoare dela o lună până la un an și cu amendă dela 100 până la 300 lei2).
-
-
-1) În textul oficial lipsesc cuvintele <<fără mandat sau act judecătoresc>>, cuvinte care există în textul articolului francez corespunzător. Credem că este o eroare sau omisiune a traducătorului.
-
-2) A se vedea nota 2 dela art. 1 și art. 399, al II Codul penal.
-
-Art. 104. -
-Se vor pedepsi cu degradațiunea civică ori-ce ofițer al poliției judecătorești, ori-ce procuror, substitut sau judecător, care va fi provocat, dat sau subsemnat o sentință, o ordonanță sau un mandat de urmărire personală sau de acuzațiune a vre-unui ministru sau a vre-unui membru al Senatului, al Adunărei Legislative sau al Consiliului de Stat3) sau al Curței de Conturi ori al Curței de Casațiune, fără autorizațiunile și formele prescrise de legi, sau care, afară de delict flagrant, va fi dat, sau subsemnat, fără acele autorizațiuni și formalități, mandatul de a prinde sau de a aresta pe vre-unul sau mai mulți miniștri, sau pe unul sau mai mulți membri ai Senatului, ai Adunărei Legiuitoare, ai Curței de Casațiune, ai Consiliului de Stat sau ai Curței de Conturi4).
-
-
-3) Se știe că Consiliul de Stat a fost desființat prin Legea din 12 Iulie 1866.
-
-4) Art. francez corespunzător, 121, nu menționează și pe: <<ai Curței de Casație, ... sau ai Curței de Contur>>.
-
-Art. 105. -
-Asemenea se vor pedepsi cu degradațiunea civică procurorii, substituții, judecătorii sau ofițerii publici, cari vor fi arestat sau vor fi făcut a se aresta un individ în alte localități decât cele determinate prin legi sau regulamente, sau cari vor fi trimes înaintea judecăței Curței juraților pe un cetățean, fără de a fi pus mai înainte în acuzațiune conform legei.
-
-Art. 106. -
-Ori-ce concertare de măsuri contrarii legilor, făcută sau prin adunare de indivizi sau de corpuri depozitare de vre-o parte a autorităței publice, sau prin deputațiune ori corespondențe între dânșii, va fi pedepsită cu închisoare de 2 luni cel puțin și de 6 luni cel mult, contra ori-cărui culpabil, care va putea încă să fie condamnat la interdicțiune pe timp mărginit.
-
-Art. 107. -
-Dacă prin unul din mijlocele exprimate mai sus s'au concertat măsuri contra executărei legilor, sau contra ordinelor guvernului, pedeapsa va fi 2 ani de închisoare.
-
-Dacă această concertare s'a făcut între autoritățile civile și corpurile militare sau șefii lor, aceia cari vor fi autori sau provocatori vor fi pedepsiți cu detențiune; ceilalți culpabili vor fi pedepsiți cu 2 ani închisoare.
-
-CAPITOLUL III
-Pentru călcarea de atribuțiuni din partea autorităților
-administrative și judecătorești
-Art. 108. -
-Se vor pedepsi cu degradațiunea civică:
-
-108.1. Judecătorii, procurorii și substituții lor, ofițerii de poliție, cari se vor fi amestecat în exercițiul drepturilor puterei legiuitoare, sau prin reglemente ce cuprind dispozițiuni legiuitoare, sau poprind ori suspendând executarea unei sau mai multor legi, sau deliberând asupra punctului de a ști dacă legile trebuie a fi publicate sau executate;
-
-108.2. Judecătorii, procurorii și substituții lor, ofițerii poliției judecătorești cari vor fi trecut peste competința lor, poprind executarea ordinelor emanate dela administrațiuni, sau după ce au permis sau au ordonat a se chiema în judecată administratorii pentru fapte relative la exercițiul funcțiunei lor, vor stărui în executarea actelor lor, deși de către autoritățile competente li s'a notificat anularea acelor acte sau existența unui conflict.
-
-Art. 109. -
-Se vor pedepsi cu amendă dela 100 până la 1500 lei1), judecătorii cari, peste atribuțiunile lor, se vor fi amestecat în materii date de legi autorităței administrative.
-
-Cu aceeaș pedeapsă se vor pedepsi și membrii Ministerului public, cari vor fi luat concluziuni sau vor fi cerut a se face asemenea procedări.
-
-
-1) A se vedea nota 2 dela art. 1 și art. 399, al. II Codul penal.
-
-Art. 110. -
-Prefecții, sub-prefecții și alți funcționari administrativi, cari se vor fi amestecat în exercițiul drepturilor puterei legiuitoare, după cum se prevede la art. 108, § 1, sau cari vor fi dat ordine ilegale a se opri executarea deciziunilor judecătoriilor sau Curților, se vor pedepsi cu degradațiunea civică.
-
-Art. 111. -
-Aceiași funcționari administrativi se vor pedepsi cu amendă dela 100 până la 1500 lei1) când, peste atribuțiunile lor, se vor amesteca în materii date de legi autorităței judecătorești și când, după reclamațiunea uneia sau amânduror părților interesate, vor fi decis o afacere, înainte ca autoritatea superioară să se fi pronunțat asupra cazului.
-
-
-1) A se vedea nota 2 dela art. 1 și art. 399, al. II Codul penal.
-
-TITLUL III
-CRIME ȘI DELICTE ÎN CONTRA INTERESELOR PUBLICE
-CAPITOLUL I
-Despre plăsmuiri sau falsificări
-I. Plăsmuiri de monetă
-
-Art. 112. -
-Se va pedepsi cu maximul închisorii, fără admiterea circumstanțelor atenuante, cu interdicțiune pe timp mărginit și cu amendă dela 500 lei în sus, ori-cine va contraface ori va falsifica monetele de metal care au curs în România.
-
-Dacă monetele contra-făcute sau falsificate sunt de o valoare care trece peste 2000 lei, se va putea îndoi maximul închisorei.
-
-Art. 113. -
-Acela care va participa la contrafacerea unei asemenea monete, ori o va întroduce în țară, sau o va pune în circulațiune, se va pedepsi ca plăsmuitor de monetă falsificată.
-
-Art. 114. -
-Cine, socotind de bună și adevărată o monetă falsificată ce îi va fi căzut în mână, o va pune în circulațiune, nu se va pedepsi; iar după ce o va cunoaște că este falsă și nu va înceta a o întrebuința, se va osândi să plătească, drept amendă, îndoit suma ce va fi pus în circulațiune.
-
-Art. 115. -
-Care se va dovedi răzând, tăind sau subțiind moneta, prin ori-ce meșteșug, se va pedepsi cu amendă dela 200 până la 5000 lei și cu închisoare dela 3 luni până la 2 ani.
-
-Art. 116. -
-Vor fi apărați de osândele hotărâte pentru plăsmuitorii despre cari se vorbește în articolele 112 și 113, acei culpabili cari, înaintea săvârșirei sau a punerei în lucrare a acelor crime și înainte de a se începe ori-ce urmărire, vor fi descoperit autorităților competente acele crime, precum și pe autorii sau complicii lor.
-
-Asemenea vor fi apărați de pedepse și acei culpabili cari, chiar după începerea urmăririlor, vor fi înlesnit arestarea autorilor sau a complicilor lor.
-
-II. Plăsmuiri de sigilii ale Statului sau ale altor autorități,
-de bilete de bancă, de efecte publice și altele
-
-Art. 117. -
-Se va pedepsi cu maximul închisoarei, fără admiterea circumstanțelor atenuante, cu interdicțiunea pe timp mărginit și cu amendă dela 500 lei în sus:
-
-1. Ori-cine va fi falsificat sigiliul Statului sau care, cu bună știință, va fi întrebuințat asemenea sigiliu falsificat;
-
-2. Ori-cine va fi falsificat sau, alterat efecte emise de tezaurul public cu timbrul său sau bilete de bancă autorizate de lege, sau care, cu bună știință, va fi întrebuințat aceste efecte sau bilete falsificate sau alterate, sau le va fi întrodus în țară.
-
-Dacă efectele sau biletele falsificate sau alterate sunt de o valoare care trece peste 2000 lei, se va putea îndoi maximul închisoarei.
-
-Art. 118. -
-Se vor pedepsi cu închisoarea dela 3 ani până la 5 ani și cu interdicțiunea pe timp mărginit:
-
-Aceia cari vor fi falsificat sau alterat ori-ce timbru național sau ori-ce marcă publică, destinată pentru probe la materii de argint sau aur.
-
-Asemenea se vor pedepsi și aceia cari, cu știință, se vor fi servit cu hârtii sau efecte purtând timbre mincinoase, sau cu mărci ori timbre falsificate sau alterate.
-
-Art. 119. -
-Se va pedepsi cu închisoare de trei ani și cu interdicțiune pe timp mărginit, ori-cine, fără a avea drept, va lua și va întrebuința adevăratul sigiliu al Statului sau timbrele ori mărcile prevăzute în art. 118, făcând cu dânsele o întrebuințare vătămătoare drepturilor și intereselor Statului.
-
-Art. 120. -
-Se va pedepsi cu închisoare de trei ani și cu interdicțiune pe timp mărginit:
-
-a) Aceia cari vor fi falsificat mărcile destinate spre a fi puse, în numele guvernului, asupra productelor sau mărfurilor, sau cari vor fi întrebuințat cu știință1) asemenea false mărci;
-
-b) Aceia cari vor fi falsificat sigiliul, timbrul sau marca unei autorități oare-care sau a unui stabiliment particular de bancă sau de comerț1) sau cari cu știință2) le vor fi întrebuințat.
-
-
-1) În art. francez corespunzător, 142, lipsește din ambele aliniate expresiunea: <<cu știință>>.
-
-2) Art. francez corespunzător, 142, nu cuprinde cuvintele <<sau a unui stabiliment particular de bancă sau de comerț;>> el cuprinde însă un nou aliniat important, care se referă la pedepsirea tentativei: <<Les dispositions qui precedent seront applicables aux tentatives de ces memes delits>>.
-
-Art. 121. -
-Se va pedepsi cu închisoare până la doi ani acela care, fără drept, va lua și va întrebuința adevăratele sigilii, timbre sau mărci prevăzute la art. 118, făcând cu dânsele o întrebuințare vătămătoare drepturilor și intereselor Statului ori ale unei autorități publice, ori chiar ale unui stabiliment particular, de bancă sau de comerț.
-
-Art. 122. -
-Dispozițiunile art. 116 se aplică și la crimele prevăzute prin art. 117.
-
-III.
-
-§I. Despre falsificare de înscrisuri publice sau autentice
-și de comerț sau bancă
-
-Art. 123. -
-Se va pedepsi cu închisoare dela 3-5 ani, cu interdicțiune pe timp mărginit și cu amendă dela 50 lei în sus, ori-ce funcționar sau ofițer public, care în exercițiul funcțiunei sale, va fi comis o plăsmuire, fie prin semnături false, fie prin alterațiune de acte, de scriituri sau de semnături, fie prin arătare de alte persoane, decât cele adevărate, fie prin scriituri făcute sau intercalate pe registre sau alte acte publice după confecțiunea sau încheierea actelor.
-
-Dacă prejudițiul rezultând din una din plăsmuirile mai sus indicate trece de 2000 lei, se va putea îndoi maximul închisorei.
-
-Art. 124. -
-(Mod. L. 28 Maiu 1893). Se va pedepsi asemenea cu închisoare dela 3-5 ani, cu interdicțiune pe timp mărginit și cu amendă dela 50 lei în sus, ori-ce funcționar sau ofițer public care, alcătuind (redactând) acte scrise privitoare la funcțiunea lui, va fi denaturat cu viclenie substanța sau circumstanțele lor, fie scriind convențiuni altele decât cele ce i sau însemnat sau indicat de părți, fie constatând ca adevărate fapte mincinoase, sau ca mărturisite fapte nemărturisite.
-
-Dacă prejudițiul rezultând din actul falsificat trece de 2000 lei, se va putea îndoi maximul închisorei.
-
-Art. 125. -
-Se vor pedepsi tot cu închisoarea dela 3-5 ani, cu interdicțiune pe timp mărginit și cu amendă dela 50 lei în sus, ori-ce alte persoane cari vor fi falsificat vre-un act autentic și public, sau înscrisuri de comerț sau de bancă, fie prin contrafacerea sau alterarea scrierei sau a subsemnăturei, fie prin plăsmuirea de convențiuni, dispozițiuni, obligațiuni, sau liberațiuni, sau prin inserțiunea lor posterioare, fie prin adăugirea sau alterarea de clauze, declarațiuni sau fapte ce aceste acte aveau de obiect de a conține și a constata.
-
-Cu aceeași pedeapsă se vor pedepsi și acei cari vor fi falsificat sau alterat bilete de bancă autorizate de legi în State străine, sau cari, cu știință, vor fi întrebuințat aceste bilete falsificate sau le vor fi introdus în cuprinsul țărei.
-
-Dacă prejudițiul rezultând din una din falsificările indicate în acest articol, sau din întrebuințarea, cu știință, ori introducerea în țară a biletelor de bancă străine falsificate, trece de 2000 lei, se va putea îndoi maximul închisorei.
-
-În toate cazurile prevăzute de aceste trei articole, tot asemenea se va putea îndoi maximul închisorei, dacă actul falsificat face credință până la inscripția în fals1).
-
-
-1) Ultimele trei aliniate ale art. român 125 lipsesc din textul art. francez corespunzător, 147.
-
-Art. 126. -
-(Mod. L. 28 Maiu 1893). Se va pedepsi cu închisoare dela 1-5 ani și cu amendă dela 50 lei în sus acela care, cu bună știință, se va servi cu plăsmuitele înscrisuri despre cari se vorbește în acele trei articole precedente.
-
-§.II. Despre falsificare în scrieri private
-Art. 127. -
-Se va pedepsi cu închisoare dela doi ani în sus, ori-ce persoană va fi făcut vre-o plăsmuire, de ori-ce fel, la înscrisuri particulare, prin unul din modurile exprese prin art. 125 precum și cel ce, cu bună știință, se va servi cu asemenea înscrisuri plăsmuite.
-
-Art. 128. -
-Plăsmuitor de înscrisuri este și acela care, în privire de a trage un folos pentru sine sau pentru altul, sau de a aduce vătămare altuia, umple o hârtie pe care se află subscrierea unei persoane, în contra voinței acesteia, și o întrebuințeză ca un titlu.
-
-Ori-cine va comite infracțiunea prevăzută la art. 1282), se va pedepsi cu închisoare dela șase luni până la doi ani și cu amendă dela 100 sută până la 3000 lei3) dacă hârtia i se va fi încredințat de însuși subscriitorul; iar dacă nu i se va fi încredințat, se va pedepsi cu închisoare dela doi ani în sus.
-
-
-2) Adică infracțiunea prevăzută în primul aliniat al art. 128.
-
-3) A se vedea nota 22 dela art. 1 și art. 399, al. 2 Codul penal.
-
-§.III. Despre falsificare de paspoarte, foi de drum și certificate
-Art. 129. -
-Se va pedepsi cu închisoare dela trei luni până la doi ani, ori-cine va plăsmui paspoarte, sau va drege ori va preface un pasport adevărat, sau va adăuga într'însul vre-un cuvânt, sau cifră, sau literă, precum și cel ce cu bună știință, se va servi cu asemenea pasport4).
-
-
-4) Art. 6 și 7 din <<Legea paspoartelor>> din 21 Martie 1912 completează art. 129 și 130 din Codul penal. Iată textul acestor articole:
-
-Art. 6. Se va pedepsi conform art. 129 Codul penal, acela care cu bună știință se va servi în România cu un pasport, sau ori-ce document de călătorie ținând loc de pasport, liberat de autoritatea unei țări străine, dacă acel pasport sau document de călătorie va fi fost plăsmuit, dres ori prefăcut. Este pasibil de aceeaș pedeapsă cel care împrumută altuia pasportul său, adevărat sau plăsmuit, dres sau prefăcut.
-
-Art. 7. Se va pedepsi, conform art. 130 din Codul penal, acela care se va servi de un pasport român sau străin, sau document de călătorie, ținând loc de pasport, care poartă alt nume decât al său.
-
-A se vedea și art. 24, 25, 26 și 27 din <<Regulamentul legei paspoartelor>> din 31 Martie 1912, care completează aceste dispozițiuni.
-
-Art. 130. -
-Cine va lua pentru sine un pasport pe nume închipuit, sau va fi mijlocit, ca martur, spre a se libera un pasport pe nume străin, se va pedepsi cu închisoare dela trei luni până la un an1).
-
-
-1) Art. francez corespunzător, 154, cuprinde încă două aliniate pedepsind și pe acela ce se servește de un pasport eliberat pe numele altei persoane, precum și pe hotelierii cari cu bună știință înscriu în registrele lor sub nume fals persoanele ce le găzduesc. Noua lege a paspoartelor, în art. 6 și 7 reproduse în nota precedentă, cuprinde parte din aceste dispoziții; deasemenea art. 134 Codul penal.
-
-Art. 131. -
-Funcționarul public care, cunoscând acea schimbare de nume, va fi dat pasport pe nume închipuit, se va pedepsi cu doi ani închisoare.
-
-Art. 132. -
-Ori-cine va fabrica sau va falsifica o foaie de drum pentru sine, sau pentru vitele sale2), sau se va servi de asemenea foaie de drum, se va pedepsi cu închisoare dela o lună până la un an.
-
-
-2) În art. francez corespunzător, 156, lipsesc cuvintele: <<pentru sine sau pentru vitele sale>>.
-
-Art. 133. -
-Asemenea se va pedepsi cu închisoare dela o lună până la șase luni, ori-ce persoană va face să i se dea de funcționarii publici o foaie de drum sub nume închipuit.
-
-Art. 134. -
-Hotelierii, hangii și cărciumarii cari, cu știință, vor înscrie în registrele lor, sub nume minciunoase sau închipuite, pe persoanele ce le vor găzdui la dânșii, se vor pedepsi cu închisoare dela 15 zile până la o lună.
-
-Art. 135. -
-Acela care fabrică, pentru dânsul sau pentru altul, un certificat fals de boală, sub numele unui medic, unui chirurg sau unei alte persoane care exercitează arta de a tămădui, sau care falsifică un asemenea certificat adevărat și se servește cu dânsul spre a înșela pe autorități sau spre a înșela pe societățile de asigurare, se va pedepsi cu închisoare dela o lună până la un an.
-
-Art. 136. -
-Funcționarul care va fi liberat o asemenea foaie, știind că numele pe care o dă este închipuit, se va pedepsi cu închisoare dela trei luni până la doui ani.
-
-Art. 137. -
-Medicii, chirurgii sau alte persoane exercitându arta de a tămădui, cari dau, cu știință, asupra stărei sănătăței unei persoane, certificate contra adevărului, spre a servi la autorități sau la societăți de asigurare, se vor pedepsi cu închisoare dela o lună la un an.
-
-Iar dacă vor fi primit și daruri sau făgăduieli de daruri, se vor pedepsi cu închisoare dela trei luni până la un an și jumătate.
-
-Art. 138. -
-Acela care, spre a înșela pe o autoritate sau pe o societate de asigurare, în privința sănătăței sale sau a unei alte persoane, se va servi cu un certificat din cele cuprinse la art. 135, se va pedepsi cu închisoare dela o lună până la un an.
-
-Art. 139. -
-Ori-care va plăsmui, sub numele vre-unui funcționar public, vre-un atestat pentru sine ori pentru altul de bună purtare, de neavere, ori de alte împrejurări menite spre a recomanda pe cel arătat într'ânsul la milostivirea guvernului sau la a particularilor, spre a dobândi funcțiuni, credit ori ajutor, se va pedepsi cu închisoare dela două luni până la șase luni.
-
-Asemenea se va pedepsi și ori-cine va preface, pe numele său sau pe numele altuia, vre-un atestat adevărat.
-
-Tot asemenea se va pedepsi și cel ce, cu bună știință, se va servi cu acest fel de atestat plăsmuit.
-
-CAPITOLUL II
-Crime și delicte comise de funcțiunari publici
-în exercițiul funcțiunii lor
-I. Sustracțiuni comise de depozitarii publici
-
-Art. 140. -
-Ori-ce perceptor, ori-ce funcționar însărcinat cu percepțiune, ori-ce depozitar sau contabil public, care va fi deturnat sau sustras bani publici sau privați, sau efecte ținând loc de bani, sau acte, titluri și alte lucruri mișcătoare, cari se vor afla în mâinile lui, în puterea însărcinărei sale, se va pedepsi cu maximul închisorei și cu interdicțiunea pe timp mărginit, dacă lucrurile deturnate sau sustrase vor fi de o valore dela 1200 lei în sus.
-
-Dacă valorile sustrase sau deturnate sunt mai jos de 1200 lei, pedeapsa va fi închisoare dela un an până la duoi.
-
-În ambele aceste cazuri, condamnatul va pierde dreptul la pensiune și se va declara incapabil de a ocupa ori-ce funcțiune publică pe toată viața. Ori-ce judecător, administrator, funcționar sau ofițer public, care va fi stricat, desființat, sustras sau deturnat actele și titlurile al cărora depozitar era, sau care i se încredințaseră sau comunicaseră în virtutea funcțiunei sale, se va pedepsi cu maximul închisorei și cu interdicțiunea pe timp mărginit, se va declara și incapabil de a ocupa funcțiune publică pe toată viața, pierzând dreptul la pensiune.
-
-Ori-ce agenți sau însărcinați, ai guvernului ori ai depozitarilor publici, cari vor fi culpabili de aceleași sustracțiuni, vor fi supuși la aceeași pedeapsă.
-
-(Ad. Legea 21 Febr. 1882). Acela care, fără autorizarea guvernului, publică sau cu voință divulgă actele sau documentele diplomatice cunoscute, comunicate sau încredințate lui în calitate de funcționar public sau anume însărcinat, se va pedepsi cu închisoarea dela trei luni până la doi ani, sau cu amendă dela 1000 la 10.000 lei și cu incapacitatea de a mai ocupa funcțiuni publice pe timp mărginit.
-
-Cu aceeaș pedeapsă se va pedepsi și acela care va comite acelaș fapt, după ce a încetat din funcțiunea sau misiunea cu care a fost însărcinat.
-
-II. Despre nedrepte luări săvârșite de funcționarii publici
-
-Art. 141. -
-Ori-care dintre funcționarii publici, ori-care din ofițerii publici sau însărcinații lor, ori-cari perceptori de drepturi, taxe, contribuțiuni, bani, venituri publice sau comunale, precum și ori-cari însărcinați din partea perceptorilor, vor fi ordonat să se perceapă, vor fi cerut sau vor fi primit ceeace nu aveau drept a lua, sau mai mult decât ceeace se cuvenia să ia ca drepturi de taxe, contribuțiuni, bani sau venituri, sau ca simbrie ori apuntamente, se vor pedepsi: funcționarii și ofițerii publici, cu închisoare dela doi până la trei ani, iar însărcinații lor, cu închisoare dela șase luni până la doi ani și cu interdicțiunea pe timp mărginit.
-
-Culpabilii se vor osândi încă și la o amendă de o a patra parte cel mult și de a o douăsprezecea parte cel puțin din suma restituțiunilor și a daunelor-interese ce vor fi datori a plăti, pierzând și dreptul la pensiune.
-
-III. Despre infracțiunile privitoare la amestecarea funcționarilor
-publici în afaceri sau comerțuri necompatibile cu a lor calitate
-
-Art. 142. -
-Ori-ce funcționar, ofițer public sau agent al guvernului, care, fățiș sau prin acte simulate, sau prin interpozițiuni de persoane, va fi luat sau primit vre-un interes oare-care în acte, adjudecațiuni, întreprinderi sau regii, cu a cărora administrare sau preveghere totală sau parțială este sau a fost însărcinat în timpul șăvârșirei faptei, se va pedepsi cu închisoare dela șase luni până la doi ani și cu amendă care nu va trece a patra parte, nici va fi mai mică de a douăsprezecea parte din restituțiunile și desdăunările ce va trebui a plăti.
-
-Către acestea se va declara necapabil, pentru totdeauna, a mai ocupa funcțiuni publice.
-
-Aceleași pedepse se aplică și ori-cărui funcționar sau agent al guvernului, care va fi luat vre-un interes în vre-o pricină întru care el va fi fost însărcinat de a ordonanța o plată sau lichidare de bani.
-
-Art. 143. -
-Ori-ce comandant de diviziuni militare, de județe sau de orașe, ori-ce prefect și sub-prefect, care, în întinderea ocolului unde are dreptul a-și exercita autoritatea sa, va face fățiș, sau prin acte simulate, sau prin interpozițiune de persoane, comerț de grâu, vinuri sau alte producte, afară din acele care ar proveni din proprietățile sale, se va pedepsi cu amendă dela 500 până la 10.000 lei1).
-
-
-1) A se vedea nota 2 dela art. 1 și art. 399, al. II Codul penal.
-
-IV. Despre mituirea funcționarilor publici
-
-Art. 144. -
-Ori-ce funcționar de ramul administrativ sau judecătoresc, ori-ce agent sau însărcinat al unei administrațiuni publice, care va fi primit sau va fi pretins daruri sau prezenturi, sau care va fi acceptat promisiuni de asemenea lucruri, spre a face sau spre a nu face un act privitor la funcțiunea sa, fie și drept, dar pentru care n'ar fi determinată de lege o plată, se va pedepsi cu închisoare dela doi până la trei ani și cu amendă îndoită a valoarei lucrurilor priimite sau făgăduite, fără ca această amendă să poată fi mai mică de 200 lei1), iar banii sau darurile ori valoarea lor, se vor lua pe seama ospiciilor sau caselor de binefacere ale localităței unde s'a comis mituirea2).
-
-Ei nu vor mai putea ocupa funcțiune publică și vor pierde dreptul la pensie3).
-
-Cu aceeaș pedeapsă se va pedepsi și ori-ce arbitru sau expert, numit sau de către tribunal sau de către părți, care va fi acceptat promisiuni sau primit daruri sau prezenturi, pentru a da o deciziune sau a emite o opiniune favorabilă uneia din părți.
-
-
-1) A se vedea nota 2 dela art. 1 și art. 399, al. II Codul penal.
-
-2) Art. francez corespunzător, 177, nu cuprinde cuvintele finale din aliniatul I: <<iar banii sau darurile ori valoarea lor, se vor lua pe seama ospiciilor sau caselor de binefacere ale localităților unde s'a comis mituirea>>.
-
-3) Art. francez corespunzător, 177, nu cuprinde acest al douilea aliniat. În schimb, art. francez, prin modificarea dela 4 Iulie 1889, i s'au adăugat și alte aliniate, cari pedepsesc pe deputați și ori-ce persoane investite cu un mandat electiv, cari trafichează influența lor pentru a obține, în schimbul darurilor sau promisiunilor, decorații, medalii, funcțiuni, etc.
-
-Art. 145. -
-Dacă mituirea s'a urmat asupra unui judecător sau jurat pronunțând în materii criminale în favorea sau în contra acuzatului, pedeapsa va fi maximul închisoarei și pierderea dreptului de a mai fi admis în serviciu pe toată viața; el va pierde și dreptul la pensiune.
-
-Dacă mituirea s'a urmat asupra unui jurat pronunțând în materii de expropriațiune, pedeapsa va fi închisoarea dela un an până la doi ani, pierderea dreptului de a mai fi admis în serviciu pe toată viața și a dreptului de pensiune.
-
-Art. 146. -
-Ori-care particular care, în numele său, sau în numele vre-unui funcționar public, administrativ sau judecătoresc, cu știrea sau fără știrea acestuia, într'un chip direct sau indirect, va cere, va lua, sau va face să i se promită daruri sau alte foloase nelegitime, spre a interveni, spre a se face sau a nu se face vre-un act din cele privitoare la atribuțiunile acelui funcționar, se va pedepsi cu închisoare dela șase luni până la doi ani și cu amendă valoarea îndoită a lucrurilor luate sau promise, fără ca această amendă să fie mai mică decât 200 lei1).
-
-Lucrurile primite, sau valoarea lor, se vor lua în folosul ospiciilor sau caselor de binefacere ale localităței unde s'a comis faptul.
-
-Iar dacă mijlocitorul va fi funcționar, va pierde dreptul de a mai ocupa funcțiuni și nu va putea primi pensiune.
-
-
-1) A se vedea nota 2 dela art. 1 și art. 399, al. II Codul penal.
-
-V. Abuz de putere
-
-§.1. Abuz de putere în contra particularilor
-Art. 147. -
-Ori-ce funcționar administrativ sau judecătoresc va abuza de puterea ce-i dă calitatea sa, spre a sili pe nedrept pe o persoană a face sau a suferi un act, sau a se abține de la dânsul, se va pedepsi cu închisoare dela o lună până la doi ani și se va putea încă declara necapabil de a ocupa funcțiuni publice dela un an la trei.
-
-Art. 148. -
-Ori-ce funcționar care, în exercițiul sau cu ocaziunea funcțiunei sale, va maltrata prin ofense orale pe o persoană, se va pedepsi cu închisoare până la șase luni.
-
-Acel funcționar se va putea încă declara incapabil de a ocupa funcțiuni publice dela un an la trei.
-
-Art. 149. -
-Ori-ce funcționar care, afară din cazurile și formele prevăzute de lege, va aresta sau va ordona a se aresta o persoană, sau care va prelungi într'un mod ilegal ținerea ei la închisoare, se va pedepsi cu închisoare dela trei luni până la doi ani și se va putea încă declara de incapabil, dela un an până la trei, de a ocupa funcțiuni publice.
-
-Dacă arestarea ilegală a ținut mai mult de trei zile, minimul pedepsei va fi de patru luni și se va declara incapabil de a mai ocupa funcțiuni publice de la un an la trei ani.
-
-Dacă arestarea ilegală va ține mai mult de o lună, osânda va fi de doi ani închisoare.
-
-În aceste din urmă 2 cazuri, funcționarul va pierde și dreptul la pensiune.
-
-Art. 150. -
-Ori-ce funcționar care, în instrucțiunea cauzelor corecționale ori criminale, va fi întrebuințat sau va fi ordonat a se întrebuința cazne, spre a sili pe bănuiți a face mărturisiri sau declarațiuni, se va pedepsi cu doi ani închisoare, fără a se apăra prin acesta de alte pedepse mai mari, pentru lovituri sau răniri prevăzute de lege.
-
-Art. 151. -
-Ori-ce funcționar administrativ sau judecătoresc, ori-ce ofițer de justiție sau de poliție, ori-ce comandant sau agent al forțelor publice, care se va introduce, în a sa calitate, în domiciliul unui cetățean, în contra voinței acestuia, afară din cazurile prevăzute de lege și fără formalitățile ce ea prescrie, se va pedepsi cu închisoare dela cincisprezece zile până la trei luni și cu o amendă dela 50 până la 1000 lei1), având-se însă în vedere aplicarea § 2 dela art. 99.
-
-Ori-ce particular, care, prin amenințări sau mijloace silnice, se va fi introdus în domiciliul unui cetățean, se va pedepsi cu închisoare dela cincisprezece zile până la trei luni și cu amendă dela 50 până la 500 lei.
-
-
-1) A se vedea nota 2 dela art. 1 și art. 399, al. II Codul penal.
-
-Art. 152. -
-Ori-ce judecător sau autoritate judecătorescă, ori-ce administrator sau autoritate administrativă care, sub pretext de tăcere sau de nedeslușire a legei, va denega dreptatea ce este dator părților ce-i vor fi cerut'o, și care va fi stăruit în denegarea sa, chiar în urmă de prevestirile sau ordinele ce va fi primit dela superiorii săi competenți, se va putea urmări și pedepsi cu amendă dela 100 până la 1000 lei, și se va declara necapabil de a ocupa funcțiuni publice dela un an până la trei ani.
-
-Art. 153. -
-Ori-ce funcționar, care va executa o pedeapsă ce nu a fost pronunțată de judecată sau care o execută peste măsura prevăzută de judecată, se va pedepsi cu închisoarea până la doi ani.
-
-Art. 154. -
-Ori-ce funcționar însărcinat cu urmărirea crimelor sau cu executarea pedepselor care, cu scop de a sustrage pe un individ de la o pedeapsă legale, nu va urmări crima sau delictul, sau care nu execută pedeapsa pronunțată, ori execută o pedeapsă mai mică decât cea pronunțată de judecată, se va pedepsi cu închisoarea până la doi ani sau cu amendă dela 100 până la 3000 lei1) și se va declara incapabil, dela un an până la trei ani, de a ocupa funcțiuni publice.
-
-
-1) Prin modificarea din 1 Martie 1900 a Legei Telegrafo-poștale, se pedepsesc conform art. 156 Codul penal nu numai funcționarii, ci și particularii cari se fac culpabili de violarea secretului scrisorilor. Art. 127 din această lege are următorul cuprins: <<Particularii cari, cu intențiune, vor viola secretul scrisorilor, vor fi pedepsiți cu amenda și închisoarea prevăzută de art. 156 din Codul penal>>.
-
-Art. 155. -
-Ori-ce funcționar care, dela sine, în contra legei, fără competență și fără a mijloci o hotărîre a autorităței competente, va deposeda pe un particular, se va pedepsi cu închisoarea până la doui ani și se va declara incapabil de a ocupa funcțiuni publice dela un an până la trei ani.
-
-Art. 156. -
-Ori-ce supresiuni, ori-ce deschidere de scrisori încredințate la poștă, făcută sau înlesnită de vre-un funcționar sau agent al guvernului, ori al administrațiunei poștelor, se va pedepsi cu închisoarea până la doui ani și cu amendă dela 50 până la 500 lei1).
-
-Culpabilul se va declara necapabil de a ocupa funcțiuni publice dela un an la doi ani.
-
-
-1) Prin modificarea din 1 Martie 1900 a Legei Telegrafo-poștale, se pedepsesc conform art. 156 Codul penal nu numai funcționarii, ci și particularii cari se fac culpabili de violarea secretului scrisorilor. Art. 127 din această lege are următorul cuprins: <<Particularii cari, cu intențiune, vor viola secretul scrisorilor, vor fi pedepsiți cu amenda și închisoarea prevăzută de art. 156 din Codul penal>>.
-
-Art. 157. -
-Ori-ce funcționar superior care, prin amăgire, va face pe subordinații săi de a comite o crimă sau un delict în exercițiul funcțiunei lor, sau care, cunoscând asemenea crime sau delicte din partea subordinaților săi, le tolereză, se va pedepsi cu pedeapsa aplicabilă acelor crime sau acelor delicte.
-
-§2. Abuz de autoritate în contra lucrului public
-Art. 158. -
-Ori-ce funcționar public, ori-ce agent sau însărcinat al guvernului, de ori-ce grad sau stare, care va cere sau va ordona va face a se cere sau a se ordona mișcarea sau întrebuințarea forței publice în contra execuțiunei unei legi, în contra percepțiunei unei contribuțiuni legale, sau în contra esecuțiunei unei ordonanțe sau mandat al justiției, sau în contra ori-cărui alt ordin a autorităței legitime, se va pedepsi cu recluziunea; iar dacă o asemenea cerere sau ordine a izbutit a se și pune în lucrare și a produce efect, pedeapsa va fi maximul recluziunei.
-
-Art. 159. -
-Pedeapsa hotărâtă în articolul de mai sus nu va înceta de a se aplica la funcționarul, agentul sau însărcinatul ce va fi săvârșit asemenea infracțiune din ordinea mai marilor săi, afară numai dacă aceast ordin se va fi dat de către acei mai mari, în cazuri de a lor competență și pentru acel care funcționar sau agent era dator să arate supunere de ierarhie.
-
-Atunci se vor supune la pedepdsa hotărâtă în acel articol acei mai mari, cari vor fi fost cei dintâi a da asemenea ordine.
-
-Art. 160. -
-Dacă, în urma acelor ordine sau cereri, vor naște alte crime supuse la pedepse mai mari decât cele exprimate la art. 158, aceste pedepse mai mari se vor aplica funcționarilor, agenților sau însărcinaților culpabili de asemenea ordine sau cereri.
-
-VI. Despre oare-cari delicte privitoare la ținerea actelor
-Statului civil
-
-Art. 161. -
-Ofițerii Statului civil, care nu vor fi înscris actele civile, sau cari le vor fi înscris pe foi libere, iar nu în registrele destinate spre acest sfârșit, se vor pedepsi cu închisoare dela o lună până la trei și cu o amendă dela 50 până la 200 lei1).
-
-
-1) A se vedea nota 2 dela art. 1 și art. 399, al. II Codul penal.
-
-Art. 162. -
-Ofițerul Statului civil care nu se va fi asigurat mai întâi despre ființa consimțimântului tatălui, mamei sau altor persoane, cerut de lege pentru validitatea căsătoriei se va pedepsi cu închisoarea dela două până la șase luni și cu amendă dela 100 până la 1500 lei1).
-
-
-1) A se vedea nota 2 dela art. 1 și art. 399, al. II Codul penal.
-
-VII. Exercițiul autorităței publice
-anticipate sau prelungite în contra legei
-
-Art. 163. -
-Funcționarul public care va intra în lucrarea funcțiunei sale până a nu depune jurământul cerut, se va pedepsi cu amenda egală cu onorariul pe o jumătate lună, neputând niciodată ocupa acea funcțiune fără a depune jurământul cerut.
-
-Art. 164. -
-Funcționarul care, fiind suspendat sau destituit, nu va înceta din lucrarea funcțiunei sale, precum și funcțiunarul ales pe un timp, care va fi exercitat funcțiunile sale după ce a fost înlocuit cu altul, se va pedepsi cu închisoarea dela două luni până la un an, păzindu-se tot într'un timp și dispozițiunile art. 83.
-
-Disposițiuni particulare
-
-Art. 165. -
-Afară din întâmplările în cari legea hotărăște pedepsele pentru crimele ori delictele săvârșite de către funcționarii publici, acei funcționari cari vor fi participat la alte crime sau delicte a căror priveghiere sau înfrânare era pusă asupră-le, se vor pedepsi dupe cum urmează:
-
-De va fi vre-un delict, se vor supune la maximul pedepsei hotărâte de lege pentru acel delict;
-
-De va fi o crimă, se vor osândi la maximul pedepsei dictate de lege pentru acea crimă, afară de cazul când crima va atrage după sine aplicarea muncei silnice pe timp mărginit, în care caz pedeapsa li se va aplica fără nici o agravațiune.
-
-CAPITOLUL III
-Despre turburările aduse odinei publice
-de către fețele bisericești
-Art. 166. -
-Ori-ce preot, de ori-ce cult, care va celebra o cununie mai înaintea îndeplinirei actelor și a formelor cerute de legea civilă, se va pedepsi, pentru prima oră, cu amendă dela 100 până la 1000 lei1), iar în caz de recidivă, se va pedepsi cu închisoare până la doi ani.
-
-
-1) A se vedea nota 2 dela art. 1 și art. 399, al. II Codul penal.
-
-Art. 167. -
-Ori-ce preot sau obraz bisericesc, de ori-ce cult, care, în adunare publică, în exercițiul funcțiunei sale, va pronunța vre-un discurs cuprinzând vre-o critică sau censură contra guvernului, în contra Adunărei legiuitoare2), în contra unei legi, a unui decret domnesc, sau ori-cărui act al autorităței publice, se va pedepsi cu închisoarea dela trei luni până la doi ani.
-
-
-2) În textul art. francez corespunzător, 201, lipsesc cuvintele: <<în contra Adunărei legiutoare>>.
-
-Art. 168. -
-Dacă un asemenea discurs cuprinde o provocațiune directă la nesupunere către legi sau către alte acte ale autorităței publice, sau dacă tinde a ridica sau a arma o parte din cetățeni în contra altora, preotul sau obrazul bisericesc care-l va fi pronunțat, se va pedepsi cu închisoarea până la un an, dacă provocarea n'a fost urmată de nici un efect.
-
-Iar dacă a dat naștere la nesupunere, se va pedepsi cu doui ani închisoare.
-
-Dacă această nesupunere a ajuns până a se transforma în sedițiune sau în revoltă, care va da loc, în contra unuia sau mai multora dintre culpabili, la aplicare de pedepse mai aspre, atunci preotul sau obrazul bisericesc se va pedepsi cu aceeaș pedeapsă.
-
-Art. 169. -
-Aceleași pedepse arătate în art. 168 se vor aplica în aceeași gradațiune, preoților sau obrazelor bisericești, când aceleași delicte s'au comis prin scrieri date sub forma de instrucțiuni pastorale.
-
-CAPITOLUL IV
-Rezistență, nesupunere și alte necuviinți în contra
-autorităței publice
-I. Rebeliuni
-
-Art. 170. -
-Ori-ce atac, ori-ce rezistență cu violență prin fapt, în contra vre-unui funcționar administrativ ori judecătoresc, de ori-ce treptă și calitate, care ar fi în lucrarea execuțiunei legilor, ordinelor sau ordonanțelor autorităței publice, a ordinelor, a mandatelor sau a hotărârilor judecătorești, se numește rebeliune și se pedepsește, după împrejurări, ca crimă sau ca delict.
-
-Art. 171. -
-Dacă rebeliunea s'a urmat de mai mult de douăzeci persoane armate, culpabilii se vor pedepsi cu recluziunea; iar de nu vor fi fost armați, se vor pedepsi cu minimul recluziunei.
-
-Art. 172. -
-Dacă rebeliunea s'a urmat de un număr de mai mult de trei indivizi, până la douăzeci inclusiv, pedeapsa va fi minimul recluziunei, de vor fi fost armați, iar de nu vor fi fost armați, pedeapsa va fi închisoarea dela trei luni la doi ani.
-
-Art. 173. -
-Dacă rebeliunea nu s'a urmat decât de una până la trei persoane armate, se va pedepsi cu închisoarea dela trei luni până la doi ani; iar dacă rebeliunea s'a urmat fără arme, pedeapsa va fi închisoarea dela 15 zile până la șase luni.
-
-Art. 174. -
-La caz de rebeliune urmată de o ceată sau atrupament, nu se va aplica nici o pedeapsă rebelilor ce se vor afla fără vre-o însărcinare sau întrebuințare în ceată și cari se vor fi retras la cel dintâi avertisment al autorităței publice, sau chiar în urma acelui avertisment, de se vor fi prins fără arme, afară din locul rebeliunei și fără noui resistențe din parte-le.
-Jurisprudență (4)
-
-Însă vor fi supuși la pedeapsă pentru crimele sau delictele particulare ce fie-care va fi săvârșit personal.
-
-Art. 175. -
-Ori-ce adunare de persoane, pentru o crimă sau delict, se va socoti ca o adunare înarmată, când mai mult de trei din acele persoane vor purta arme de față.
-
-Art. 176. -
-Cei ce vor avea asupră-le arme ascunse și cari vor fi făcut parte dintr'o ceată sau adunare care nu se va socoti înarmată, se vor supune fie-care la o pedeapsă întocmai ca și când ar fi făcut parte dintr'o ceată ori adunare înarmată.
-
-Art. 177. -
-Cei ce vor fi săvârșit crime ori delicte în timpul și cu ocaziunea rebeliunei, vor fi supuși la pedepsele hotărîte pentru fie-care dintr'acele crime, dacă acele pedepse vor fi mai mari decât cele cuvenite pentru rebeliune.
-
-Art. 178. -
-Arestații aceia, cari fiind preveniți, acuzați sau condamnați pentru alte crime sau delicte, se vor condamna pentru faptul de rebeliune cu violență sau amenințare în contra autorităței sau puterei publice, vor lua osânda pentru rebeliune îndată după împlinirea sorocului pedepsei pentru celelalte crime sau delicte.
-
-Art. 179. -
-Străinul care, după ce a fost gonit din țară, reintră fără autorizarea specială a guvernului, se va pedepsi cu închisoarea dela trei luni la doui ani.
-
-II. Ultraj și violenți în contra forței publice, în contra
-autorităței publice și depozitarilor lor
-
-Art. 180. -
-Se va pedepsi cu amendă dela 300 lei până la 5000 lei1) sau cu închisoare dela o lună până la doi ani:
-
-180.1. Acela care, cu știință și în contra prohibițiunei autorităței, ridică, vinde sau respândește, în ori-ce chip, în locuri sau întruniri publice, steaguri sau alte semnaluri de natură a propaga rebeliunea sau a turbura pacea publică;
-
-180.2. Acei cari, în locuri sau întruniri publice, poartă semne exterioare de întruniri cari au fost oprite în interesul ordinei și al siguranței publice de către autoritățile județului.
-
-180.3. Acei cari, cu rea cugetare, scot, strică sau sfărâmă steagurile sau alte semne ale autorităților publice.
-
-Art. 181. -
-Acei cari, prin vre-unul din mijloacele enumerate la art. 294, vor provoca direct la nesupunere către legi ori către autoritățile constituite, la dispreț către religiunea domnitoare sau către celelalte religiuni, la ură sau dispreț contra guvernului.
-
-Acei cari, prin aceleași mijloace, vor lăuda fapte calificate de crime sau delicte de codicele penal, sau vor deschide subscripțiuni prin ori-ce mezii, pentru a se plăti amenzile celor condamnați, precum și acei cari vor reproduce un discurs, o scrisoare, un imprimat, o gravură, un desen sau o emblemă condamnată de justiție, se vor pedepsi cu închisoare dela o lună până la un an și cu amendă dela 500 până la 5000 lei2).
-
-
-1) și 2) A se vedea nota 2 dela art. 1 și art. 399, al. II Codul penal.
-
-Art. 182. -
-Cel ce, prin cuvinte sau scrieri înjurătoare, va atinge onoarea unuia sau mai multor funcționari administrativi sau judecătorești, sau a unui jurat, în lucrarea sau cu ocaziunea exercițiului funcțiunei lor, se va pedepsi cu închisoarea dela cincisprezece zile la șase luni; iar dacă ultrajul se va fi urmat în sala ședințelor unei Curți sau unui tribunal, osânda va fi închisoarea dela două luni până la un an.
-
-Ultrajul făcut prin gesturi ofensatoare sau prin amenințări, în contra unui asemenea funcționar public sau jurat, în exercițul sau cu ocaziunea funcțiunei sale, se va pedepsi cu închisoare dela cincisprezece zile până la trei luni; iar de se va fi urmat ultrajul în sala ședințelor unei curți sau tribunal, se va pedepsi cu închisoare dela o lună până la șase luni3).
-
-
-3) Art. 182 C. p. a fost adăugat prin legea din 17 Febr. 1874. El nu exista în Codul penal din 1864. Pentru a nu se schimba numerotația articolelor, vechiul art. 181 a fost trecut ca prim aliniat al art. 182.
-
-Art. 183. -
-Ultrajul făcut prin cuvinte, gesturi sau amenințări în contra ori-cărui funcționar public, precum și contra ori-cărui cetățean însărcinat cu un serviciu public sau municipal, sau agent însărcinat cu forța publică, în exercițiul sau cu ocaziunea funcțiunei sale, se va pedepsi cu închisoare de la cincisprezece zile până la două luni sau cu amendă dela 50 până la 200 lei1).
-
-
-1) A se vedea nota 2 dela art. 1 și art. 399, al. II Codul penal.
-
-Art. 184. -
-Ori-cine va lovi, chiar fără armă și chiar fără a rezolta rănire, pe ori-ce funcționar administrativ sau2) judecătoresc, în esercițiul funcțiunei sale, sau cu ocaziunea acestui exercițiu, se va pedepsi cu închisoare dela un an până la doi ani.
-
-Iar dacă lovirea se va fi urmat în sala ședințelor unei curți sau a unui tribunal, culpabilul se va osândi încă și cu interdicțiunea pe timp mărginit.
-
-
-2) În art. francez corespunzător, 228, lipsesc cuvintele: <<administrativ sau>>. Art. francez zice: <<aura frappe un magistrat>>.
-
-Art. 185. -
-Atacurile prevăzute la art. 184, de vor fi făcute în contra unui impiegat sau ofițer ministerial, contra unui agent al forței publice sau în contra unui jurat, ori alt cetățean însărcinat cu un serviciu public, în timpul exercițiului serviciului lor, sau cu ocaziunea acestui exercițiu, se vor pedepsi cu închisoarea dela o lună până la un an.
-
-Art. 186. -
-Dacă atacurile urmate în contra funcționarilor și agenților prevăzuți la art. 184 și 185 au fost pricinuitoare de versare de sânge, de răniri sau boale, pedeapsa va fi închisoarea dela trei până la cinci ani și interdicțiunea pe timp mărginit; iar dacă din aceasta se va fi urmat și moartea, în termen de 40 zile, culpabilul se va pedepsi cu munca silnică pe timp mărginit.
-
-Art. 187. -
-Chiar când niște asemenea atacuri nu vor fi cauzat vărsare de sânge, răniri sau boale, culpabilul se va pedepsi cu închisoare dela trei la cinci ani și cu interdicțiunea pe timp mărginit, dacă lovirea s'a săvârșit cu precugetare sau prin pândire.
-
-Art. 188. -
-De s'a urmat lovirea ori rănirea cu cuget de a omorî, asupra vre-unuia din funcționarii citați la art. 184 și 185, în timp când aceștia se aflau în lucrare sau cu ocaziunea funcțiunei lor, culpabilul se va pedepsi cu munca silnică pe toată viața.
-
-Art. 189. -
-Pedepsele prevăzute la art. 1811), 182, 184, 186, 187 și 188, se vor aplica și acelora cari vor insulta sau vor ataca pe un membru al corpurilor legiuitoare, în localul Adunărei sau în curtea ei, pentru opiniunile emise de dânsul în sânul Adunărei.
-
-
-1) Articolul 181 nu trebuie citat, întrucât el a fost încorporat la art. 182, prin legea din 17 Februarie 1874.
-
-III. Refuz de serviciu datorit legalmente
-
-Art. 190. -
-Ori-ce comandant sau ofițer de oștire, precum și ori-ce funcționar ce are forța publică, care, după legala cerere ce i se va face, de către o autoritate civilă, nu va voi a întrebuința puterea ce are sub ordinele sale, se va pedepsi cu închisoarea dela 15 zile până la două luni, îndatorându-se a plăti și pagule ce vor fi rezultat din acest delict.
-
-Art. 191. -
-Acela care, cu voință, se va pune în stare de a nu fi propriu pentru serviciul militar, prin ciuntiri sau alte mutilațiuni făcute de sine sau prin altul, se va pedepsi cu închisoare dela o lună până la trei.
-
-Aceeaș pedeapsă se va aplica și aceluia care va pune pe un individ, după cererea lui, în stare de a nu fi propriu serviciului militar.
-
-Art. 192. -
-Martorii și jurații, în materie penală, cari, sub un pretext neadevărat, nu vor veni la chiemarea ce li se va face, se vor putea osândi, pe lângă amenzile ce se vor pronunța pentru nevenirea lor, și la o închisoare dela 15 zile până la două luni.
-
-Art. 193. -
-Se consideră ca un serviciu2) datorit legalmente și se va pedepsi cu o amendă de 20 lei pentru fiecare zi de întârziere:
-
-
-2) De sigur că aci este o inadvertență. Ar trebui să se zică: <<refuz de serviciu>>, căci alt-fel ar fi un adevărat non sens.
-
-193.1. Girantul sau, în lipsa lui, editorul unei scrieri periodice, care nu va publica răspunsul ori-cărei persoane citate direct sau indirect în acea publicațiune, cel mai târziu în primul număr care va apărea după 60 ore din ora în care acel răspuns va fi fost depus la redacțiune sau administrațiune.
-
-Dacă răspunsul conține un număr de litere mai mare decât de două ori numărul literelor din articolul provocator, autorul va trebui să plătească excedentul, deodată cu depunerea, după prețul însemnat în publicațiune pentru anunțuri.
-
-Depunerea răspunsului se probează prin chitanță sau prin proces-verbal dresat de un portărel;
-
-193.2. Girantul său, în lipsă de girant, editorul ori-cărei foi periodice, care nu va publica în capul celui dintâiu număr sentința prin care o persoană va fi fost condamnată pentru un delict de presă comis prin acea publicațiune;
-
-193.3. Girantul sau, în lipsă de girant, editorul ori-cărei foi periodice, care nu va publica în capul primului număr comunicatele oficiale destinate a îndrepta faptele eronate produse de acea publicațiune.
-
-Prin editor se înțelege tipograful sau litograful, când nu se află alt editor cunoscut1).
-
-
-1) În redacțiunea Codului penal din 1864 nu exista art. 193; el a fost creat cu ocazia importantei modificări făcute Codului penal prin legea din 17 Februarie 1874; vechiul art. 193 contopindu-se cu vechiul art. 194 au format actualul art. 194.
-
-IV. Despre scăparea arestaților și despre ascunderea criminalilor
-
-Art. 194. -
-Se va pedepsi cu închisoare, dela 15 zile până la doui ani acela care, cu voință, înlesnește sau încearcă a înlesni scăparea, sau face a se scăpa un arestat care se află pus într'o închisoare sau sub paza forței armate, a funcționarului ori a agentului însărcinat de a-l conduce ori de a-l preveghia.
-
-Când un arestat va scăpa, păzitorul sau conductorul, care va fi cauza voluntară a acestei scăpări, se va pedepsi cu închisoare dela trei luni până la doui ani.
-
-Dacă va fi numai neglijență, pedeapsa va fi închisoarea dela 15 zile până la un an2).
-
-
-2) În textul art. prusian corespunzător, 96, înțelesul este mai clar redat decât în textul român. Aceasta frază este astfel redactată în textul [rusian: <<acei cari vor fi silit pe aceștia ca să facă niscai-va acte sau să se abțină de a le face>>.
-
-Art. 195. -
-Arestații cari, prin atrupamente sau însoțire, vor fi scăpat dintr'o închisoare, prin întrebuințare de violență, sau de rezistență în contra custozilor (păzitorilor), sau aceia cari vor fi silit pe aceștia ca să facă niscai-va acte, sau să-i poprească de a le face2), precum asemenea și aceia cari vor fi participat la o asemenea nesupunere, se vor pedepsi cu închisoare dela șase luni până la doui ani.
-
-Aceia cari se vor fi încercat a face vre-una din infracțiunile prevăzute în acest articol, fără însă a isbuti, se vor pedepsi întotdeauna cu minimul închisoarei prevăzută mai sus.
-
-Pedeapsa prevăzută mai sus se va pronunța contra arestaților, peste pedeapsa pentru care erau condamnați, și se va executa după împlinirea acestei pedepse sau după pronunțarea sentinței definitive de achitare sau de absoluțiune, fără prejudițiul de alte pedepse mai grele ce li s'ar cuveni, pentru alte crime sau delicte ce vor fi comis prin violențele întrebuințate de dânșii cu ocaziunea scăpărei lor.
-
-
-2) În textul art. prusian corespunzător, 96, înțelesul este mai clar redat decât în textul român. Aceasta frază este astfel redactată în textul [rusian: <<acei cari vor fi silit pe aceștia ca să facă niscai-va acte sau să se abțină de a le face>>.
-
-Art. 196. -
-Dacă scăparea, prin spargere ori cu mijloace silnice, s'a înlesnit prin dare de arme, pasnicul și conductorul cari se vor fi împărtășit la aceasta se vor pedepsi cu munca silnică pe timp mărginit, iar ceilalți cu recluziunea.
-
-Art. 197. -
-Aceia cari vor fi ascuns ori vor fi mijlocit a se ascunde persoane pe cari le cunoșteau de săvârșitoare de crime, se vor pedepsi cu închisoarea dela o lună la un an.
-
-Iar dacă ascunderea sau mijlocirea de ascundere, se va fi făcut pentru în parte și folos, pedeapsa va fi de doui ani închisoare1).
-
-Vor fi însă apărați de osânda cuprinsă într'acest articol rudele de sus și de jos, soțul sau soția, și chiar de vor fi despărțiți, frații sau surorile culpabililor celor ascunși și afinii până la aceeași spiță.
-
-
-1) În aliniatul II al art. francez corespunzător, 248, lipsește fraza inițială din aliniatul al 2-lea român: <<Iar dacă ascunderea, sau mijlocirea de ascundere, se va fi făcut pentru în parte și folos, pedeapsa va fi de doui ani închisoare>>.
-
-V. Despre spargerea sigilielor și luarea actelor sau
-lucrărilor aflate în depozite publice
-
-Art. 198. -
-Când sigiliele, puse din ordinul unei dregătorii administrative sau judecătorești se vor sparge din neîngrijirea custozilor, atunci acești custozi se vor pedepsi cu închisoare dela 15 zile până la patru luni.
-
-Art. 199. -
-Dacă spargerea sigilielor se va face la hârti și lucruri ale unei persoane care, sau va fi sub pâra de crimă supusă la pedeapsa muncei silnice, sau se va fi osândit la această pedeapsă, neîngrijitorul custode se va osândi la închisoare dela trei luni până la un an.
-
-Art. 200. -
-Acela care, într'adins va sparge sigiliele puse pe hârtii sau pe lucruri, despre cari se vorbește în articolul precedent, ori va fi complice la spargerea peceților, se va pedepsi cu doui ani închisoare; iar de va fi însuș custodele, pedeapsa va fi maximul închisorei.
-
-Cu aceeaș pedeapsă de doui ani închisoare se va pedepsi debitorul urmărit, care, cu știință, va fi desființat sau va fi pus la o parte, sau va fi sustras, sau va fi cercat să desființeze, ori să pună la o parte, ori să sustragă, fie prin spargere de sigilii, fie fără spargere de sigilii, lucrurile sale sechestrate, când sunt date în paza altuia.
-
-Dispozițiunile art. 307 din codul penal nu se vor aplica în cazul acesta.
-
-Art. 201. -
-Pentru ori-ce alt fel de spargere de sigilii, culpabile se vor pedepsi cu închisoare dela o lună până la un an și, de va fi însuși custodele, pedeapsa va fi închisoarea dela șase luni pîna la un an și jumătate.
-
-Art. 202. -
-Ori-ce furt săvârșit prin spargere de sigilii se va pedepsi ca și furtul săvârșit cu spargere.
-
-Art. 203. -
-La întâmplare de sustracțiune, ascundere și desființare de înscrisuri, de lucrări sau de procedură criminală, sau de alte hârtii, registre, acte și lucruri puse în arhivă, în cancelarii ori în alte depozite publice, sau date în păstrarea unui funcționar public, pedepsele vor fi, pentru grefieri, portărei, arhivari, registratori, sau alți depozitari, cari nu au avut cuviincioasa îngrijire, închisoarea dela o lună până la un an, și o amendă de la 300 până la 1000 lei1).
-
-
-1) A se vedea nota 2 dela art. 1 și art. 399, al. II Codul penal.
-
-Art. 204. -
-Cel ce va fi culpabile de sustracțiuni ascunderi sau desființâri de chârtii ori lucruri menționate în articolul precedente, se va pedepsi cu macsimulu închisorii; iar dacă culpabilul va fi însuși depositarulu, se va pedepsi cu recluziune.
-
-Art. 205. -
-Dacă spargerea sigilieloru, sustragerea, ascunderea sau desființarea chărtioru s'au săvârșit, prin violență, în contra vre-unei persoane, pedeapsa va fi pentru ori-ce persoană, recluziunea, fără prejudițiu însă de alte pedepse și mai grele, la cari a pututu da loc natura violențeloru sau a crimelor ce se vor fi săvârșit.
-
-VI. Despre degradarea monumentelor publice
-
-Art. 206. -
-Ori-cine va fi distrus, dărâmat, ciuntit sau degradat, în totul sau în parte, monumente, statui și alte lucruri cari servesc spre folosul ori podoba publică și sunt făcute de către autoritatea publică sau cu voia ei, se va pedepsi cu închisoarea dela o lună până la un an, și cu amendă de dela 100 până la 500 lei2).
-
-
-2) A se vedea nota 2 dela art. 1 și art. 399, al. II Cod. penal.
-
-VII. Uzurparea de titluri sau funcțiuni publice
-
-Art. 207. -
-Ori-care, fără cădere, se va amesteca în funcțiuni administrative, judecătorești, ori ostășești, ori municipale, sau va face acte ale uneia dintre aceste funcțiuni, se va pedepsi cu închisoare dela șase luni până la doui ani, fără prejudițiul pedepsei de plăsmuire, dacă actul poartă caracterul acestei crime.
-
-Art. 208. -
-Ori-cine va purta în public vr'un costum, o uniformă, un semn distinctiv de autoritate, sau o decorațiune care nu i se cuvine, sau pentru care nu are autorizare, se va pedepsi cu închisoare dela o lună până la șase1).
+Infracțiunea săvârșită sub imperiul unei legi temporare este urmărită și după abrogarea legii prin ajungerea ei la termen.
 Jurisprudență (1)
 
+Art. 4. - Jurisprudență (1)
+Legile care prevăd măsuri de siguranță se aplică și infracțiunilor comise anterior punerii lor în vigoare, dacă nu sunt definitiv judecate.
 
-1) În textul art. francez corespunzător, 259, lipsesc expresiunile: <<un semn distinctiv de autoritate>> și <<sau pentru care nu are autorizare>>.
+Art. 5. - Jurisprudență (5)
+În caz de conflict între două sau mai multe legi succesive, privitoare la prescripțiunea acțiunii publice sau a pedepselor, se aplică legea care prevede prescripțiunea cea mai scurtă.
 
-VIII. Împiedicări la liberul exercițiu al unei religiuni
+CAPITOLUL II
+Aplicarea legii penale în spațiu
+SECȚIUNEA I
+Infracțiuni săvârșite în România
+Art. 6. -
+Orice infracțiune săvârșită pe teritoriul României este pedepsită după dispozițiunile legilor penale române.
 
-Art. 209. -
-Ori-cine care, prin fapte sau amenințări, va sili sau va popri pe una sau mai multe persoane de a-și exercita cultul religiunei lor, de a asista la exercițiul acestui cult sau de a elebra sărbătorile lor, se va pedepsi cu amendă dela 100 până la 1000 lei2).
+Legea penală română se aplică și infracțiunilor săvârșite deasupra teritoriului României, în cuprinsul apelor sau mării teritoriale, sau pe o navă ori aeronavă română.
 
+Infracțiunea se consideră comisă în România și atunci când actul comiterii sau omisiunii, ori cel puțin un act de executare a fost început sau săvârșit pe teritoriul român, sau când rezultatul infracțiunii s'a produs pe acest teritoriu.
 
-2) A se vedea nota 2 dela art. 1 și art. 399, al. II Codul penal.
+Art. 7. -
+Legea penală română nu se aplică:
 
+1. persoanei Regelui;
+
+2. persoanelor care, în baza tratatelor sau regulilor de drept internațional, se bucură de imunitate penală;
+
+3. echipajului unui vas comercial străin, pentru infracțiunile săvârșite pe acel vas, când se află în marea teritorială sau într'un port românesc, precum și echipajului unei aeronave străine, în timpul când sboară deasupra teritoriului românesc sau se află pe acest teritoriu în virtutea unei autorizațiuni speciale a guvernului român, afară de cazul când infracțiunea s'a comis contra unui Român sau a turburat pacea și ordinea publică a teritoriului, sau dacă s'a făcut apel la autoritățile române de comandantul vasului.
+
+SECȚIUNEA II
+Infracțiuni săvârșite în străinătate de români
+sau de străini domiciliați în România
+Art. 8. -
+Orice cetățean român poate fi pedepsit pentru faptele săvârșite ca autor, instigator sau complice, în afară de teritoriul României, numai după întoarcerea sa voluntară sau dacă găsindu-se în țară voiește a rămâne, ori dacă s'a obținut extrădarea sa și numai dacă acele fapte sunt socotite ca infracțiuni, atât de legile țării unde au fost săvârșite, cât și de legile române, afară de infracțiunile prevăzute de art. 10 și 11.
+
+În caz de deosebire între pedepsele prevăzute de cele două legi se aplică pedeapsa cea mai ușoară.
+
+Dacă pedeapsa cea mai ușoară este prevăzută de legea țării străine și dacă această pedeapsă nu există în legea română, judecătorul trebue să o transforme într'una din pedepsele prevăzute de acest cod, care i-ar corespunde din punct de vedere al naturii și duratei.
+
+Infractorul nu poate fi urmărit dacă dovedește că, pentru acele fapte a fost amnistiat sau a fost judecat în străinătate printr'o hotărîre definitivă, iar în caz de condamnare, că a fost scutit de executarea pedepsei sau că pedeapsa i-s'a stins prin executare sau prin orice alte cauze de stingere a pedepselor prevăzute de legea țării unde a fost condamnat.
+
+Când infractorul s'a sustras prin orice mijloace, dela executarea integrală a pedepsei la care fusese condamnat în străinătate, partea din pedeapsă executată în străinătate se socotește în executarea pedepsei ce se pronunță de către instanțele române. Se deduce și deținerea preventivă suferită în străinătate.
+
+De asemenea nicio urmărire nu se poate face pentru acele infracțiuni, care, după legea străină, sunt supuse unei plângeri prealabile și când o atare plângere nu s'a produs sau a fost retrasă în mod legal.
+
+Legea penală română se aplică cetățeanului român și pentru faptele comise în străinătate, chiar când locul de comitere nu este supus unei suveranități, dacă faptele sunt calificate crime sau delicte și pedepsite de acest cod.
+
+Art. 9. -
+Dispozițiunile prevăzute în articolul precedent sunt aplicabile și străinilor domiciliați în România, dacă nu sunt supuși niciunei țări sau dacă extrădarea lor nu a fost cerută, precum și străinilor care au dobândit naționalitatea română după ce au săvârșit infracțiunea în străinătate.
+
+Ele sunt de asemenea aplicabile instigatorilor și complicilor care în România au făcut acte de participare la o infracțiune săvârșită în străinătate și prevăzută de legile române.
+
+SECȚIUNEA III
+Infracțiuni contra unor interese ale Statului
+Român, săvârșite de români sau străini
+în străinătate
+Art. 10. - Jurisprudență (4)
+Acela care săvârșește, în afară de teritoriul României, ca autor, instigator sau complice, crimă în contra siguranței Statului, delict de falsificare a monedelor metalice române, a efectelor publice, a biletelor de bancă române sau o contrafacere a sigiliilor Statului, ori ale autorităților române, a timbrelor sau a mărcilor naționale, ori delictul de ofensă în contra onoarei, prestigiului ori intereselor națiunii sau Statului român, precum și orice crimă sau delict contra unui cetățean român, poate fi urmărit în România, judecat și condamnat, chiar în lipsă, afară de cazul când guvernul român a cerut urmărirea în străinătate.
+Jurisprudență (2)
+
+Dacă infractorul este prins pe teritoriul român, sau dacă se obține extrădarea lui, este supus la executarea pedepsei ce s'a pronunțat de instanțele române, chiar dacă pentru faptele enumerate în alineatul precedent a fost amnestiat în străinătate sau a fost judecat printr'o hotărîre definitivă, iar în caz de condamnare, că a fost scutit de executarea pedepsei sau că pedeapsa i s'a stins prin executare sau prin orice alte cauze de stingere a pedepsei prevăzute de legea țării unde a fost condamnat.
+
+În caz de condamnare în străinătate, pentru aceeași infracțiune, pedeapsa executată acolo se deduce din pedeapsa pronunțată de instanțele române. De asemenea se deduce, conform dispozițiunilor din acest cod și deținerea preventivă suferită în străinătate.
+
+Cei condamnați în lipsă pot cere rejudecarea procesului dacă se află în țară și dacă termenul de prescripție a pedepsei nu a expirat.
+
+SECȚIUNEA IV
+Infracțiuni săvârșite de străini în străinătate
+Art. 11. -
+Orice alte crime sau delicte, în afară de cele prevăzute în art. 10, săvârșite de străini în străinătate, se pedepsesc, conform art. 8, dacă străinul infractor se află în țară și dacă nu se cere extrădarea lui sau dacă extrădarea nu poate fi executată.
+
+Urmărirea pentru aceste infracțiuni nu se poate face decât după cererea Ministerului Justiției, afară de următoarele infracțiuni care se urmăresc și se pedepsesc, conform dispozițiunilor acestui cod, independent de dispozițiunile penale în vigoare la locul de comitere al infracțiunii:
+
+1. falsificarea de monedă metalică, hârtie monedă, efecte publice, bilete de bancă, timbre sau mărci străine;
+
+2. traficul de femei și copii;
+
+3. actele de terorism considerate ca infracțiuni prin codul de față;
+
+4. traficul de substanțe stupefiante;
+
+5. traficul de publicațiuni obscene (pornografia);
+
+6. abandonul de familie;
+
+7. participarea la acte comise în scop de a pune în stare de sclavie o persoană;
+
+8. pirateria;
+
+9. ruperea sau distrugerea cablurilor submarine, precum și punerea în circulație prin radiodifuziune de semnale sau apeluri false de pericol;
+
+10. orice alte infracțiuni prevăzute de acest cod, pentru care România s'a obligat prin convențiuni internaționale a le reprima.
+
+SECȚIUNEA V
+Efectele hotărîrilor penale pronunțate în
+străinătate
+Art. 12. -
+În cazul condamnării în străinătate a unui cetățean român sau a unui străin domiciliat în România, pentru o infracțiune de drept comun, instanțele represive române, în urma cererii Ministerului public, pot pronunța incapacitățile, interdicțiunile și decăderile prevăzute de legile române pentru acea infracțiune.
+
+Condamnatul are dreptul de a cere judecătorului să reia în cercetare întreaga afacere, înainte de a se pronunța asupra acțiunii în decădere, exercitate de Ministerul public.
+
+Acțiunea în decădere nu poate fi exercitată de Ministerul public, dacă românul a fost amnistiat sau reabilitat în țara unde a săvârșit infracțiunea sau dacă au trecut zece ani dela data când i s'a stins pedeapsa în străinătate prin executare, grațiere, prescripție sau din orice altă cauză de stingere a pedepselor prevăzute de legile țării, unde a fost condamnat.
+
+Art. 13. -
+Străinul pedepsit în țara sa pentru o infracțiune de drept comun, prevăzută și de legea română, este lipsit în România de exercițiul și folosința acelor drepturi, care i-au fost interzise prin hotărîrea străină rămasă definitivă.
+
+Această dispozițiune nu se aplică, dacă străinul a fost condamnat în lipsă sau dacă interdicțiunile, incapacitățile și decăderile pronunțate prin hotărîrea străină sunt contrare ordinei publice.
+
+Art. 14. -
+Acela care săvârșește o infracțiune în România, după ce a fost condamnat în străinătate printr'o hotărîre definitivă pentru o infracțiune prevăzută și de legea română, poate fi socotit ca recidivist, în cazurile și condițiile stabilite de acest cod.
+
+SECȚIUNEA VI
+Dispozițiuni comune
+Art. 15. -
+În toate cazurile, când instanțele române sunt competente a judeca infracțiunile săvârșite în străinătate, aceste instanțe aplică măsurile de siguranță prevăzute de legile române, chiar dacă atari măsuri nu există sau există numai în parte, în legile țării unde s'a săvârșit infracțiunea.
+
+SECȚIUNEA VII
+Extrădarea
+Art. 16. -
+Condițiunile de fond ale extrădării sunt cele stabilite de convențiile internaționale, iar în lipsa acestora de reciprocitatea existentă și dispozițiile din prezenta secțiune.
+
+Art. 17. -
+Extrădarea cetățenilor români și a refugiaților politici este oprită.
+
+Străinul urmărit sau condamnat pentru crimă sau delict de drept comun, comise în străinătate, poate fi extrădat.
+
+Când străinul, refugiat politic, este urmărit și pentru infracțiuni de drept comun, săvârșite în țară străină, poate fi judecat în România pentru acele infracțiuni de drept comun, dacă sunt prevăzute și de legea română și dacă nu sunt conexe cu infracțiunea politică.
+
+Aplicarea pedepsei se face în conformitate cu dispozițiunile art. 8, alin. 2 și 3.
+
+Extrădarea străinilor care au săvârșit infracțiuni în România sau care intră în prevederile art. 10, alin. 1, nu poate fi acordată, decât după ce au fost judecați în România printr'o hotărîre definitivă, și, în caz de condamnare, după ce au executat în întregime pedeapsa sau au beneficiat de vreuna din cauzele de stingere a pedepselor prevăzute de legile române.
+
+În niciun caz extrădarea nu poate fi admisă dacă faptul pentru care a fost cerută nu este prevăzut ca infracțiune de legea română sau, dacă s'a împlinit termenul de prescripție, după aceeași lege, ori dacă pedeapsa prevăzută pentru acea infracțiune, după legile ambelor state, ar fi pedeapsă privativă de libertate mai mică de un an.
+
+Când infracțiunea este pedepsită în statul care cere extrădarea, cu pedeapsa cu moartea sau cu confiscarea bunurilor, extrădarea nu va fi acordată, decât dacă, în prealabil se dă asigurare că extrădatul nu va fi supus la executarea acestor pedepse.
+
+Dacă extrădarea este cerută deodată de mai multe state, ordinea de preferință este următoarea:
+
+1. statul în contra intereselor căruia infracțiunea era îndreptată;
+
+2. statul pe teritoriul căruia s'a comis infracțiunea;
+
+3. statul al cărui cetățean este infractorul.
+
+Art. 18. -
+Extrădatul nu poate fi supus la executarea altor pedepse peste cele prevăzute în cererea de extrădare și nici judecat pentru alte fapte, anterioare extrădării, afară numai dacă guvernul român, după o nouă cerere, nu acordă consimțimântul său.
+
+Art. 19. - Jurisprudență (1)
+Condițiunile de fond ale extrădării se aplică și tranzitării extrădaților.
+
+CAPITOLUL III
+Dispozițiuni comune
+Art. 20. -
+Dispozițiunile acestui cod se aplică și militarilor, afară de cazurile speciale prevăzute de codul justiției militare.
+
+Dispozițiunile generale ale acestui cod se aplică și infracțiunilor prevăzute de legi speciale, afară de cazul când acele legi ar dispune altfel.
+
+TITLUL III
+Pedepse
+CAPITOLUL I
+Dispozițiuni generale
+Art. 21. -
+Pedeapsa se aplică de judecător în limitele fixate de lege, luând în considerațiune motivele și gravitatea faptei, gradul de perversitate a infractorului, vieața anterioară și conduita sa după comiterea faptei.
+
+CAPITOLUL II
+Specii și grade de pedepse
+SECȚIUNEA I
+Pedepse principale
+Art. 22. - Jurisprudență (1)
+Pedepsele pentru crime sunt:
+
+În materie de drept comun:
+
+1. munca silnică pe vieață;
+
+2. munca silnică pe timp mărginit dela 5 la 25 ani;
+
+3. temnița grea dela 3 la 20 ani.
+
+În materie politică:
+
+1. detențiunea grea pe vieață;
+
+2. detențiunea grea dela 5 la 25 ani;
+
+3. detențiunea riguroasă dela 3 la 20 ani.
+
+Art. 23. -
+Pedepsele pentru delicte sunt:
+
+În materie de drept comun:
+
+1. închisoarea corecțională dela o lună la 12 ani;
+
+2. amenda dela 2.000 la 20.000 lei, afară de cazul când legea prevede un alt maximum.
+
+În materie politică:
+
+1. detențiunea simplă dela o lună la 12 ani;
+
+2. amenda dela 2.000 la 20.000 lei, afară de cazul când legea prevede un alt maximum.
+
+Art. 24. -
+Pedepsele pentru contravenții sunt:
+
+1. închisoarea polițienească de la o zi la o lună;
+
+2. amenda dela 50 la 1.500 lei.
+
+SECȚIUNEA II
+Pedepse complimentare
+Art. 25. -
+Pe lângă pedepsele privative de libertate, instanța poate pronunța și următoarele pedepse complimentare, în afară de cazurile când legea ar impune în mod obligator aceasta:
+
+1. degradarea civică dela 3 la 10 ani, pentru crime;
+
+2. interdicția corecțională dela unu la 6 ani, pentru delicte;
+
+3. decăderea din puterea părintească, în cazurile prevăzute de lege;
+
+4. publicarea și afișarea hotărîrilor de condamnare, în condițiunile stabilite de lege;
+
+5. amenda, în limitele maximumului și minimumului prevăzut pentru amendă ca pedeapsă principală și numai pentru delicte.
+
+Executarea degradațiunii civice și interdicției corecționale ca pedepse complimentare începe să curgă dela data terminării executării pedepsei privative de libertate, pe lângă care a fost pronunțată, iar în caz de prescripțiune a pedepsei, dela data împlinirii prescripțiunii.
+
+Instanța nu poate aplica aceste pedepse, în caz când pedeapsa privativă de libertate nu depășește 6 luni.
+
+SECȚIUNEA III
+Pedepse accesorii
+Art. 26. -
+Pedepsele accesorii sunt:
+
+1. degradarea civică;
+
+2. interdicția corecțională;
+
+3. decăderea din puterea părintească.
+
+Durata acestor pedepse este egală cu a pedepselor privative de libertate pe care le însoțesc.
+
+SECȚIUNEA IV
+Dispozițiuni comune
+Art. 27. -
+Când din împrejurările în care a fost săvârșită sau din cauza mobilului, se constată că o infracțiune, calificată crimă sau delict, are caracter politic, dar este sancționată de lege cu pedeapsă de drept comun, instanța substitue, pedepsei de drept comun, pedeapsa politică ce îi corespunde, în scara pedepselor stabilite de art. 22 și 23.
+
+Minimum și maximum pedepsei substituite sunt același ca și ale pedepsei de drept comun, iar dacă legea, pentru infracțiunea săvârșită nu prevede niciun maximum, pedeapsa se pronunță, ținând seama de limitele generale stabilite de art. 22 și 23.
+
+Nu pot fi niciodată considerate infracțiuni politice: omorul, mutilările, rănirile grave intenționate, falsul de monedă și tentativele acestor infracțiuni, atentatele contra proprietății prin incendiu, explozie, inundație, furt și tâlhărie, precum și infracțiunile care au de scop, fie schimbarea bazelor oricărei organizațiuni sociale, fie numai schimbarea bazelor organizațiunii sociale a României.
+Jurisprudență (1)
+
+CAPITOLUL III
+Pedepse privative de libertate și regimul lor
+SECȚIUNEA I
+Pedepse de drept comun
+§
+1. Munca silnică
+
+Art. 28. -
+Munca silnică se execută în penitenciare anume destinate pentru aceasta.
+
+Condamnatul la muncă silnică va fi închis la începutul executării pedepsei în celulă individuală și ținut astfel ziua și noaptea 2 ani, dacă este condamnat la muncă silnică pe vieață; un an și 6 luni, dacă este condamnat la muncă silnică dela 10 la 25 ani; un an, dacă este condamnat la aceeași pedeapsă dela 5 la 10 ani.
+
+Termenele de mai sus vor putea fi reduse sau executarea întreruptă și reluată după însănătoșire pe baza avizului medicului, dacă este pericol serios pentru sănătatea condamnatului.
+
+În tot cazul separațiunea de noapte se aplică.
+
+Dacă, pentru motivul de mai sus, pedeapsa n'a fost executată la început în celulă individuală sau dacă a fost întreruptă, ea se execută, după încetarea cauzei de suspendare, însă numai în termen de 10 ani, dela începerea executării pedepsei, pentru cei condamnați la muncă silnică pe toată vieața, iar pentru cei pe timp limitat, numai în cea dintâiu jumătate a duratei pedepsei.
+
+Condamnatul care execută pedeapsa în celulă, este obligat a executa acolo munca ce i se prescrie.
+
+După expirarea termenelor de mai sus, condamnatul este supus la muncă executată în comun sub regimul tăcerii, în interiorul minelor, ori la lucrări de utilitate publică, sau în instalațiuni industriale, iar noaptea va fi separat în celulă. Când munca se execută în mine, condamnatul va fi scos în timpul nopții și închis în celulă.
+
+Condamnatul la muncă silnică pe vieață, care a executat 15 ani din pedeapsă, în cele două faze de mai sus, dând temeinice speranțe de îndreptare prin îndemn la muncă și bună purtare, va fi transportat, pentru executarea restului de pedeapsă, într'o colonie penitenciară. După 5 ani de executare sub acest regim el poate obține liberarea condiționată după normele prevăzute de lege. După 10 ani de libertate condiționată, pedeapsa se consideră executată.
+
+Condamnatul la muncă silnică pe timp mărginit, poate fi trecut în colonie penitenciară, numai după ce a executat 2/3 din pedeapsă în fazele anterioare, însă nu mai puțin de 12 ani, în cazul când a fost condamnat la maximum de pedeapsă.
+
+El poate obține liberarea condiționată după ce a executat 3/4 din totalul pedepsei, în condițiunile prevăzute de lege.
+
+Art. 29. -
+Condamnatul la muncă silnică poartă costumul închisoarei în tot timpul executării pedepsei și se pune în fiare, numai pentru asigurarea pazei.
+
+Costumul celor condamnați la muncă silnică pe timp mărginit este diferit de cel al condamnaților pe vieață.
+
+Art. 30. -
+Produsul muncii condamnatului aparține de drept Statului. Când însă partea civilă nu a fost despăgubită, jumătate din produsul acestei munci se capitalizează pentru reparațiunea daunei fixate de justiție.
+
+Condamnatul care dovedește bună purtare și îndemn la muncă, are dreptul la 1/4 din produsul cuvenit statului.
+
+Jumătate din partea atribuită condamnatului va servi pentru îmbunătățirea traiului său în închisoare, iar cealaltă jumătate se capitalizează pentru a i se remite la liberare.
+
+Art. 31. -
+Munca silnică pe vieață sau pe timp mărginit nu se aplică aceluia care, la pronunțarea hotărîrii de condamnare a împlinit vârsta de 60 de ani, nici aceluia care, din cauza stării lui de debilitate, n'ar putea suporta greutatea pedepsei. În aceste cazuri în locul acelor pedepse, se aplică, infractorului pedeapsa temniței grele, pentru durata la care ar fi trebuit condamnat, dacă s'ar fi aplicat munca silnică. Această dispozițiune se aplică și condamnatului care în timpul executării pedepsei a împlinit vârsta de 60 ani.
+
+§
+2. Temnița grea
+
+Art. 32. -
+Pedeapsa temniței grele se execută în penitenciare anume destinate pentru aceasta.
+
+Condamnatul la temniță grea va fi închis la începutul executării pedepsei în celulă individuală, unde va fi ținut separat, ziua și noaptea, timp de 8 luni, dacă pedeapsa sa este dela 3 la 7 ani, și de un an dacă pedeapsa sa este dela 7 la 20 ani.
+
+După expirarea termenului de mai sus, el va fi supus în timpul zilei la muncă în comun, sub regimul tăcerii, în interiorul penitenciarului, iar în timpul nopții la separațiune celulară.
+Jurisprudență (1)
+
+Dispozițiunile prevăzute de art. 28 alin. 3 și 4, se aplică și condamnatului la temniță grea.
+
+Condamnatul la temniță grea execută, în interiorul penitenciarului, munca cu caracter industrial, potrivită aptitudinilor sale, conform regulamentului penitenciarului, iar în afară de penitenciar, lucrări de utilitate publică, însă numai cu consimțământul său.
+
+Cel obligat la separațiune celulară execută în celulă munca impusă de direcțiune.
+
+Regimul de executare al temniței grele va fi mai blând decât acela stabilit pentru munca silnică.
+
+După executarea a 2/3 din pedeapsă, condamnatul la temniță grea, care, prin îndemn la muncă și bună purtare, dă speranțe de îndreptare, va fi trecut, pentru executarea restului pedepsei, în colonie penitenciară, iar după executare a 3/4 din totalul pedepsei poate obține liberarea condiționată.
+
+Produsul muncii condamnatului se împarte conform art. 30, putându-se lăsa în folosul condamnatului 1/3 din produs.
+
+§
+3. Închisoarea corecțională
+
+Art. 33. - Jurisprudență (1)
+Condamnatul la închisoare corecțională execută pedeapsa în penitenciare anume destinate pentru aceasta.
+
+Pedeapsa se execută astfel:
+
+1. cel condamnat la închisoare până la 6 luni inclusiv, va fi ținut ziua în comun, iar noaptea, pe cât posibil, separat;
+
+2. cel condamnat dela 6 luni la 2 ani inclusiv, va fi ținut 1/4 din pedeapsă, separat zi și noapte în celulă individuală, fără ca acest regim să poată depăși 4 luni, 2/4 din pedeapsă ziua la muncă în comun și noaptea, pe cât posibil, separat, în celulă, iar 1/4 în libertate condiționată, numai dacă dovedește purtare bună și îndemn la muncă;
+
+3. cel condamnat dela 2 ani în sus va fi ținut 1/4 din pedeapsă, separat zi și noapte în celulă individuală fără ca aceasta să poată depăși un an, 2/4 din pedeapsă ziua la muncă în comun și noaptea pe cât posibil separat în celulă, iar restul de 1/4 dacă dovedește purtare bună și îndemn la muncă, poate fi executată, jumătate în colonie penitenciară, jumătate în libertate condiționată.
+
+Dispozițiunile prevăzute de art. 28, alin. 3 și 4 se aplică și condamnaților la închisoare corecțională.
+
+Munca în comun, în interiorul penitenciarului, constă din lucrări industriale, prevăzute de regulament, după alegerea condamnatului.
+
+El poate fi întrebuințat, în afară de penitenciar, la lucrări agricole sau de utilitate publică, însă numai cu consimțământul său.
+
+Cel deținut în celulă este obligat a executa acolo munca ce i s'a încuviințat.
+
+Regimul acestei pedepse va fi mai blând decât cel al temniței grele.
+
+Art. 34. -
+Produsul muncii fiecărui condamnat se repartizează astfel: două cincimi se cuvin Statului, iar trei cincimi condamnatului. O treime din partea cuvenită Statului se capitalizează pentru reparațiunea daunei cuvenite părții civile, în caz când ea nu a fost despăgubită.
+
+Jumătate din partea cuvenită condamnatului se dă pentru îmbunătățirea traiului său în închisoare, iar cealaltă jumătate se capitalizează pentru a i se remite la liberare.
+
+În timpul muncii în comun condamnații vor fi despărțiți, ținându-se seamă pe cât cu putință, de natura infracțiunii.
+
+Condamnații pentru fals, delapidare de bani publici și delicte contra proprietății vor fi întotdeauna separați atât în timpul zilei cât și al nopții de cei condamnați pentru alte delicte.
+
+În aplicațiunea acestei separațiuni se va ține cont și de caracterul individual al fiecărui condamnat.
+
+Instanța poate scuti motivat, prin hotărîre, pe condamnatul la închisoare corecțională de orice muncă și îi poate permite să se hrănească pe cheltuiala sa.
+
+§
+4. Închisoarea polițienească
+
+Art. 35. - Jurisprudență (1)
+Condamnatul la închisoare polițienească execută pedeapsa în penitenciarele județene, cu totul separat de alte categorii de detinuți.
+
+El poate fi întrebuințat cu consimțământul său fie în penitenciar, fie în afară, la munci de utilitate publică.
+
+Din produsul muncii ia 1/4 Statul, iar 3/4 condamnatul.
+
+Regimul acestei pedepse va fi foarte blând.
+
+SECȚIUNEA II
+Pedepse politice
+§
+1. Detențiunea grea
+
+Art. 36. -
+Condamnatul la detențiune grea execută pedeapsa într'o sectiune specială a penitenciarului destinat pedepselor politice. El va fi ținut ziua în comun, iar noaptea separat în celulă individuală.
+
+Condamnatul la detențiune grea, este supus la munci cu caracter industrial agricol sau de utilitate publică, a căror natură se stabilește pe cât cu putință după alegerea sa.
+
+Instanța poate dispune motivat, prin hotărîre, ca cel condamnat la această pedeapsă, să fie scutit de muncă și să se hrănească pe socoteala sa. Condamnatul la această pedeapsă poate fi vizitat numai de persoane din familie și numai la intervale de 1 lună. Întrevederea cu aceste persoane se face totdeauna conform dispozițiunilor regulamentului penitenciarului.
+
+§
+2. Detențiunea riguroasă
+
+Art. 37. - Jurisprudență (1)
+Condamnatul la detențiune riguroasă execută pedeapsa într'o secțiune specială a penitenciarului destinat pedepselor politice.
+
+Dispozițiunile alin. 2 și 3 din art. 36, se aplică și condamnatului la detențiune riguroasă.
+
+§
+3. Detențiunea simplă
+
+Art. 38. -
+Condamnatul la detențiune simplă execută pedeapsa într'o secțiune specială a penitenciarului destinat pedepselor politice.
+
+Condamnatul la această pedeapsă nu poate fi ținut în celulă decât la cererea sa sau ca măsură disciplinară.
+
+El își poate procura prin mijloacele de care dispune, orice îmbunătățire a traiului, potrivită cu regimul penitenciarului.
+
+Condamnatul la această pedeapsă poate comunica liber cu membrii familiei, iar cu persoanele străine, numai în condițiunile regulamentului penitenciarului.
+
+El poate primi cu autorizațiunea administratorului penitenciarului, cărți, reviste și jurnale.
+
+§
+4. Dispozițiuni comune
+
+Art. 39. -
+Condamnații la detențiune, nu sunt obligați să poarte costumul penitenciarului, dacă-și pot procura îmbrăcămintea pe cheltuiala lor.
+
+Administrațiunea penitenciară le fixează ore când se pot plimba în aer liber.
+
+Ei pot cere să fie trecuți într'o colonie penitenciară, unde vor fi ținuți separați de ceilalți deținuți, și apoi pot cere liberarea condiționată, în aceleași termene și condițiuni ca și condamnatul la pedepse de drept comun corespunzătoare.
+
+Din produsul muncii condamnaților la detențiune se cuvine Statului numai 1/4, iar restul condamnatului.n'dac:o
+
+Partea cuvenită condamnatului se capitalizează, afară de o parte pe care condamnatul o poate întrebuința pentru îmbunătățirea traiului în penitenciar și anume 1/4 pentru cei condamnați la detențiune grea, pe vieață, 1/3 pentru cei condamnați la detențiune grea pe timp mărginit, 1/2 pentru cei condamnați la detențiune riguroasă și 3/4 pentru condamnații la detențiune simplă.
+
+SECȚIUNEA III
+Instituțiuni complimentare pentru executarea
+pedepselor privative de libertate
+§
+1. Coloniile penitenciare
+
+Art. 40. -
+Coloniile penitenciare sunt institute transitorii, în scop de a pregăti liberarea condamnaților. Ele sunt agricole sau industriale.
+
+Deținuții sunt obligați la munca coloniei, bucurându-se de un tratament mai blând decât acela pe care îl impunea regimul pedepselor la care au fost condamnați.
+
+Deținuții cu purtare bună care prezintă garanții de îndreptare, și readaptare la vieața socială pot fi admiși să muncească și în afară de colonie, chiar fără supraveghere.
+
+Deținutul care, în colonie, nu are purtare bună, va fi retrimis la penitenciarul de unde a provenit.
+
+§
+2. Liberarea condiționată
+
+Art. 41. - Jurisprudență (2)
+Liberarea condiționată este punerea în libertate anticipată a condamnatului care, în afară de condițiunile prevăzute în art. 28, 32, 33 și 39, mai are și posibilitatea de a-și asigura existența prin muncă, când nu are alte mijloace.
+
+Partea din pedeapsa redusă prin grațiere nu intră, în calculul părților ce trebuesc executate pentru obținerea liberării,
+
+Timpul petrecut în libertate condiționată este socotit ca executare de pedeapsă.
+
+Hotărîrea de liberare va fixa localitatea unde cel liberat se va stabili. Această localitate poate fi alta decât aceea unde locuește partea vătămată.
+
+Cel liberat este obligat:
+
+1. să muncească, potrivit cu puterile și aptitudinile sale, în cazul când existența nu-i poate fi asigurată decât prin muncă;
+
+2. să nu părăsească, fără încuviințarea autorității respective, localitatea unde trebue să muncească și care i-a fost fixată prin hotărîrea de liberare.
+
+Art. 42. -
+Dacă partea vătămată nu a fost încă despăgubită, condamnatul poate fi obligat să repare în timpul liberării, în totul sau în parte, daunele ce au fost fixate de justiție, ținându-se seama de putința sa de câștig în acest timp.
+
+Art. 43. -
+Liberarea condiționată se termină în ziua când pedeapsa trebuia să înceteze, prin executarea ei completă, iar pentru condamnații la muncă silnică sau detențiune pe vieață, după ce au trecut 10 ani dela data pronunțării hotărîrii de liberare condiționată, conform art. 28, alin. final.
+
+Art. 44. -
+Liberarea se revocă dacă condamnatul înainte de expirarea perioadei de încercare a călcat fără just motiv, îndatoririle impuse prin hotărîrea de liberare, sau dacă în timpul liberării condiționate a săvârșit o nouă infracțiune calificată, crimă sau delict, pentru care a fost condamnat definitiv chiar după trecerea acestei perioade.
+
+El va fi supus, în acest caz, și la pedeapsa ce mai rămăsese de executat în momentul liberării.
+
+SECȚIUNEA IV
+Dispozițiuni comune
+Art. 45. -
+Pedepsele criminale, atât de drept comun, cât și politice, atrag de drept degradarea civică pe timpul executării pedepsei.
+
+Condamnații la pedepsele de mai sus sunt incapabili, în timpul executării lor, de a-și administra averea și a dispune de ea, prin acte între vii. Ei sunt puși sub curatelă, după formele prevăzute de codul civil, pentru numirea curatorilor până la liberarea definitivă sau condiționată.
+
+În timpul executării pedepsei, nicio sumă, niciun fel de ajutor, nicio parte din avere nu poate fi încredințată condamnatului la muncă silnică sau detențiune grea.
+
+Pedepsele corecționale privative de libertate, atât de drept comun, cât și politice, atrag de drept, pe timpul executării lor, pierderea exercițiului dreptului de a fi ales sau de a alege, de a fi tutor sau curator, precum și acela de a exercita vreo funcțiune publică.
+
+Condamnarea mai atrage și suspendarea puterii părintești și a autorității maritale, afară de cazurile când judecătorul dispune altfel.
+
+Art. 46. -
+Femeile condamnate la oricare din pedepsele de mai sus, vor fi ținute separat de bărbați și supuse la o muncă potrivită sexului lor în raport cu regimul pedepsei.
+
+Art. 47. -
+În caz de comutarea sau reducerea pedepsei prin grațiere, condamnatul va fi supus regimului de executare prevăzut de lege, pentru noua pedeapsă.
+
+Art. 48. -
+Condamnații sunt supuși măsurilor necesare îndreptării lor.
+
+Condamnații pentru prima oară vor fi complet separați de recidiviști, iar minorii de majori. Ei vor fi închiși în secțiuni speciale, complet despărțite.
+
+De asemenea condamnații trebuesc separați de muncitorii liberi, când aceștia sunt admiși la aceleași lucrări.
+
+Condamnații care au o meserie, afară de cei condamnați la muncă silnică, continuă să o exercite pe cât cu putință în penitenciare, iar cei ce nu au, sunt obligați să învețe o meserie.
+
+Intelectualii condamnați, afară de cei condamnați la muncă silnică și temniță grea, sunt întrebuințați la lucrări potrivite cu aptitudinile lor.
+
+Separațiunea celulară nu exclude participarea condamnatului la școală, la serviciul religios, scoaterea în aer liber și primirea vizitelor stabilite de regulamentul penitenciarului.
+
+Art. 49. -
+Pe lângă fiecare penitenciar, colonie penitenciară, institut de educație corectivă, funcționează o comisiune de supraveghere, compusă din un judecător al Tribunalului ca președinte, directorul, preotul, învățătorul și medicul instituțiilor de mai sus, precum și un delegat al societății de patronat, ca membri.
+
+Trecerea condamnatului dela pedepsele de drept comun sau politice în colonie penitenciară sau libertate condiționată, în cazurile prevăzute de art. 28, 32, 33 și 39, o decide instanța penală, în circumscripția căreia se află penitenciarul, luând avizul comisiunii de supraveghere.
+
+Art. 50. -
+Pe lângă fiecare tribunal va funcționa o societate de patronaj, sub supravegherea ministrului justiției, ajutat de un consiliu central, în vederea reclasării sociale a condamnaților liberați și pentru îndeplinirea atribuțiunilor legale referitoare la minori. Aceste societăți vor fi conduse de magistrații instanțelor din localitate.
+
+Art. 51. -
+Un regulament penitenciar va desvolta dispozițiunile cu privire la pedepse și regimul lor.
+
+De asemenea un regulament va stabili organizarea societăților de patronaj, prevăzând normele de coordonare a activității lor cu aceea a societăților datorite inițiativei private.
+
+CAPITOLUL IV
+Pedepse pecuniare
+SECȚIUNEA I
+Amenda corecțională
+Art. 52. -
+Amenda corecțională se pronunță în folosul statului, singură sau pe lângă altă pedeapsă.
+
+În limitele minimului și maximului stabilit de lege pentru delictul săvârșit, instanța, ținând seamă de situația materială a infractorului, fixează amenda în așa fel încât să constituie o îngreunare a traiului său obișnuit, fără însă a-l pune în imposibilitate de a-și îndeplini îndatoririle privitoare la întreținerea și educația persoanelor care sunt în sarcina lui.
+
+Când instanța ar crede că nici chiar maximum general al amenzii n'ar fi suficient, poate, motivând special, să pronunțe o amendă până la îndoitul acelui maximum. Excepțiunea prevăzută mai sus se aplică numai când amenda corecțională e pedeapsă principală sau a devenit astfel prin aplicarea circumstanțelor atenuante, substituită fiind închisorii.
+
+SECȚIUNEA II
+Amenda polițienească
+Art. 53. -
+Amenda polițienească se pronunță singură sau pe lângă închisoarea polițienească.
+
+Această amendă se pronunță în folosul comunei unde s'a comis contravenția.
+
+SECȚIUNEA III
+Obligația de plată a amenzii și consecințele
+neîndeplinirii ei
+Art. 54. -
+Condamnatul la amendă e dator a depune la grefa instanței care a pronunțat hotărîrea condamnatoare, recipisa de plata, integrală a amenzii, în termen de o lună de când hotărîrea a rămas definitivă.
+
+Amenda neachitată în termenul de mai sus, se transformă, de drept, în obligația pentru condamnat de a o plăti prin muncă socotită la prețul zilei. Munca pentru amenda corecțională se execută în colonii penitenciare, iar pentru amenda polițienească se execută în orașe prin administrațiile comunale, iar în comunele rurale prin administrația județeană.
+
+Se exceptează cazul când, înăuntrul termenului de o lună prevăzut mai sus, condamnatul, dovedind că, din cauza stării sale materiale, se găsește în imposibilitate de a plăti, a cerut și obținut dela instanța respectivă împărțirea amenzii în rate.
+
+Neplata unei rate la termenul fixat atrage, de drept, trimiterea la muncă, pentru sumele rămase neplătite.
+
+Din prețul muncii condamnatului se reține 60% pentru acoperirea amenzii, iar restul i-se dă pentru întreținerea sa, până la completa achitare a amenzii.
+
+Dacă condamnatul nu poate sau refuză de a munci, instanța respectivă înlocuiește amenda prin închisoare corecțională ori detențiune simplă, când amenda s'a dat pentru delicte, sau cu închisoare polițienească când amenda s'a dat pentru contravenții.
+
+Durata închisorii corecționale, detențiunii simple sau închisorii polițienești, în asemenea cazuri, se determină, socotindu-se 50 lei amendă drept o zi de închisoare.
+
+Niciodată însă pedeapsa privativă de libertate, când infractorul a fost condamnat pentru delict, nu poate fi mai mare de 6 luni, și în cazul art. 52 alin. final, mai mare de un an, iar dacă infractorul a fost condamnat pentru contravenție, nu poate depăși durata de 15 zile închisoare polițienească.
+
+Amenda substituită închisorii corecționale, detențiunii simple sau închisorii polițienești, prin acordarea circumstanțelor atenuante, de către o instanță de apel, nu se poate transforma într'o pedeapsă privativă de libertate de o durată mai mare decât aceea a pedepsei căreia amenda i-a fost substituită.
+
+Dispozițiunile de mai sus, cu privire la obligațiunea de plată în termen de o lună, precum și la transformarea amenzii în muncă sau închisoare, pentru neplata ei, vor fi prevăzute prin chiar hotărîrea de condamnare.
+
+Art. 55. -
+Deținutul se poate libera în orice moment de munca ce este obligat a presta sau de pedeapsa privativă de libertate, dacă depune suma corespunzătoare amenzii ce mai are de plătit.
+
+Art. 56. -
+Acei supuși la închisoare corecțională, detențiune simplă sau închisoare polițienească, conform art. 54, se țin separat de ceilalți deținuți.
+
+Art. 57. -
+Amenzile pronunțate pentru delictele pedepsite de acest cod și acelea ce ar decurge din legi speciale, precum și sumele ce ar proveni din confiscări și din despăgubirile la care ar renunța părțile vătămate, aparțin Statului și formează în buget un fond special, "Fondul amenzilor", administrat de Ministerul Justiției.
+
+Acest fond este destinat construcțiunii și transformării institutelor penitenciare, spre a corespunde principiilor acestui cod, pentru acoperirea cheltuielilor necesare operei de asistență și de supraveghere exercitată de societățile de patronaj, în ce privește pe liberații sub supraveghere, și pentru înlesnirea reclasării sociale a liberaților din închisori.
+
+Din acest fond, ministerul poate afecta o parte pentru ajutorarea părții vătămate nedespăgubite; pentru a da asistență, în timpul internării condamnatului, persoanelor cărora acesta le datora alimente, precum și pentru plata despăgubirilor cuvenite victimelor erorilor judiciare.
+
+CAPITOLUL V
+Pedepse privative de drepturi
+SECȚIUNEA I
+Degradarea civică
+Art. 58. -
+Degradarea civică consistă în:
+
+1. destituirea condamnatului din orice funcțiune publică și pierderea dreptului de a mai ocupa vreuna;
+
+2. pierderea dreptului de a fi alegător și eligibil, și în general a tuturor drepturilor politice și a dreptului de a purta decorațiuni, medalii sau titluri onorifice distinctive, de a primi pensiune dela stat, județ sau comună;
+Jurisprudență (1)
+
+3. incapacitatea de a fi numit jurat sau expert, precum și incapacitatea de a fi întrebuințat ca martor în acte autentice;
+
+4. incapacitatea de a face parte din vreun consiliu de familie, de a fi tutor, curator sau consilier judiciar. Se exceptează cazul condamnatului politic care poate fi tutor, curator sau consilier judiciar al propriilor săi copii;
+
+5. pierderea dreptului de a ține o școală sau de a fi folosit în vreun institut public sau privat, ca: profesor, institutor, învățător sau priveghetor, cu excepția condamnaților politici.
+Jurisprudență (1)
+
+SECȚIUNEA II
+Interdicția corecțională
+Art. 59. -
+Interdicția corecțională consistă în suspendarea exercițiului unuia sau mai multora din drepturile arătate la art. 58, pe care instanța trebue să le specifice în hotărîrea de condamnare, afară de cazul când legea prevede că instanța poate pronunța chiar pierderea dreptului.
+
+SECȚIUNEA III
+Decăderea din puterea părintească
+Art. 60. -
+Decăderea din puterea părintească consistă în pierderea tuturor drepturilor ce rezultă după lege din puterea părintească.
+
+CAPITOLUL VI
+Publicarea și afișarea hotărîrilor
+Art. 61. -
+Hotărîrile definitive ce pronunță vreuna din pedepsele criminale prevăzute la art. 22, se publică prin îngrijirea parchetului, în extras, în Monitorul Oficial și se afișează cel puțin o lună la ușa domiciliului condamnatului, la primăria comunei unde s'a comis crima și la aceea unde domiciliază victima.
+
+În materie corecțională, instanța poate ordona publicarea hotărîrii de condamnare, numai după cererea părții vătămate și numai când publicarea ar constitui un mijloc de reparațiune morală.
+
+Această dispozițiune se aplică și detențiunii simple.
+
+Art. 62. -
+În caz de desființare, dosire, alterare ori rupere totală sau parțială, a extraselor, ele se afișează din nou, iar făptuitorii se pedepsesc conform art. 584, punctul 6.
+
+CAPITOLUL VII
+Calculul pedepselor și imputarea detențiunii
+preventive
+Art. 63. -
+Durata oricărei pedepse privative de libertate, se socotește din ziua în care condamnatul este închis, pe baza hotărîrii definitive.
+
+Ziua în care începe executarea pedepsei și ziua în care încetează, se țin în seamă condamnatului ca zile depline.
+
+Timpul pe care condamnatul, în cursul executării, l-a petrecut în spital, din cauza boalei, îi este calculat în pedeapsă, afară de cazul când și-a cauzat în mod voluntar boala.
+
+Art. 64. -
+În caz de detențiune preventivă, durata detențiunii este dedusă din pedeapsa ce se pronunță prin hotărîrea de condamnare.
+
+Deducerea deținerii preventive se face și în caz de condamnare la amendă, socotindu-se o zi de prevenție 50 lei.
+
+CAPITOLUL VIII
+Suspendarea executării pedepselor
+Art. 65. -
+În cazul unei condamnări la cel mult 2 ani închisoare corecțională, detențiune simplă sau amendă, instanța de fond, prin însăși hotărîrea condamnatoare, poate suspenda executarea pedepsei pronunțate, pe timp de 3 ani, plus durata pedepsei:
+
+1. dacă condamnatul n'a suferit mai înainte nicio condamnare privativă de libertate, pentru crimă sau delict, chiar dacă a fost reabilitat, și
+
+2. dacă față de circumstanțele faptului și de antecedentele condamnatului, instanța apreciază că, pe viitor, conduita lui va fi bună, chiar fără executarea pedepsei.
+
+Măsura suspendării trebuește motivată.
+
+În caz când încuviințează suspendarea, instanța atrage atenția condamnatului asupra consecințelor ce ar rezulta din nerespectarea condițiilor suspendării.
+
+Suspendarea executării pedepsei privative de libertate, atrage de drept și suspendarea executării amenzii, pronunțată ca pedeapsă complimentară.
+
+Suspendarea executării pedepselor privative de libertate sau amenzilor, atrage de drept, pe timpul suspendării, și suspendarea incapacităților, decăderilor și interdicțiilor care decurg din condamnare.
+
+Suspendarea executării nu are efect asupra măsurilor de siguranță pronunțate și nici asupra condamnării la despăgubiri civile, restituiri sau cheltuieli de judecată. Instanța poate obliga pe condamnat, ca, înaintea expirării termenului de încercare, să repare daunele fixate de justiție, să execute restituirile și să plătească cheltuielile de judecată.
+
+Art. 66. -
+Suspendarea executării nu se aplică în următoarele cazuri:
+
+1. în caz de concurs real de infracțiuni, sau de contopire de pedepse, când instanța a pronunțat o pedeapsă mai mare de un an;
+
+2. când pedeapsa corecțională este rezultată din aplicarea circumstanțelor atenuante, pentru crimă.
+
+Art. 67. -
+Condamnatul care, înainte de expirarea termenului de încercare, socotit dela data pronunțării hotărîrii condamnatoare, a săvârșit o nouă infracțiune, calificată de lege crimă sau delict, pentru care a fost condamnat printr'o hotărîre definitivă, chiar după trecerea termenului de mai sus, este supus la executarea pedepsei ce fusese suspendată. Se exceptează cazul infracțiunilor neintenționate sau pedepsite numai cu amendă.
+
+Pedeapsa suspendată, ce urmează să se execute, nu se contopește în niciun caz cu penalitatea aplicată pentru ultima infracțiune.
+
+Pedeapsa suspendată se execută de asemeni, în cazul când s'a impus condamnatului îndatorirea prevăzută de art. 65, alin. ultim și dacă el n'a îndeplinit această îndatorire înainte de expirarea termenului de încercare.
+
+Art. 68. -
+Condamnarea se consideră inexistentă, dacă a expirat timpul de încercare, fără să fi survenit vreuna din cauzele de revocare a suspendării pedepsei prevăzute de art. 67.
+
+Art. 69. -
+Pot beneficia de suspendarea executării închisorii sau amenzii polițienești și condamnații pentru contravenții, dacă întrunesc condițiile generale prevăzute de art. 65.
+
+Timpul de încercare este de 8 luni.
+
+Dispozițiunile referitoare la definitivarea sau revocarea suspendării se aplică și celor condamnați pentru contravenții.
+
+TITLUL IV
+Măsuri de siguranță
+CAPITOLUL I
+Dispozițiuni generale
+Art. 70. -
+Măsurile de siguranță se aplică de instanța judecătorească, însoțind o pedeapsă, afară de cazurile prevăzute de lege, când pot fi pronunțate și singure.
+
+Ele nu pot fi pronunțate decât dacă judecătorul constată starea de pericol a infractorului.
+
+CAPITOLUL II
+Diferite specii de măsuri de siguranță
+Art. 71. - Jurisprudență (1)
+Măsurile de siguranță sunt:
+
+1. internarea infractorilor alienați într'un ospiciu;
+
+2. internarea infractorilor cu anormalități de ordin fiziologic sau psihologic, într'un azil;
+
+3. deținerea infractorilor din obiceiu într'un institut special;
+
+4. internarea vagabonzilor și cerșetorilor într'o casă de muncă;
+
+5. internarea infractorilor minori într'un institut de educație corectivă;
+
+6. liberarea supravegheată pentru minori;
+
+7. măsurile tutelare pentru minori;
+
+8. interdicția de a se afla în anumite localități;
+
+9. interdicția de a pătrunde în anumite localuri;
+
+10. interdicția de a exercita o anume profesie sau meserie;
+
+11. expulzarea străinilor;
+
+12. confiscarea specială;
+
+13. cauțiunea de bună purtare;
+
+14. închiderea localului;
+
+15. disolvarea sau suspendarea unei persoane juridice.
+
+Cazurile de aplicare și modurile de executare a măsurilor de siguranță privitoare la minori sunt arătate în art. 146, 147, 148, 149, 151, 152 și 153 din prezentul cod.
+
+SECȚIUNEA I
+Internarea infractorilor alienați într'un ospiciu
+Art. 72. - Jurisprudență (1)
+Când învinuitul sau condamnatul, pentru o infracțiune calificată de lege crimă sau delict, este, din cauza stării sale mintale, periculos siguranței persoanelor și ordinei publice, instanța competentă, după cererea Ministerului public, dispune internarea lui într'un institut anume destinat pentru aceasta, sau într'o secțiune specială a unui ospiciu de alienați.
+
+Internarea poate fi pronunțată, la cererea Ministerului public, chiar când s'a dat o ordonanță sau deciziune de neurmărire.
+
+Încetarea internării poate fi admisă numai când liberarea celui internat nu ar mai prezenta vreun pericol.
+
+Condițiunile în care ea poate fi cerută și persoanele care o pot cere, sunt arătate în codul de procedură penală.
+
+În caz de respingere, cererea nu poate fi repetată decât după 6 luni dela data respingerii. Ministerul public o poate cere oricând.
+Jurisprudență (2)
+
+SECȚIUNEA II
+Internarea în azil a infractorilor anormali,
+fizici sau psihici
+Art. 73. -
+Instanța poate dispune, prin hotărîrea de condamnare, ca, după executarea pedepsei, condamnatul să fie internat într'un azil, dacă din cauza boalei sau infirmității sale sau a intoxicării cronice prin alcool ori stupefiante, este periculos siguranței persoanelor sau ordinei publice.
+
+Acei internați într'un asemenea azil sunt supuși unui tratament medical, fiind supraveghiați în deaproape și vor fi deprinși cu o muncă potrivită stării lor fizice sau psihice.
+
+Regimul în interiorul azilului va fi blând.
+
+Încetarea internării se pronunță în condițiile art. 72 din prezentul cod, după formele arătate în codul de procedură penală.
+
+SECȚIUNEA III
+Deținerea infractorilor din obiceiu într'un
+institut special
+Art. 74. - Jurisprudență (1)
+Instanța poate ordona, prin hotărîrea de condamnare, ca, după executarea pedepsei, infractorul din obiceiu să fie deținut într'un institut special, destinat unor asemenea infractori.
+
+Durata deținerii este dela 2 la 10 ani.
+
+Sunt considerați infractori din obiceiu, acei cari, prin numărul și genul infracțiunilor de drept comun săvârșite, prezintă simptomele unei perzistente înclinațiuni criminale.
+
+Institutele speciale pentru infractorii din obiceiu trebuesc să fie înființate cât mai departe de centrele mari sau să formeze o secție specială în coloniile penitenciare.
+
+Deținuții sunt supuși, în interiorul institutului sau în afară, la lucrări potrivite puterii lor fizice și sunt ținuți sub pază.
+
+Dispozițiunile art. 34 din prezentul cod se aplică și în ce privește produsul muncii acestor deținuți.
+
+SECȚIUNEA IV
+Internarea vagabonzilor și cerșetorilor într'o
+colonie penitenciară
+Art. 75. -
+În caz de condamnări succesive pentru vagabondaj sau cerșetorie, instanța, poate ordona ca cel condamnat a doua oară să fie internat timp de cel puțin 2 ani și de cel mult 10, într'o colonie penitenciară anume destinată pentru aceasta.
+
+Cei așezați în colonie penitenciară sunt obligați să învețe o meserie, potrivit aptitudinii lor.
+
+Dispozițiunile art. 34 se aplică și în ce privește produsul muncii vagabonzilor și cerșetorilor.
+
+SECȚIUNEA V
+Interdicția de a se afla în anumite localități
+Art. 76. -
+În cazul unei condamnări pentru crimă, instanța poate decide, motivat ca, după executarea pedepsei privative de libertate, condamnatul să nu se mai poată reîntoarce în localitatea unde a comis infracțiunea sau în alte localități ce se arată anume în hotărîrea condamnatoare.
+
+Măsura de mai sus se poate aplica și celor condamnați pentru delicte de drept comun, la cel puțin 2 ani închisoare corecțională.
+
+Durata acestei interdicții este pentru crime dela 2 la 10 ani, iar pentru delicte dela unu la 3 ani.
+
+SECȚIUNEA VI
+Interdicția de a intra în anumite localuri
+Art. 77. -
+Interdicția de a intra în anumite localuri se poate pronunța în contra aceluia care a comis infracțiunea din cauza unei pasiuni bolnăvicioase, alcoolism sau alt viciu. Hotărîrea va arăta categoria localurilor interzise.
+
+Durata interdicției este dela 6 luni la 3 ani.
+
+SECȚIUNEA VII
+Interdicția de a exercita o anume profesie sau
+meserie
+Art. 78. -
+Interdicția de a exercita o anume profesie sau meserie se poate pronunța, când rezultă că delictul se datorește incapacității, nepregătirii, neglijenții, sau nerespectării regulamentelor impuse pentru exercițiul profesiunii.
+
+Interdicția se poate pronunța, pe timp determinat sau pentru totdeauna, luându-se avizul consultativ al unei comisiuni de specialiști. Pe timpul interdicției cel interzis poate lucra numai sub direcția și răspunderea altui profesionist.
+
+Predarea exercițiului profesiunii interzise pentru totdeauna, pe motiv de incapacitate sau nepregătire, se poate admite, după o trecere de timp de 3 ani, socotiți dela data pronunțării interdicției, numai pe baza verificării cunoștințelor profesionale înaintea unei comisiuni de specialiști, instituită de instanță.
+
+SECȚIUNEA VIII
+Expulzarea străinilor
+Art. 79. -
+Instanța poate interzice, prin hotărîrea de condamnare, rămânerea pe teritoriul român, în mod temporar sau permanent, infractorului de naționalitate străină, vinovat de o faptă calificată crimă sau delict.
+
+La expirarea pedepsei, condamnatul va fi expulzat.
+
+SECȚIUNEA IX
+Confiscarea specială
+Art. 80. -
+În caz de condamnare, instanța, sub rezerva drepturilor terților, poate dispune, prin hotărîrea pe care o pronunță, confiscarea:
+
+1. lucrurilor produse prin infracțiune;
+
+2. lucrurilor care au servit sau care au fost destinate să servească la săvârșirea unei infracțiuni dacă acestea sunt ale autorului infracțiunii, ale instigatorului sau ale vreunui complice;
+
+3. lucrurilor deținute în contra legilor și regulamentelor.
+
+Aceste lucruri, în cazul când sunt vătămătoare sănătății publice, după confiscare, se distrug.
+
+Confiscarea lucrurilor prevăzute mai sus se poate hotărî, chiar dacă autorul, instigatorul sau complicele sunt apărați de pedeapsă, fie pentru că acțiunea penală nu s'ar putea exercita, fie pentru că s'a dat o ordonanță sau decizie de neurmărire ori hotărîre de achitare.
+
+Lucrurile confiscate se vând în folosul Statului, iar prețul se varsă la fondul amenzilor prevăzut de art. 57. Ministerul Justiției poate decide ca aceste lucruri să fie întrebuințate pentru înființarea muzeelor de știință penală sau înbogățirea lor.
+
+SECȚIUNEA X
+Cauțiunea de bună purtare
+Art. 81. -
+Cauțiunea de bună purtare consistă în depunerea la administrația financiară, în termen de 15 zile, socotite dela data pronunțării măsurii, a unei sume, în numerar, care nu poate fi mai mică de 500 lei și nici mai mare de 20.000 lei.
+
+Ea se pronunță în cazurile expres prevăzute de lege. Instanța o poate substitui, ori de câte ori va socoti util, măsurilor de siguranță prevăzute la punctele 8, 9, 10, 14 și 15 din art. 71.
+
+Art. 82. -
+Depunerea cauțiunii poate fi înlocuită, fie printr'o inscripție ipotecară asupra averii imobiliare proprii, sau aparținând altei persoane, fie prin garanția reală a unui terțiu.
+
+Art. 83. -
+Durata acestei măsuri de siguranță este dela unu la 3 ani.
+
+Termenul curge din ziua când cauțiunea a fost depusă sau garantată.
+
+Dacă cauțiunea nu se depune sau garanția nu se dă, în termenul arătat mai sus, instanța aplică pedeapsa prevăzută pentru infracțiunea săvârșită, sau măsura de siguranță căreia i s'a substituit cauțiunea.
+
+Executarea pedepsei aplicate, în acest caz, poate fi suspendată în condițiile art. 65.
+
+Dacă în timpul duratei cauțiunii depuse sau garantate, infractorul nu a săvârșit vreo crimă sau delict pedepsit cu pedeapsă privativă de libertate, cauțiunea sau garanția se restituie iar inscripția ipotecară se radiează. În caz contrar, instanța care a pronunțat măsura, dispune confiscarea sumei sau realizarea creanței în folosul fondului amenzilor.
+
+SECȚIUNEA XI
+Închiderea localului
+Art. 84. - Reviste (1)
+Închiderea unui local industrial sau comercial poate fi ordonată de către instanță, în cazurile prevăzute de lege, și când se constată că această măsură este necesară pentru a împiedeca noi infracțiuni.
+
+Durata închiderii localului este dela o lună la un an.
+
+În materie de contravenție, închiderea localului nu poate fi pronunțată decât la a doua recidivă, pentru contravenție identică, și pe o durată dela o zi la o lună.
+
+SECȚIUNEA XII
+Disolvarea sau suspendarea unei persoane
+juridice
+Art. 85. - Reviste (1)
+Când o crimă sau un delict pedepsit de lege cu cel puțin un an închisoare corecțională, s'a săvârșit de către directorii sau administratorii unei societăți, asociații ori corporații, lucrând în numele persoanei juridice și cu mijloacele procurate de ea, instanța penală poate, pe lângă pedeapsa aplicată persoanelor fizice, să pronunțe și măsura de siguranță a suspendării sau disolvării persoanei juridice, după gravitatea pericolului pe care l-ar constitui, pentru morala sau ordinea publică, continuarea activității acelei persoane juridice.
+
+Disolvarea atrage lichidarea bunurilor persoanei juridice în condițiile legii asupra persoanelor juridice.
+
+Suspendarea constă din încetarea oricărei activități a persoanei juridice, chiar sub un alt nume și cu alți directori sau administratori.
+
+Durata suspendării nu poate depăși 2 ani.
+
+CAPITOLUL III
+Aplicarea și executarea măsurilor de siguranță în
+concurs cu pedepsele
+Art. 86. -
+Măsurile de siguranță se execută îndată ce hotărîrea de condamnare a rămas definitivă.
+
+Măsurile de siguranță privative de libertate, precum și cele prevăzute de art. 71, la punctele 8, 9, 10, 11 și 13, se execută după împlinirea pedepsei.
+
+Dacă s'au pronunțat mai multe măsuri de siguranță, instanța va fixa ordinea în care ele urmează a fi executate.
+
+Art. 87. -
+Dacă în timpul executării unei măsuri de siguranță, cel supus executării comite o infracțiune pentru care urmează să execute o pedeapsă privativă de libertate, executarea măsurii de siguranță se suspendă și își reia cursul după executarea pedepsei.
+
+Art. 88. -
+În caz de infracțiuni concurente ce dau loc la aplicarea mai multor măsuri de siguranță privative de libertate, instanța nu poate aplica decât o singură măsură de siguranță privativă de libertate, ce o socotește potrivită în raport cu starea de pericol pe care o înfățișează infractorul.
+
+În ce privește măsurile de siguranță care nu implică privațiune de libertate, instanța, în caz de concurs de infracțiuni, poate dispune ca aplicarea acestor măsuri să fie făcută în mod simultan sau succesiv, când ele sunt de specii diferite; dar nu poate fixa în niciun caz o durată de executare care să depășească maximum stabilit de lege pentru măsura de cea mai lungă durată.
+
+Dacă infracțiunile concurente atrag, atât aplicarea de măsuri de siguranță privative de libertate, cât și a altor măsuri ce nu sunt privative de libertate, toate aceste măsuri pot fi aplicate, după împrejurări, în mod simultan sau succesiv, avându-se în vedere dispozițiunile alineatelor precedente pentru fixarea duratei fiecărei măsuri.
+
+Art. 89. -
+Măsurile de siguranță arătate la art. 71, punctele 3, 4, 7, 8, 9, 10 și 14 sunt revocabile când instanța ar constata că pericolul care a impus aplicarea lor, nu mai există. Instanța poate chiar substitui unei măsuri de siguranță privative de libertate o alta care nu comportă această privațiune.
+
+Art. 90. -
+Cererea pentru revocarea sau substituirea măsurilor arătate în articolele de mai sus nu poate fi făcută decât dacă a trecut 1/4 din timpul pentru care fuseseră pronunțate sau cel puțin 5 ani, în cazul când ele sunt pe vieață.
+
+În caz de respingere, cererea de revocare sau substituire poate fi repetată o singură dată și numai după ce a trecut o jumătate din timpul pentru care fuseseră pronunțate sau 10 ani în cazul când aceste măsuri sunt pe vieață.
+
+Art. 91. -
+În cursul instrucțiunii sau procedurii de judecată se pot lua, în mod provizoriu, măsurile de siguranță prevăzute de art. 71, punctele 1, 2, 4, 5, 6, 12, 13 și 14.
+
+TITLUL V
+Restituiri și despăgubiri
+Art. 92. -
+Condamnatul, afară de restituirea lucrurilor către partea vătămată, care poate fi ordonată și din oficiu, poate fi obligat și la alte despăgubiri, dacă aceasta o cere.
+
+Despăgubirile acordate părții vătămate trebue să constitue întotdeauna o justă și integrală reparație a daunelor materiale sau morale suferite în urma infracțiunii și pot fi stabilite, după principiile dreptului civil, într'o sumă globală. Ele pot consta și într'o rentă anuală, pe timp determinat, când aceasta ar satisface mai echitabil interesele părților.
+
+Instanța nu poate încuviința atribuirea despăgubirilor sau restituirilor altui scop, chiar dacă partea vătămată ar cere aceasta.
+
+În caz de concurență a amenzii și a cheltuielilor de procedură cu despăgubirile, dacă bunurile condamnatului nu sunt îndestulătoare pentru plata acestora, se dă preferință despăgubirilor.
+
+Art. 93. -
+Condamnații pentru aceeași infracțiune precum și cei apărați de pedeapsă pentru scuze absolutorii, sunt ținuți solidar la restituiri, despăgubiri și cheltuieli de procedură.
+
+Art. 94. -
+Acțiunea civilă pentru despăgubiri, precum și orice pretenție a părții vătămate, rezultând dintr'o infracțiune sau dintr'o hotărîre definitivă, privitoare la daunele cauzate prin infracțiuni, sunt supuse prescripției prevăzute de codul civil.
+
+TITLUL VI
+Infracțiunea
+CAPITOLUL I
+Clasificarea infracțiunilor
+Art. 95. -
+Infracțiunile sunt crime, delicte și contravenții, după specia pedepsei prevăzute de lege, pentru fiecare din ele.
+
+Modificarea pedepselor, prin aplicarea scuzelor legale schimbă și categoria infracțiunilor.
+
+CAPITOLUL II
+Tentativa
+Art. 96. -
+Este tentativă când hotărîrea, de a comite o crimă sau un delict a fost manifestată prin începerea unui act de executare a crimei sau delictului și când acel act a fost întrerupt, sau nu și-a produs efectul.
+
+Art. 97. -
+Tentativa de crimă se pedepsește, în cazul când legea nu dispune altfel, cu o pedeapsă de un grad mai jos decât aceea ce s'ar cuveni pentru crima consumată.
+
+Când pedeapsa este temniță grea, tentativa se pedepsește cu închisoare corecțională de minimum 2 ani.
+
+Când pedeapsa este detențiune riguroasă, tentativa se pedepsește cu detențiune simplă de maximum 2 ani.
+
+Art. 98. -
+Tentativa de delict se pedepsește numai în cazurile prevăzute prin o dispoziție specială a legii.
+
+În asemenea cazuri și dacă legea nu dispune altfel, se aplică o pedeapsă cuprinsă între minimum special al pedepsei prevăzută pentru delictul săvârșit și jumătatea acelui minimum, iar dacă minimum special ar fi chiar minimum general, pedeapsa se poate coborî la amendă.
+Jurisprudență (1)
+
+Art. 99. - Jurisprudență (1)
+Este tentativă și în cazul când consumarea infracțiunii intenționate nu a fost posibilă, fie din cauza defectuozității sau insuficienții mijloacelor întrebuințate, fie din cauza lipsei de prevedere a autorului, cu privire la timpul și locul unde trebuia să se găsească obiectul.
+
+Tentativa în acest caz, se pedepsește:
+
+în materie de crimă, cu o pedeapsă cu două grade mai jos decât aceea prevăzută pentru crima consumată, iar dacă pedeapsa crimei este temnița grea, se va aplica pedeapsa închisorii corecționale fără a putea fi scoborîtă sub 2 ani;
+
+în materie de delict, dacă legea prevede pedepsirea tentativei, cu o pedeapsă cuprinsă între jumătatea minimului special al pedepsei prevăzute pentru delictul consumat și minimum general al pedepsei; iar dacă minimum special al pedepsei este chiar minimum general, se va aplica amenda.
+
+Nu există tentativă când imposibilitatea de a comite infracțiunea este datorită modului cum a fost concepută executarea.
+
+Art. 100. -
+Tentativa nu se pedepsește:
+
+1. dacă autorul a curmat de bună voie executarea începută;
+
+2. dacă autorul a înlăturat de bună voie și mai înainte de descoperirea faptului, consecințele acțiunii sale.
+
+CAPITOLUL III
+Săvârșirea mai multor infracțiuni de aceeași
+persoană
+SECTIUNEA I
+Concursul de infracțiuni
+
+Art. 101. -
+Când aceeași persoană comite mai multe infracțiuni calificate crime sau delicte, înainte de a fi fost condamnat definitiv pentru vreuna din ele, se aplică dintre pedepsele stabilite de instanță pentru fiecare din acele infracțiuni, pedeapsa cea mai gravă, care poate fi sporită cu un plus:
+
+1. până la 7 ani când între pedepsele stabilite de instanță cel puțin două sunt criminale;
+
+2. până la 3 ani când între pedepsele stabilite este una criminală;
+
+3. până la 2 ani când pedepsele stabilite sunt corecționale.
+
+În niciun caz pedeapsa astfel agravată nu poate depăși maximum general al speciei de pedeapsă aplicată.
+
+În ipotezele dela punctele 1 și 2, în cazul când instanța pronunță munca silnică pe vieață, poate hotărî totdeodată prelungirea separațiunii celulare până la trei ani.
+
+Art. 102. -
+Dispozițiunile articolului precedent se aplică și în caz de concurs între infracțiunile politice cu cele de drept comun.
+
+Dacă pedeapsa politică e cea mai gravă, instanța va hotărî ca o parte din pedeapsa aplicată să fie executată în regimul pedepselor de drept comun.
+
+Această parte nu va depăși maximum pedepsei prevăzut de lege pentru cea mai gravă infracțiune de drept comun.
+
+Executarea pedepsei începe întotdeauna cu partea supusă regimului de drept comun.
+
+Art. 103. -
+Când prin unul și același fapt se violează mai multe dispozițiuni ale legii penale se aplică dispoziția care prevede pedeapsa cea mai gravă.
+
+Art. 104. -
+Pedepsele pecuniare pronunțate în caz de concurs de infracțiuni, se totalizează.
+
+Art. 105. -
+În toate cazurile prevăzute în articolele precedente privitoare la concursul de infracțiuni, odată cu pedeapsa privativă de libertate, instanța pronunță în condițiile stabilite de art. 26 și pedepsele privative de drepturi prevăzute de lege, pentru fiecare crimă sau delict, cumulând pe acelea ce decurg din infracțiuni identice, fără a depăși maximum general stabilit de lege.
+
+Art. 106. -
+În cazul concursului de contravenții pedepsele aplicate pentru fiecare contravenție se totalizează.
+
+Pentru pedepsele privative de libertate totalul nu poate trece de un an.
+
+Art. 107. -
+Când aceeași dispozițiune a legii a fost de mai multe ori violată, prin mai multe acte săvârșite chiar la intervale de timp diferite, dar în executarea aceleeași hotărîri criminale sau delictuoase, se consideră că există o singură infracțiune, în care caz se aplică pedeapsa prevăzută pentru acea infracțiune, la care instanța poate adăuga un plus până la cinci ani în caz de crimă și până la un an în caz de delict, fără a depăși maximum general.
+
+Art. 108. -
+Dispozițiunile art. 101, 105 și 106 se aplică în cazul când, în urma unei condamnări definitive, pentru una sau mai multe infracțiuni, condamnatul este dat în judecată pentru alte infracțiuni săvârșite înainte de pronunțarea hotărîrii definitive de condamnare, cât și în cazul când infractorul a fost condamnat, prin două sau mai multe hotărîri definitive, pentru infracțiuni concurente.
+
+Când infractorul a executat, în total sau în parte, pedeapsa pronunțată printr'una sau mai multe din hotărîri, pedeapsa executată trebue scăzută din aceea ce se pronunță pentru toate infracțiunile concurente.
+
+SECȚIUNEA II
+Recidiva
+Art. 109. -
+Acela care, după executarea integrală a unei pedepse criminale sau după grațiere, comite o a doua crimă, va fi condamnat la o pedeapsă superioară cu un grad aceleia prevăzute de lege pentru crimă săvârșită.
+
+Dacă cea de a doua crimă este pedepsită cu munca silnică pe vieață, instanța în caz că aplică această pedeapsă poate hotărî prelungirea separațiunii celulare până la trei ani.
+
+Art. 110. -
+Acela care, după executarea integrală a unei pedepse criminale sau după grațiere, comite un delict va fi pedepsit cu maximum pedepsei prevăzute de lege pentru, acel delict, la care se poate adăuga un plus de pedeapsă, fără a se putea depăși maximum general.
+
+Art. 111. -
+Acela care, după executarea integrală a unei pedepse privative de libertate mai mare de 6 luni, aplicată pentru delict, sau după grațiere, comite unui nou delict, va fi condamnat la maximum pedepsei prevăzută de lege pentru delictul săvârșit, la care se poate adăuga un plus de pedeapsă fără a ce putea depăși maximum general.
+
+Art. 112. -
+Acela care, după ce a executat trei pedepse, pentru delicte identice, consistând fi care în închisoare corecțională sau detențiune simplă de 6 luni, sau mai mică, săvârșește un nou delict identic, va fi pedepsit cu maximum pedepsei, prevăzută de lege, pentru acest delict, la care se poate adăuga un plus de pedeapsă până la 5 ani, fără a putea depăși maximum general al pedepsei.
+
+Art. 113. -
+În caz de recidivă, dacă pedeapsa prevăzută de lege pentru cea de a doua infracțiune este amendă, aceasta se îndoește, putându-se chiar întrei.
+
+Art. 114. -
+Dacă, după ce o hotărîre condamnatoare a rămas definitivă, se descoperă că cel condamnat era recidivist, pedeapsa dată va fi modificată de instanța care a pronunțat-o în conformitate cu dispozițiunile și după deosebirile stabilite în articolele precedente.
+
+Dispozițiunea de mai sus nu se aplică, dacă starea de recidivă s'a descoperit după ce condamnatul a executat integral pedeapsa sau după ce a fost grațiat.
+
+Art. 115. -
+Pentru infracțiunile politice, sau de presă, nu se socotește recidivă, decât dacă prima pedeapsă a fost deasemenea dată pentru o infracțiune politică sau de presă.
+
+Condamnările pronunțate pentru infracțiuni prevăzute în codul de justiție militară sau de legi speciale, sunt luate în considerație, pentru recidivă, dacă acele infracțiuni sunt prevăzute și de acest cod.
+
+Art. 116. -
+Nu se socotește în stare de recidivă acela care, fiind condamnat printr'o hotărîre definitivă, pentru un delict, a săvârșit în urmă o crimă.
+
+De asemenea nu se socotește recidivist minorul care nu a împlinit 19 ani și majorul care a săvârșit o nouă infracțiune, după ce fusese condamnat pentru o altă infracțiune comisă în epoca adolescenței.
+
+Art. 117. -
+Dispozițiunile din această secțiune, cu privire la majorarea pedepselor, în caz de recidivă, nu se aplică:
+
+1. dacă în momentul săvârșirii unei noi crime sau unui delict, au trecut 10 ani, în caz de pedeapsă criminală, sau 5 ani, în caz de pedeapsă corecțională, dela executarea pedepsei sau dela grațiere;
+
+2. dacă pedeapsa anterioară pronunțată prin hotărîrea de condamnare s'a prescris;
+
+3. dacă crimele sau delictele pentru care infractorul a fost condamnat mai înainte, printr'o hotărîre definitivă, au fost amnestiate sau dacă acele crime ori delicte nu mai sunt pedepsite de lege;
+
+4. dacă, în momentul săvârșirii infracțiunii, condamnatul era reabilitat sau beneficiase de orice altă dispozițiune a legii care consideră condamnarea anterioară ca inexistentă.
+
+Art. 118. -
+Acela care, fiind condamnat definitiv pentru o contravențiune intențională, a mai săvârșit, în curs de 12 luni dela pronunțarea acelei hotărîri, chiar dacă nu executase pedeapsa, o nouă contravenție, identică, în circumscripția aceleeași judecătorii, se pedepsește cu maximum închisorii polițienești prevăzut de lege, pentru acea din urmă contravențiune, la care se poate adăuga un plus, fără a se putea depăși maximum general al pedepsei polițienești.
+
+Dacă legea prevede pentru cea de a doua contravențiune numai pedeapsa amenzii, se aplică îndoitul maximumului amenzii prescrise de lege pentru acea contravențiune.
+
+Art. 119. -
+Dacă cel condamnat, printr'o hotărîre definitivă, pentru crimă sau delict, săvârșește o nouă infracțiune, în timpul executării pedepsei, sau în stare de evadare, se pedepsește după cum urmează:
+
+1. dacă pedeapsa prevăzută de lege pentru infracțiunea cea de a doua este mai grea decât cea dintâi, se aplică pedeapsa pentru aceasta din urmă, la care se poate adăuga un plus până la 10 ani în caz de crimă, până la 5 ani în caz de crimă și delict și până la 3 ani în caz de delicte, fără a putea depăși însă maximum general.
+
+Dacă pedeapsa pentru cea de a doua infracțiune este pe vieață, se aplică această pedeapsă;
+
+2. dacă pedeapsa prevăzută de lege pentru cea de a doua infracțiune este mai ușoară decât cea dintâi, infractorul va fi supus la executarea celei dintâi pedepse, la care se poate adăuga un plus egal cu cel prevăzut la punctul 1 și după distincțiunile acolo arătate.
+
+Dacă pedeapsa aplicată de instanță pentru cea dintâi infracțiune este pe vieață, el va executa această pedeapsă, însă cu prelungirea separațiunii celulare până la 3 ani.
+
+CAPITOLUL IV
+Participarea mai multor persoane la săvârșirea
+aceleiași infracțiuni
+SECȚIUNEA I
+Instigatorii și complicii
+Art. 120. -
+Este instigator acela care, cu intențiune, determină pe altul, la comiterea unei crime sau delict.
+
+Instigatorul se pedepsește ca și autorul.
+
+Instigarea directă la crimă sau la un delict pedepsit de lege cu pedeapsă privativă de libertate mai mare de 2 ani, dar neurmată de executare din partea celui instigat, se pedepsește cu o pedeapsă care se stabilește conform normelor din articolul 99.
+
+Art. 121. - Jurisprudență (1)
+Complice este acela care, cu intențiune:
+
+1. înlesnește, ușurează sau ajută, comiterea unei crime sau unui delict;
+
+2. se înțelege cu autorii și complicii lor, înainte sau în cursul executării infracțiunii, ca să ascundă lucrurile ce provin din infracțiune, sau ca să asigure beneficiul realizat, ori ca să dea acestora găzduire, loc de scăpare sau întâlnire, pentru a nu fi descoperiți sau a scăpa de urmărire;
+
+3. determină pe altul la vreunul din actele prevăzute în alin. 1 și 2, dacă acele acte au fost săvârșite.
+
+Art. 122. -
+Circumstanțele personale ale vreunuia dintre participanți care atrag înlăturarea, micșorarea sau agravarea pedepselor, nu se resfrâng asupra celorlalți participanți.
+
+Circumstanțele reale se resfrâng asupra celorlalți, numai dacă au fost cunoscute sau prevăzute de ei.
+
+Art. 123. -
+Complicele se pedepsește cu o pedeapsă inferioară cu un grad aceleia prevăzute de lege pentru autor.
+
+Când pedeapsa autorului este închisoarea corecțională, pedeapsa complicelui este minimum general al închisorii corecționale.
+
+Dacă autorul săvârșește o infracțiune mai gravă decât aceea la care a fost determinat, instigatorul este pedepsit pentru infracțiunea la care a instigat.
+
+Aceeași regulă se aplică și complicilor.
+
+Instigatorul sau complicele este apărat de pedeapsă, dacă înainte de a se fi început executarea infracțiunii, împiedecă de bună voie consumarea faptului, ori împiedecă pe ceilalți participanți să se folosească de mijloacele procurate, personal, în vederea preparării sau executării infracțiunii.
+
+Art. 124. -
+În infracțiunile neintenționate, dacă efectele delictoase se datorează cooperării mai multor persoane, la actele materiale, fiecare din ele este pedepsită ca autor al acelei infracțiuni.
+
+SECȚIUNEA II
+Participarea infractorilor majori și minori la
+săvârșirea aceleeași infracțiuni
+Art. 125. -
+Participarea infractorilor majori și minori la săvârșirea aceleeași infracțiuni, constitue o cauză de agravare pentru cei dintâi, sporindu-se minimum și maximum pedepsei prevăzute de lege pentru faptul ce li se impută, cu 1/4 din durata ei, fără a se putea depăși însă maximum general.
+
+TITLUL VII
+Cauzele care apără de răspundere penală
+sau o micșorează
+CAPITOLUL I
+Intenția
+Art. 126. -
+Crima se săvârșește cu intenție.
+
+Delictul se săvârșește cu intenție, iar fără intenție numai în cazurile anume prevăzute de lege.
+
+Contravenția se săvârșește fără intenție, iar cu intenție numai în cazurile anume prevăzute de lege.
+
+CAPITOLUL II
+Cauzele care apără de răspundere sau o micșorează
+SECȚIUNEA I
+Dispozițiuni generale
+Art. 127. -
+Nimeni nu poate fi apărat de răspundere pentru o infracțiune și nici nu i-se poate micșora răspunderea decât în cazurile și circumstanțele în care legea prevede aceasta în mod special.
+
+SECȚIUNEA II
+Alienația mintală și alte cauze de inconștiență
+Art. 128. -
+Nu răspunde de infracțiune acela care, în momentul săvârșirii ei, se găsea în stare de inconștiență, din cauză de alienație mintală sau din alte cauze.
+
+SECȚIUNEA III
+Beția
+Art. 129. -
+Acela care a săvârșit o infracțiune în stare de beție completă, provocată prin alcool sau alte substanțe toxice ori stupefiante, este apărat de răspundere dacă această stare se datorește unor împrejurări accidentale, cu totul neprevăzute de autorul infracțiunii și absolut independente de voința sa, iar dacă starea de beție, în condițiunile de mai sus, nu era completă, se aplică pedeapsa prevăzută de lege pentru faptul săvârșit, redusă după normele prevăzute la art. 97 și 98.
+
+Infracțiunea săvârșită în stare de beție voluntară, produsă în mod întâmplător, se pedepsește cu pedeapsa fixată de lege pentru infracțiunea săvârșită, al cărui maximum se reduce la jumătate, iar dacă pedeapsa este munca silnică pe vieață, pedeapsa este munca silnică dela 10 la 20 ani.
+
+Dispoziția alineatului precedent nu se aplică dacă se dovedește că infractorul și-a provocat dinadins această stare, fie în scopul de a o invoca spre a i se micșora pedeapsa, fie pentru a executa mai ușor infracțiunea. În aceste cazuri infracțiunea este considerată comisă cu premeditare.
+
+SECȚIUNEA IV
+Constrângerea morală
+Art. 130. -
+Nu răspunde de infracțiune acela care a săvârșit faptul, sub influența unei constrângeri morale, produsă prin o amenințare, care constituia un pericol direct pentru vieața, integritatea corporală, sănătatea și libertatea, fie a propriei sale persoane, fie a unei rude sau a unei persoane de care este legat printr'o temeinică afecțiune și dacă pericolul nu putea fi înlăturat prin alte mijloace.
+
+SECȚIUNEA V
+Starea de necesitate
+Art. 131. -
+Nu se socotește infracțiune faptul pe care cineva îl săvârșește pentru a scăpa dela un pericol grav, iminent și fortuit, vieața sau integritatea sa corporală sau a unei rude, ori a unei persoane de care este legat printr'o temeinică afecțiune, dacă pericolul nu putea fi înlăturat altfel.
+
+De asemenea nu se socotește infracțiune, degradarea sau distrugerea averii altuia, săvârșită în condițiile de mai sus, pentru salvarea averii proprii, dacă bunul salvat este de o valoare vădit mai mare ca bunul sacrificat.
+
+Nu se consideră în stare de necesitate acela care avea obligația legală de a înfrunta pericolul.
+
+SECȚIUNEA VI
+Legitimă apărare
+Art. 132. - Reviste (1)
+Nu se socotește infracțiune faptul aceluia care comite un act necesar pentru a apăra vieața, integritatea corporală, sănătatea, libertatea, onoarea sau averea, fie ale sale fie ale altora, în contra unui atac material direct, imediat și injust.
+
+Se consideră ca legitimă apărare și cazul când agentul, sub imperiul turburării, temerii sau teroarii, a trecut peste marginele apărării.
+
+SECȚIUNEA VII
+Constrângerea fizică
+Art. 133. -
+Nu răspunde de infracțiune acela care a comis-o fiind supus unei constrângeri fizice, căreia nu i-a putut rezista.
+
+SECȚIUNEA VIII
+Cazul fortuit
+Art. 134. -
+Nu se socotește infracțiune faptul la săvârșirea căruia autorul a fost constrâns prin caz fortuit.
+
+SECȚIUNEA IX
+Eroarea de drept și de fapt
+
+Art. 135. -
+Nimeni nu se poate apăra de răspundere, invocând necunoașterea sau cunoașterea greșită a legii penale.
+
+Art. 136. -
+Împrejurările de fapt care corespund vreunui element constitutiv al infracțiunii sau vreunei circumstanțe legale agravante, nu atrag și nici nu agravează răspunderea pentru o infracțiune calificată de lege crimă sau delict, dacă nu au fost cunoscute de autor în momentul săvârșirii faptului.
+
+Dispozițiunile de mai sus se aplică și infracțiunilor neintenționate, când necunoașterea acelor împrejurări este datorită culpei infractorului.
+
+SECȚIUNEA X
+Ordinul legii și comanda autorității legitime
+Art. 137. -
+Nu se socotește infracțiune: faptul impus sau autorizat de lege, dacă este executat în condițiile ei, precum și faptul care a fost săvârșit, de organul competent, în virtutea unui ordin de serviciu, dacă acel ordin este dat, în formele legale, de autoritatea competentă și dacă nu are caracter vădit ilegal.
+
+Când executarea unui ordin de serviciu constitue o infracțiune, șeful sau superiorul care a dat ordinul se pedepsește ca autor al acelei infracțiuni împreună cu acela care a executat ordinul.
+
+Acela care a executat ordinul este scutit de pedeapsă, în caz când nu a avut posibilitatea să aprecieze legalitatea ordinului.
+
+SECȚIUNEA XI
+Minoritatea
+Art. 138. -
+Minor este acela care nu a împlinit vârsta de 19 ani.
+
+Copil este minorul care nu a împlinit vârsta de 14 ani.
+
+Adolescent este minorul între 14 și 19 ani neîmpliniți.
+
+Art. 139. -
+Copilul nu este responsabil pentru faptele penale comise de el.
+
+De asemenea nu este responsabil adolescentul pentru infracțiunea săvârșită, afară de cazul când se dovedește că în momentul săvârșirii a lucrat cu discernământ.
+
+Cu toate acestea instanța este datoare să constate faptul și modul cum a fost săvârșit, luând informațiuni:
+
+1. asupra stării fizice și morale și a antecedentelor copilului sau adolescentului;
+
+2. asupra condițiilor în care a fost crescut și în care a trăit;
+
+3. asupra situației morale și materiale a familiei.
+
+Când există o îndoială asupra stării fizice sau mintale a copilului sau adolescentului se procedează la o expertiză medicală.
+
+Art. 140. -
+Pe baza informațiunilor dobândite, potrivit dispozițiunilor articolului precedent, instanța poate lua față de copil sau față de adolescentul lipsit de discernământ, una din următoarele măsuri corective și educative:
+
+1. îl poate încredința familiei, căreia îi atrage atențiunea ca pe viitor să-l aibă în deosebită supraveghere; iar dacă este la școală, încunoștințează și autoritatea școlară ca să-l dojenească sau să ia măsurile disciplinare prevăzute de regulamentul școlar;
+
+2. în lipsa familiei sau când aceasta nu prezintă garanții suficiente de moralitate îl poate încredința unei rude mai apropiate, care ar primi sarcina supravegherii copilului;
+
+3. în lipsa acesteia îl poate încredința unei persoane onorabile, unei societăți de patronaj sau unei instituții publice sau private, autorizată de Stat pentru acest scop și numai dacă atari persoane sau instituții ar accepta asemenea însărcinări;
+
+4. când niciuna din aceste măsuri nu s'ar putea aplica, instanța poate decide ca educația copilului sau adolescentului să fie încredințată institutului de educație corectivă.
+
+Până la darea hotărîrii, dacă instanța socotește necesar, poate dispune trimiterea provizorie a copilului sau adolescentului la o societate de asistență sau de patronaj.
+
+În caz când copilul sau adolescentul a fost încredințat familiei, unei persoane sau unei instituții de binefacere, el poate fi pus și sub regimul libertății supraveghiate.
+
+Art. 141. -
+În caz de săvârșirea unei noi infracțiuni, instanța nu poate lua, față de copil sau adolescent, decât una din măsurile prevăzute în articolul precedent, la punctele 3 și 4.
+
+Art. 142. -
+Măsurile prevăzute în art. 140 încetează când copilul sau adolescentul a împlinit vârsta de 21 ani.
+
+Art. 143. -
+Copiii și adolescenții, găsiți în condițiile arătate în art. 140, alin. 1, dacă sunt anormali, întârziați sau bolnavi, pot fi trimiși, după avizul unui medic specialist, într'un ospiciu, azil sau sanatoriu, unde vor primi îngrijirile medicale, potrivit stării lor fizice sau mintale, până la completa însănătoșire.
+
+Art. 144. -
+Dacă instanța constată că adolescentul, în momentul săvârșirii infracțiunii, a lucrat cu discernământ, poate aplica împotriva lui următoarele măsuri de siguranță sau pedepse:
+
+Măsuri de siguranță:
+
+1. libertate supravegheată;
+
+2. educație corectivă.
+
+Pedepse:
+
+1. mustrare;
+
+2. închisoare corecțională sau detențiune simplă.
+
+Nicio pedeapsă privativă de drepturi nu poate fi pronunțată în contra adolescentului.
+
+Pedeapsa pecuniară se poate aplica numai în cazul când adolescentul este mai mare de 15 ani și are avere sau profesiune.
+
+Art. 145. -
+Mustrarea prevăzută de articolul precedent consistă în dojenirea pe care instanța o face adolescentului în ședință publică, punându-i în vedere că dacă va mai săvârși vreo infracțiune va fi pedepsit mai aspru.
+
+Dacă la termenul fixat, condamnatul nu se prezintă, fără o legitimă justificare, sau dacă se prezintă și nu ascultă mustrarea cu respectul cuvenit, instanța poate schimba sancțiunea, aplicând închisoarea corecțională, sau detențiunea simplă.
+
+Mustrarea nu se aplică:
+
+1. dacă adolescentul a săvârșit o infracțiune pedepsită de lege cu închisoare corecțională sau detențiune simplă mai mare de un an;
+
+2. dacă mai înainte a săvârșit o infracțiune pentru care i s'a aplicat vreuna din măsurile prevăzute de art. 140.
+
+În cazurile de mai sus instanța aplică închisoarea corecțională sau detențiunea simplă.
+
+Art. 146. -
+Libertatea supravegheată este lăsarea adolescentului în libertate, timp de un an, veghiat de aproape.
+
+Darea hotărîrii se amână până la expirarea acestui termen de încercare.
+
+Această măsură de siguranță nu se poate pronunța contra adolescentului care a suferit o pedeapsă privativă de libertate mai mare de o lună.
+
+Când instanța pronunță libertatea supravegheată, ea încredințează supravegherea adolescentului reprezentantului său legal, sau îl încredințează unui azil de copii al Statului, ori altei instituții publice, creată în acest scop, sau unei societăți de patronaj pentru minori, ori chiar unei persoane de încredere, care voiește să primească o asemenea sarcină.
+
+Acela căruia i s'a încredințat supravegherea, trebue să o exercite continuu asupra purtării adolescentului, iar la expirarea termenului de încercare, trebue să raporteze instanței respective, fără întârziere, cum s'a purtat adolescentul.
+
+Art. 147. -
+Când adolescentul s'a purtat bine în tot timpul de încercare, acțiunea deschisă în contra lui se declară stinsă prin hotărîre judecătorească.
+
+Dacă însă în timpul de încercare, adolescentul se sustrage dela supravegherea ce se exercită asupra lui, sau duce o vieață imorală ori desordonată, sau săvârșește alte infracțiuni, persoana sau instituția însărcinată cu supravegherea lui trebue să încunoștiințeze instanța respectivă. Aceasta dacă constată existența vreuneia din cazurile de mai sus, revocă libertatea supravegheată și dispune așezarea adolescentului într'un institut de educație corectivă sau îl condamnă la închisoare corecțională sau detențiune simplă.
+
+Art. 148. - Jurisprudență (2)
+Educația corectivă se pronunță ori de câte ori instanța, ținând seamă de antecedente, de mediul în care trăiește adolescentul și de natura infracțiunii săvârșite, constată că el se găsește într'o stare de decădere morală.
+
+Această măsură se pronunță pe timp nedeterminat, însă nu poate dura decât până la împlinirea vârstei de 21 ani.
+
+Executarea educației corective se face într'un institut anume destinat pentru aceasta.
+
+Prin această măsură de siguranță se urmărește refacerea morală a adolescentului, deprinderea lui cu o vieață onestă și învățarea unei meserii.
+
+Art. 149. -
+Dacă a trecut cel puțin un an dela așezarea adolescentului în institutul de educație corectivă și dacă se constată că s'a îndreptat, comisiunea de supraveghere, instituită pe lângă acel institut, poate hotărî punerea adolescentului în libertatea de încercare, pe termen de 2 ani, conform art. 146, alin. 3.
+
+Dacă în timpul de încercare purtarea adolescentului este ireproșabilă, liberarea rămâne definitivă.
+
+În caz contrar instanța poate dispune așezarea liberatului în institutul de educație corectivă, dacă acesta nu a împlinit vârsta de 21 ani.
+
+Art. 150. -
+Pedeapsa închisorii corecționale sau a detențiunii simple ce se poate aplica adolescentului este:
+
+1. dela 3 la 15 ani, dacă infracțiunea săvârșită este pedepsită de lege cu pedeapsă criminală;
+
+2. jumătate din pedeapsa respectivă, dacă infracțiunea este pedepsită de lege cu închisoare corecțională sau detențiune simplă. În acest caz maximum pedepsei nu poate fi mai mare de 3 ani.
+
+Când adolescentul este mai mic de 16 ani nu poate fi pedepsit, în caz de crimă, cu o pedeapsă mai mare de 10 ani.
+
+Pedepsele de mai sus se pot pronunța numai când din circumstanțele faptului și moralitatea adolescentului instanța și-a făcut convingerea că aplicarea altor măsuri ar fi neîndestulătoare.
+
+În toate cazurile pedeapsa închisorii corecționale sau detențiunea simplă, pronunțată contra adolescentului, este executată în institutul de corecție anume destinat pentru aceasta.
+
+Art. 151. -
+În cazul articolului precedent, instanța poate ordona, prin aceeași hotărîre, ca adolescentul, după executarea a două treimi din pedeapsă, să poată fi liberat și supus supravegherii, până în momentul când pedeapsa privativă de libertate ar fi trebuit să înceteze prin executare completă.
+
+Liberarea condiționată poate fi acordată, de către instanța competentă, numai adolescenților care au dat dovezi de îndreptare.
+
+Cel liberat condiționat este supus unor reguli speciale, în ce privește felul său de vieață și de purtare în timpul liberării. Dacă în acest timp adolescentul nu s'a conformat acestor reguli, sau a săvârșit o nouă infracțiune, instanța revocă măsura liberării, trimițându-l din nou în institutul de corecție, unde va executa restul de pedeapsă.
+
+În caz de bună purtare în timpul libertății condiționate, pedeapsa se consideră executată.
+
+Art. 152. -
+Instanța poate de asemenea ordona, odată cu pronunțarea închisorii corecționale sau detențiunii simple, ca, după executarea pedepsei, adolescentul să fie așezat într'un institut de educație corectivă.
+
+Art. 153. -
+În cazul liberării de încercare (art. 149), cât și în cazul liberării condiționate (art. 151), administratorul, cu concursul societăților pentru protecția minorilor, ia măsurile necesare pentru plasarea liberatului.
+
+Se iau de asemenea măsuri și pentru plasarea celor liberați definitiv.
+
+Dacă educația corectivă se face în azilele de copii ale Statului sau în institute particulare, atribuțiile autorității de supraveghere sunt executate de autoritatea desemnată pentru aceasta de Ministerul Justiției.
+
+SECȚIUNEA XII
+Surdo-mutismul
+Art. 154. -
+Surdo-mutul nu răspunde de infracțiunea comisă, dacă se constată că în momentul săvârșirii nu a avut discernământ, în caz contrar i-se aplică pedeapsa închisorii corecționale, în limitele prevăzute de lege pentru adolescenți.
+
+SECȚIUNEA XIII
+Provocarea
+Art. 155. -
+Scuza provocării există:
+
+1. când crima sau delictul au fost provocate prin lovire sau violență, asupra persoanei infractorului, sau asupra altei persoane;
+
+2. când crima sau delictul au fost provocate prin injurii orale grave, adresate de victimă autorului, în împrejurări de natură să determine acestuia o puternică turburare sau emoțiune;
+
+3. când omorul, vătămarea sănătății sau integrității corporale, ori lovirea, au fost săvârșite de unul dintre soți asupra celuilalt sau asupra complicelui, în momentul surprinderii lor în adulter.
+
+Scuza nu e admisibilă când provocarea provine:
+
+1. din partea părinților sau a altei persoane căreia autorul îi datora respect și recunoștință ca și părinților;
+
+2. din partea unui alienat, cunoscut ca atare, unui copil sau unei persoane, care prin infirmitatea sa inspiră milă sau nevoie de ocrotire;
+
+3. în caz de omor, săvârșit de soț, asupra soției sale, sau de către aceasta asupra soțului său.
+
+Art. 156. -
+Când provocarea este dovedită, pedeapsa se micșorează în modul următor:
+
+1. dacă legea prevede, pentru infracțiunea săvârșită, pedeapsa muncii silnice sau detențiunii grele, se aplică în închisoare sau detențiune simplă dela 3 la 5 ani, iar în cazul celorlalte pedepse criminale se aplică închisoarea corecțională sau detențiunea simplă dela un an la 3 ani;
+
+2. dacă maximum pedepsei prevăzut de lege, pentru delictul săvârșit, este cel puțin 5 ani închisoare corecțională sau detențiune simplă, se aplică închisoarea corecțională sau detențiunea simplă dela 6 luni la un an;
+
+3. pentru orice alt delict, al cărui maximum prevăzut de lege este sub 5 ani închisoare corecțională sau detențiune simplă, se aplică închisoarea corecțională sau detențiunea simplă dela 2 la 4 luni, iar dacă pedeapsa este sub 4 luni, se aplică amenda, până la 5.000 lei, și când pedeapsa este numai amendă, se reduce la minimum general al acestei pedepse.
+
+SECȚIUNEA XIV
+Circumstanțele atenuante
+Art. 157. - Jurisprudență (3)
+Când instanța constată în favoarea infractorului circumstanțe atenuante, pedeapsa prevăzută de lege se reduce în modul următor:
+
+1. în materie criminală, chiar în caz de contumacie:
+
+a) dacă pedeapsa prevăzută de lege este muncă silnică pe vieață se aplică munca silnică pe timp mărginit sau se poate aplica temnița grea;
+
+b) dacă pedeapsa este aceea a muncii silnice pe timp mărginit, se aplică temnița grea sau se poate aplica închisoarea corecțională, care însă nu poate fi redusă la mai puțin de trei ani;
+
+c) dacă pedeapsa este aceea a temniții grele, se aplică închisoarea corecțională, a cărei durată nu poate fi redusă sub un an.
+
+Dacă legea prevede maximum unei pedepse, se aplică minimum ei sau se poate aplica pedeapsa ce urmează cu un grad mai jos, fără a se scoborî sub limitele prevăzute în alineatele de mai sus;
+
+2. în materie corecțională, chiar în lipsa infractorului:
+
+a) pedeapsa se scoboară sub minimum prevăzut de lege pentru infracțiunea săvârșită, fără însă a se putea depăși minimum general, iar când legea nu prevede un minimum special, pedeapsa se scoboară la minimum general prevăzut de lege pentru închisoarea corecțională, sau se poate substitui închisorii corecționale, chiar amenda fără să se poată scoborî sub minimum ei general.
+
+Maximum amenzii substituite închisorii, prin recunoașterea circumstanțelor atenuante, nu poate trece de 5.000 lei, afară de cazul prevăzut de art. 52, alin. 3;
+
+b) dacă maximum pedepsei prevăzut de lege este de 5 ani, sau mai mare, pedeapsa nu poate fi scoborîtă sub un an închisoare corecțională, afară de cazul când minimum special al acelei pedepse ar fi mai mic de un an;
+
+c) dacă legea prevede numai pedeapsa amenzii, ea scoboară sub minimum ei special, dar nu mai jos de minimum general al amenzii;
+
+3. în caz de crime sau delicte politice, atenuarea se face după aceleași norme asupra pedepselor corespunzătoare;
+
+4. circumstanțele atenuante se pot acorda și în materie de contravenție.
+
+În acest caz, se substitue închisorii polițienești amenda, al cărei maximum este de 1.000 lei, iar când pedeapsa este amenda, ea poate fi scoborîtă până la 50 lei.
+
+Art. 158. - Jurisprudență (1)
+Când legea prevede o pedeapsă privativă de libertate și amendă, reducerile prevăzute mai sus se aplică la ambele pedepse, sau se poate înlătura una din ele și chiar efectua reduceri la cea aplicată.
+
+Art. 159. -
+Când circumstanțele atenuante sunt recunoscute în favoarea unui infractor în stare de recidivă, el va beneficia numai de reducerea obligatorie a pedepsei, iar dacă infracțiunea este pedepsită de lege cu muncă silnică pe vieață sau detențiune grea pe vieață, pedeapsa nu poate fi redusă sub 15 ani muncă silnică sau detențiune grea.
+
+TITLUL VIII
+Concurs de circumstanțe agravante și atenuante
+Art. 160. -
+În caz de concurs al mai multor circumstanțe de agravare și de atenuare a pedepselor, stabilirea pedepsei se face după normele și în ordinea indicată mai jos.
+
+La pedeapsa prevăzută de lege pentru infracțiunea săvârșită, se aplică:
+
+1. când există mai multe scuze legale, întâi cele relative la fapt, apoi cele relative la persoana infractorului;
+
+2. agravarea ce rezultă din starea de recidivă;
+
+3. circumstanțele atenuante recunoscute în favoarea infractorului.
+
+TITLUL IX
+Condițiunile privitoare la încriminarea infracțiunilor
+supuse plângerii prealabile
+Art. 161. -
+Când legea condiționează încriminarea unei infracțiuni de plângerea prealabilă a părții vătămate, cercetarea și urmărirea nu pot avea loc fără această plângere.
+
+Plângerea prealabilă, în acest caz, trebuie să fie introdusă în termen de 3 luni, socotit din ziua în care cel vătămat a luat cunoștință de săvârșirea infracțiunii și a știut cine este făptuitorul, dacă în acest interval de timp nu s'a împlinit prescripțiunea.
+
+Art. 162. -
+Infracțiunea săvârșită în prejudiciul mai multor persoane este pedepsibilă, chiar dacă plângerea prealabilă emană numai dela una dintre ele, fie că celelalte persoane nu au făcut plângere, fie că și-au retras-o.
+
+Plângerea prealabilă, făcută împotriva unuia dintre participanți la o infracțiune, are efect și asupra celorlalți.
+
+TITLUL X
+Stingerea încriminării, executării pedepsei și a
+incapacităților ce decurg din condamnare
+CAPITOLUL I
+Moartea
+Art. 163. -
+Moartea învinuitului stinge încriminarea faptei comise, iar moartea condamnatului stinge executarea pedepsei.
+
+Dreptul de a confisca obiectele menționate în art. 80 nu încetează prin moartea învinuitului chiar dacă încetarea din vieață a avut loc înainte de condamnare.
+
+CAPITOLUL II
+Prescripția
+SECȚIUNEA I
+Stingerea încriminării prin prescripție
+Art. 164. -
+Prescripția stinge încriminarea:
+
+1. pentru crime pedepsite cu muncă silnică sau detențiune grea, prin 15 ani împliniți, iar pentru cele pedepsite cu temniță grea sau detențiune riguroasă, prin 10 ani;
+
+2. pentru delicte pedepsite cu pedepse mai mari de 5 ani, prin 8 ani, iar pentru delictele pedepsite până la 5 ani, prin 3 ani.
+
+3. pentru contravențiuni, printr'un an.
+
+În materie de presă încriminarea se prescrie pentru crimă prin 3 ani, iar pentru delicte printr'un an.
+
+Toate termenele de mai sus, în cazul infracțiunilor comise de minori, se reduc la jumătate.
+
+Art. 165. -
+Termenele de prescripție din articolul precedent încep să curgă din momentul în care s'a săvârșit infracțiunea, pentru infracțiunile continue, din momentul încetării actului delictos, iar pentru cele continuate, dela comiterea ultimului act.
+
+Pentru infracțiunile de presă termenul de prescripție se socotește din ziua răspândirii publicațiunii.
+
+Art. 166. -
+Prescripția se întrerupe în următoarele cazuri:
+
+1. când s'au făcut acte de urmărire sau de instrucție;
+
+2. când s'au îndeplinit în mod valabil înaintea instanței de judecată orice acte de procedură care după lege trebuesc să fie comunicate infractorului;
+
+3. când instanța de judecată a pronunțat o hotărîre chiar nedefinitivă.
+
+După fiecare întrerupere un nou termen de prescripție începe să curgă.
+
+Încriminarea este prescrisă, oricâte întreruperi ar fi intervenit, dacă întregul termen de prescripție a fost depășit cu încă jumătate; iar pentru prescripțiile de trei ani sau mai mici, dacă s'a atins îndoitul termenului.
+
+Întreruperea prescripției produce efect și față de persoanele care au luat parte la infracțiune chiar dacă actele arătate la punctele 1, 2 și 3 din acest articol, n'au fost efectuate și față de ele.
+
+Art. 167. -
+Prescripția incriminării e suspendată pe timpul cât o dispozițiune legală, sau un caz de forță majoră oprește începerea sau continuarea urmăririi, instrucției sau judecății.
+
+Prescripția își reia și continuă cursul din ziua în care a încetat cauza de suspendare.
+
+SECȚIUNEA II
+Stingerea executării pedepsei prin prescripție
+Art. 168. -
+Pedeapsa muncii silnice și a detențiunii grele se prescrie prin 20 ani, pedeapsa temniței grele și a detențiunii riguroase, prin 15 ani.
+
+Pedepsele corecționale, mai mari de 5 ani, se prescriu prin 10 ani, cele mai mici de 5 ani, prin 5 ani. Amenzile corecționale se prescriu prin 5 ani.
+
+Pedepsele pentru contravențiuni se prescriu prin 2 ani.
+
+Pentru minori termenele de mai sus se reduc la jumătate.
+
+Termenele de mai sus încep a curge din ziua în care hotărîrea de condamnare a rămas definitivă.
+
+Art. 169. -
+Prescripția pedepselor privative de libertate nu atrage prescripția pedepselor complimentare și nici a măsurilor de siguranță.
+
+Art. 170. -
+Condamnatul a cărui pedeapsă criminală a fost prescrisă nu poate reveni în comuna în care locuește victima sau moștenitorii acesteia în linie dreaptă.
+
+Tribunalul, la cererea Ministerului public, poate hotărî locul unde condamnatul nu trebue să-și aibă domiciliul, având în vedere și o distanță socotită suficientă pentru ca interdicțiunea de mai sus să-și atingă scopul.
+
+Art. 171. -
+Prescripția pedepsei se întrerupe numai prin executarea condamnațiunii.
+
+În caz de evadare o nouă prescripție începe să curgă din ziua evadării.
+
+CAPITOLUL III
+Amnistia
+Art. 172. -
+Amnistia stinge incriminarea, iar dacă a intervenit după condamnare, stinge și executarea pedepsei.
+
+Obiectele confiscate conform art. 80, precum și amenzile încasate anterior amnistiei nu se mai restitue.
+
+Amnistia nu are niciun efect asupra drepturilor părții vătămate și asupra măsurilor de siguranță.
+
+Amnistia nu se poate acorda decât pentru infracțiunile politice.
+
+CAPITOLUL IV
+Grațierea
+Art. 173. -
+Grațierea are de efect stingerea în total sau în parte a executării pedepsei, ori comutarea ei într'una mai ușoară, dar nu stinge pedepsele complimentare, nici măsurile de siguranță.
+
+CAPITOLUL V
+Împăcarea părților
+Art. 174. - Jurisprudență (1)
+Împăcarea stinge incriminarea numai în delictele și contravențiile pentru care legea permite în mod expres aceasta.
+Jurisprudență (1)
+
+Împăcarea e personală.
+
+CAPITOLUL VI
+Reabilitarea
+Art. 175. -
+Orice condamnat la o pedeapsă criminală sau corecțională, poate obține reabilitarea judiciară.
+
+Reabilitarea șterge condamnarea, decăderile și interdicțiile și face să înceteze pentru viitor toate incapacitățile care rezultă din pedeapsă. Reabilitarea nu atrage însă reintegrarea în funcțiunea din care infractorul a fost scos în urma condamnării.
+
+Se va socoti însă celui reabilitat termenul de pensiune câștigat anterior condamnării, iar dacă este pensionar, el reintră în drepturile sale, din momentul reabilitării.
+
+Reabilitarea penală pentru delictul de bancrută frauduloasă nu atrage de drept și reabilitarea comercială.
+
+Art. 176. -
+Reabilitarea poate fi acordată, după expirarea unui termen de 10 ani, pentru cei condamnați la pedepse criminale, de 5 ani, pentru cei condamnați la pedepse corecționale mai mari de 5 ani, de 3 ani, pentru pedepse mai mici de 5 ani, sau la amendă.
+
+Termenele de mai sus se socotesc dela data de când acela care cere reabilitarea a executat pedeapsa.
+
+Pentru cei condamnați la muncă silnică pe vieață, care au obținut reduceri de pedepse, termenul se socotește din momentul de când a sfârșit executarea pedepsei reduse.
+
+Pentru cei condamnați la amendă, termenul curge din momentul achitării integrale a amenzii. În caz de transformare a amenzii în închisoare, termenul de reabilitare curge dela data împlinirii pedepsei.
+
+În caz de grațiere totală, termenul curge dela data decretului.
+
+În toate cazurile, termenele prevăzute mai sus se reduc la jumătate pentru infracțiunile politice, și la un sfert pentru acei care au beneficiat de libertatea condiționată.
+Jurisprudență (1)
+
+Art. 177. -
+Reabilitarea nu poate fi admisă decât numai dacă sunt întrunite următoarele condițiuni:
+
+1. dacă condamnatul nu a suferit o nouă condamnare criminală sau corecțională în intervalul prevăzut de articolul precedent;
+
+2. dacă condamnatul a avut o purtare bună;
+
+3. dacă are mijloace oneste de existență;
+
+4. dacă a achitat în întregime cheltuielile de judecată și despăgubirile civile, la plata cărora a fost obligat, afară de cazul când partea vătămată a renunțat la acele despăgubiri.
+
+Art. 178. -
+În caz de respingere a reabilitării, nu se mai poate face o nouă cerere, decât după un termen de 5 ani, pentru pedepse criminale și 2 ani pentru pedepse corecționale, socotiți dela data respingerii cererii. Noua cerere trebue să conțină, pe lângă dovada condițiilor din prima cerere și aceea a bunei purtări în intervalul de timp ce s'a scurs după respingerea primei cereri.
+
+Când respingerea s'a întemeiat pe lipsă de forme, cererea de reabilitare poate fi reînoită oricând.
+
+Art. 179. -
+Reabilitarea poate fi revocată când după acordarea ei s'a descoperit că cel reabilitat mai suferise o altă condamnare pentru crime sau delicte.
+
+Art. 180. - Jurisprudență (1)
+Dispozițiunile acestui capitol se aplică și condamnărilor pronunțate de instanțe speciale sau militare, precum și sentințelor pronunțate de tribunalele străine, când s'a recunoscut că aceste sentințe pot produce efecte în România.
+
+TITLUL XI
+Dispozițiuni generale referitoare la infracțiunile
+de presă
+Art. 181. -
+Infracțiunea de presă este aceea care se realizează prin faptul imprimării și răspândirii publicațiunii.
+
+Răspunzători de această infracțiune sunt:
+
+1. pentru publicațiunile periodice: autorul articolului sau informațiunii, când este cunoscut; în lipsa lui, directorul publicațiunii și în lipsa acestuia redactorul ei;
+
+2. pentru publicațiunile neperiodice: autorul scrierii, când este cunoscut sau descoperit, în lipsa lui, editorul scrierii și în lipsa acestuia sau când nici el n'a putut fi descoperit, patronul tipografiei care a imprimat scrierea încriminată.
+
+În toate cazurile, acei care se găsesc situați mai jos, în ordinea legală a responsabilității, sunt primiți a declara pe cei răspunzători în locul lor, numai până la închiderea desbaterilor înaintea primei instanțe de fond.
+
+Art. 182. -
+Pentru infracțiunea de presă, proprietarul publicațiunii este, în toate cazurile, obligat în mod solidar, cu cel condamnat, la plata despăgubirilor civile către partea vătămată.
+
+TITLUL XII
+Explicarea unor termeni legali
+Art. 183. - Jurisprudență (1)
+În înțelesul acestei legi:
+
+1. la calcularea timpului se socotește ziua 24 ore, săptămâna 7 zile, luna 30 zile și anul 365 zile;
+
+2. timpul de războiu este epoca dela decretarea mobilizării până la data trecerii armatei pe picior de pace;
+
+3. inamic, este puterea străină cu care România sau aliații săi se găsesc în stare de războiu, sau față de care au luat măsuri militare, în vederea unui războiu iminent;
+
+4. funcționar public este acela care exercită, în mod voluntar sau obligator, permanent sau temporar, în serviciul Statului, județului, comunei sau instituțiilor publice dependente, oricare ar fi modul lor de administrare, o funcțiune sau o însărcinare, de orice natură, fie chiar electivă, retribuită sau nu și indiferent de chipul în care a fost investit.
+
+Această calitate o au de asemenea preoții și militarii.
+
+Nu sunt considerați funcționari publici membrii corpurilor legiuitoare;
+
+5. rude sunt ascendenții, soții și părinții lor, frații și surorile, copiii adoptivi, afinii în linie dreaptă, cumnații și cumnatele.
+
+Persoane legate prin temeinică afecțiune sunt acelea care, în baza legăturilor de familie, prietenie, dragoste sau recunoștință, își poartă o considerație deosebită;
+
+6. amenințarea constă, ori de câte ori legea nu prevede altfel; în săvârșirea de acte sau fapte de natură a inspira persoanei amenințate temerea unui pericol iminent pentru vieața, integritatea corporală, sănătatea, libertatea, onoarea, sau averea ei, ori a uneia din persoanele arătate în art. 130;
+
+7. arme sunt toate acele instrumente sau aparate, care, din momentul confecționării lor, sunt destinate a servi la atac sau apărare.
+
+Sunt asimilate cu armele orice alte instrumente, aparate, lucruri, substanțe chimice, solide, lichide sau gazoase, cărora, prin întrebuințare, li s'a dat această destinație;
+
+8. ceată sau bandă este adunarea sau întrunirea de cel puțin 3 persoane, întrucât legea nu dispune altfel;
+
+9. loc public este locul deschis sau accesibil publicului, fie prin natura lui, în mod permanent și absolut, fie prin destinație, în mod temporar și relativ, fie în mod accidental, datorită unor anumite împrejurări;
+
+10. în public se consideră săvârșit faptul care s'a petrecut:
+
+a) în loc public prin natura lui, independent de prezența efectivă a publicului;
+
+b) în loc public prin destinație, în momentul în care era deschis publicului;
+
+c) în loc public accidental, în aceleași condiții ca în alineatul precedent, dacă a fost auzit sau văzut de cineva;
+
+d) în loc privat, cu intențiunea de a fi auzit sau văzut de public și dacă a fost realmente văzut sau auzit;
+
+e) într'o adunare sau reuniune la care asistă mai multe persoane, cu excepția reuniunilor de familie;
+
+f) prin orice mijloace de comunicare, destinate a-l aduce la cunoștința publicului.
+
+CARTEA II
+Crime și delicte în special
+TITLUL I
+Crime și delicte contra Statului
+CAPITOLUL I
+Crime și delicte contra siguranței exterioare a
+Statului
+SECȚIUNEA I
+Trădarea
+Art. 184. -
+Cetățeanul român care săvârșește vreo faptă, în scop de a supune teritoriul Statului sau o parte din el suveranității unui stat străin, sau de a suprima ori știrbi independența Statului, comite crima de trădare și se pedepsește cu muncă silnică pe vieață.
+
+Cu aceeași pedeapsă se pedepsește și faptul săvârșit în scopul de a distruge unitatea Statului.
+
+Art. 185. -
+Cetățeanul român care poartă arme contra patriei sale, sau se înrolează în armata unui stat aflat în războiu cu Statul român, comite crimă de trădare și se pedepsește cu muncă silnică pe vieață.
+
+Art. 186. -
+Cetățeanul român care uneltește sau se pune în înțelegere cu guvernele străine sau cu agenții lor, ori cu partide, asociațiuni sau grupări străine, cu caracter politic, spre a provoca războiu contra Statului român, spre a înlesni ori aduce ocupațiunea străină, comite crima, de trădare și se pedepsește cu muncă silnică pe vieață.
+
+Dacă înțelegerea nu și-a ajuns scopul, pedeapsa este munca silnică dela 5 la 25 ani și degradarea civică dela 3 la 10 ani.
+
+Art. 187. -
+Dacă relațiunile întreținute de cetățeanul român, cu supușii puterii străine, aveau de obiect unul din următoarele fapte, pedeapsa este temnița grea dela 5 la 10 ani și degradarea civică dela 3 la 5 ani:
+
+1. îndeplinirea unor acte care să tindă a angaja Statul român la declararea sau menținerea neutralității, sau la declarațiunea de războiu;
+
+2. acceptarea unor promisiuni, bani, daruri ori alte foloase în scop de a îndeplini acte contrarii interesului național în caz de războiu;
+
+3. determinarea altor persoane de a comite faptul prevăzut la punctul 2.
+
+În toate cazurile, pedeapsa este munca silnică, dela 5 la 10 ani, dacă se convenise ca scopurile mai sus să fie atinse printr'o propagandă de presă.
+
+Art. 188. -
+Comite crimă de trădare și se pedepsește cu muncă silnică pe vieață cetățeanul român, care în timp de războiu:
+
+1. predă inamicului sau reprezentanților lui, orașe, porturi, aeroporturi, hidroscale, baze navale, locuri întărite sau orice alte posturi de apărare, fără autorizația autorităților naționale competinte;
+
+2. predă instituțiuni sau servicii publice, bastimente, aeronave, stabilimente tehnice, instalațiuni care servesc armata, magazii, depozite de arme, muniții sau alte materiale de războiu, fără autorizația autorităților naționale competinte;
+
+3. procură inamicului soldați, oameni, arme, munițiuni sau orice materiale de războiu;
+
+4. îndeamnă pe soldații armatei române să treacă la inamic;
+
+5. servește inamicului de informator sau călăuză în dauna armatei române, ori ascunde pe spionii lui, participă la comploturi, în scopul de a constrânge pe comandantul unei localități asediate de a se preda sau capitula;
+
+6. provoacă revolte sau panică în trupele de apărare ale țării, sau împiedecă legătura unităților în fața inamicului;
+
+7. face înrolări, în țară sau în străinătate, pentru o putere străină în războiu cu România;
+
+8. distruge, incendiază sau pune în stare de neîntrebuințare, prin orice mijloace, materialele de războiu, enumerate la punctele 1 și 2, precum și alimente ale armatei române, în dauna acesteia și în favoarea inamicului.
+
+Orice alte fapte, în afară de cele enumerate mai sus, prin care se dă sprijin inamicului sau se favorizează activitatea lui, se pedepsesc cu muncă silnică dela 5 la 25 ani și degradare civică dela 3 la 10 ani.
+
+Art. 189. -
+Pedepsele prevăzute în art. 186 și 188 se aplică și când actul încriminat este îndreptat contra unui aliat cu care România luptă în comun.
+
+Art. 190. - Jurisprudență (1)
+Comite crima de trădare prin necredință și se pedepsește cu muncă silnică pe vieață:
+
+1. funcționarul public, agentul sau prepusul guvernului, care procură sau transmite, în original sau în copie, ori divulgă în totul sau în parte, fie chiar incomplet sau inexact, unui guvern străin, agenților săi sau oricărei alte persoane, fără calitatea de a lua cunoștință de ele: planuri, schițe, desene, fotografii, acte, scripte, ori documente diplomatice secrete, informațiuni sau notițe secrete, interesând apărarea teritoriului, siguranța statului, mobilizarea și concentrarea armatei și mobilizarea economică a teritoriului național, starea, cantitatea și calitatea materialului militar, de orice categorie, piețele întărite, forturile, stabilimentele tehnice, porturile, aeroporturile, bazele navale, hidroscalele, vasele de războiu, aeronavele, arme, munițiuni, explozibile, sau elementele lor constitutive, mașini, mecanisme sau părți din ele, ori echipamente sau orice alte referințe asupra obiectelor sau lucrărilor, care, în interesul apărării naționale, nu trebuesc divulgate și care fuseseră încredințate susnumitelor persoane, sau de care aveau cunoștință cu ocaziunea funcțiunii sau însărcinării lor;
+
+2. cetățeanul român care comite faptul de mai sus, când unul din obiectele sau lucrările prevăzute la alineatul precedent i-au fost încredințate sub orice titlu, sau de care avea cunoștință, fie oficial, fie în virtutea situației, profesiunii sau vreunei misiuni cu care fusese însărcinat;
+
+3. cetățeanul român care aflându-se în unul din cele două cazuri ale alineatelor precedente, comunică sau divulgă, nu însuși actul sau documentul secret, ci numai informațiuni sau științe trase din ele.
+
+Cu aceeași pedeapsă se pedepsește și acela care comite același fapt, după încetarea funcțiunii sau misiunii cu care a fost însărcinat.
+
+Art. 191. - Jurisprudență (1)
+Cetățeanul român care procură sau transmite în original sau în copie, în total sau în parte, vreunul din planurile, scriptele, documentele menționate în art. 190, inamicului sau agenților lui, ori unei puteri străine, sau agenților acesteia, sau care având cunoștință de ele, le comunică acelora sau le publică, ori reproduce chiar parțial sau incomplet, comite crima de trădare și se pedepsește cu muncă silnică dela 5 la 25 ani și degradare civică dela 3 la 10 ani.
+
+Aceeași pedeapsă se aplică și în următoarele cazuri:
+
+1. cetățeanului român, care își procură sau deține, fără calitate de a lua cunoștință de ele, planurile, scriptele sau documentele menționate în art. 190;
+
+2. cetățeanului român, care ar reproduce în public, după alte publicațiuni, planurile, scriptele sau documentele din art. 190.
+
+Dacă autorul publicațiunii sau reproducerii nu este cunoscut, pedeapsa se aplică conform dispozițiunilor art. 181.
+
+Art. 192. - Jurisprudență (1)
+Comite crima de trădare și se pedepsește cu muncă silnică dela 10 la 25 ani și degradare civică dela 3 la 10 ani:
+Jurisprudență (1)
+
+1. cetățeanul român, care, fățiș, ori ascunzându-și identitatea sau naționalitatea, calitatea sau profesiunea, cu scopul de a comite faptele prevăzute la art. 190, se introduce într'o localitate, zonă de pământ, de apă, sau de aer, unde e oprit accesul în interes militar, cetate, port, aeroport, hidroscală, bază navală, post militar, tabără, cantonament, bivuac, cazarmă, stabiliment tehnic, vas de războiu, magazie de aprovizionare, birou unde se păstrează planuri, documente, scrisori sau alte acte ori hărți geografice, referitoare la apărarea națională, cum și în orice altfel de stabiliment militar cu dependințele lui;
+
+2. cetățeanul român, care, prin mijloacele indicate în alineatul precedent, și în scopul de a comite faptele prevăzute la art. 190, ridică planuri sau face recunoașteri de căi ferate sau de orice alte mijloace de comunicație, ia informații sau fotografii ori execută desene, schițe, asupra oricărui lucru privitor la apărarea teritoriului sau la siguranța Statului.
+
+Art. 193. -
+Tentativa crimelor din această secțiune se pedepsește cu pedeapsa crimei consumate.
+
+SECȚIUNEA II
+Spionajul
+Art. 194. -
+Când vreuna din infracțiunile prevăzute de art. 184, 186, 187, 188, 189, 190, 191 și 192, este comisă de un străin, constituie crima de spionaj și se pedepsește cu muncă silnică dela 5 la 15 ani și degradare civică dela 3 la 10 ani.
+
+Când străinul infractor ar fi din cei angajați în serviciul Statului român, pedeapsa este munca silnică dela 10 la 15 ani și degradarea civică dela 3 la 10 ani.
+
+Tentativa crimei de spionaj se pedepsește ca și crima consumată.
+
+În timp de războiu, dispozițiunile acestei secțiuni se aplică, în măsura în care sunt de acord cu convențiunile internaționale referitoare la spionaj.
+
+SECȚIUNEA III
+Alte crime și delicte în contra siguranței exterioare
+a Statului
+Art. 195. -
+Acela care distruge sau ascunde documente sau acte, care stabilesc drepturi ale statului român în raport cu un stat sau cu un guvern străin, comite crima de compromitere a intereselor de Stat și se pedepsește cu temniță grea dela 5 la 10 ani și degradare civică dela 3 la 5 ani.
+
+Dacă autorul este chiar păstrătorul sau depozitarul acelor acte sau documente, pedeapsa este munca silnică pe timp mărginit dela 7 la 15 ani și degradarea civică dela 3 la 10 ani.
+
+Art. 196. -
+Acela care, prin înrolări sau orice acte de ostilitate, neaprobate de guvern, săvârșite în țară sau străinătate contra unui stat străin, expune Statul român la un pericol de războiu, comite crima de ostilitate contra Statului și se pedepsește cu temniță grea dela 5 la 10 ani și degradare civică dela 3 la 5 ani, iar dacă, din această cauză, a și urmat războiul, pedeapsa este munca silnică pe vieață și degradarea civică pe timp de 10 ani.
+
+Dacă actele de ostilitate sunt de natură numai de a turbura relațiunile guvernului român cu un guvern străin, sau de a expune Statul ori pe cetățenii români, ori unde s'ar găsi ei, la represalii, pedeapsa este temnița grea, dela 3 la 6 ani, iar dacă ruperea relațiunilor s'a produs, sau represaliile au avut loc, pedeapsa este temnița grea dela 5 la 10 ani și în ambele cazuri și degradarea civică dela 3 la 5 ani.
+
+Art. 197. -
+Acela care, prin neglijență, prin neobservarea regulamentelor, instrucțiilor, ordinelor și consemnelor, face posibilă sustragerea, luarea, distrugerea de planuri, scripte, documente, fotografii, schițe relative la cele specificate în art. 190, 191 și 192, ce i-au fost încredințate sau le avea în posesie, în virtutea funcțiunii, situațiunii sau profesiunii sale, sau a unei misiuni cu care a fost însărcinat, le pierde ori dă putința unor persoane neautorizate să cerceteze documentele de mai sus sau să scoată copii de pe ele, comite delictul de neglijență contra siguranței Statului și se pedepsește cu închisoare corecțională dela 2 la 3 ani.
+
+Aceeași pedeapsă se aplică și aceluia care, în aceleași condițiuni, divulgă informațiile, indiciile sau dovezile culese în cursul unor cercetări referitoare la infracțiuni de trădare și spionaj.
+
+Art. 198. -
+Acela care, în timp de războiu, răspândește sau publică svonuri sau informații false, exagerate sau tendențioase, relative la situația economică a țării, la existența vreunei nemulțumiri a populației în privința declarării războiului, a conducerii sau rezultatului lui, precum și acela care, prin aceleași mijloace, sau prin orice alte fapte de natură a provoca panică sau deprimare, ori a cauza scăderea cursului efectelor publice sau private, face posibilă slăbirea sau înfrângerea rezistenței morale a națiunii, față de inamic, comite delictul de defetism și se pedepsește cu închisoare corecțională dela 5 la 10 ani, amendă dela 5.000 la 25.000 lei și interdicție corecțională dela unu la 5 ani, dacă fapta nu ar constitui o infracțiune mai gravă.
+
+Dacă faptele de mai sus sunt comise în urma înțelegerii cu inamicul, sau în scop de propagandă făcută printre militari, constituesc crima de defetism și se pedepsesc cu muncă silnică pe vieață.
+
+Art. 199. -
+Cetățeanul român sau străinul domiciliat în România, care, în timp de războiu, participă la subscriere, vărsăminte sau împrumuturi în favoarea statului inamic, sau înlesnește aceste operațiuni, ori procură inamicului animale sau proviziuni, comite crima de necredință față de Stat și se pedepsește cu muncă silnică dela 5 la 10 ani și degradare civică dela 3 la 5 ani.
+
+Pedeapsa de mai sus nu se aplică locuitorilor din teritoriile ocupate de inamic, pentru contribuțiunile impuse și ridicate de puterea ocupantă.
+
+Art. 200. -
+Acela care nu execută în timp de războiu, în totul sau în parte, obligațiile ce derivă dintr'un contract de furnituri, de locațiune de lucrări sau obiecte, încheiat cu autoritatea publică pentru trebuințele armatei sau populației, comite delictul de compromitere a aprovizionărilor și se pedepsește cu închisoare corecțională dela 2 ani la 5 ani și interdicție corecțională dela un an la 3 ani.
+
+Dacă neexecutarea contractului provine din neglijență și ocazionează vreo pagubă, culpabilul se pedepsește cu închisoare corecțională dela 3 luni la un an.
+
+Pedepsele prevăzute în alineatele de mai sus și după distincțiunile de acolo, se aplică și cesionarilor, împuterniciților, furnisorilor sau intermediarilor, care, cunoscând scopul aprovizionării, cu rea credință sau prin neglijență fac să nu se îndeplinească obligațiile din contract.
+
+Art. 201. -
+Acela care săvârșește vreo fraudă, în executarea contractelor sau obligațiilor relative la trebuințele armatei sau populației, comite delictul de fraudă în furnituri publice și se pedepsește cu închisoare corecțională dela 5 la 10 ani și interdicție corecțională dela unu la 5 ani.
+
+Când frauda se comite în timp de războiu, faptul constitue crima de fraudă în furnituri publice și se pedepsește cu muncă silnică dela 5 la 15 ani și degradare civică dela 3 la 5 ani.
+
+Cu aceleași pedepse și după distincțiunile de mai sus se pedepsește și acela care, fiind însărcinat de a supraveghea executarea contractelor sau obligațiilor de mai sus, lasă să se comită acte frauduloase.
+
+Dacă faptul din alineatul precedent se comite prin neglijență, pedeapsa este închisoarea corecțională dela 6 luni la 2 ani.
+
+Art. 202. -
+Tentativa crimelor și delictelor prevăzute în art. 195, 196 și 201 alin. 1 și 2 se pedepsește ca și crima ori delictul consumat.
+
+SECȚIUNEA IV
+Dispozițiuni comune
+Art. 203. -
+Când infracțiunile prevăzute de art. 186; alin. 2, 187, 191, 192, 195, 196, 197, 198, 199, 200 și 201, sunt comise de un militar, minimum pedepsei privative de libertate, prevăzut pentru fiecare infracțiune în parte, este sporit cu jumătatea acelui minimum, afară de cazul când legile militare ar prevedea o pedeapsă mai mare.
+
+CAPITOLUL II
+Crime și delicte contra siguranței interioare a
+Statului
+SECȚIUNEA I
+Atentate și comploturi contra persoanei Regelui, a
+familiei Regale și a formei constituționale
+a Statului
+Art. 204. -
+Orice atentat contra vieții, integrității corporale sau libertății Regelui, constituie crimă de înaltă trădare și se pedepsește cu muncă silnică pe vieață.
+
+Atentatele de același fel contra Reginei, a Principelui moștenitor sau în contra celorlalți membri ai familiei regale, se pedepsesc cu muncă silnică dela 10 la 25 ani, afară de cazul când faptul ar constitui o infracțiune pedepsită de lege cu o pedeapsă mai mare.
+
+Art. 205. -
+Orice ofensă adusă în public persoanei Regelui, constituie delictul de ofensă a regalității și se pedepsește cu închisoare corecțională dela 2 ani la 5 ani.
+
+Dacă ofensa se aduce contra Reginei, a Principelui moștenitor sau în contra celorlalți membri ai familiei Regale, pedeapsa este închisoarea corecțională dela 6 luni la 3 ani.
+
+Prin "ceilalți membri ai familiei Regale", se înțeleg ascendenții, descendenții, frații și surorile Regelui, precum și copii fratelui lui, în ordine masculină.
+
+Art. 206. -
+Acela care, în public, aduce imputări Regelui pentru actele guvernului său, de care numai miniștrii sunt responsabili, comite delictul de ofensă a autorității regale și se pedepsește cu închisoare corecțională dela 3 luni la un an și amendă dela 2.000 la 10.000 lei.
+
+Publicarea, reproducerea sau răspândirea de știri false, cu privire la ordinea legală de succesiune la tron și a formei de guvernământ, se pedepsește cu aceleași pedepse.
+
+Acțiunea penală pentru urmărirea infracțiunilor prevăzute în art. 205 și 206, nu poate fi pusă în mișcare decât în urma autorizației date de Ministerul Justiției.
+
+Art. 207. - Jurisprudență (2)
+Acela care săvârșește acte violente, în scop de a schimba forma constituțională a Statului, ordinea legală de succesiune la tron, precum și acela care instigă pe locuitori de a se ridica în contra autorității Regelui, ori puterilor constituționale ale Statului, comite crima de surpare a ordinei constituționale, și se pedepsește cu detențiune grea dela 5 la 10 ani și degradare civică dela 3 la 5 ani.
+
+Art. 208. - Jurisprudență (2)
+Acela care comite vreun act preparator pentru săvârșirea crimelor prevăzute de art. 204 și 207, se pedepsește, în cazul art. 204 cu închisoare corecțională dela 3 la 5 ani, iar în cazul art. 207, cu detențiune simplă dela 3 la 5 ani.
+Jurisprudență (1)
+
+Art. 209. - Jurisprudență (14)
+Constitue delict de uneltire contra ordinei sociale și se pedepsește cu închisoare corecțională dela 3 la 7 ani, amendă dela 10.000 la 100.000 lei și interdicție corecțională dela 3 la 5 ani:
+
+1. faptul de a face propagandă pentru instalarea, prin violență, a dictaturii unei clase sociale asupra alteia, ori pentru suprimarea, prin violență, a unei clase sociale sau, în general, pentru răsturnarea, în mod violent, a ordinei sociale existente în Stat;
+Jurisprudență (8)
+
+2. faptul de a constitui sau organiza asociații secrete cu scopul arătat la punctul 1, fie că au ori nu caracter internațional;
+Jurisprudență (2)
+
+3. faptul de a lucra, prin mijloace violente, pentru a produce teroare, teamă, ori dezordine publică, cu scop de a schimba ordinea economică sau socială din România;
+Jurisprudență (6)
+
+4. faptul de a intra în legătură cu vreo persoană sau asociație cu caracter internațional, din străinătate sau din țară, în scopul de a primi instrucțiuni sau ajutoare de orice fel pentru pregătirea unei revoluții sociale;
+Jurisprudență (4)
+
+5. faptul de a ajuta, în orice mod, o asociațiune din străinătate sau din țară, care ar avea de scop să lupte, prin mijloacele de sub punctele 1 și 3, contra ordinei economice sau sociale din România;
+
+6. faptul de a se afilia sau a deveni membru al vreuneia din asociațiile prevăzute în punctele 2 și 3 de mai sus.
+
+Când pentru realizarea scopului arătat în alineatele precedente, s'au comis acte de violență contra persoanelor, pedeapsa este închisoarea corecțională dela 5 la 10 ani, amenda dela 10.000 la 100.000 lei și interdicția corecțională dela 3 la 5 ani, dacă ele nu constitue o infracțiune mai gravă.
+
+SECȚIUNEA II
+Alte crime și delicte în contra siguranței interioare a Statului
 Art. 210. -
-Aceia cari vor împiedica, vor întârzia, sau vor curma îndeplinirea datoriilor unei religiuni, prin turburări ori dezordine făcute în biserică, sau în alt loc hotărît spre acest sfârșit, se vor pedepsi cu închisoare dela 15 zile până la o lună și cu amendă dela 26 până la 200 lei.
+Acela care, în scopul de a provoca, războiu civil în țară, înarmează pe locuitori sau îi instigă de a se înarma unii contra altora, ori de a săvârși tâlhării și omoruri, oriunde pe teritoriul țării, comite crima de răzvrătire, și se pedepsește cu detențiune riguroasă dela 7 la 10 ani și cu degradare civică dela 3 la 5 ani.
 
-Art. 211. -
-(Mod. L. 17 Febr. 1874). Acel care va lovi pe preotul unei religiuni, pe când este în lucrarea funcțiunilor sale, se va pedepsi cu închisoarea dela un an până la doi.
+Dacă în urma faptului de mai sus au fost atacate sau ocupate oficii publice, instituții sau lucrări militare, depozite de arme sau alte materiale de războiu, căi ferate ori uzine, pedeapsa este detențiunea grea dela 10 la 15 ani și degradarea civică dela 5 la 8 ani.
 
-Acela care, prin gesturi sau cuvinte, va ultrage pe ministrul unui cult, pe când se află în exercițiul funcțiunei sale, se va pedepsi cu închisoarea dela 15 zile până la trei luni și cu amendă dela 26 până la 100 lei2).
+Dacă însă s'au săvârșit tâlhării, incendii, distrugeri ori s'au cauzat vătămări grave ale sănătății sau integrității corporale, pedeapsa este munca silnică dela 15 la 25 ani și degradarea civică dela 6 la 10 ani, întru cât faptele nu ar constitui infracțiuni mai grave.
+Jurisprudență (1)
+
+În cazul când s'au comis omoruri, precum și atunci când faptele din alineatul precedent au fost săvârșite prin mașini infernale, explosibile sau alte mijloace similare, pedeapsa este munca silnică pe vieață.
+
+Art. 211. - Jurisprudență (3)
+Acela care, în scopul de a provoca insurecțiune contra puterii Statului, organizează sau face să se organizeze trupe armate, ori le procură sau le înlesnește procurarea de arme sau munițiuni, comite crima de insurecțiune armată, și se pedepsește cu muncă silnică dela 15 la 25 ani și degradare civică dela 5 la 10 ani, iar dacă insurecțiunea s'a produs, pedeapsa este munca silnică pe vieață.
 Jurisprudență (1)
 
 Art. 212. -
-(Mod. L. 17 Febr. 1874). Dispozițiunile acestei secțiuni se aplică numai asupra turburărilor, ultragiilor, loviturilor sau altor desordine a căror natură ori împrejurări nu vor da ocaziune de a se aplica pedepse mai grele, după alte dispozițiuni ale acestui codice.
+Comite crima de uzurpare militară și se pedepsește cu detențiune grea dela 5 la 10 ani și degradare civică dela 3 la 5 ani, acela care, în scopul de a produce dezordine în Stat sau a-i primejdui siguranța, săvârșește vreunul din faptele următoare:
 
-CAPITOLUL V
-Despre asocierea făcătorilor de rele și despre vagabonzi3)
+1. ia comanda militară a unei grupe, localități, cetăți sau a unui post, bastiment de războiu sau loc întărit;
 
-3) În textul francez, titlul secțiunei a V-a (nu Capitolul V, ca la noi) este: <<Asociations de malfaiteurs, vagabondage et mendicite>>. Legiuitorul român a înlăturat din textul francez § III, care tratează despre cerșetorie, reținând numai capitolele relative la asociația făcătorilor de rele și la vagabondaj.
+2. continuă a exercita comanda ce i s'a revocat;
 
-I. Despre asocierea făcătorilor de rele
+3. angajează sau înrolează, ori face să se angajeze sau să se înroleze soldați;
+
+4. ține adunată oștirea în contra ordinelor ce i s'au dat, de a o libera sau a o trece la vatră.
 
 Art. 213. -
-Ori-ce asociere de făcători de rele, spre vătămarea persoanelor, sau a proprietăților, este crimă în contra liniștei publice.
+Acela care exercită, în mod ilegal, o funcție cu caracter politic, sau continuă a o exercita în mod ilegal, comite crima de uzurpare politică, și se pedepsește cu detențiune grea dela 5 la 15 ani și cu degradare civică dela 3 la 8 ani.
 
 Art. 214. -
-Acestă crimă există prin singurul fapt al organizărei cetelor, ori al corespondenței între dânsele cu căpiteniile lor, ori al învoirei privitoare la darea de socotelă sau la împărțirea lucrurilor provenite din delicte.
+Acela care, putând dispune de forța publică, ordonă mișcarea acestei forțe sau întrebuințarea ei în contra înrolării sau adunării de oameni, în vederea întocmirii oștirii legale, comite crima de împiedecare a organizării armatei, și se pedepsește cu detențiune grea dela 5 la 10 ani și degradare civică dela 3 la 5 ani.
+
+Când ordinul a fost executat, pedeapsa este detențiunea grea dela 10 la 15 ani și degradarea civică dela 5 la 10 ani.
 
 Art. 215. -
-Când această crimă nu va fi însoțită, nici urmată de o altă crimă, autorii, directorii, asociații1) și căpeteniile sau sub-căpeteniile acestor cete, se vor pedepsi cu recluziunea.
+Acela care, prin cuvinte, scrieri, gesturi sau acte, aduce ofensă, în public, națiunii sau Statului Român, precum și acela care aduce jignire simțimântului național prin injurii aduse eroilor consacrați ai neamului, comite delictul de ofensă a națiunii și se pedepsește cu închisoare corecțională dela unu la 3 ani, amendă dela 5.000 la 20.000 lei și interdicție corecțională dela unu la 5 ani.
 
+Aceeași pedeapsă se aplică și aceluia care răspândește în străinătate știri neadevărate, tendențioase sau exagerate, care ating onoarea sau vatămă interesele națiunii sau Statului Român.
 
-1) Art. francez corespunzător, 267, nu cuprinde și cuvântul: <<asociații>>.
+Dacă faptele se comit prin presă, pedeapsa este închisoarea corecțională dela 2 la 6 ani, amenda dela 5.000 la 20.000 lei și interdicția corecțională dela unu la 5 ani.
 
 Art. 216. -
-(Mod. L. 17 Febr. 1874). Se vor pedepsi cu doui ani închisoare ori-ce alte persoane cari vor fi fost însărcinate cu vre-un serviciu într'aceste cete, precum și aceia cari, cu bună știință sau voință, vor fi dat cetelor2) arme, munițiuni și instrumente pentru crime, locuință, scăpare sau loc de întîlnire.
-
-
-2) Art. francez corespunzător, 268, adaugă: <<sau diviziunilor lor>>.
-
-II. Pentru vagabonzi
+Acela care, prin cuvinte, gesturi sau acte, exprimă dispreț sau batjocură pentru drapelul țării, pentru marca ori emblemele de care se servesc autoritățile civile sau militare, ca semne ale calității lor, ori alte semne ale autorităților publice, comite delictul de ofensă a simbolului național și se pedepsește cu închisoare corecțională dela 2 luni la un an și cu amendă dela 2.000 la 10.000 lei.
 
 Art. 217. -
-Vagabonzii, adică omenii fără căpătâiu, sunt aceia cari n'au nici domiciliu statornic, nici mijloc de hrană, nici nu exercitează obișnuit vre-o profesiune sau meșteșug.
+Funcționarii publici care, prin înțelegere prealabilă, în mod colectiv, refuză a îndeplini serviciul public sau suspendă funcționarea acestuia, periclitând interesele generale publice, comit delictul de coalițiune a funcționarilor contra, siguranței Statului și se pedepsesc cu închisoare corecțională dela 6 luni la 2 ani și interdicție corecțională dela unu la 2 ani.
+
+Dacă faptul de mai sus se comite în urma înțelegerii între autoritățile civile și militare, pedeapsa este închisoarea corecțională dela 2 la 5 ani și interdicția corecțională dela unu la 5 ani.
+
+Instigatorii se pedepsesc, în cazul primului alineat, cu închisoare corecțională dela unu la 3 ani, iar în cazul alin. 2, cu închisoare corecțională dela 3 la 6 ani.
 
 Art. 218. -
-Nimenea nu se poate declara vagabond, decât numai prin sentință judecătorească.
+Acela care, prin orice mijloace, instigă direct pe militari sau asimilații lor de a nu se supune legilor sau de a-și călca jurământul, sau alte obligațiuni militare, ori instigă pe cei dela vatră să nu răspundă chemării, comite delict de instigare antimilitară și se pedepsește cu închisoare corecțională dela unu la 3 ani, amendă dela 2.000 la 15.000 lei și interdicție corecțională dela unu la 2 ani.
 
-Nimenea nu poate fi declarat de vagabond decât dela etatea de 16 ani împliniți în sus.
+Aceeași pedeapsă se aplică și în cazul când instigarea se adresează personalului civil al serviciilor militare indispensabile apărării naționale.
 
+Când instigarea ar fi referitoare la comiterea de acte, în scopul de a micșora producțiunea necesară apărării naționale, sau de a împiedeca repararea sau transportarea materialului necesar unei asemenea apărări, ori la distrugerea acestui material, pedeapsa este închisoarea corecțională dela 2 la 6 ani, amenda dela 5.000 la 15.000 lei și interdicția corecțională dela unu la 3 ani.
+
+În toate cazurile prevăzute de acest articol, dacă instigarea a fost urmată de efect, se aplică pedepsele de mai sus, însă minimum închisorii corecționale va fi îndoit, afară de cazul când faptul ar constitui o infracțiune pedepsită mai grav.
+
+CAPITOLUL III
+Crime și delicte contra Șefilor statelor străine,
+a reprezentanților și a simbolului acestor state
 Art. 219. -
-Acei declarați de vagabonzi, se vor aduna într'o mănăstire, sau alt loc anume determinat prin un regulament de administrațiune publică, și se vor supune a învăța o meserie cu care să se poată hrăni, sau vor fi obligați a lucra în meseria ce cunosc.
-
-Timpul șederei lor în un asemenea loc va fi de șase luni până la un an.
+Acela care, pe teritoriul Statului român, comite, contra șefului unui stat străin, atentatul prevăzut de art. 204, se pedepsește cu temniță grea dela 10 la 15 ani, afară de cazul când s'ar cuveni o pedeapsă mai gravă, conform acestui cod, iar când atentatul a avut ca rezultat moartea șefului statului străin, cu muncă silnică pe vieață.
 
 Art. 220. -
-Acei declarați de vagabonzi de naționalitate străină, se vor putea și izgoni din țară.
+Acela care, pe teritoriul țării, aduce ofensă în contra persoanei șefului unui stat străin, se pedepsește cu închisoare corecțională dela 6 luni la 3 ani.
 
 Art. 221. -
-Înainte de a se trimete un individ declarat de vagabond în unul din locurile prevăzute prin art. 219, i se va pune un soroc de cel mult o lună, în care el va putea să-și găsească un mijloc regulat de existență, în care caz va fi scutit de a merge în casa destinată vagabonzilor.
+Acela care săvârșește vreo infracțiune în contra integrității corporale, libertății sau onoarei unui agent diplomatic străin, acreditat pe lângă guvernul român, sau a unui membru al vreunei misiuni diplomatice străine, cunoscând calitatea acestora, se pedepsește cu pedeapsa prevăzută de lege pentru fapta săvârșită, al cărui maximum se mărește cu o pătrime.
+
+Injuria, calomnia și defăimarea nu pot fi urmărite decât dacă cel lezat și-a exprimat această dorință.
 
 Art. 222. -
-Dacă comuna unde este născut vagabondul, sau vre-o persoană cunoscută și solvabilă, va reclama pe vagabond, sub ofertă de garanție, individul, astfel reclamat, se va trimite în comuna care l-a cerut sau în aceea pe care garantul a arătat-o.
+Acela care smulge, distruge, deteriorează, în public, în scop de dispreț sau batjocură, drapelul sau orice emblemă a unui stat, atunci când au fost arborate sau întrebuințate, conform dreptului intern român, se pedepsește cu închisoare corecțională dela o lună la un an.
 
 Art. 223. -
-Vagabondul care se va prinde îmbrăcat cu port schimbat, sau purtând arme, deși nu le va fi întrebuințat, sau având asupră-i pile, cârlige sau alte unelte îndemânatice, ori spre săvârșire de furtișaguri sau de alte delicte, ori spre a-i înlesni mijloacele de a intra prin case, se va pedepsi cu închisoare dela o lună până la un an.
+Acțiunea penală pentru delictele prevăzute de art. 220 și 222 nu poate fi pusă în mișcare decât în caz de reciprocitate, cu autorizarea Ministerului Justiției, și numai dacă guvernul străin și-a exprimat dorința.
 
+Dacă condițiile de reciprocitate lipsesc, atunci se aplică dispozițiunile prevăzute în Titlurile XIII și XIV.
+
+CAPITOLUL IV
+Delictul contra siguranței statelor străine, dreptului păcii și bunelor
+relațiuni internaționale
 Art. 224. -
-Pedepsele hotărîte într'acest codice, pentru cei ce vor avea paspoarte sau răvașe de drum false, se vor urca la maximum pentru vagabonzi, când asemenea paspoarte ori răvașe de drum se vor găsi la dânșii1).
+Acela care, pe teritoriul Statului român pregătește contra siguranței interioare sau exterioare a unui stat, care nu se găsește în războiu cu România, vreuna din infracțiunile prevăzute în Titlul I din Cartea II a acestui cod comite delictul contra siguranței statului străin și se pedepsește cu detențiune simplă dela 6 luni la 3 ani.
 
-
-1) Art. francez corespunzător, 281, nu cuprinde și cuvintele finale: <<când asemenea paspoarte ori răvașe de drum se vor găsi la dânșii>>.
-
-TITLUL IV
-CRIME ȘI DELICTE ÎN CONTRA PARTICULARILOR
-CAPITOLUL I
-Crime și delicte în contra persoanelor
-I. Pentru omor și alte crime mari. Amenințări de omor în contra persoanelor
-
-§.1. Omor, asasinat (ucidere), părintucidere, pruncucidere, otrăvire
 Art. 225. -
-Omuciderea săvârșită cu voință se numește omor.
+Comite delictul contra bunelor relațiuni internaționale și se pedepsește cu detențiune simplă dela 2 luni la un an și amendă dela 2.000 la 20.000 lei:
+
+1. acela care, răspândind, prin orice mijloace, știri false, ori documente denaturate sau falsificate, pune în pericol relațiile amicale internaționale ale României cu un alt stat.
+
+Urmărirea nu se poate face decât după cererea Ministerului Justiției;
+
+2. acela care, în scopul de a forța Statul Român să întreprindă un războiu de agresiune, excită opinia publică în acest sens, prin o propagandă, directă, făcută prin orice mijloace precum și acela care, prin aceleași mijloace, în cursul negocierilor diplomatice pentru soluționarea unui diferend internațional, sau când acest diferend se găsește pendinte în fața forurilor internaționale competinte, deslănțue, o agitație populară, pentru a exercita o presiune asupra guvernului în favoarea războiului, împiedecând astfel libertatea de acțiune a acestuia.
+
+Infracțiunea prevăzută mai sus nu se pedepsește, dacă a fost determinată prin vreo acțiune provocatoare externă.
 
 Art. 226. -
-Omorul comis cu precugetare sau cu pândire se numește asasinat.
+În cazurile art. 224 și 225, acțiunea penală nu poate fi pusă în mișcare decât dacă reciprocitatea e asigurată și pentru Statul Român, prin legile statului străin, contra căruia s'a organizat atentatul sau este îndreptată propaganda.
 
+CAPITOLUL V
+Dispozițiuni comune
 Art. 227. -
-Precugetarea este atunci când, mai înaintea faptei, s'a făcut hotărîre de a se porni asupra vieței unei persoane anume, ori asupra aceluia ce se va găsi sau se va nimeri, și chiar când hotărârea ar atârna de vre-o împrejurare ori condițiune.
+Când două sau mai multe persoane, de comun acord, au luat hotărîrea de a săvârși vreuna din crimele prevăzute de art. 184, 185, 186, 188, 204, 207, 210 și 211, comit complot.
 
-Art. 228. -
-Pândirea este a aștepta pe cine-va, oare-care timp, într'unul ori mai multe locuri, sau să-l omoare, ori ca se exercite asupra lui acte de violență.
+Complotul, ce are de scop săvârșirea vreuneia din infracțiunile prevăzute în art. 184, 185, 186, 188, 204 și 211, se pedepsește cu temniță grea dela 3 la 5 ani, și degradare civică dela 2 la 3 ani, dacă nu a fost urmat de un act preparator, iar în caz contrar cu temniță grea dela 5 la 10 ani și degradare civică dela 3 la 5 ani.
+
+Complotul pentru săvârșirea infracțiunilor prevăzute în art. 207 și 210 se pedepsește cu detențiune riguroasă dela 3 la 5 ani, și degradare civică dela 2 la 3 ani, dacă nu a fost urmat de un act preparator, iar în caz contrar cu detențiune riguroasă dela 5 la 10 ani și degradare civică dela 3 la 5 ani.
+
+Art. 228. - Jurisprudență (1)
+Acela care, având cunoștință despre un complot sau despre pregătirea uneia din crimele prevăzute la art. 204 și 207, omite să denunțe aceasta, când era încă timp de a se împiedeca consumarea faptului, comite delictul de omisiune a denunțării complotului și se pedepsește cu închisoare corecțională dela unu la 2 ani.
+
+Infractorul nu se pedepsește când se constată că este rudă sau legat prin o temeinică afecțiune de vreunul din acei care urmau a fi denunțați, sau dacă denunțarea ar fi expus la un pericol ireparabil pe denunțător sau pe vreuna din persoanele prevăzute la art. 130, precum și atunci când din împrejurări ar rezulta că denunțarea nu mai era necesară.
 
 Art. 229. -
-Părintuciderea este omorul săvârșit asupra părinților legitimi, naturali sau adoptivi, sau asupra ori-cărui alt ascendent (rudă de sus) legitim.
+Când vreuna din infracțiunile prevăzute în prezentul titlu se comite de o ceată, instigatorii și conducătorii acesteia se pedepsesc cu pedeapsa prevăzută de lege pentru infracțiunea săvârșită, al cărei minimum și maximum se sporesc cu 1/4, fără a se putea depăși maximum general al pedepsei.
 
 Art. 230. -
-Pruncuciderea se numește omorul copilului său născut de curând.
+Instigarea neurmată de efect la vreuna din crimele din acest titlu, se pedepsește cu o pedeapsă de un grad mai jos decât aceea prevăzută pentru crima la care a instigat.
+
+Complicii, tăinuitorii și cei care vor fi favorizat pe infractori la infracțiunile din acest titlu se pedepsesc ca și autorii.
 
 Art. 231. -
-Otrăvirea este omorul unei persoane prin întrebuințarea de substanțe ce pot cauza moarte, mai curând sau mai târziu, ori și în ce mod ar fi întrebuințate sau date acele substanțe.
+În cazurile art. 227 nu se pedepsesc aceia care, făcând parte dintr'un complot, îl denunță autorităților, mai înainte de a fi fost descoperit și de a se fi început săvârșirea faptei proiectate.
 
+De asemenea nu se pedepsesc aceia care, după începerea executării vreuneia din infracțiunile cuprinse în acest titlu, le denunță autorității, mai înainte de a fi descoperite și în timp util, astfel ca să fie împiedecată consumarea lor.
+
+Acei participanți care, după ce urmărirea a fost începută sau infractorii descoperiți, vor înlesni arestarea acestora, se pedepsesc în caz de crimă cu închisoare corecțională dela unu la 5 ani, iar în caz de delict cu o pedeapsă cuprinsă între minimum special al pedepsei și jumătatea acestui minimum.
+
+TITLUL II
+Delicte în contra exercițiului drepturilor
+politice și cetățenești
 Art. 232. -
-Tot culpabilul de omor cu precugetare2), de părintucidere, pruncucidere și de otrăre, se va pedepsi cu muncă silnică pe viață.
-
-Pruncuciderea, când se va săvârși asupra unui copil nelegitim de către mama sa, se va pedepsi cu recluziunea.
-
-
-2) Textul art. francez corespunzător, 302, adaugă: <<sau cu pândire>>. Credem că din eroarea traducătorului nu s'a adăugat și la articolul nostru aceste cuvinte, mai ales că art. 226 prevede și pândirea ca circumstanță agravantă.
-
-Art. francez nu are decât un sindur aliniat, lipsindu-i cuprinsul aliniatului al 2-lea din art. român. El este ast-fel redactat: <<Tout coupable d'assassinat, de parricide, d'infanticide et d'empoisonnement, sera puni de mort, sans prejudice de la disposition particuliere contenue en l'article 13 relativement au paricide>>.
-
-După cum vedem, textul francez nu face deosebirea pe care o face aliniatul II al art. 232 român, în privința copiilor legitimi sau nelegitimi. Vechiul Cod penal Român din 1852, ca și Codul penal francez, pedepsea cu moartea asasinatul și părintuciderea.
+Acela care, prin violență sau amenințare, împiedecă pe un cetățean să-și exercite drepturile sale politice sau cetățenești, comite delictul de împiedecare a drepturilor politice sau cetățenești, și se pedepsește cu detențiune simplă dela 3 luni la un an și interdicție corecțională dela unu la 2 ani.
 
 Art. 233. -
-Se vor pedepsi ca niște ucigași cu precugetare, toți acei făcători de rele, cari vor întrebuința cazne ori chinuri spre săvârșirea crimelor lor.
+Dacă faptul prevăzut în articolul 232 s'a săvârșit în urma unei înțelegeri prealabile, spre a fi executat, fie în toată țara, fie într'un județ, într'o plasă sau comună, pedeapsa este detențiunea simplă dela unu la 2 ani și interdicția corecțională dela unu la 3 ani.
 
 Art. 234. -
-Omorul se va pedepsi cu munca silnică pe toată viața, când se va fi săvârșit mai înainte, sau deodată, sau în urma altei crime.
+Dacă vreunul din faptele prevăzute în art. 232 și 233 se săvârșește de un funcționar public, pedeapsa este închisoarea corecțională dela unu la 3 ani și interdicția corecțională dela unu la 3 ani.
 
-Omorul se va pedepsi asemenea cu munca silnică pe toată viața, când va fi avut de scop, ori a prepara, ori a înlesni, ori a executa un delict, sau de a ajuta dosirea, ori a asigura nepedepsirea autorilor sau a complicilor acelui delict.
-
-În toate celelalte cazuri, culpabilul de omor se va pedepsi cu munca silnică pe timp mărginit.
-
-§.2. Amenințări
 Art. 235. -
-Acela care va fi amenințat prin înscris, anonim sau subscris, de a asasina, de a otrăvi, ori de a face asupra vre-unei persoane ori-ce alt atentat supus la munca silnică pe toată viața sau pe timp mărginit, se va pedepsi cu recluziunea, dacă amenințarea se va fi făcut cu cerere de a depune o sumă de bani la un loc hotărât, sau de a împlini ori-ce alte condițiuni.
+Acela care, prin orice mijloace, împiedecă exercițiul liber al dreptului electoral sau care falsifică în mod esențial lucrările sau actele de preparare ori executare ale operațiunii electorale sau de constatare a rezultatului acesteia, comite delictul de fraudă electorală și se pedepsește cu închisoare corecțională dela una la 3 luni.
 
-Art. 236. -
-Dacă amenințarea în scris nu va fi însoțită de nici o cerere sau condițiune, osânda va fi închisoarea dela un an la doui și amenda dela 100 până la 5000 lei1).
+Dacă faptul este comis de o persoană însărcinată de a conduce, supraveghea sau asista la operațiunea electorală, pedeapsa este închisoarea corecțională dela 6 luni la 2 ani și interdicția corecțională dela unu la 3 ani.
 
-Art. 237. -
-Dacă amenințarea însoțită de cerere, sau de vre-o condițiune, s'a făcut prin graiu, culpabilul se va osândi la închisoare dela trei luni până la un an și la o amendă dela 100 până la 500 lei2).
+Acțiunea penală, dacă nu a fost pusă în mișcare de partea vătămată sau Ministerul public, poate fi pusă în mișcare și susținută de un număr de 20 alegători.
 
+TITLUL III
+Crime și delicte contra administrației publice
+CAPITOLUL I
+Delicte săvârșite de funcționarii publici
+SECȚIUNEA I
+Delapidarea
+Art. 236. - Reviste (1)
+Funcționarul public care-și însușește sau deturnează bani sau alte lucruri mobile, ce îi sunt date, în virtutea funcțiunii sale, spre administrare sau păstrare, comite delictul de delapidare și se pedepsește cu închisoare corecțională dela 4 la 6 ani, amendă dela 5.000 la 10.000 lei și interdicție corecțională dela 2 la 5 ani.
 
-1) și 2) A se vedea nota 2 dela art. 1 și art. 399, al. II Codul penal.
+În toate cazurile judecătorul poate pronunța prin hotărîrea de condamnare și pierderea drepturilor la pensiune.
 
-II. Răniri, loviri și alte crime și delicte comise cu voință
+Art. 237. - Reviste (1)
+Delictul de delapidare se pedepsește cu închisoare corecțională dela 6 la 10 ani, amendă dela 5.000 la 10.000 lei și interdicție corecțională dela 2 la 5 ani, dacă pentru săvârșirea delapidării sau pentru acoperirea ei, ori pentru împiedecarea descoperirii ei, sau pentru păstrarea profitului ce derivă din ea, culpabilul a săvârșit vreun fals, vreo distrugere de acte sau orice delict, care nu se pedepsește mai grav decât delapidarea.
 
+SECȚIUNEA II
+Nedreptele luări
 Art. 238. -
-Faptul de a lovi sau a răni cu voință o persoană sau a-i cauza ori-ce alte leziuni corporale, se pedepsește, după împrejurări, ca crimă, delict, sau ca contravențiune.
-
-Rănirile și loviturile cari n'au cauzat nici o boală, nici vre-o incapacitate de lucru, și cari s'au urmat din certe prin cârciumi, bâlciuri, oboare și târguri, se pedepsește ca contravențiuni.
-
-Celelalte răniri și loviri simple se pedepsesc cu închisoare dela 15 zile până la un an.
-
-Iar dacă au fost cu precugetare sau cu pândire, pedeapsa va fi închisoarea dela două luni până la un an și jumătate și amendă până la 2000 lei1).
-
-
-1) Art. francez corespunzător, 309, al.I, prevede și <<une maladie>>, apoi adaugă imediat <<ou incapacite de travail>>, <<personelle pendant plus de vingt jours>>.
+Funcționarul public care, prin orice mijloace silește o persoană să dea bani sau alt profit, la care nu este obligată, după lege, comite delictul de nedreaptă luare și se pedepsește cu închisoare corecțională dela unu la 5 ani, amendă dela 5.000 la 15.000 lei și interdicție corecțională dela 6 luni la 2 ani.
 
 Art. 239. -
-Dacă lovirile sau rănirile au cauzat o vătămare însemnată sănătăței sau unui membru al corpului victimei, ori dacă au dat naștere vre-unei necapacități de lucru1), culpabilul se va pedepsi cu închisoare dela trei luni până la doui ani și amendă până la 2000 lei1).
-
-Iar dacă se va fi urmat cu precugetare sau cu pândire, minimul pedepsei va fi de șase luni1).
-
-
-1) Art. francez corespunzător, 309, al.I, prevede și <<une maladie>>, apoi adaugă imediat <<ou incapacite de travail>>, <<personelle pendant plus de vingt jours>>.
+Funcționarul public care, în exercițiul funcțiunii sale, profitând de eroarea altuia, primește sau reține dela acesta, pentru sine sau pentru altul, bani sau orice alt folos, comite delictul de profit prin eroare și se pedepsește cu închisoare corecțională dela 6 luni la 2 ani, amendă dela 3.000 la 6.000 lei și interdicție corecțională dela unu la 2 ani.
 
 Art. 240. -
-Dacă, în urmarea loviturilor sau rănilor volontare, pătimașul a rămas sluțit sau în incapacitate pe toată viața de a lucra, sau mut, sau orb, sau surd, sau a pierdut facultatea de a procrea, sau a rămas smintit de minte, ori nebun sau imbecil, culpabilul se va pedepsi cu închisoarea dela doui până la cinci ani și amendă până la 5000 lei2).
-
-Aceeaș pedeapsă se va aplica și când persoana bătută, fiind o femee însărcinată, din cauza bătăiei, a lepădad3).
-
-
-2) Art. francez corespunzător, 309, nu cuprinde acest al doilea aliniat.
-
-3) Art. francez corespunzător, 309, nu cuprinde acest al douilea aliniat. În schimb, el are alte aliniate, cari se referă la alte fapte, cum sunt acele prevăzute de art. 240 și 241 Codul penal român.
+Funcționarul public care, după ce a îndeplinit un act în virtutea funcțiunii sale, și la care era obligat în temeiul acesteia, primește dela cineva, el însuși direct sau prin altă persoană, cu consimțimântul său, bani sau alt folos, comite delictul de remunerație injustă și se pedepsește cu închisoare corecțională dela 3 luni la un an, amendă dela 2.000 la 3.000 lei și interdicție corecțională dela unu la 2 ani.
 
 Art. 241. -
-Dacă rănirile sau loviturile voluntare au cauzat moratea, culpabilul se va pedepsi cu recluziunea.
+Funcționarul public care, în virtutea funcțiunii sale, având supravegherea sau controlul direct al unei întreprinderi sau instituții private, primește sub orice formă vreo însărcinare dela o asemenea întreprindere sau instituție, mai înainte de a se fi îndeplinit trei ani dela data pensionării lui, sau de când a părăsit funcția prin demisie, destituire sau revocare, comite delictul de folos nedrept și se pedepsește cu închisoare corecțională dela unu la 5 ani și amendă dela 5.000 la 15.000 lei.
 
+Conducătorii unor asemenea întreprinderi se socotesc complici la comiterea faptului de mai sus.
+
+SECȚIUNEA III
+Neglijența în funcțiuni
 Art. 242. -
-Dacă rănirile sau loviturile s'au făcut cu precugetare sau cu pândire, de s'a fi urmat moartea, pedeapsa va fi munca silnică pe timp mărginit; iar dacă nu s'a urmat moartea, ci una din leziunile prevăzute prin art. 240, se va pedepsi cu minimul recluziunei.
+Funcționarul public care, prin neglijență, neprevedere sau ușurință în supravegherea sau paza banilor, valorilor, actelor sau oricăror lucruri ce i-au fost încredințate, în virtutea funcțiunii sale, va fi pricinuit sustragerea sau distrugerea lor, comite delictul de neglijență în funcțiune și se pedepsește cu închisoare corecțională dela 3 luni la un an și amendă dela 2.000 la 5.000 lei.
 
+SECȚIUNEA IV
+Refuzul de serviciu datorit, legalmente
 Art. 243. -
-În cazurile prevăzute la art. 238, 239, 240 și 241, dacă culpabilul a comis fapta în contra părinților săi legitimi, naturali sau adoptivi, sau în contra altor ascendenți legitimi, i se va aplica maximul pedepsei prevăzute la fie-care articol, afară de cazul art. 240, unde pedeapsa se va îndoi.
+Funcționarul public care, pe nedrept, refuză, omite sau întârzie îndeplinirea unui act, la care este obligat în viziunea funcțiunii sau serviciului său, comite delictul de refuz de serviciu datorit legalmente și se pedepsește cu închisoare corecțională dela 6 luni la un an și amendă dela 2.000 la 5.000 lei.
 
 Art. 244. -
-Dacă crimele și delictele prevăzute prin această secțiune și prin secțiunea precedentă s'au săvârșit de vre-o adunare turburătoare, cu rebeliune sau cu jefuire, acele crime sau delicte sunt imputabile căpiteniilor, uneltitorilor și invitatorilor acelor adunări, rebeliuni sau jefuiri, cari se vor pedepsi ca culpabili de acele crime ori delicte și se vor osândi cu aceleași pedepse ca și aceai cari le vor fi săvârșit în persoană.
+Funcționarul public care, în afară de cazul prevăzut de art. 217, părăsește funcțiunea, serviciul sau lucrarea, în scop de a prejudicia interesele funcțiunii sau serviciului, comite delictul de părăsire individuală a funcțiunii publice și se pedepsește cu închisoare corecțională dela una la 3 luni.
 
+SECȚIUNEA V
+Abuzul de putere
 Art. 245. -
-Ori-cine va cauza altuia o boală sau o incapacitate de lucru, dând cu voință și cu ori-ce chip substanțe, cari, fără a fi de natură a cauza moartea, sunt vătămătoare sănătăței, se va pedepsi cu închisoare dela o lună până la doui ani și cu amendă dela 100 până la 5000 lei1).
+Funcționarul public care, uzurpând o atribuțiune, sau abuzând de puterea sa legală, sau depășind limitele competinței sale, ori nesocotind sau violând formalitățile prescrise de lege, ori abătându-se în orice alt mod dela îndatoririle inerente funcțiunii sale, săvârșește un act pe care legea nu-l consideră infracțiune, în scopul de a procura cuiva, pe nedrept, vreun folos sau de a-i cauza o păgubire de orice fel, comite delictul de abuz de putere și se pedepsește cu închisoare corecțională dela 6 luni la 2 ani și interdicție corecțională dela unu la 3 ani.
 
-Dacă delictul s'a comis în contra părinților, ast-fel precum sunt specificați la art. 243, pedeapsa va fi dela doui până la trei ani închisoare.
+Aceeași pedeapsă se aplică și atunci când faptul se săvârșește în scopul de a constrânge pe nedrept o persoană, să facă, să omită sau să sufere ceva.
 
-
-1) A se vedea nota 2 dela art. 1 și art. 399, al. II Codul penal.
+Tentativa se pedepsește.
 
 Art. 246. -
-Ori-care, prin lucruri de mâncare, băuturi, doctorii violente2), sau prin ori-ce alt mijloc, va face, cu știință, pe femeea însărcinată să lepede, ori cu voia ei sau nu, se va pedepsi cu minimul recluziunei.
-
-Femeia care, de sine-și, va fi făcut vre-un mijloc ca să lepede, sau va fi primit să întrebuințeze mijloacele de lepedare ce i se vor fi arătat ori i se vor fi dat spre acest sfârșit, se va pedepsi cu închisoare dela șase luni până la doui ani, de va fi rezultat lepădarea pruncului.
-
-Medicii, chirurgii, ofițerii de sănătate, spițerii și moașele cari vor arăta, sau vor da sau înlesni aceste mijloace, se vor pedepsi cu recluziunea, dacă lepădarea va avea loc.
-
-Dacă din lepădare se va fi cauzat moartea mamei, pedeapsa se va aplica cu un grad mai sus.
-
-
-2) În textul francez corespunzător se zice: <<doctorii, violențe>>. Credem a fi o eroare de copist.
+Funcționarul public care, fără just motiv, face uz de forța armată, întru cât acest fapt nu ar constitui o infracțiune mai gravă, sau în urma lui nu s'ar fi produs vreo infracțiune mai gravă, comite delictul de abuz de autoritate și se pedepsește cu închisoare corecțională dela unu la 3 ani și interdicție corecțională dela unu la 3 ani.
 
 Art. 247. -
-Ori-cine va vinde băuturi prefăcute și amestecate cu materii vătămătore sănătăței, se va pedepsi cu închisoare dela 15 zile până la două luni și cu amendă dela 26 până la 500 lei1), iar prefăcutele băuturi, ce se vor dovedi a fi ale vânzătorilor, se vor confisca.
+Funcționarul public care, aparținând unei anumite puteri în stat, face, pe nedrept, acte ce intră în atribuțiile altei puteri, sau prin orice mijloace împiedecă, zădărnicește sau îngreunează exercițiul funcțiunilor acesteia, comite delictul de exces de putere și se pedepsește cu închisoare corecțională dela 6 luni la 2 ani și interdicție corecțională dela unu la 2 ani.
 
-Amenda se va pronunța în favorea doveditorului.
-
-
-1) A se vedea nota 2 dela art. 1 și art. 399, al. II Codul penal.
-
-III. Omucidere, răniri și loviri fără voie. Crime și delicte
-scuzabile și cazuri în cari nu pot fi scuzate. Omucidere,
-răniri și loviri cari nu sunt nici crime, nici delicte
-
-§.1. Omucidere, răniri și lovituri fără voie
 Art. 248. -
-Ori-care, din nedibăcie, din nesocotință, din nebăgare de seamă, din neîngrijire sau din nepăzirea regulamentelor, va săvârși omur fără voie, ori va fi cauza involuntară de a se săvârși omorul, se va pedepsi cu închisoarea dela trei luni până la un an și jumătate și cu amendă dela 50 până la 1000 lei1).
+Funcționarul public care, în exercițiul funcțiunii sale, adresează vreunei persoane injurii sau întrebuințează față de ea violență, întru cât faptul nu constitue o infracțiune mai gravă, comite delictul de purtare abuzivă și se pedepsește cu închisoare corecțională dela una la 3 luni.
 
-
-1) În art. francez corespunzător, 324, lipsesc cuvintele: <<sau de către soție asupra soțului său sau a complicei sale>>. Art. francez 324 face trimitere și la art. 336, și acesta la art. 399. Art. 336 francez trebuie pus în legătură cu art. 270 Codul penal român.
-
+SECȚIUNEA VI
+Dispozițiuni comune
 Art. 249. -
-Dacă din una din cauzele precedente vor fi rezultat numai răniri ori lovituri, închisoarea va fi dela 15 zile până la doui luni și amendă dela 26 până la 500 lei1).
+În afară de cazurile în care legea stabilește pedepse speciale pentru crimele ori delictele săvârșite de funcționari publici, aceia care au participat la crime sau delicte pe care, în virtutea funcțiunii lor erau datori a le preveni, împiedeca, descoperi sau urmări, se pedepsesc conform prevederilor legii pentru acele infracțiuni, putându-se adăuga la pedeapsă un spor până la 5 ani în caz de crimă și până la 3 ani în caz de delict, fără a se putea depăși maximum general al pedepsei.
 
-
-1) În art. francez corespunzător, 324, lipsesc cuvintele: <<sau de către soție asupra soțului său sau a complicei sale>>. Art. francez 324 face trimitere și la art. 336, și acesta la art. 399. Art. 336 francez trebuie pus în legătură cu art. 270 Codul penal român.
-
-§.2. Crime și delicte scuzabile și cazuri când nu pot fi scuzate
+CAPITOLUL II
+Delicte săvârșite de funcționari sau particulari
+SECȚIUNEA I
+Darea și luarea de mită
 Art. 250. -
-Omorul, rănirile și loviturile sunt scuzate, dacă au fost provocate prin loviri sau violențe mari urmate asupra unei persoane.
+Acela care dă, oferă sau promite unui funcționar public, fie direct, fie indirect, bani sau orice alt profit, ce după lege nu i se cuvine, pentru a-l determina să îndeplinească, să nu îndeplinească, sau să întârzie îndeplinirea unui act privitor la funcțiunea sa, ori să facă un act contrar îndatoririlor funcțiunii sale, comite delictul de mituire și se pedepsește cu închisoare corecțională dela 6 luni la 3 ani și amendă dela 5.000 la 10.000 lei.
+
+Dacă faptul se săvârșește față de o persoană care deține un mandat electiv ori față de un judecător, jurat sau funcționar public însărcinat cu predarea, recepția sau supravegherea unor furnituri sau lucrări publice, ori cu stabilirea sau încasarea impozitelor, pedeapsa este închisoarea corecțională dela unu la 5 ani și amenda dela 5.000 la 15.000 lei.
+
+Dacă propunerea de mituire n'a fost acceptată, mituitorul se pedepsește cu închisoare corecțională dela 2 la 6 luni.
+
+Nu se socotește mituire faptul comis în condițiile art. 238.
+
+Nu se pedepsește pentru mituire persoana care a dat mită, dacă i-a fost pretinsă și dacă prin refuzul ei ar fi suferit o pagubă inevitabilă și importantă în raport cu situația sa materială.
 
 Art. 251. -
-Crimele și delictele menționate în acel din urmă articol, sunt asemenea scuzabile, dacă se vor fi comis respingând ziua escaladarea sau efracțiunea îngrădirilor, a zidurilor ori a intrărilor unei case locuite, sau a unui apartament locuit, ori a dependințelor acestora.
+Funcționarul public care, în scopul, arătat în articolul precedent, pretinde sau primește, fie direct, fie indirect, bani sau orice alt folos ce nu i se cuvine, ori acceptă o astfel de promisiune sau nu o respinge, comite delictul de luare de mită și se pedepsește cu închisoare corecțională dela unu la 5 ani, amendă dela 5.000 la 15.000 lei și interdicție corecțională dela unu la 5 ani.
 
-Dacă faptul s'a urmat noaptea, acest caz este regulat de art. 257.
+Pedeapsa este închisoarea corecțională dela 2 la 5 ani, amenda dela 5.000 la 15.000 lei și interdicția corecțională dela unu la 5 ani, dacă faptul se comite de către o persoană care deține un mandat electiv, de un judecător, jurat sau funcționar public însărcinat cu predarea, recepția sau supravegherea unor furnituri sau lucrări publice, ori stabilirea sau încasarea impozitelor.
 
+Delictul luării de mită se pedepsește, în cazul prevăzut în alin. 1, cu închisoare corecțională dela 2 la 5 ani, amendă dela 5.000 la 15.000 lei și interdicție corecțională dela 2 la 5 ani, iar în cazul prevăzut în alin. 2, cu închisoare corecțională dela 3 la 8 ani, amendă dela 5.000 la 15.000 lei și interdicție corecțională dela 3 la 6 ani, dacă cel mituit a săvârșit, din această cauză, un act nedrept sau ilegal.
+Jurisprudență (2)
+
+În toate cazurile de dare și luare de mită, banii sau darurile ori valoarea lor se iau în folosul fondului amenzilor.
+
+SECȚIUNEA II
+Traficul de influență
 Art. 252. -
-Paricidul nu este niciodată scuzabil.
+Acela care, prevalându-se de trecerea sau influența reală sau presupusă ce ar avea pe lângă un funcționar public, primește direct sau indirect sau face să i se promită lui sau altuia vreun dar, folos sau remunerație, pentru intervenția sa pe lângă acel funcționar, ca să facă sau să nu facă vreun act ce intră în cadrul atribuțiilor sale, comite delictul de trafic de influență și se pedepsește cu închisoare corecțională dela 6 luni la 2 ani, amendă dela 2.000 la 10.000 lei și interdicția corecțională dela unu la 3 ani.
 
+Dacă culpabilul primește direct sau indirect, sau face să se dea sau să se promită, lui sau altuia, vreun dar, folos sau remunerație, sub pretext că trebue să cumpere favoarea vreunui funcționar public, pedeapsa este închisoarea corecțională dela unu la 3 ani, amenda dela 2.000 la 10.000 lei și interdicția corecțională dela unu la 3 ani.
+
+Lucrurile primite sau valoarea lor se iau în folosul fondului amenzilor.
+
+SECȚIUNEA III
+Ultrajul
 Art. 253. -
-Omorul săvârșit de către bărbat asupra femeei sale, sau de către acesta asupra bărbatului său, nu este scuzabil, dacă viața soțului sau a soției care a comis omorul nu a fost pusă în pericol chiar în momentul când s'a comis omorul. În caz însă de adulter, omorul comis de către soț asupra soției sale sau asupra complicelui, sau de către soție asupra soțului său sau asupra complicei, în momentul surprinderei în flagrant delict în casa conjugală, este scuzabil1).
+Acela care, prin cuvinte, gesturi sau acte, aduce atingere onoarei sau prestigiului unui funcționar public, în timpul exercițiului funcțiunii sau pentru fapte îndeplinite în exercițiul funcțiunii, în prezența acestuia ori prin mijloace de comunicare directă, comite delictul de ultraj contra funcționarului public și se pedepsește cu închisoare corecțională dela una la 6 luni și amendă dela 2.000 la 3.000 lei.
 
+Dacă ultrajul se comite în ședință publică, contra unui judecător, reprezentant al Ministerului Public, sau jurat, pedeapsa este închisoarea corecțională dela 6 luni la un an și amenda dela 2.000 la 5.000 lei.
 
-1) În art. francez corespunzător, 324, lipsesc cuvintele: <<sau de către soție asupra soțului său sau a complicei sale>>. Art. francez 324 face trimitere și la art. 336, și acesta la art. 399. Art. 336 francez trebuie pus în legătură cu art. 270 Codul penal român.
-
-Art. 254. -
-Când fapta scuzei va fi dovedită, la caz de veri-o crimă care trage după sine pedeapsa muncei silnice pe toată viața sau pe timp mărginit sau recluziunea, pedeapsa se va reduce la închisoare dela șase luni până la doui ani.
-
-Iar la caz de ori-ce alte crime, pedeapsa va fi închisoarea dela trei luni până la un an.
-
-La caz de un delict, pedeapsa se va reduce la închisoarea dela 15 zile până la șase luni.
-
-§.3. Omucidere, răniri și loviri
-cari nu sunt calificate nici crime, nici delicte
+Art. 254. - Jurisprudență (1)
+Acela care săvârșește faptul prevăzut în art. 253, contra unei adunări legiuitoare, unei comisiuni sau unui membru al acestei adunări ori contra unui corp administrativ sau judiciar, ori contra unei autorități, în prezența acestora și în exercițiul funcțiunii lor, comite delictul de ultraj contra autorității publice și se pedepsește cu închisoare corecțională dela 6 luni la un an și amendă dela 2.000 la 5.000 lei.
 
 Art. 255. -
-Nu se socotește nici crimă, nici delict, când omuciderea, rănirile și loviturile era ordonate de lege și comandate de autoritatea legitimă.
+Dacă faptul prevăzut de art. 253 și 254 este săvârșit prin acte de violență sau amenințări grave, constitue delictul de ultraj cu violență și se pedepsește cu închisoare corecțională dela 6 luni la 2 ani și interdicție corecțională dela unu la 2 ani, iar dacă s'au cauzat vătămări grave ale sănătății sau integrității corporale, cu închisoare corecțională dela, unu la 4 ani și interdicție corecțională dela unu la 4 ani.
 
+Dacă s'au cauzat infirmități sau moartea, se aplică pedepsele prevăzute pentru acele infracțiuni, sporite cu 1/4, fără a se putea depăși maximum general al pedepsei.
+
+În cazul când faptele arătate mai sus se săvârsesc cu ocazia unei adunări publice sau unei manifestațiuni ori procesiuni pe străzi, pedeapsa este aceea prevăzută de lege pentru aceste fapte, după distincțiunile din alineatele precedente, sporită cu 1/4, fără a se putea însă depăși maximum general al pedepsei.
+
+SECȚIUNEA IV
+Alte infracțiuni comite de funcționari sau particulari
 Art. 256. -
-Nu este nici crimă, nici delict, când cel ce a săvârșit omuciderea, rănirile și loviturile, a fost silit la acesta prin necesitatea actuală a unei legitime apărări, conform art. 58.
+Funcționarul public care, după ce a fost suspendat, destituit, înlocuit sau pus în retragere, continuă să exercite funcțiunea, comite delictul de exercițiu abuziv de funcțiune și se pedepsește cu închisoare corecțională dela 6 luni la 2 ani și interdicție corecțională dela unu la 2 ani.
+
+Sunt pasibili de aceeași pedeapsă preoții caterisiți și călugării plecați sau excluși din mănăstiri, precum și membrii clerului hirotoniți de episcopi, ce nu au jurisdicție pe teritoriul Țării și nerecunoscuți de episcopii locului, dacă îndeplinesc funcțiuni bisericești sau continuă a purta hainele bisericești sau călugărești.
 
 Art. 257. -
-Sunt cuprinse în cazurile de necesitate actuale de legitimă apărare și următoarele trei cazuri:
+Acela care-și asumă o putere sau funcțiune publică pe care nu o are, sau atribuțiuziile inerente unei astfel de puteri sau funcțiuni și îndeplinește acte ce intră în exercițiul acestora, comite delictul de uzurpare de funcțiune și se pedepsește cu închisoare corecțională dela unu la 3 ani și interdicție corecțională dela unu la 3 ani.
 
-1. Dacă omuciderea, rănirile sau loviturile s'au săvârșit respingându-se noaptea escaladarea sau efracțiunea îngrădirilor, zidurilor sau intrărilor unei case locuite sau a unui apartament locuit sau a dependințelor acestora;
-
-2. Dacă fapta s'a săvârșit aperându-se cine-va în contra autorilor de furtișaguri sau de jefuire, executate cu violență;
-
-3. Dacă omuciderea, rănirile sau loviturile comise de o femee vor fi fost provocate imediat de o siluire exercitată asupra persoanei sale1).
-
-
-1) Art. francez corespunzător, 329, nu cuprinde acest al treilea aliniat.
-
-IV. Despre duel2)
-
-
-2) În materia duelului, legiuitorul român, pe lângă Codul prusian dela 1851, a avut în vedere și legea belgiană asupra duelului, din 8 Ianuarie 1841.
-
+CAPITOLUL III
+Crime și delicte comise de particulari
+SECȚIUNEA I
+Rebeliunea
 Art. 258. -
-Acela care într'un duel, servindu-se cu arme, nu a ocazionat nici un omor, nici răniri, se va pedepsi cu închisoare dela 15 zile până la șase luni și cu amendă dela 200 până la 1000 lei3).
-
-
-3) A se vedea și nota 2 dela art. 1 și 399, al. II Codul penal.
+Acela care săvârșește acte de violență sau întrebuințează amenințări grave față de o Adunare Legiuitoare, de o comisiune a acesteia, sau de un reprezentant al lor, în scopul de a împiedeca, în orice mod, exercițiul liber al mandatului sau funcțiunii lor, sau de a-i constrânge ca să ia sau să nu ia o hotărîre sau dispozițiune, comite crima de rebeliune contra Adunării Legiuitoare și se pedepsește cu detențiune riguroasă dela 3 la 5 ani și degradare civică dela unu la 3 ani.
 
 Art. 259. -
-Când dintr'un duel ar fi rezultat moarte sau răniri, pedeapsa luptătorilor va fi închisoare dela 15 zile până la patru ani.
+Dacă faptul prevăzut în articolul precedent se săvârșește față de guvern, de un corp administrativ sau judiciar, sau de o autoritate publică, constituie delictul de rebeliune contra autorității și se pedepsește cu închisoare corecțională dela 2 la 5 ani și interdicție corecțională dela unu la 2 ani.
 
 Art. 260. -
-Dacă luptătorii se vor bate în duel fără secondanți ori martori, sau dacă regulile hotărâte de martori ori secondanți nu se vor fi observat, și dacă din acest duel a rezultat mortea sau rănirea unuia, culpabilul se va pedepsi după dispozițiunile generale cuprinse în această lege asupra omorului sau alte răniri corporale.
+Când faptele prevăzute în art. 258 și 259 se săvârșesc de o ceată, pedeapsa pentru membrii cetei este aceea prevăzută în aceste articole, iar pentru instigatori și conducători în cazul art. 258 detențiunea riguroasă dela 4 la 6 ani și degradațiunea civică dela unu la 3 ani, iar în cazul art. 259 închisoarea corecțională dela 3 la 6 ani și interdicția corecțională dela unu la 2 ani.
 
 Art. 261. -
-Când un militar se va bate în duel cu un individ care nu este militar, se va supune la jurisdicțiunea ordinară a tribunalelor civile.
-
-V. Atentate în contra bunelor moravuri
+Când faptul prevăzut de art. 258, se săvârșește în contra unui funcționar public, în exercițiul funcțiunii, întru cât nu este o infracțiune mai gravă, constitue delictul de rebeliune contra funcțiunii publice și se pedepsește cu închisoare corecțională dela 6 luni la 2 ani.
 
 Art. 262. -
-(Mod. L. 4 Maiu 1895). Ori-cine va comite un ultraj public în contra pudorei se va pedepsi cu închisoare dela trei luni până la un an și cu amendă dela 26 până la 100 lei.
+Dacă prin faptele prevăzute în această secțiune s'au cauzat infirmități, pedeapsa se sporește cu un plus până la 2 ani, iar dacă s'a cauzat moartea, cu un plus până la 4 ani, fără a se putea depăși însă maximum general al pedepsei.
 
-Cu aceeaș pedeapsă se va pedepsi ori-cine va comite sau va ajuta să se comită un ultraj contra moralei publice sau religioase, sau contra bunelor moravuri, prin unul din mijloacele enumărate la art. 294 din acest cod.
-
+SECȚIUNEA II
+Ruperea de sigilii și sustragerea de sub sechestru
 Art. 263. -
-Ori-ce atentat în contra pudorei, îndeplinit sau cercat, fără violență asupra persoanei unui copil, de sex bărbătesc sau femeesc, de vârstă mai mică de 14 ani, se va pedepsi cu închisoare dela doui până la trei ani.
+Acela care înlătură sau distruge sigiliile legal aplicate, comite delictul de rupere de sigilii și se pedepsește cu închisoare corecțională dela 2 luni la un an și amendă dela 2.000 la 4.000 lei.
+
+Aceeași pedeapsă se aplică și custodelui, atunci când ruperea sigiliilor s'a săvârșit din culpa sa.
+
+Dacă faptul este săvârșit chiar de însuși custodele, pedeapsa este închisoarea corecțională dela 6 luni la 2 ani, amenda dela 2.000 la 4.000 lei și interdicția corecțională dela unu la 3 ani.
 
 Art. 264. -
-Ori-cine va comite un atentat în contra pudoarei, îndeplinit sau cercat, cu violență, în contra unui individ de sex bărbătesc sau femeesc, se va pedepsi cu maximul închisorei.
-
-Dacă crima s'a comis în contra persoanei unui copil mai mic de 15 ani împliniți, culpabilul se va pedepsi cu maximul recluziunei.
+Acela care sustrage, în totul sau în parte, bunuri legal sechestrate, comite delictul de sustragere a bunurilor sechestrate și se pedepsește cu închisoare corecțională dela 6 luni la un an și amendă dela 2.000 la 4.000 lei.
 
 Art. 265. -
-Dacă culpabilii sunt ascendenții persoanei asupra căreia s'a comis siluirea, sau dacă sunt dintr'acei cari au o autoritate asupră-i, dacă sunt institutorii sau servitorii săi, sau ai persoanelor mai sus însemnate, dacă acești culpabili sunt funcționari ai unui cult, sau preoți ori călugări, sau dacă culpabilul, ori-care ar fi, a fost ajutat în crima sa de către una sau mai multe persoane, pedeapsa va fi pentru cazul prevăzut de art. 263 și 264, maximul recluziunei.
+Acela care sustrage, în totul sau în parte, bunuri legal sechestrate cu aplicare de sigilii, comite delictul de sustragere de sub sigilii și se pedepsește cu închisoare corecțională dela 6 luni la 2 ani și amendă dela 2.000 la 5.000 lei.
 
-Când siluirea se va fi comis de către persoanele menționate în acest articol asupra unui copil, de sex bărbătesc sau femeesc, în vârstă mai mic de 15 ani, pedeapsa va fi maximul muncei silnice pe timp mărginit1).
+Dacă acest fapt s'a săvârșit prin vreunul din modurile arătate în art. 263, pedeapsa este închisoarea corecțională dela unu la 2 ani și amenda dela 2.000 la 6.000 lei.
 
+Dacă faptele prevăzute în alineatele precedente le săvârșește custodele sechestrului, sau proprietarul căruia i-au fost lăsate în păstrare bunurile sechestrate, ori, cu știrea acestora, o altă persoană, pedeapsa este închisoarea corecțională dela unu la 3 ani și amenda dela 2.000 la 8.000 lei.
 
-1) Art. francez corespunzător, 333, nu cuprinde acest al douilea aliniat.
-
+SECȚIUNEA III
+Alte infracțiuni comise de particulari
 Art. 266. -
-Dacă din crimele prevăzute la art. 263, 264 și 265 va rezulta moartea, culpabilul se va pedepsi cu munca silnică pe viață.
+Acela care, prin orice mijloace, împiedică sau turbură libera concurență în licitațiile care se fac de autoritățile publice sau înlătură pe concurenți dela acestea, comite delictul de împiedecare a concurenții în licitații publice și se pedepsește cu închisoare corecțională dela 2 luni la un an și amendă dela 2.000 la 10.000 lei.
 
-Art. 267. -
-Ori-cine va fi atentat la bunele moravuri ațâțând, favorizând sau înlesnind obișnuit desfrânarea sau corupțiunea tinerilor de ambe-sexe, mai mici de 21 ani, se va pedepsi cu închisoare dela șase luni până la doui ani și cu amendă dela 100 până la 3000 lei2).
+Dacă acest fapt este săvârșit de mai multe persoane înțelese în acest scop, pedeapsa este închisoarea corecțională dela 6 luni la 2 ani și amenda dela 2.000 la 10.000 lei.
 
-Dacă îndemnătorii, ajutătorii sau înlesnitorii desfrânărei au fost tatăl sau mama, epitropii sau alte persoane însărcinate cu privigherea lor, pedeapsa va fi închisoarea dela un an până la doui ani și amendă dela 100 până la 1000 lei2).
+Pedeapsa din alin. 1 se aplică și ofertantului sau concurentului care cere sau primește, direct sau indirect, bani, promisiuni sau orice alt profit și apoi, datorită acestei cauze, se abține de a participa la vânzare sau licitație, ori își retrage oferta.
 
+Art. 267. - Jurisprudență (1)
+Acela care intră sau iese din țară, prin alte locuri decât cele destinate trecerii călătorilor, sau chiar prin acestea, dar în ascuns, comite delictul de trecere frauduloasă a frontierii și se pedepsește cu închisoare corecțională dela 2 la 6 luni și amendă dela 2.000 la 5.000 lei.
 
-2) A se vedea și nota 2 dela art. 1 și 399, al. II Codul penal.
+Aceeași pedeapsă se aplică și aceluia care a înlesnit trecerea frontierii în condițiunile de mai sus.
 
 Art. 268. -
-Cei căzuți în delictul menționat în cel din urmă articol, se vor mai condamna și la interdicțiunea dreptului de a fi tutori, curatori și părtași la consiliele de familie, dela un an până la doui ani, pentru indivizii cărora se aplică întâiul paragraf al acelui articol; dela doui ani până la patru ani, pentru cei de cari se vorbește în paragraful al doilea al aceluiaș articol.
+Expulzatul care, fără autorizație, reintră în țară, comite delictul de trecere neautorizată a frontierii și se pedepsește cu închisoare corecțională dela unu la 2 ani.
 
-Dacă delictul s'a comis de către tată sau mamă, culpabilul va fi încă lipsit de drepturile ce i se acordă de codicele civile asupra persoanei copilului, în virtutea puterei sale părintești1).
+După executarea pedepsei infractorul va fi din nou expulzat.
 
-
-1) Art. francez corespunzător, 335, se exprimă astfel: <<des droits et avantages a lui accordes sur la personne et les biens de l'enfant>>.
-
+TITLUL IV
+Delicte contra administrațiunii justiției
+CAPITOLUL I
+Delicte contra activității judiciare
+SECȚIUNEA I
+Denunțarea calomnioasă
 Art. 269. -
-Acel culpabile de adulter (preacurvie), precum și complicele său, se vor pedepsi cu închisoarea dela o lună până la șase luni.
+Acela care printr'o plângere scrisă adresată unei autorități acuză pe altul de săvârșirea unei crime sau delict, știind că denunțarea sa este mincinoasă, ori cu știință inventează sau produce contra lui probe mincinoase, comite delictul de denunțare calomnioasă și se pedepsește cu închisoare corecțională dela unu la 3 ani, amendă dela 2.000 la 5.000 lei și interdicție corecțională dela unu la 3 ani.
+
+Dacă denunțarea se referă la o contravenție sau la infracțiune disciplinară, pedeapsa este închisoarea corecțională dela 3 luni la un an și amenda dela 2.000 la 3.000 lei.
+
+Când cel acuzat pe nedrept a fost condamnat, din această cauză, se aplică pedeapsa pentru mărturie mincinoasă.
 
 Art. 270. -
-Acțiunea de adulter nu sa va putea intenta dacă soțul inocint nu va cere-o formal2).
-
-Soțul inocint poate cere și dobândi ori-când, în cursul procesului, stingerea acțiunii publice, precum și după darea sentinței definitive, încetarea pedepsei, dacă va consimți a rămânea în căsătorie. În cazul acesta din urmă, complicele osândit nu poate fi apărat de penalitate.
-
-
-2) A se vedea nota dela art. 253 Codul penal de mai sus.
+Acțiunea penală, pentru delictul din art. 269, se pune în mișcare numai la plângerea prealabilă a părții vătămate, iar în cazul când acuzarea a fost constatată mincinoasă prin hotărîre judecătorească definitivă, acțiunea penală în contra denunțătorului se pune în mișcare din oficiu.
 
 Art. 271. -
-Se va pedepsi cu maximul închisorii persoana aceea care, fiind căsătorită, se căsătorește din nou, mai înaintea desfacerei căsătoriei celei precedențe, dacă acea căsătorie va fi fost valabilă.
+Acela care, având cunoștință despre fapte sau probe, prin care s'ar dovedi inocența unei persoane aflate în arest preventiv sau condamnate pe nedrept și nu le comunică acesteia sau autorității în drept, deși ar putea-o face, fără vreun prejudiciu pentru sine, pentru rudele sale sau pentru altă persoană nevinovată, comite delictul de nedenunțare culpabilă, și se pedepsește cu închisoare corecțională dela 3 luni la un an și amendă dela 2.000 la 5.000 lei.
 
-Asemenea se va pedepsi și acela care, nefiind căsătorit, se căsătorește din nou cu o persoană căsătorită și pe care o știa că era căsătorită.
-
-Această pedeapsă se va aplica și preotului sau ofițerului Statului civil care, cunoscând că o persoană este căsătorită, își dă concursul ministerului său la o nouă căsătorie aceleiași persoane3).
-
-
-3) Art. francez corespunzător, 340, nu cuprinde cel de al douilea alin., iar în aliniatul 2 (al treilea român) vorbește numai de <<Officier public>>, fără a numi special și pe preot, cum face art. 271 român. Art. prusian corespunzător, 139, lămurește că: <<prescripția bigamiei începe din momentul în care una din cele două căsătorii a fost desfăcută sau declarată nulă sau nevalabilă.
-
-VI. Arestațiuni ilegale, sechestrațiuni de persoane și
-alte atentate la libertatea individuală
-
+SECȚIUNEA II
+Deținerea și arestarea ilegală
 Art. 272. -
-Se va pedepsi cu doui ani închisoare, ori-cine, fără ordinea autorităței competente și afară de cazurile unde legea ordonă sau permite anume arestarea unei persoane, va fi arestat, va fi deținut sau va fi sechestrat pe o persoană, pentru un motiv oare-care și fără scop de a comite un delict special4).
-
-Se va pedepsi cu aceeaș pedeapsă și acela care va fi dat locuință spre a se executa arestarea, închiderea sau sechestrarea persoanei.
-
-
-4) Art. francez corespunzător, 341, nu cuprinde ultimele cuvinte din primul aliniat: <<pentru un motiv oare-care și fără scop de a comite un delict special>>.
+Funcționarul care, în vreunul din modurile prevăzute în art. 245, arestează, deține ori reține pe cineva, sau ordonă să se facă acestea, comite delictul de arestare ilegală și se pedepsește cu închisoare corecțională dela unu la 3 ani și interdicție corecțională dela unu la 3 ani.
 
 Art. 273. -
-Culpabilul de infracțiunea prevăzută în articolul precedent se va pedepsi cu recluziunea:
-
-1. Dacă din faptul chiar al arestărei victimei, sau al tratamentului la care a fost supusă în timpul sechestrărei sale, a rezultat o leziune corporală gravă sau dacă va fost supusă la vre-o tortură;
-
-2. Dacă sechestrarea a ținut mai mult de o lună;
-
-3. Dacă crima s'a comis asupra unui ascendent legitim sau natural;
-
-4. Dacă arestarea sau sechestrarea s'a executat cu port schimbat, cu nume minciunos, sau cu vre-un ordin ori mandat plăsmuit al autorităței publice, și
-
-5. Dacă individul arestat sau sechestrat a fost amenințat cu moartea.
+Funcționarul public care, având atribuția de a supraveghea exercitarea pedepselor privative de libertate sau a arestării preventive, abuzează de acest drept și reține pe condamnat sau arestat, după expirarea termenului legal, precum și funcționarul public care arestează, deține sau reține pe cineva, sau ordonă să se facă acestea, în alte localuri decât cele determinate prin lege sau regulament, comite delictul de executare ilegală a arestării și se pedepsește cu închisoare corecțională dela unu la 3 ani și interdicție corecțională dela unu la 3 ani.
 
 Art. 274. -
-Pedeapsa se va scădea la închisoare dela o lună la un an, dacă cei culpabili de delictele menționate la art. 272, până a nu se porni pâră asupră-le, vor fi liberat pe persoana arestată, închisă sau sechestrată, înaintea împlinirei zilei celei de a zecelea, socotite din ziua arestărei, a închisorei sau a sechestrărei.
+Delictele prevăzute în art. 272 și 273 se pedepsesc cu închisoare corecțională dela 2 la 5 ani și interdicție corecțională dela 2 la 5 ani, dacă:
 
-VII. Crime și delicte privitoare la poprirea sau distrugerea dovedirei
-Statului civil al unui copil, sau la compromiterea existenței sale;
-răpire de minori; infracțiuni contra legilor asupra înmormântărilor
+1. din faptul săvârșit a rezultat o vătămare a sănătății sau integrității corporale pentru victimă sau dacă a fost supusă la violență sau tortură, când aceasta nu constituie o infracțiune mai gravă;
 
-§.1. Crime și delicte în contra unui copil
+2. arestarea a ținut mai mult de o lună.
+
 Art. 275. -
-Culpabilii de răpire, de tăinuire, de supresiune a unui copil, de substituțiunea unui copil în locul altuia, sau aceia cari vor face să treacă un copil, ca născut dintr'o femee care însă nu l-a născut, se vor pedepsi cu recluziunea1).
-
-Această pedeapsă se va aplica și acelor cari, fiind însărcinați cu ținerea unui copil nu-l vor înfățișa persoanelor care au dreptul de a-l reclama.
-
-
-1) Art. francez corespunzător, 345, are patru aliniate, din care legiuitorul român n'a tradus decât pe întâiul și al patrulea. Aliniatele franceze intermediare, 2 și 3, fac următoarea distincție:
-
-<<1. S'il n'est pas etabli que l'enfant ait vecu, la peine sera d'un mois a cinq ans d'emprisonnement>>.
-
-<<2. S'il est etabli que l'enfant n'a pas vecu, la peine sera de six jours a deux mois d'emprisonnement>>.
+Funcționarul public care, luând cunoștință, în orice mod, despre vreo arestare, reținere sau deținere ilegală, nu face cercetările necesare și nu ia dispozițiuni legale în termen de 48 ore, deși aceasta era o datorie inerentă funcțiunii sale, comite delict de tolerarea arestării ilegale și se pedepsește cu închisoare corecțională dela unu la 3 ani.
 
 Art. 276. -
-Ori-ce persoană care, asistând la o naștere de copil, nu va fi făcut declarațiunea prescrisă de codicele civile, în timpul cerut de acea lege, se va pedepsi cu închisoare dela 15 zile la șase luni și cu amendă dela 26 la 300 lei1).
+Funcționarii penitenciarelor sau institutelor destinate executării pedepselor sau măsurilor de siguranță, care primesc și internează o persoană în penitenciar sau institut, fără mandat sau ordin legal al autorității competente, comit delictul de internare ilegală și se pedepsesc cu închisoare corecțională dela 2 luni la un an.
 
-Asemenea se va pedepsi și ori-care persoană, care, găsind un prunc de curând născut, nu-l va da celor însărcinați cu a lui luare și căpătuire2).
+SECȚIUNEA III
+Mărturia mincinoasă și jurământul fals
+Art. 277. - Reviste (1)
+Acela care, în materie criminală sau corecțională, depunând ca martor sub jurământ înaintea unei instanțe sau referindu-se la un jurământ anterior prestat, face afirmațiuni mincinoase sau nu spune tot ce știe privitor la împrejurări esențiale pentru judecată, asupra cărora este întrebat, în mod special, comite delictul de mărturie mincinoasă și se pedepsește cu închisoare corecțională dela unu la 3 ani și interdicție corecțională dela unu la 4 ani.
 
-Nu va fi supus la pedeapsă acela care, găsind vr'un copil, va voi să se însărcineze cu creșterea lui; va fi însă dator să dea asemenea înscris la institutul orfanilor sau la municipalitatea locală.
-
-
-1) A se vedea nota 2 dela art. 1 și art. 399, al. II Codul penal.
-
-2) Art francez corespunzător, 347, explică de a se da copilul ofițerului de stare civilă, conform art. 58 Codul civil francez (art. 44 Codul civil român).
-
-Art. 277. -
-Cei cari vor lăpăda într'un loc singuratic, un copil mai mic de 7 ani deplini, precum și cei ce vor ordona a se lepăda copilul, dacă însă ordinul se va fi îndeplinit, se vor pedepsi numai pentru acest fapt, cu închisoarea dela șase luni până la doi ani, și cu amendă dela 26 lei până la 300 lei1). Iar de se va fi lăpădat copilul de către părinții, tutorii sau îngrijitorii săi, ori din ordinul lor, atunci pedeapsa va fi închisoarea dela un an în sus și amendă dela 50 la 500 lei1).
-
-
-1) A se vedea nota 2 dela art. 1 și art. 399, al. II Codul penal.
+Dacă din acest fapt rezultă o condamnare la, o pedeapsă privativă de libertate mai mare de 5 ani, pedeapsa este închisoarea corecțională dela 2 la 5 ani și interdicția corecțională dela 2 la 5 ani, iar dacă rezultă o condamnare la o pedeapsă mai mare de 10 ani, pedeapsa este închisoarea corecțională dela 3 la 10 ani și interdicția corecțională dela 3 la 6 ani.
 
 Art. 278. -
-De se va fi schilodit ori se va fi betejit copilul din cauza lăpădărei, fapta se va privi ca o rănire desăvârșită3) cu voința celui ce l-a lăpădat; iar de se va întâmpla moartea copilului, fapta se va privi ca omor. În cel dintâi caz, culpabilul se va supune la pedeapsa hotărâtă pentru rănire cu voință, și în cel de al doilea, la cea hotărâtă pentru omor.
+Dacă faptul prevăzut în alin. 1 al art. 277, se săvârșește în materie disciplinară sau de contravenție, ori într'un proces civil, pedeapsa este închisoarea corecțională dela 3 luni la un an și interdicția corecțională dela unu la 3 ani.
 
+Art. 279. - Reviste (1)
+Dispozițiunile prevăzute în art. 277 și 278 se aplică și expertului, traducătorului și interpretului. Informatorului i se aplică aceeași pedeapsă redusă la jumătate.
 
-3) Legiuitorul a voit să zică: <<săvârșită>>, sensul frazeifiind acesta.
-
-Art. 279. -
-Aceia cari vor lepăda, în loc care nu e singuratic, copil mai mic de 7 ani deplini, se vor pedepsi cu închisoare dela o lună până la șase luni și cu amendă dela 26 până la 100 lei1). i`nda`co
-
-Iar de se va fi lepădat copilul de către părinții săi, de către tutorii ori îngrijitorii săi, pedeapsa va fi închisoarea dela două luni până la un an și amendă dela 50 până la 200 lei1).
-
-
-1) A se vedea nota 2 dela art. 1 și art. 399, al. II Codul penal.
-
-§.2. Răpire de minori
-Art. 280. -
-Ori-care, prin viclenie sau violență, va răpi sau va face a se răpi minori, sau va îndupleca, ori va ascunde, sau va strămuta, sau va face a se ascunde sau a se strămuta din locul unde erau așezați de către aceia sub a cărora autoritate sau direcțiune era supuși ori încredințați, se va pedepsi cu închisoarea dela un an până la doi ani.
+Art. 280. - Reviste (1)
+Acela care, prin orice mijloace, încearcă să determine pe un martor, informator, expert, traducător sau interpret, la săvârșirea faptelor prevăzute de art. 277 și 278, comite delictul de corupere de martor și se pedepsește cu închisoare corecțională dela una la 6 luni.
 
 Art. 281. -
-Acela care, prin vicleșug sau prin violență, va răpi pe o fată mai mică de 16 ani, se va pedepsi cu maximul închisorii.
+Pentru infracțiunile prevăzute în art. 277, 278 și 279 nu se pedepsește:
 
-Iar dacă fata a consimțit la așa1) răpire, ori de bună voie a mers după răpitorul ei, fără însă a cunoaște și părinții sau tutorii ei, răpitorul se va pedepsi cu închisoarea dela trei luni până la doui ani.
+1. acela care, dacă ar fi făcut afirmațiuni adevărate sau ar fi spus tot adevărul, s'ar fi acuzat de infracțiunile pe sine, sau ar fi acuzat pe o persoană din cele prevăzute în art. 130, sau și-ar fi cauzat lui sau acelei persoane un grav prejudiciu în ce privește onoarea sau libertatea;
 
+2. acela care, din cauza calității personale sau profesionale, avea dreptul să refuze a fi ascultat ca martor sau ca expert, ori ca traducător sau interpret, dar instanța de judecată nu l-a avertizat asupra acestui drept al său;
 
-1) Textul francez zice: <<dacă fata a consimțit la a sa răpire>>. De sigur că e o eroare de copist, cu atât mai mult cu cât ediția oficială din 1874, în locul vorbelor: <<așa răpire>>, spune: <<acea răpire>>.
+3. acela care își retrage mărturia sau declarația mincinoasă, mai înainte de a se fi deschis acțiunea penală contra sa și mai înainte de a se fi produs prin faptul său vreun prejudiciu pentru cineva.
 
 Art. 282. -
-Dacă răpitorul se va fi căsătorit cu fata răpită, el nu va putea fi urmărit decât după plângerea persoanelor acelora cari, după codicele civil, au dreptul de a cere nulitatea unei asemenea căsătorii și nici va putea fi condamnat decât după ce se va fi pronunțat nulitatea căsătoriei.
+Acela care, în calitate de parte într'un proces, face sub jurământ, declarație mincinoasă, în condițiunile art. 277, comite delictul de jurământ fals și se pedepsește cu închisoare corecțională dela 6 luni la 2 ani, amendă dela 2.000 la 5.000 lei și interdicție corecțională dela 6 luni la 2 ani.
 
+Dacă partea retractează declarația făcută sau jurământul, înainte de pronunțarea hotărîrii, nu se pedepsește.
+
+SECȚIUNEA IV
+Tăinuirea de bunuri
 Art. 283. -
-Acela care, prin amăgire sau prin violență, răpește o persoană mai mică de 16 ani, spre a o întrebuința ca să cerșetorească, sau a o deprinde la desfrânare, ori la alte sfârșituri, spre a împărtăși folos, se va pedepsi cu recluziunea.
+Acela care, în scopul de a obține, pentru sine sau pentru altul, un folos material, primește sau dobândește sub orice titlu, sau ascunde un lucru, ori contribue, în orice mod, la înstrăinarea sau ascunderea acestuia, știind că provine dintr'o crimă sau delict, comite delictul de tăinuire de bunuri și se pedepsește cu închisoare corecțională dela 3 luni la 3 ani, amendă dela 2.000 la 5.000 lei și interdicție corecțională dela unu la 2 ani.
 
-§.3. Călcarea legiuirilor asupra înmormântărilor
+SECȚIUNEA V
+Favorizarea infractorilor
 Art. 284. -
-Cei cari, fără autorizarea prealabilă a ofițerului public competent, la întâmplările când se cere asemenea autorizare, vor îngropa vr'un mort, se vor pedepsi cu închisoarea dela 15 zile până la o lună, fără a fi apărați cu aceasta de osânda cuvenită pentru crime sau delicte ce au însoțit acest delict.
+Comite delict de favorizare a infractorului:
 
-La asemenea pedeapsă se vor supune și cei cari vor călca, ori în ce chip, legiuirile și regulamentele relative la înmormântările grăbite.
+1. acela care, fără să fi avut o înțelegere prealabilă cu autorul sau complicele, înainte de comiterea infracțiunii, dă ajutor sau protecție acestora, pentru a eluda sau zădărnici cercetările sau alte acte de procedură ale autorităților, ori pentru a se sustrage dela acestea, sau dela executarea pedepsei;
+Jurisprudență (1)
+
+2. acela care, în condițiunile alineatului precedent dă ajutor autorului sau complicelui, ca să-și asigure folosul sau produsul infracțiunii;
+
+3. acela care ascunde cadavrul unei persoane, victimă a unei crime sau a unui delict.
+
+Delictul de favorizare a infractorului se pedepsește cu închisoare corecțională dela 3 luni la 2 ani și cu amenda dela 2.000 la 10.000 lei, când infractorul favorizat a comis o crimă, cu închisoare corecțională dela o lună la un an, când acesta a comis un delict și cu amendă până la 5.000 lei, când infracțiunea favorizată este o contravențiune. Pedeapsa nu poate depăși în niciun caz pe aceea a complicelui.
 
 Art. 285. -
-Ori-care va ascunde cadavrul unei persoane omorâte, ori moarte în urmare de loviri sau răniri, se va pedepsi cu închisoarea dela șase luni până la doi ani, fără a fi apărat cu aceasta de alte pedepse mai mari de va fi participat la acea crimă.
-
-Iar dacă ascunderea se va fi făcut cu în parte și folos, atunci se va pedepsi cu închisoarea dela un an la doi ani2).
-
-
-2) Art. corespunzător, 359 nu cuprinde acest al douilea aliniat.
+Dacă faptele prevăzute în art. 284 se săvârșesc în scopul de a obține pentru sine sau pentru altul un folos material, pedeapsa este închisoarea corecțională dela 3 luni la 2 ani, amenda dela 2.000 la 5.000 lei și interdicția corecțională dela unu la 3 ani.
 
 Art. 286. -
-Se va pedepsi cu închisoare dela trei luni până la un an și cu amendă dela 26 până la 300 lei1), oricine violează mormintele sau comite alte acte de profanațiune asupra lor, fără a fi apărat și de alte pedepse pentru crimele sau delictele care se vor fi comis cu ocaziunea acestei violări.
+Funcționarul public care nu denunță, sau întârzie să denunțe autorităților judiciare sau altei autorități, pe care avea obligația de a le informa, infracțiunea despre care a luat cunoștință în exercițiul funcțiunii sau în virtutea, acesteia, comite delictul de favorizare a infractorului prin omisiunea denunțării și se pedepsește cu închisoare corecțională dela 3 luni la un an.
 
+Pedeapsa este dela 6 luni la un an dacă faptul se săvârșește de un funcționar al poliției judiciare.
 
-1) Textul francez zice: <<dacă fata a consimțit la a sa răpire>>. De sigur că e o eroare de copist, cu atât mai mult cu cât ediția oficială din 1874, în locul vorbelor: <<așa răpire>>, spune: <<acea răpire>>.
-
-VIII. Mărturii minciunoase, calomnii, injurii, revelațiunea secretelor
-
-§.1. Mărturie minciunoasă
+SECȚIUNEA VI
+Dispozițiuni comune secțiunilor IV și V
+din prezentul capitol
 Art. 287. -
-Ori-care va da mărturie minciunoasă, în materie criminală, sau în contra acuzatului, sau în a sa favoare, se va pedepsi cu maximul închisorii și cu interdicțiunea pe timp mărginit.
-
-Dacă însă acuzatul, din cauza unei asemenea mărturii, va fi osândit la munca silnică pe timp mărginit, pedeapsa va fi recluziunea dela șase până la zece ani; iar dacă osânda acuzatului a fost munca silnică pe toată vieața, martorul minciunos se va osândi la munca silnică pe timp mărginit.
+Delictele prevăzute în art. 283 și 284 punctele 1 și 2, nu se pedepsesc dacă sunt comise de un ascendent, descendent, soț sau soție, chiar divorțați, frate sau soră.
 
 Art. 288. -
-(Mod. L. 17 Febr. 1874). Ori-care va da mărturie minciunoasă, în pricini corecționale, ori în contra acuzatului, ori în favoarea lui, se va pedepsi cu doi ani închisoare.
+Pentru delictele prevăzute la art. 284, pe lângă pedepsele prevăzute în acele articole, se aplică interdicția corecțională dela unu la 2 ani, dacă delictul de favorizare a fost săvârșit față de autorul sau complicele unui delict, pentru care legea prevedea și interdicția corecțională.
 
+SECȚIUNEA VII
+Alte delicte în contra activității judiciare
 Art. 289. -
-Ori-care va da mărturie minciunoasă în pricini polițienești, se va pedepsi cu închisoare dela o lună până la șase luni.
+Funcționarul public care întrebuințează sau dispune să se întrebuințeze violențe, torturi sau orice mijloace ilegale de constrângere contra unui infractor ori contra unui martor sau expert, în scopul de a smulge mărturisiri sau declarații, comite delictul de cercetări abuzive și se pedepsește cu închisoare corecțională dela unu la 3 ani și interdicție corecțională dela unu la 3 ani, dacă nu instituie o infracțiune mai gravă.
 
 Art. 290. -
-Cel ce va da mărturii minciunoase în pricini civile, se va pedepsi cu închisoare până la doi ani.
+Funcționarul public care, fiind însărcinat cu urmărirea infracțiunilor sau executarea pedepselor, omite îndeplinirea acestei îndatoriri, precum și acel funcționar public care săvârșește fapte sau ia dispozițiuni în scopul de a sustrage pe o persoană dela o pedeapsă legală, sau face să se execute o pedeapsă mai mică decât cea legală, comite delictul contra represiunii și se pedepsește cu închisoare corecțională dela unu la 2 ani, amendă dela 2.000 la 5.000 lei și interdicție corecțională dela unu la 3 ani.
 
 Art. 291. -
-Martorul minciunos care va fi primit ori-ce fel de mită ori răsplătire, înființată sau promisă, se va pedepsi cu recluziunea, de va fi pentru pricini corecționale sau civile, iar de va fi pentru pricini polițienești, cu închisoare dela un an până la doi. Către acestea, ceeace va fi primit martorul minciunos se va lua pe seama ospiciilor.
+Procurorul care deschide sau ordonă să se deschidă acțiune penală, sau judecătorul de instrucție care dispune arestarea preventivă, ori judecătorul care pronunță o condamnare în contra unei persoane, știind că aceasta este nevinovată, comite delictul de represiune nedreaptă și se pedepsește cu închisoare corecțională dela unu la 3 ani și interdicție corecțională dela 2 la 5 ani.
 
 Art. 292. -
-Cei ce prin ori-ce mijloc, vor amăgi pe martori spra a da mărturie minciunoasă, se vor pedepsi întocmai ca martorii minciunoși, după dispozițiunile celor din urmă cinci articole.
+Acela care, în orice mod, sustrage, distruge sau face neîntrebuințabil un act, un înscris sau memoriu, fie al său, fie al altuia, depus la instanța unde procesul era pendinte, în vederea judecății, comite delictul de sustragere a actelor din instanță și se pedepsește cu închisoare corecțională dela 6 luni la 2 ani și amendă dela 2.000 la 3.000 lei.
 
-Art. 293. -
-Când în pricini civile, prigonitoarele părți vor propune una alteia a face jurământ, sau când jurământul se va propune de către judecători uneia din părți, și partea primind propunerea, va săvârși jurământ munciunos, săvârșitorul unui asemenea jurământ se va pedepsi cu închisoare până la doi ani, amendă până la 500 lei1) și interdicțiunea pe timp mărginit.
+Art. 293. - Reviste (1)
+Comite delict de divulgare a actelor de procedură secretă și se pedepsește cu închisoare corecțională dela una la 6 luni și amendă dela 2.000 la 5.000 lei:
 
+1. acela care, contrar dispozițiunilor din codul de procedură penală, dă publicității, în orice mod, integral sau parțial, acte de acuzare sau alte acte de procedură în materie criminală sau corecțională, înainte ca instrucția să se fi terminat, și înainte ca aceste acte să fi fost citite în ședința publică a instanței de judecată, precum și acte de cercetare sau instrucție ale unei afaceri clasate;
 
-1) A se vedea nota 2 dela art. 1 și art. 399, al. II Codul penal.
+2. acela care publică o dare de seamă asupra desbaterilor unui proces, în care instanța a interzis publicarea sau le-a declarat secrete;
 
-§.2. Calomnii, injurii, revelațiune de secrete2)
+3. acela care publică numele judecătorilor, cu indicarea voturilor individuale care se atribuesc acestora, în verdicte sau în hotărâri, sau face aprecieri tendențioase asupra soluțiunii probabile a unei judecăți în curs, ori asupra faptelor și antecedentelor persoanelor din proces;
 
-2) În Franța, materia calomniei este azi prevăzută în legea presei: <<La loi sur la liberte de la presse>>, din 29 Iulie 1881, cu modificările din 1882, 1887, 1889, 1893, 1894 și 1895, (anterior: legile asupra presei din 1810, 1814, 1815, 1817, 1819, 1822, 1824, 1827, 1828, 1829, 1830, 1831, 1834, 1835, 1840, 1843, 1849, 1850, până la legea din 1875 și 1878). A se vedea toate aceste legi și modificări în colecția <<CodesFrancais>> par Riviere, F. Helie et Pont, ediția 24, pag. 1-26, după Codul penal.
+4. acela care publică dări de seamă asupra ședinței în care se desbate un fapt penal săvârșit de un minor, sau care reproduce portretul unui minor urmărit, sau orice altă ilustrație privitoare la acesta, sau referitoare la actele sale penale;
 
-Legiuitorul român a luat materia calomniei din Codul penal francez din 12 Februarie 1810, înainte de modificarea lui prin legea franceză asupra presei din 18 Noemvrie 1810. Constituția noastră, prin art. 24, determină competenta delictelor de calomnie prin presă, care se judecă de Curtea cu jurați, cu distincțiunile arătate acolo.
+5. acela care publică dări de seamă într'un proces de defăimare, în care proba verității faptelor imputate nu este permisă.
+
+Dispozițiunile dela punctele 2 și 3 partea doua, și dela punctele 4 și 5, nu se aplică studiilor, comentariilor și notelor cu caracter științific; în niciun caz însă nu se poate face mențiune de numele părților din proces.
 
 Art. 294. -
-Este culpabil de calomnie acela care, prin cuvinte rostite în public, prin strigări, prin vre-un act autentic sau public, prin scrieri, prin imprimate, prin desene, prin gravuri, prin embleme vândute sau expuse spre vânzare, distribuite sau afipte în public, va propune asupra unui individ fapte care, de ar fi adevărate, ar supune pe prepusul la pedepse, sau măcar la ura ori disprețul cetățenilor.
+Comite delictul de intimidare a justiției și se pedepsește cu închisoare corecțională dela una la 6 luni și interdicție corecțională dela unu la 2 ani, acela care participă la demonstrațiuni ori manifestațiuni, în preajma sau în pretoriul instanțelor judecătorești, cu ocazia cercetării sau judecării unui proces, în scopul de a intimida sau înrâuri în orice fel judecata.
 
-Calomnia în contra funcționarilor publici, sau contra corpurilor depozitare sau agenți ai autorităței publice, sau contra ori-cărui alt corp constituit, va fi urmărită și pedepsită întocmai ca și calomnia în contra particularilor, cu distincțiunea stabilită mai la vale.
-
+CAPITOLUL II
+Delicte contra autorității hotărîrilor judecătorești
+SECȚIUNEA I
+Evadarea arestaților
 Art. 295. -
-Se socotește minciunoasă ori-ce imputare pentru care nu se înfățișează legiuită dovadă. Prin urmare, împutătorul nu poate fi primit a cere, spre a sa apărare, de a se dovedi imputarea sa de către alții, nici va putea să se apere zicând că înscrisurile, piesele sau faptele doveditoare ale crimei ori delictului imputatului sunt cunoscute, sau că imputarea pentru care imputătorul se află tras în judecată s'a copiat ori s'a scos din scrieri străine sau din alte scrieri tipărite.
+Acela care ajută, sau înlesnește evadarea unei persoane arestate sau reținute în mod legal, din penitenciarul sau institutul în care este internată, comite delictul de înlesnirea evadării și se pedepsește cu închisoare corecțională dela 2 luni la un an.
+
+Iar dacă pentru a înlesni evadarea, a procurat arestatului arme, chei sau alte instrumente, pedeapsa este închisoarea corecțională dela 6 luni la 2 ani.
 
 Art. 296. -
-Când fapta imputată asupra cui-va se va dovedi adevărată, imputătorul va fi apărat de ori-ce pedeapsă.
+Gardianul, supraveghetorul sau organul executor al unei autorități care săvârșește faptul prevăzut în art. 295, în favoarea unei persoane de sub paza sa, sau care, în mod ilegal, permite sau înlesnește unei astfel de persoane ieșirea pentru oricât de puțin timp, din penitenciar sau institut, în cursul executării deținerii, se pedepsește cu închisoare corecțională dela unu la 3 ani și interdicție corecțională dela unu la 3 ani.
 
-Se va socoti ca dovadă legiuită numai aceea ce va rezulta dintr'o hotârâre de judecată, sau de ori-ce alt act autentic, sau din vr'un înscris cu scrierea și cu sub-scrierea imputatului.
+Când funcționarii arătați în alin. 1 săvârșesc faptul prevăzut la alin. 2 al art. 295, pedeapsa este închisoarea corecțională dela 2 la 5 ani și interdicție corecțională dela unu la 3 ani.
 
-Când imputarea va avea de obiect faptele unui funcționar public, relative la atribuțiunile sale, atunci faptele imputate se pot proba după regula comună.
-
-Când pentru faptele imputate unui funcționar sau unui particular, se vor fi început urmăriri de către ministerul public, sau când există un denunțător, urmărirea calomniei se va suspenda, dacă va cere imputătorul, până la rezolvare procesului relativ la faptele imputate.
+Dacă evadarea sau ieșirea se datorește neglijenții acestor funcționari, pedeapsa este închisoarea corecțională dela una la 6 luni.
 
 Art. 297. -
-Acela care nu va sprijini propunerea sa cu dovadă legiuită, se va pedepsi ca calomniator după cum urmează:
+Persoanele internate în mod legal în penitenciare sau alte institute, dacă evadează, prin atrupamente sau întovărășiri, ori uzând de violență sau amenințări, comit delictul de evadare și se pedepsesc cu închisoare corecțională dela 3 luni la un an, întrucât nu s'ar fi comis infracțiuni pedepsite de lege cu pedeapsă mai mare.
 
-Dacă fapta imputată va fi de natură a se pedepsi cu munca silnică pe toată viața sau pe timp mărginit, culpabilul se va pedepsi cu închisoarea dela un an și jumătate până la doi și cu amendă dela 100 până la 2500 lei1).
+Art. 298. -
+Tentativa infracțiunilor prevăzute de art. 296 și 297 se pedepsește.
 
-În toate celelalte cazuri, osânda va fi închisoarea dela o lună până la șase și amenda dela 50 până la 2000 lei1).
-
-
-1) A se vedea nota 2 dela art. 1 și art. 399, al. II Codul penal.
-
-Art. 298. - Reviste (1)
-Acela care, cunoscând că acuzațiunea sa este minciunoasă, face înaintea unei autorități publice, sau înaintea ofițerului de poliție judecătorească, o înscrisă denunțiațiune calomniatoare, prin care să acuze o persoană că ar fi comis o faptă supusă pedepsei, sau că ar fi călcat datoriile sale de funcționar public, se va pedepsi cu închisoarea dela o lună până la un an.
-
-Se va putea încă condamna și la interdicțiune pe timp mărginit.
-
+SECȚIUNEA II
+Nerespectarea hotărîrilor judecătorești
 Art. 299. -
-Injuriile sau expresiunile ocărâtoare, comise prin mijloacele enumărate în art. 294, prin care nu s'ar aduce asupra cui-va imputare pentru vre-o faptă determinată, ci pentru un nărav sau vițiu arătat anume, se vor pedepsi cu amendă dela 200 până la 2000 lei1) sau cu închisoare dela 15 zile până la trei luni.
+Acela care, prin amenințare sau violență, alungă sau scoate din posesiunea unui imobil pe acela care se găsește în această posesiune, în baza unei hotărîri judecătorești definitive sau executorii, obținute, prin proces contra lui, comite delictul de împotrivire la hotărîre judecătorească și se pedepsește cu închisoare corecțională dela 6 luni la 2 ani și cu amendă dela 2.000 la 5.000 lei.
 
-Dacă asemenea injurii sau expresiuni ocărâtoare vor fi adresate contra membrilor clerului, vre-unuia din corpurile legiuitoare, consiliului miniștrilor sau unui ministru, vre-unei Curți, tribunal, administrațiuni locale (în care caz injuria sau expresiunea ocărâtoare se consideră făcută în persoana fie-cărui membru al corpului), sau în contra ori-cărui depozitar al puterei publice, se vor pedepsi cu închisoare dela o luna până la un an și cu amendă dela 300 până la 3000 lei2).
-
-Cu aceeaș pedeapsă se vor pedepsi injuriile de ori-ce natură, săvârșite prin mijloacele enumărate la art. 294, prin cari s'ar atinge demnitatea unui suveran străin având agenți acreditați în România, sau chiar persoana agenților diplomatici, dacă asemenea injurii și ofense contra agenților ei se pedepsesc în țările străine, sau în virtutea convențiunilor, sau în virtutea legilor acelor State.
-
-
-2) A se vedea nota 2 dela art. 1 și art. 399, al. II Codul penal.
+Aceeași pedeapsă se aplică și acelora care, prin amenințare sau violență, se împotrivesc la executarea unei hotărîri judecătorești.
 
 Art. 300. -
-Ori-ce alte injurii orale sau expresiuni ocărâtoare, fie chiar în public rostite, se vor pedepsi cu simple pedepse polițienești.
+Condamnatul contra căruia s'a pronunțat interdicția unor anumite localități, interdicția de a intra în anume localuri, interdicția de a exercita o profesiune sau meserie, ori închiderea localului, și care nu respectă executarea lor, comite delictul de sustragere dela măsurile de siguranță și se pedepsește cu închisoare corecțională dela una la 3 luni, menținându-se și interdicțiunea.
 
+Aceeași pedeapsă se aplică și directorului sau administratorului care nu ar respecta măsura disolvării sau suspendării pronunțate contra unei persoane juridice.
+
+CAPITOLUL III
+Duelul
 Art. 301. -
-Nu se va socoti injurie dojenirea ce va face un stăpân servitorilor săi, sau un părinte copiilor săi, sau un meșter ori învățător ucenicilor săi1).
+Acela care provoacă pe altul la duel, fie că provocarea este acceptată ori nu, comite delictul de provocare la duel și se pedepsește cu închisoare corecțională dela una la 3 luni și amendă dela 2.000 la 10.000 lei.
 
-
-1) Art. 298, 299, 300 și 301, sunt luate din Codul penel prusian din 1851 și nu au echivalentul lor în Codul penal francez din 1810.
+Aceeași pedeapsă se aplică și aceluia care acceptă provocarea, chiar și în cazul când duelul nu a avut loc.
 
 Art. 302. -
-În privința împutărilor și injuriilor ce s'ar cuprinde în scrierile relative la apărarea părților sau în pledoariile lor, judecătorii, în a căror cercetare se va afla acea pricină, vor putea, judecând contestațiunea, sau să hotărască a se suprime injuriile sau scrierile injurioase, sau să mustre pe autorii injuriilor, sau să suspende pe advocați, când sunt autorii acestor scrieri sau pledoarii injurioase, din exercițiul profesiunei lor.
-
-Această suspendare nu va putea ține mai mult de trei luni, iar în caz de recidivă, va ține dela șase luni până la un an.
+Ieșirea pe teren, chiar dacă duelul a fost zădărnicit de împrejurări independente de voința părților, se pedepsește cu închisoare corecțională dela 2 la 4 luni.
 
 Art. 303. -
-Dacă injuriile sau scrierile injurioase de cari se vorbește în articolul precedent vor avea caracterul unei calomnii grave, încât judecătorii întru a cărora cercetare se va afla pricina prigonitorilor, să nu poată judeca acest delict, atunci ei vor suspenda provizoriu procesul și-l vor trimite pentru judecarea delictului la judecătoriile competente.
+Dacă duelul a avut loc, însă nu a rezultat vreo rănire, pedeapsa este închisoarea corecțională dela 3 la 6 luni.
 
 Art. 304. -
-Dacă cei ce se arată cu asemenea înscrisuri imputătoare și injurioase nu vor ști nici să cetească, nici să scrie, atunci delictul va cădea asupra alcătuitorului înscrisului2).
+Dacă din duel a rezultat vreo consecință din cele arătate în art. 471, 472, 473, 474 și 475, se aplică pedeapsa prevăzută în aceste articole, redusă la jumătate, fără a se putea scoborî sub minimum prevăzut de art. 303.
 
-
-2) Art. 304 Codul penal român nu-și are echivalentul său nici în Codul penal francez din 1810, nici în cel prusian din 1851. El este o inovație a legiuitorului român.
+Dacă cel culpabil pentru faptul din alineatul precedent a fost cauza injustă și determinantă a duelului, pedeapsa nu poate fi mai mică de 6 luni închisoare corecțională.
 
 Art. 305. -
-Doctorii, chirurgii, spițerii, moașele și ori-ce alte persoane cari urmând a fi, după natura profesiunei lor, cunoscătoare și pestrătoare a secretelor ce li se încredințează, de le vor da pe față, afară din întâmplările când legea cere o asemenea destăinuire, se vor pedepsi cu închisoare dela o lună până la șase luni și cu amendă dela 100 până la 500 lei3).
-
-
-3) A se vedea nota 2 dela art. 1 și art. 399, al. II Codul penal.
-
-CAPITOLUL II
-Crime și delicte în contra proprietăților
-I. Furturi
+În cazul art. 304, dacă autorul a fost cauza injustă și determinantă a duelului sau a călcat regulele duelului sau acelea stabilite de părți, pedeapsa nu poate fi mai mică de 6 luni închisoare corecțională.
 
 Art. 306. -
-Acela care va lua printr'ascuns un lucru mișcător al altuia, cu cuget de a și-l însuși pe nedrept, săvârșește un furt4).
+Martorul care asistă la duel se pedepsește cu închisoare corecțională dela una la 3 luni.
 
+Dacă martorul a contribuit la călcarea regulelor duelului, sau a înlesnit aceasta, și s'a produs vreo consecință din cele arătate în art. 471, 472, 473, 474 și 475, se pedepsește ca complice, fără ca pedeapsa să poată fi mai mică de 3 luni închisoare corecțională.
 
-4) Art. francez, 379, definește ast-fel furtul: <<Quiconque a soustrait frauduleusement une chose qui ne lui appartient pas, est coupable de vol>>.
+Nu se pedepsește martorul care a împiedecat lupta.
 
 Art. 307. -
-Tainicele luări urmate, ori de către bărbat spre paguba muerei sale, ori de către muere spre paguba bărbatului său, ori de către un văduv sau văduvă despre lucrul soțului celui răposat, ori de către copii sau alte rude de jos spre paguba tatălui sau a mamei sau alte rude de sus, ori de către tată sau mamă sau alte rude de sus spre paguba copiilor lor, sau altor rude de jos, ori de către afini de aceeaș linie, ori de către frați și surori între dânșii1), nu se pot socoti furturi, ci sunt supuse numai la despăgubirea civilă.
+Acela care îndeamnă pe altul la duel, sau îi face imputări, ori îl expune la batjocură, pentrucă nu a provocat sau nu a acceptat o provocare la duel, se pedepsește cu închisoare corecțională dela una la 4 luni și amendă dela 2.600 la 3.000 lei.
 
+TITLUL V
+Delicte contra cultului și respectului datorit morților
+CAPITOLUL I
+Delictele contra cultului
 Art. 308. -
-Furtul, precum și cercarea de furt, se va pedepsi cu închisoare dela 15 zile până la doui ani și câteodată cu amendă dela 50 până la 1000 lei1).
+Acela care, în orice mod, împiedică sau turbură exercițiul cultului unei religiuni recunoscute de Stat, comite delictul de turburare a exercițiului cultului și se pedepsește cu închisoare corecțională dela 2 la 6 luni și amendă dela 2.000 la 5.000 lei.
 
-Judecătoriile vor putea însă pedepsi pe culpabil și cu interdicțiunea pe timp mărginit.
+Aceeași pedeapsă se aplică și aceluia care împiedecă pe o persoană să exercite propriul său cult, dacă acesta nu contravine ordinei publice și bunelor moravuri, sau care o constrânge să exercite alt cult.
 
 Art. 309. -
-Se va pedepsi cu închisoare dela trei luni până la doi ani și cu amendă dela 100 până la 1000 lei1:
+Acela care primește și înscrie între credincioșii săi vreo persoană aparținând altui cult, fără a se fi asigurat mai înainte că a îndeplinit formalitățile necesare de trecere dela cultul căruia a aparținut, comite delictul de convertire ilegală și se pedepsește cu închisoare corecțională dela una la 3 luni.
 
-1. Acela care va fi furat sau va fi cercat să fure, de pe câmpuri cai ori dobitoace de povară, de tras sau de călărie, precum și alte vite mari ori mici, sau unelte de agricultură, ori vânatul aflat în parcuri închise, sau pești din cotețe ori alte locuri închise, stupi de albine, postavuri, pânze sau alte țesături ce se întind în locuri determinate, spre a se usca sau a se albi;
-
-2. Acela care va fi furat sau va fi cercat să fure lemne, tăiate sau nu, din pădure, sau lemne din magazii destinate pentru lemnărie, sau lemne de pe la herăstraie, ori lemne plutitore sau din câmpuri, livezi ori grădini, fân, bucate, fructe sau alte folositore producte secerate, cosite sau nu;
-
-3. Acela care, fiind servitor cu simbrie, va fi comis un furt sau va fi cercat a-l comite dela stăpânul său, sau chiar dela persoane străine care se aflau în casa stăpânului său, ori în casa unde el va fi mers cu stăpânul său, sau acela care, fiind lucrător, calfă sau ucenic, va fi săvârșit furtul în casa, atelierul sau magazinul stăpînului său, sau locuința, atelierul ori magazinul unde lucrează obișnuit;
-
-4. Birtașul, hangiul, cârciumarul, hoterierul, cărăușul, căruțașul, luntrașul, sau vre-unul din oamenii lor, care va fi furat ori va fi cercat să fure, toate ori parte din lucrurile încredințate lor în această a lor calitate, precum asemenea și călătorii cari vor fi furat sau vor fi cercat să fure lucruri din birtul, hanul, cârciuma sau hotelul unde au fost primiți.
-
-Cu aceeaș pedeapsă se va pedepsi:
-
-5. Furtul săvârșit într'o casă locuită și în timpul nopței, sau de către două sau mai multe persoane, sau numai cu una din aceste două împrejurări.
-
-În toate aceste cazuri mai sus arătate, culpabilii se vor putea osândi, afară de pedeapsa principală, și la interdicțiune pe timp mărginit.
-
-
-1) Art. francez corespunzător, 380, nu cuprinde și cuvintele: <<ori de către frați și surori între dânșii>>. Art. prusian corespunzător, 229, relativ la furt, cât și art. 228, relativ la abuz de încredere, pe care legiuitorul român le-a avut mai mult în vedere, adaugă că aceste dispozițiuni nu sunt aplicabile și persoanelor străine care au perticipat la comiterea acestor fapte ca tăinuitori, complici sau coautori.
+În caz că infractorii ar fi chiar conducătorii unui cult sau a unei asociațiuni religioase, instanța poate aplica măsura de siguranță a disolvării cultului sau asociațiunii religioase.
 
 Art. 310. -
-(Mod. L. 4 Maiu 1895). Se va pedepsi cu închisoare dela trei până la cinci ani și cu interdicțiunea pe timp mărginit, acela care va săvârși sau va încerca să săvârșească vre-un furt în cazurile următoare:
-
-1. Când furtul se va fi urmat, într'un locaș consacrat vre-unui cult, asupra obiectelor consacrate cultului;
-
-2. Când furtul s'a comis, prin efracțiune sau escaladare într'o casă locuită sau servind spre locuință, sau în dependințele ei, sau într'o curte închisă;
-
-3. Dacă, spre a comite furtul, culpabilul a întrebuințat chei minciunoase spre a intra într'o casă, apartament, odaie sau bastimet, sau într'o curte închisă, sau spre a deschide ușile, mobilele, casele de fer, dulapurile, lăzile și ori-ce alte lucruri destinate spre păstrarea banilor, a sculelor sau a altor obiecte care se află înăuntru;
-
-4. Dacă culpabilul, prin tăiarea legăturilor, prin ruperea sigiliilor, prin deschiderea coperișelor sau prin întrebuințare de chei minciunoase, a furat, pe drumuri publice sau pe străzi ori piețe publice, într'o diligență sau în curtea ori casa poștei, în drumul de fer sau în vr'o stațiune, în vapor sau în alte vase de pe râurile navigabile, vre-unul din lucrurile călătorilor sau din cele destinate spre a se transporta;
-
-5. Dacă culpabilul a furat vr'un lucru din cele ce avea asupră-i sau purta cu sine un nebun sau smintit, ori un copil mai mic de douisprezece ani;
-
-6. Dacă furtul s'a comis, în timpul unui incendiu sau inundațiuni, asupra obiectelor ce se aflau încă expuse pericolului, ori depuse într'un loc de siguranță;
-
-Se va pedepsi cu recluziune acela care va săvârși un furt, în cazurile următoare:
-
-1. Dacă furtul sau unul dintre furi, sau unul dintre aceia cari au participat la furt, purta asupra-și arme de față sau pe ascuns1);
-
-2. Dacă furtul s'a comis de către doi sau mai mulți complici asociați pentru săvârșirea de tâlhării sau furturi.
-
-
-1) Art. prusian corespunzător, 218, al. 7, nu cuprinde expresiunea: <<de față sau pe ascuns>>, pe care-o găsim însă în textul art. 386, al. 2 francez: <<Si le coupable, ou l'un des coupables, etait porteur d'armes apparentes ou chachees>>.
+Acela care, în public, prin orice mijloace, își exprimă disprețul față de un cult recunoscut de Stat, sau față de obiectele consacrate sau destinate acelui cult, comite delictul de ultraj, contra cultului și se pedepsește cu închisoare corecțională dela una la 6 luni.
 
 Art. 311. -
-Agravarea pedepsei furtului, comis sau încercat într'o casă locuită, prin efracțiune sau escaladare, se aplică și chiar atunci când locuitorii casei nu se aflau înăuntru în momentul furtului.
+Acela care, în public, săvârșește faptul prevăzut în art. 310, față de ministrul unui cult, recunoscut de Stat, care se găsește în exercițiul funcțiunii sale, comite delictul de ultraj contra ministrului unui cult și se pedepsește cu închisoare corecțională dela una la 6 luni și amendă dela 2.000 la 5.000 lei.
 
-Art. 312. -
-Sunt asemănate cu casele locuite:
-
-312.1. Vasele de apă și ori-ce altă clădire mișcătoare, de vor fi locuite;
-
-312.2. Edificiile destinate unui cult;
-
-312.3. Edificiile publice destinate pentru exercițiul unei profesiuni sau pentru conservațiunea de lucruri;
-
-312.4. Împrejmuirea care face parte dintr'o casă locuită sau dintr'un edificiu asemuit cu o casă locuită (No. 2 și 3), precum și ori-ce alte clădiri sau îngrădiri se vor fi aflând înăuntrul împrejmuirei.
-
-Se socotește împrejmuit sau îngrădit ori-ce loc închis, unde nu poate cine-va pătrunde decât prin mijlocul cheilor sau întrebuințând efracțiunea sau escaladarea.
-
-Art. 313. -
-Escaladarea se numește ori-ce intrare în case, clădiri ori împrejmuiri, săvârșită prin suire peste ziduri, porți, învelitori, uluci sau alte îngrădiri închise, precum asemenea și ori-ce intrare pe ferestre, prin coșuri (hornuri), prin ferestrui de pivniță, sau prin ori-ce alte găuri pe sub pământ cari nu sunt destinate pentru a servi de intrare.
-
-Art. 314. -
-Efracțiune (spargere) se numește:
-
-1. Ori-ce siluire, rupere, spargere, dărâmare a zidurilor, a ulucilor sau altor îngrădiri închise, a învelișurilor, a porților, a pardoselelor, a ferestrelor, a încuietorilor, a lacătelor sau a ori-căror altor unelte sau instrumente destinate a popri intrarea, prin siluirea cărora agentul își deschide o trecere care nu exista mai înainte, sau care era închisă; ori lărgește, pentru ca să poată intra, o gaură ce se afla în ființă, sau face o deschidere oare-care prin mijlocul căreia el să se poată introduce înăuntru spre a comite furt, sau chiar fără a se întroduce înăuntru.
-
-2. Când agentul, în interiorul casei sau clădirei ori îngrădirei aflându-se, a deschis prin vre-unul din mijloacele arătate mai sus ușile, îngrădirile sau încuietorile dinăuntru, dulapurile, lăzile, cuferile sau ori-ce alte mobile sau lucruri închise, destinate pentru păstrarea banilor, sculelor sau altor obiecte.
-
-În rândul acestor efracțiuni interioare se socotește și ridicarea de case de bani, cutii, bale înfășurate cu pânză și legate cu frânghii sau funii și ori-ce alte mobile mișcătoare încuiate, cari cuprind lucruri de ori-ce fel, deși nu se vor fi deschis, rupt sau spart acolo pe loc.
-
-Art. 315. -
-Chei minciunoase se înțeleg ori-ce cârlige, chei diverse, prefăcute sau semuite, și ori-ce fel de unealtă care să nu fi fost hotârâtă de către proprietar, chiriaș sau birtaș a deschide sau a închide broaște, lacăte și ori-ce încuietoare va fi descuiat cu dânsele culpabilul.
-
-Art. 316. -
-Cel ce cu știință de rea întrebuințare, va preface sau va preschimba chei minciunoase, se va osândi la închisoare dela o lună și jumătate până la un an.
-
-II. Tâlhării
-
-Art. 317. -
-Acela care, prin întrebuințare de violență în contra persoanelor, sau prin amenințări de a omorî sau de a răni îndată, va răpi lucrul altuia cu cuget de a și-l însuși pe nedrept, săvârșește o tâlhărie.
-
-Se socotește asemenea că comite o tâlhărie și acela care, surprins fiind în flagrant delict de furt, întrebuințează violență asupra unei persoane sau amenință că va omorî sau va răni îndată, spre a putea să scape1), sau să țină lucrul furat.
-
-Tâlhăria se va pedepsi cu recluziunea.
-
-
-1) Art. prusian corespunzător, 230, nu cuprinde expresiunea: <<spre a putea să scape>>.
-
-Art. 318. -
-Se va pedepsi cu recluziunea dela șase ani în sus, tâlhăria săvârșită în împrejurările următoare:
-
-1. Dacă tâlharul sau unul din tâlhari sau unul dintre complicii lor avea asupră-și arme de față sau pe ascuns2);
-
-2. Dacă tâlhăria s'a săvârșit de către două sau mai multe persoane3);
-
-3. Dacă tâlhăria s'a săvârșit pe drumuri publice sau piețe publice;
-
-4. Dacă tălhăria s'a săvârșit prin bătăi sau rele tratamente fără însă să se fi cauzat răniri.
-
-
-2) Art. prusian corespunzător, 232, nu cuprinde cuvintele: <<de față sau pe ascuns>>.
-
-3) Art. prusian corespunzător, 232, adaugă: <<care s'au asociat în scop de a comite tâlhării sau furturi>>. A se vedea și textul art. 310, ultimul aliniat, care lămurește în acest sens.
-
-Art. 319. -
-Se va pedepsi cu munca silnică pe timp mărginit:
-
-1. Ori-care va fi comis tâlhăria întrebuințând cazne, răniri sau schilodiri asupra persoanei4);
-
-2. Acela care a comis tâlhărie întrebuințând bătăi, violențe, amenințări sau rele tratamente, din cari s'a pricinuit victimei vre-o boală a minței sau o necapacitate la lucru, sau pierderea auzului ori a limbei sau a facultăței de a procrea.
-
-
-4) Art. prusian corespunzător, 233, nu cuprinde acest prim aliniat din art. 319 Codul penal român.
-
-Art. 320. -
-Se va pedepsi cu munca silnică pe toată viața ori-care săvârșește vre-o tâlhărie prin întrebuințare de violențe, amenințări, rele tratamente, bătăi, cazne, schilodiri sau alte leziuni corporale, din cari s'a pricinuit moartea pacientelui.
-
-III. Strămutare sau desființare de hotare
-
-Art. 321. -
-Se va pedepsi cu închisoare până la doui ani, sau cu amendă dela 100 până la 1000 lei1), acela care, cu cuget de a-și însuși pământul posedat de altul și într'un mod ilegal, va strămuta sau va face a se strămuta semnele de hotare dintre proprietăți.
-
-
-1) A se vedea nota 2 dela art. 1 și art. 399, al. II Codul penal.
-
-IV. Despre abuz de încredere
-
-Art. 322. -
-Ori-care va specula asupra trebuințelor, slăbiciunilor sau patimilor unui minor, ca să-l facă să subscrie spre a sa pagubă obligațiuni, chitanțe, sau vr'un înscris de răfuire pentru împrumutare de bani ori de lucruri mișcătoare, ori de înscrisuri comerciale, sau de ori-ce alte înscrisuri îndatoritoare, sub ori-care formă se va fi făcut asemenea tocmeală, se va pedepsi cu închisoare dela două luni până la doui ani și cu amendă care nu va putea trece peste a patra parte a sumei ori a prețului lucrului ce va urma a se întoarce înapoi vătămatului, nici să fie mai mică de 50 lei1).
-
-
-1) A se vedea nota 2 dela art. 1 și art. 399, al. II Codul penal.
-
-Art. 323. -
-Ori-care va pune la o parte sau va risipi, spre paguba proprietarilor, a posesorilor, ori a detentorilor, obligațiuni, bani, mărfuri, bilete, chitanțe, sau ori-ce alte acte cuprinzând vre-o obligațiune sau apărare, și care i se vor fi dat sub titlu de închiriere, de depozit, de mandat2) sau pentru vr'un lucru cu plată ori fără plată, cu îndatorire de a-l întoarce înapoi sau de a-l înfățișa, ori de a-l întrebuința într'un chip hotărât, se va pedepsi după cuprinderea art. 322.
-
-Dacă abuzul de încredere prevăzut prin paragraful de mai sus, se va săvârși3) de vre-o slugă, om cu simbrie, ucenic, calfă, grămătic, lucrător, ajutor, spre paguba stăpînului său, pedeapsa va fi închisoarea dela șase luni până la doui ani.
-
-Toate acestea fără prejudițiul celor ce s'au zis la articolele 203, 204 și 205, pentru punerea la o parte sau ridicarea banilor, a obligațiunilor ori a altor acte, ori lucruri aflate în depozite publice.
-
-
-2) Art. francez corespunzător, 408, al. I, adaugă imediat după cuvântul mandat: <<denantissement, de pret a usage>>.
-
-3) Art. francez corespunzător, 408, al. 2, adaugă imediat: <<par un officier public ou ministeriel>>.
-
-Art. 324. -
-Advocatul care, prin daruri, oferte sau promisiuni, se va îndupleca a se înțelege cu partea adversă și va vătăma, prin fapte pozitive, sau prin omisiuni doloase, cauza clientelui său, va fi pedepsit prin închisoare până la doui ani, prin suspensiunea din exercițiul profesiunei de advocat, prin interdicțiunea dela funcțiunile publice până la 15 ani și prin amendă dela 300 până la 3000 lei1).
-
-
-1) A se vedea nota 2 dela art. 1 și art. 399, al. II Codul penal.
-
-Art. 325. -
-Când advocatul va vătăma, cu viclenie, prin fapte pozitive sau prin omisiuni, cauza unui acuzat sau a unui prevenit, se va pedepsi precum urmează:
-
-În caz de crimă, prin interdicțiunea dela profesiunea de advocat și dela ori-ce funcțiune publică și prin recluziune;
-
-În caz de delict, prin interdicțiunea dela profesiunea de advocat și dela ori-care altă funcțiune, la care pedeapsă se va putea adăugi și închisoarea până la doui ani;
-
-În caz de contravențiune, prin interdicțiunea dela profesiunea de advocat și dela ori-care altă funcțiune publică, nu pe mai puțin de șase luni, și prin amendă până la 300 lei1).
-
-
-1) A se vedea nota 2 dela art. 1 și art. 399, al. II Codul penal.
-
-Art. 326. -
-Cel ce după ce se va produce vre-un document înscris sau memoriu la o judecătorie, pentru vre-o prigonire, îl va sustrage în ori-ce mod, se va pedepsi cu o amendă dela 26 la 300 lei1).
-
-Acestă pedeapsă se va hotărî de acelaș tribunal în a cărui cercetare se află prigonirea.
-
-
-1) A se vedea nota 2 dela art. 1 și art. 399, al. II Codul penal.
-
-Art. 327. -
-Cel ce, găsind pe drumuri ori pe uliță lucruri ce nu sunt ale sale și, întrebându-se despre ele, le va tăgădui, se socotește că a comis un abuz de încredere și se va pedepsi cu închisoarea dela 15 zile până la trei luni.
-
-Art. 328. -
-Cel ce va găsi într'o curte, grădină, în grajduri ori în altă încăpere, bani ori lucruri ce nu sunt ale sale, și nu le va arăta stăpânului locului ori chiriașului, se va pedepsi cu pedeapsa prevăzută la articolul precedent.
-
-Art. 329. -
-Disposițiunile art. 307 se vor aplica și la cazul de abuz de încredere urmat între persoanele acolo arătate2).
-
-
-2) Art. prusian corespunzător, 228, relativ la abuz de încredere, adaugă că aceste dispozițiuni cari se referă la persoanele specificate în art. nostru 307 dela furt, nu sunt aplicabile și persoanelor străine cari au participat la comiterea acestor delicte, în calitate de co-autori, complici sau tăinuitori.
-
-Art. 330. -
-Se vor pedepsi cu închisoarea dela o lună până la un an:
-
-1. Tutorii, curatorii, executorii testamentari, acei însărcinați cu paza lucrurilor sechestrate, administratorii de fundațiuni, cari, cu rea credință, lucrează în vătămarea persoanelor sau lucrurilor încredințate direcțiunei sau administrațiunei lor;
-
-2. Samsarii, agenții de schimb, expeditorii, comisionarii și alte persoane exercitând o profesiune cu care sunt anume însărcinați de autoritatea publică, dacă în afacerile cari le sunt încredințate aduc, cu rea credință, vătămarea acelora cari le-au încredințat afacerile.
-
-Art. 331. -
-Căruțașii, vâslașii sau oamenii lor, cari prin amestecarea de materii vătămătoare, vor fi preschimbat calitatea vinurilor, sau ori-ce alt fel de băuturi ori de mărfuri al căror transport li s'a fost încredințat, se vor pedepsi cu închisoarea dela două luni până la doui ani; iar dacă preschimbarea nu se va fi făcut prin amestecare de materii vătămătoare, osânda va fi închisoarea dela o lună până la șase luni, sau amendă dela 26 până la 500 lei1).
-
-
-1) Art. prusian corespunzător, 242, prevede și pedepsește nu numai comiterea, adică executarea delictului, ci și tentativa lui. În materie de escrocherie, legiuitorul român pedepsește tentativa numai în speța art. 334 (luat după art. 405 Codul penal francez), în urma modificărei acestui art. prin legea dela 4 Maiu 1895, înainte de această modificare, art. 334, în vechea sa redacțiune, nu pedepsia și tentativa acestui delict.
-
-V. Înșelăciune sau escrocherie
-
-Art. 332. -
-Acela care, în vedere de-a împărtăși folos, face să nască o amăgire în paguba averei altuia, sau făcând să treacă de adevărate fapte minciunoase, sau prefăcând în minciunoase fapte adevărate, ori suprimându-le de tot, este culpabil de înșelăciune.
-
-Art. 333. -
-Înșelăciunea1), de nu va fi anume pedepsită de lege cu o pedeapsă specială, se va pedepsi îndeobște cu închisoarea dela o luna până la un an și cu amendă dela 26 până la 2000 lei.
-
-
-1) Art. prusian corespunzător, 242, prevede și pedepsește nu numai comiterea, adică executarea delictului, ci și tentativa lui. În materie de escrocherie, legiuitorul român pedepsește tentativa numai în speța art. 334 (luat după art. 405 Codul penal francez), în urma modificărei acestui art. prin legea dela 4 Maiu 1895, înainte de această modificare, art. 334, în vechea sa redacțiune, nu pedepsia și tentativa acestui delict.
-
-Art. 334. -
-Cel ce va întrebuința sau nume, sau calități minciunoase, sau uneltiri viclene, ca să înduplece pe oameni a crede vre-o întreprindere minciunoasă, vre-o putere sau vre-un credit închipuit, ori ca să facă a naște speranța sau temerea vre-unei izbutiri, vre-unei nenorociri sau a vre-unei întâmplări himerice, și printr'acesta va amăgi pe cine-va să-i dea bani, mobile sau obligațiuni, dispozițiuni, bilete, promisiuni, chitanțe sau înscrisuri liberatoare și, prin vre-unul dintr'acele mijloace, va lua sau va cerca să1) ia cu viclenie, toată sau parte din averea altuia, se va pedepsi cu închisoarea dela șase luni până la doui ani și cu amendă dela 26 până la 1000 lei, fără a se apăra cu acesta de alte mai mari pedepse ce i s'ar cuveni de va cădea în crimă de plăsmuire2).
-
-Culpabilul va putea încă fi osândit și la interdicțiune pe timp mărginit.
-
-Cu aceeaș pedeapsă se va pedepsi cel ce, prin amenințare verbală sau în scris de-a face revelațiuni sau imputațiuni difamatorii, va fi stors sau va fi cercat să stoarcă, fie bani, fie efecte de valoare, fie iscălitură sau remitere de acte sau scrisuri oare-care, care ar conține sau ar opera o obligațiune, o liberațiune sau dispozițiune3).
-
-
-1) A se vedea nota de sub art. 333 Codul penal.
-
-2) Prin art. 54 din <<Legea înstrăinărei bunurilor Statului>>, din 7 Aprilie 1889 (cu mod. 1902), se pedepsesc ca escroci, conform art. 334 Codul penal, persoanele și funcționarii cari se fac vinovați de faptele cuprinse în acel articol.
-
-3) Aliniatul al 3-lea dela art. 334, introdus prin legea din 4 Maiu 1895, este luat după art. 400 Codul penal francez și legea din 1863, care pedepsește în mod specialșantajul. Înaintea legei franceze din 1863 și a modificărei art. nostru 334, nici un text de lege nu pedepsea acest nou gen de escrocherie.
-
-Art. 335. -
-Ori-cine va călca regulamentele de administrațiune publică privitoare la productele, industria și la manufacturile românești ce se exportă în străinătate și cari au de scop a garanta buna calitate, dimensiunile și natura fabricațiunei, se va pedepsi cu amendă dela 100 până la 2000 lei.
-
-Art. 336. -
-Cel ce va înșela pe cumpărător asupra probei lucrurilor de aur sau argint, asupra calităței unei pietre minciunoase, vândută de bună, sau asupra felului ori-cărei mărfi, precum și acela care, prin întrebuințare de minciunoase dramuri sau măsuri, va înșela asupra câtimei lucrurilor vândute, se va pedepsi cu închisoarea dela o lună până la șase și cu amendă, care nu va putea fi nici mai mare de a patra parte a despăgubirei cuvenite înșelatului, nici mai mică de 50 lei.
-
-Lucrurile acele cu probă minciunoasă, sau prețul lor, de se vor afla încă în mâinile vânzătorului, se vor lua în folosul stabilimentelor publice de binefacere ale locului unde s'a urmat delictul, iar dramurile și măsurile minciunoase se vor sfărâma.
-
-Art. 337. -
-Dacă vânzătorul și cumpărătorul s'au servit, în târguiala lor, cu alte dramuri sau cu alte măsuri1), iar nu cu cele hotărâte de guvern, cumpărătorul nu va avea dreptul a se porni în contra vânzătorului care-l va fi înșelat cu dramuri sau cu măsuri poprite, fără prejudițiul acțiunei publice pentru pedepsirea, atât a fraudei (înșelăciunei), cât și chiar a întrebuințărei greutăților și măsurilor minciunoase2).
-
-Pedeapsa, în caz de înșelăciune, este prescrisă la articolul precedent, iar pedeapsa pentru simpla întrebuințare de măsuri și greutăți minciunoase este prevăzută la cartea III3) a acestui codice, privitoare la pedepsele de simplă poliție.
-
-
-1) A se vedea nota de sub art. 333 Codul penal.
-
-2) În textul francez se zice <<măsuri oprite>>, în loc de măsuri minciunoase>>, cum e în textul român, deoarece despre măsurile minciunoase se ocupă articolul precedent, pe când art. 337 are în vedere numai măsurile oprite.
-
-3) În textul oficial, din eroare, se trimite în loc de cartea III, la cartea IV, care nici nu există.
-
-Art. 338. -
-Se va pedepsi cu închisoare dela o lună până la un an, acela care strică, sfărâmă, rupe sau desființează, în paguba altuia, titluri sau acte care nu erau ale lui sau cari erau ale lui numai în parte.
-
-Art. 339. -
-Ori-ce edițiune de scrieri, de compuneri muzicale, de desenuri, de pictură, sau de ori-ce altă producțiune, care se va fi tipărit sau gravat cu ori-ce mijloc, fără voia autorului, se socotește contrafacere, și ori-ce contrafacere este delict4).
-
-
-4) A se vedea <<Legea Presei>> din 13 Aprilie 1862.
-
-Art. 340. -
-Vânzarea de scrieri contra-făcute, introducerea în România de scrieri cari, după ce s'au tipărit aici, se vor fi contrafăcut în străinătate, este delict tot de acel fel.
-
-Art. 341. -
-Pedeapsa contrafăcătorului sau a introducătorului, va fi amenda dela 100 până la 2000 lei; iar pentru vânzător, amenda dela 26 pînă la 500 lei5).
-
-Confiscațiunea edițiunei contrafăcute se va hotărî atât în privința contrafăcătorului, cât și contra introducătorului și a vânzătorului.
-
-Asemenea se vor confisca și tablele și tiparul cu care se va fi făcut contrafăcuta edițiune.
-
-
-5) A se vedea nota 2 dela art. 1 și 399 Codul Penal.
-
-Art. 342. -
-Ori-ce director, ori-ce întreprinzător de teatre, ori-ce asociațiune de artiști, care va reprezenta pe teatru scrieri teatrale, fără voia autorului, se va pedepsi cu amendă dela 50 până la 500 lei6) și cu confiscațiunea banilor ce se vor fi strîns la acea reprezentațiune.
-
-La întâmplările prevăzute prin cele din urmă 4 articole, produsul confiscațiunilor se va da proprietarului, spre a lui despăgubire.
-
-
-6) A se vedea nota 2 dela art. 1 și 399 Codul Penal.
-
-VI. Bancrute
-
-Art. 343-348. -
-Abrogate și înlocuite cu dispozițiunile Codului Comercial relative la bancruta simplă și frauduloasă.
-
-VII. Jocuri de noroc, loterii, turburări și fraude
-întrebuințate la licitațiuni publice
-
-Art. 349.  
-Acei cari fac meserie din jocuri de noroc, se vor pedepsi cu amendă dela 100 până la 4000 lei1).
-
-
-1) A se vedea nota 2 dela art. 1 și art. 399, al. II Codul penal.
-
-Art. 350. -
-Acei cari vor ține casă de jocuri de noroc, primind obștește pe jucători sau după recomandațiune, precum și aceia cari, fără autorizațiunea legei, vor fi deschis o loterie publică se vor pedepsi cu închisoare până la șase luni și cu amendă dela 100 până la 4000 lei2).
-
-Către acestea, se vor lua, pe seama stabilimentelor publice de binefacere, toți banii sau biletele de bancă, său alte valori, ori lucrurile ce vor fi expuse la jocuri sau la loterii, precum și toate uneltele ce vor fi servit la aceasta.
-
-
-2) Art. francez corespunzator, 412, al. I, adaugă imediat după <<mișcătoare>> cuvintele: <<ou immobilieres>>.
-
-Art. 351. -
-Cei cari, în adjudicațiunile proprietăței, uzufructului sau închirierea lucrurilor mișcătoare ori a vre-unei întreprinderi sau a ori-cărei aprovizionări, vor împiedica sau turbura libera concurență la licitațiuni, sau la sumisiuni prin oferte, întrebuințând violență sau amenințări, ori înaintea, sau în timpul licitațiunilor ori sumisiunilor, se vor pedepsi cu închisoarea dela 15 zile până la șase luni și cu amendă dela 100 până la 2500 lei.
-
-Aceia ce, formând asociațiuni cu scopul de a specula asupra licitațiunilor publice, vor depărta pe concurenți, prin daruri, promisiuni sau alte mijloace spre a face să scadă prețurile obiectelor puse în licitațiune, se vor pedepsi cu închisoare dela o lună până la un an3).
-
-
-3) Art. prusian corespunzător, 281, nu cuprinde și expresiunea: <<mișcătoare sau nemișcătoare>>.
-
-VIII. Distrucțiuni, degradațiuni și alte pagube
-
-Art. 352. -
-Acel care, cu rea voință și fără drept, distruge sau degradă lucrurile altuia, mișcătoare sau nemișcătoare4), se va pedepsi cu închisoarea până le șase luni.
-
-
-4) A se vedea art. 55 din <<Legea pentru înstrăinarea bunurilor Statului>> din 7 Aprilie 1889 (cu mod. 1902), care trimite, în privința penalităței faptelor prevăzute acolo, la art. 351 Codul penal.
-
-Art. 353. -
-Ori-care, cu voință, va dărâma ori va surpa, prin ori-ce mijloace, în tot sau în parte, zidiri, poduri, zăgaze, șosele sau alte clădiri, știindu-le că sunt străine, se va pedepsi cu închisoarea dela 15 zile până la un an, ori cu amendă care nu va trece peste a patra parte din despăgubirea cuvenită.
-
-Art. 354. -
-Ori-ce jefuire, stricăciune sau distrucțiune de producte, mărfuri, efecte sau alte lucruri, mobile ori imobile, ce vor fi ale altuia, de se va fi săvârșit de mai mulți oameni împreunați în ceată și cu voință, se va pedepsi cu recluziunea.
-
-Art. 355. -
-Acela care va desființa ori-ce semn sau ori-ce lucrare, care servă de hotar între proprietăți se va pedepsi cu închisoarea pînă la șase luni, ori cu amendă dela 50 până la 1000 lei1).
-
-
-1) Art, francez corespunzător, 457, nu cuprinde textul acestui al douilea aliniat. Al douilea aliniat francez, agravează pedeapsa în caz de degradațiuni.
-
-Art. 356. -
-Se vor pedepsi cu amendă, care nu va putea fi mai mare de a patra parte a despăgubirei ce se va cuveni, proprietarul sau arendașul, sau ori-ce altă persoană cari având mori, herăstraie, piue și alte asemenea, va înălța, cu voință, apa prin zăgazuri mai sus de cumpăna cuvenită și va cauza înnecăciune la drumuri sau la proprietățile altora.
-
-Iar meșterul care va fi lucrat înălțarea apei cu voință, fără a păzi cuvenita cumpănă, se va supune la închisoare dela o lună până la șase luni1).
-
-IX. Crime și delicte cari pun în pericol
-viața mai multor persoane
-
-Art. 357. -
-Ori-cine, cu voință, va pune foc la zidiri, corăbii, magazii, fabrici sau ori-ce alte clădiri, când sunt locuite sau servesc spre locuință, și, în general, la încăperi locuite sau servind spre locuință, de vor fi sau nu ale aprinzătorului, se va pedepsi cu munca silnică pe timp mărginit.
-
-La aceeaș pedeapsă se va supune cel ce va pune foc, cu voință, la clădiri ce servesc provizoriu pentru adunări de oameni, în timpul când au obiceiul de a se aduna acolo, fie ale sale aceste clădiri, fie ale altora.
-
-Asemenea se va pedepsi și acela care va da foc la trăsurile de drum de fer, la mine sau la alte locuri închise, ce servesc provizoriu pentru adunări de oameni, în timpul când aceștia au obiceiul de a se aduna acolo, fie ale sale aceste trăsuri, mine sau locuri închise, fie ale altuia.
-
-Art. 358. -
-Ori-care, cu voință, va pune foc la zidiri, corăbii, fabrici, magazii de obște sau de cherestrele, sau la ori-ce alte clădiri când nu sunt locuite, nici servesc spre locuință, sau la păduri ori la bucate nesecerate sau la fânețe necosite, se va pedepsi cu recluziunea dela cinci până la șapte ani, dacă acele lucruri nu vor fi ale lui.
-
-Art. 359. -
-Acela care, punând foc la unul din lucrurile menționate în articolul de mai sus, fiind al său, va cauza cu voință ori-ce pagubă altuia, se va pedepsi cu închisoarea dela șase luni până la doui ani.
-
-Art. 360. -
-Ori-care, cu voință, va pune1) foc la lemne tăiate în pădure sau la bucate secerate, sau la fânețe cosite, fie acele lemne grămădite ori așezate aproape unele de altele, precum și bucate grămădite ori făcute stoguri, sau fânul strâns în căpițe, clăi ori șire, dacă aceste lucruri nu vor fi ale lui, se va pedepsi cu recluziunea dela cinci până la șapte ani.
-
-
-1) Art. francez corespunzător, 434, al. V, se exprimă astfel: <<Celui qui en mettant ou en faisant mettre>> și are o enumerație mai lungă de obiecte.
-
-Art. 361. -
-Cel care puind1) foc la unul din lucrurile menționate în articolele de mai sus, fiind al său, va cauza, cu voință, ori-ce pagubă altuia, se va pedepsi cu închisoarea dela o lună până la doui ani.
-
-
-1) Art. francez corespunzător, 434, al. V, se exprimă astfel: <<Celui qui en mettant ou en faisant mettre>> și are o enumerație mai lungă de obiecte.
-
-Art. 362. -
-Cel care va fi comunicat focul la unul din lucrurile menționate în articolele de mai sus, puind cu voință foc la ori-ce lucru al său ori străin, dar așezat în chip încât să poată a se întinde focul, se va pedepsi cu pedeapsa hotărâtă pentru cei ce de-a dreptul vor fi pus foc unuia din acele lucruri.
-
-Art. 363. -
-La toate cazurile mai sus menționate, dacă focul a cauzat moartea uneia sau mai multor persoane cari se aflau în locurile aprinse, când s'a ivit focul, pedeapsa va fi munca silnică pe timp mărginit.
-
-Art. 364. -
-În toate cazurile prevăzute prin art. 357, 358, 359, 360, 361 și 362, dacă paguba cauzată prin punerea focului nu va trece peste suma de 600 lei2), judecătorul va putea scoborî penalitatea precum urmează: când pedeapsa va fi munca silnică, va putea aplica recluziunea; când pedeapsa va fi recluziunea, va putea aplica închisoarea corecțională, neputând-o scădea la mai puțin de un an; când penalitatea va fi închisoarea, o va putea scădea până la minimul de cincisprezece zile3).
-
-
-2) Aceștia sunt lei noi. A se vedea nota 2 dela art. 1 și art. 399, al. II Codul penal.
-
-3) Art. 364 Codul penal francez, nici în cel prusian, fiind o creațiune a legiuitorului nostru.
-
-Art. 365. -
-Cei ce vor surpa ori vor dărâma cu voință, prin mijlocul esploziunei vre-unei mine sau ierbării, zidării, corăbii, magazii publice sau de cherestele, se vor supune la pedepsele hotărîte prin articolele de mai sus, potrivit cu osebirile ce se fac într'acele articole.
-
-Art. 366. -
-Amenințarea de a pune foc la vre-o locuință, sau la ori-ce altă proprietate, se va pedepsi întocmai ca amenințarea de omor, după osebirile prescrise prin art. 235, 236 și 237.
-
-Art. 367. -
-Ori-care, cu voință, va arde sau va desființa prin ori-ce mijloace, registre, copii sau acte originale ale vre-unei autorități publice, documente, bilete, polițe, efecte de comerț sau de bancă în cari se va cuprinde sau din cari va rezsulta vre-o obligațiune, dispozițiune sau apărare, se va pedepsi precum urmează:
-
-Dacă lucrurile desființate sunt acte ale vre-unei autorități publice sau efecte de comerț sau de bancă, pedeapsa va fi maximul închisorii și interdicțiunea pe timp mărginit.
-
-Iară dacă lucrurile desființate vor fi ori-ce alt act sau înscris, culpabilul se va pedepsi cu închisoarea dela un an până la doi ani și cu amendă dela 100 până la 500 lei1).
-
-
-1) A se vedea nota 2 dela art. 1 și art. 399, al. II Codul penal.
-
-Art. 368. -
-Cel ce va otrăvi cu voință peștii în bălți, eleștaie ori havuzuri, se va pedepsi cu închisoarea dela o lună până la duoi ani și cu amendă dela 26 lei până la 100 lei2).
-
-
-2) A se vedea nota 2 dela art. 1 și art. 399, al. II Codul penal.
-
-Art. 369. -
-Acela care, cu voință, ocazionează o înnecăciune care aduce cu sine moartea vre-unei persoane, se va pedepsi cu munca silnică pe timp mărginit.
-
-Art. 370. -
-Acela care pune în pericol transportul pe drum de fer, sau stricând cu voință drumul, ori mijloacele de transport, sau celelalte dependinți ale drumului, sau ridicând, sau așezând, punând ori aruncând obiecte pe cale, sau scoțând din loc railurile, sau puind în cale ori-ce alt obstacol, se va pedepsi cu recluziunea.
-
-Dacă actul a cauzat leziuni corporale grave vre-unei persoane, pedeapsa va fi munca silnică pe timp mărginit, iar dacă se va fi cauzat moarte vre-unei persoane, culpabilul se va pedepsi cu munca silnică pe toată viața.
-
-Art. 371. -
-Acela care, printr'unul din actele prevăzute la articolul de mai sus, pune, fără voință, în pericol transportul pe un drum de fer, se va pedepsi cu închisoare până la un an cel mult, iar dacă actul a cauzat moartea vre-unei persoane, se va pedepsi cu închisoarea dela două luni până la doui ani.
-
-Aceeaș pedeapsă se va aplica conducătorilor de trenuri și inspectorilor căilor sau ai serviciilor de transport, cari, prin neglijența datoriilor lor, pun transportul în pericol.
-
-Art. 372. -
-Acela care, cu voință, comite acte de natură a împiedica ori a stăvili serviciul unui stabiliment telegrafic al Statului sau al unei companii, se va pedepsi cu închisoarea dela o lună până la doui ani.
-
-Art. 373. -
-Actele de asemenea natură sunt mai cu deosebire: scoaterea, destrucțiunea sau degradațiunea firelor telegrafice, a stâlpilor telegrafici, a aparatelor sau a altor materiale ale stabilimentelor telegrafice, atârnarea de obiecte străine pe firele conducătoare ale telegrafului, falsificarea semnelor date de către telegraf, împiedicarea adusă, sau la reparațiunea unui stabiliment telegrafic distrus ori degradat, sau la îndeplinirea serviciului impiegaților.
-
-Art. 374. -
-Dacă împiedicarea, sau stăvilirea, adusă cu voință la serviciul telegrafic, a ocazionat leziuni corporale sau boală unei persoane, culpabilul va fi pedepsit cu recluziunea; iar dacă se va fi urmat moartea unei persoane, osânda va fi munca silnică pe timp mărginit.
-
-Art. 375. -
-Acela care, fără voință, va împiedica sau va stăvili serviciul unui stabiliment telegrafic al Statului sau al unei companii, se va pedepsi cu închisoarea cel mult până la șase luni; iar dacă se va fi urmat din acesta moartea unei persoane, pedeapsa va închisoarea dela o lună până la un an.
-
-Dacă faptul se va fi urmat din partea impiegaților telegrafului prin negligența datoriilor lor, pedeapsa va fi închisoarea până la un an; iar de se va fi urmat moartea vre-unei persoane, închisoarea va fi dela două luni până la doui ani.
-
-Art. 376. -
-Acela care, cu voință va destruge sau va degrada șosele, poduri, apeduce, stăvilare, leși, zăgazuri, iazuri, sau alte lucrări hidraulice ori de siguranță, acela care împiedică navigațiunea pe râuri, pe gârle sau pe canaluri navigabile, se va pedepsi cu închisoarea până la șase luni sau cu amendă dela 26 până la 2000 lei1).
-
-Iar dacă din asemenea acte se va compromite sănătatea sau viața vre-unei persoane, pedeapsa va fi închisoarea dela o lună până la doui ani, sau amendă dela 100 până la 5000 lei1).
-
-Dacă actul a cauzat leziuni corporale grave unei persoane, pedeapsa va fi doui ani închisoare; iar dacă va fi cauzat moarte vre-unei persoane, pedeapsa va fi recluziunea.
-
-
-1) A se vedea nota 2 dela art. 1 și art. 399, al. II Codul penal.
-
-Art. 377. -
-Acela care nu execută măsurile luate de guvern, privitoare la izolarea, la preveghierea sau la poprirea de-a importa, spre a întâmpina introducerea sau întinderea unei boale contagioase (molipsitoare), se va pedepsi cu închisoarea până la doui ani; iar dacă, din cauza unei asemenea infracțiuni, vre-o persoană se va fi molipsit, pedeapsa va fi închisoarea dela doue luni până la doui ani.
-
-Art. 378. -
-Acela care nu execută măsurile prescrise de guvern relative la izolarea, preveghierea sau la poprirea de a importa, spre a preîntâmpina introducerea sau întinderea epizootiei, se va pedepsi cu închisoarea până la un an cel mult.
-
-Iar dacă, în urma unei asemenea infracțiuni, se vor fi molipsit vite, pedeapsa va fi închisoarea dela o lună până la un an și jumătate.
-
-Art. 379. -
-Acela care, după ce a încheiat cu autoritatea publică contracte pentru aprovizionarea armatei în timp de răsboiu, sau pentru transporturi de obiecte de hrană destinate a preîntâmpina sau a face să înceteze vre-o calamitate publică, se abține cu voință de a executa contractul la timp sau la locul fixat, sau care nu execută contractul conform cu tocmeala, se va pedepsi cu închisoarea dela șase luni până la doui ani.
-
-Iar dacă neexecutarea contractului provine din negligență și va ocasiona vre-o pagubă, culpabilul se va pedepsi cu închisoarea cel mult până la un an.
-
-Art. 380. -
-Aceste pedepse se vor aplica și sub-contactanților sau agenților ori împuterniciților de contracte, cari, cunoscând scopul aprovizionărilor, au făcut cu voință sau din neglijență a nu se îndeplini serviciul.
-
-CARTEA III
-CONTRAVENȚIUNI POLIȚIENEȘTI ȘI PEDEPSELE LOR
-CAPITOLUL I
-Pentru pedepse
-Art. 381. -
-Pedepsele polițienești sunt:
-
-381.1. Închisoarea;
-
-381.2. Amenda;
-
-381.3. Confiscațiunea de oare-cari lucruri ce se vor fi prins.
-
-Art. 382. -
-Pentru abaterile polițienești, închisoarea nu va putea fi mai puțină de o zi, nici mai mare de 15 zile, după osebirile ce se vor arăta mai jos.
-
-Zilele de închisoare vor fi de 24 ore pe deplin fie-care.
-
-Art. 383. -
-Amenda, pentru abaterile polițienești, va fi dela 5 lei până la 25 lei1), după deosebirile ce se vor arăta mai jos. Amenzile se vor lua în folosul comunei unde s'a comis contravențiunea.
-
-
-1) Conform art. 399, al. III, <<amenzile pentru contravențiuni se socotesc în lei noi, fără nici o reducere>>.
-
-Art. 384. -
-Judecătorul de plasă sau primarul va putea, în cazurile prescrise de legiuire, să hotărască confiscațiunea, sau a lucrurilor prinse în fapte de abatere, sau a lucrurilor provenite din abateri, sau a lucrurilor ori a instrumentelor care au servit, ori aveau a servi spre săvârșirea abaterei.
+Art. 312. - Reviste (1)
+Acela care săvârșește faptul prevăzut în art. 255, contra ministrului unui cult recunoscut de Stat, care se găsește în exercițiul funcțiunii sale, comite delictul de ultraj cu violență contra ministrului unui cult și se pedepsește potrivit acelui articol.
 
 CAPITOLUL II
-Contravențiuni și pedepse
-I. Întâia clasă
+Delictele contra respectului datorit morților
+Art. 313. -
+Acela care, prin orice mijloace, profanează un mormânt, urnă sau monument funerar, comite delictul de profanare de mormânt și se pedepsește cu închisoare corecțională dela 3 luni la un an și amendă, dela 2.000 la 5.000 lei.
 
+Aceeași pedeapsă se aplică și aceluia care, prin violență sau amenințare, turbură un cortegiu sau serviciu funebru, ori împiedecă îngroparea sau incinerarea unui mort.
+
+Art. 314. -
+Acela care, prin orice mijloace, săvârșește un act de profanare asupra unui cadavru, comite delictul de profanare a cadavrului și se pedepsește cu închisoare corecțională dela 6 luni la 2 ani.
+
+TITLUL VI
+Crime și delicte în contra liniștei publice
+CAPITOLUL I
+Asocierea pentru comiterea de crime și delicte
+Art. 315. - Jurisprudență (1)
+Simplul fapt al asocierii, în scopul de a prepara sau de a executa crime sau delicte contra vieții, integrității corporale sau libertății persoanelor, ori contra bunurilor, oricare ar fi durata asociației și numărul membrilor ei, precum și orice înțelegere stabilită în același scop, constituie delictul de asociațiune contra liniștei publice și se pedepsește cu închisoare corecțională dela 2 la 6 ani și amendă dela 5.000 la 50.000 lei.
+
+Dacă asociații sau acei care stabiliseră înțelegerea, aveau calitatea de funcționari publici sau erau plătiți sub orice formă de așezăminte puse sub controlul Statului, precum și în cazul când formarea asociației sau stabilirea înțelegerii s'a făcut într'un local consacrat cultului, învățământului sau educației, ori în localul unei instituții de Stat, județ, comună sau altei instituții pusă sub controlul vreuneia din aceste autorități, pedeapsa este închisoarea corecțională dela 3 la 8 ani și amenda dela 10.000 la 100.000 lei.
+
+Art. 316. -
+Pedepsele prevăzute în art. 315 se aplică și acelora care se afiliază la asociația formată în scopul specificat în articolul precedent sau la o înțelegere stabilită în același scop.
+
+Art. 317. -
+Instigarea la infracțiunile de mai sus se pedepsește potrivit art. 315, după distincțiile din acel articol, fie că a fost sau nu urmată de efect.
+
+Art. 318. -
+Pedepsele prevăzute la art. 315 se aplică și acelora care dau instrucții pentru fabricarea, mânuirea sau întrebuințarea mașinilor, armelor, instrumentelor sau oricărui alt mijloc, în scopul de a folosi unei asociațiuni pentru executarea unei crime sau delict din acelea arătate în art. 315.
+
+Art. 319. -
+Se pedepsește cu închisoare corecțională dela unu la 5 ani și amendă, dela 10.000 la 100.000 lei acela care ajută pe autorii infracțiunilor din art. 315, procurându-le instrumente, mijloace de corespondență sau de propagandă, ori locuință sau loc pentru dosirea materialelor destinate executării crimelor sau delictelor prevăzute de art. 315.
+
+CAPITOLUL II
+Crime și delicte de incursiune pe teritoriul țării
+Art. 320. -
+Simplul fapt de a face parte dintr'o ceată sau bandă, oricare ar fi numărul membrilor ei, venită de peste hotare, în scopul de a comite crime în contra persoanelor sau bunurilor, constitue delictul de incursiune pe teritoriul țării și se pedepsește cu închisoare corecțională dela 5 la 10 ani.
+
+Dacă însă s'a încercat sau s'a săvârșit tâlhărie sau omor, pedeapsa este munca silnică pe vieață.
+
+Aceste dispozițiuni se aplică și cetățenilor români sau strâini aflați pe teritoriul național, dacă intră într'o asemenea ceată sau bandă.
+
+Art. 321. -
+Acela care dă adăpost indivizilor care fac parte din acele cete sau bande, ori le dă loc de ascundere, întâlnire sau scăpare, comite delictul de favorizare a incursiunii și se pedepsește cu închisoare corecțională dela 2 la 5 ani și interdicție corecțională dela unu la 3 ani, iar dacă favorizarea s'a făcut în mod obișnuit, pedeapsa este închisoarea corecțională dela 3 la 7 ani și interdicția corecțională dela 3 la 5 ani.
+
+Art. 322. -
+Se pedepsește cu închisoare corecțională dela 3 luni la un an, acela care având cunoștință despre aceste cete sau bande, despre locurile unde se ascund sau se întâlnesc, nu înștiințează la timp autoritățile pentru prinderea lor.
+
+Dispozițiunile art. 287 se aplică și în cazurile prevăzute de acest articol.
+
+CAPITOLUL III
+Ațâțări, instigări și alte delicte contra liniștei publice
+Art. 323. -
+Acela care expune sau poartă în public, embleme, insigne, uniforme, steaguri sau pancarte, când prin acestea se manifestă afilierea la o asociație sau înțelegere pedepsită de lege, sau se aduce aprobarea, în mod neîndoios, a unui fapt pedepsit de lege sau dacă, aceasta constitue o ațâțare, îndemnare sau încurajare la rebeliune sau la desordine, comite delictul de ațâțare contra liniștei publice și se pedepsește cu închisoare corecțională dela 2 luni la 2 ani și amendă dela 2.000 la 5.000 lei.
+
+Aceeași pedeapsă se aplică și aceluia care vinde sau răspândește, în orice chip, în public, steaguri sau alte insigne de natură a propaga rebeliunea sau a turbura liniștea publică.
+
+Art. 324. -
+Acela care poartă în public, fie chiar acoperite, uniforme, embleme, insigne sau steaguri neaprobate de autoritatea publică sau de lege, se pedepsește cu închisoare corecțională dela una la 3 luni.
+
+În cazul alineatului precedent, când uniformele, emblemele, insignele sau steagurile sunt ale unui stat străin ori ale unei instituțiuni sau asociațiuni străine, pedeapsa este închisoarea corecțională dela 2 la 6 luni și amenda dela 1.000 la 2.000 lei.
+
+Art. 325. - Jurisprudență (1)
+Constituie delictul de răspândire de publicațiuni interzise și se pedepsește cu închisoare corecțională dela unu la 2 ani și amendă dela 2.000 la 5.000 lei faptul de a reproduce, vinde sau distribui scrieri, desene ori imprimate declarate ilicite, printr'o hotărîre judecătorească definitivă.
+
+Aceeași pedeapsă se aplică și aceluia care introduce, reproduce, vinde ori distribue scrieri, desene ori imprimate străine a căror introducere în țară a fost interzisă de autoritatea în drept.
+
+Art. 326. -
+Aceia care, fără încuviințarea autorităților competente, se organizează militărește, comit delict contra liniștei publice și se pedepsesc cu închisoare corecțională dela unu la 3 ani.
+
+Art. 327. -
+Acela care, prin orice mijloace, instigă direct publicul la nesupunere către legi sau către autoritățile constituite, ori la ură contra unei clase sociale, naționalități sau confesiuni, comite delictul de instigare publică și se pedepsește cu închisoare corecțională dela 2 luni la un an și amendă dela 2.000 la 5.000 lei.
+
+De asemenea constituie delictul de instigare publică și simplul fapt de a îndemna publicul, prin orice mijloace și în mod direct, la, săvârșirea vreunei crime sau delict, și se pedepsește, în caz de îndemn la crimă, cu închisoare corecțională dela 2 la 5 ani; iar în caz de îndemn la delict, cu închisoare corecțională dela 6 luni la 2 ani. Când îndemnul se referă la infracțiuni politice, pedeapsa este detențiunea simplă pe aceeași durată.
+
+Pedeapsa închisorii corecționale dela 3 luni la un an se aplică și aceluia care ar propaga doctrine religioase contrarii legilor de organizare a Statului sau instituțiunilor sale sau care, prin practicele lor rituale, sunt contrarii ordinei publice sau bunelor moravuri.
+Jurisprudență (4)
+
+Când propaganda arătată în alineatul precedent s'ar face prin presă, broșuri, cărți și când atare publicațiuni ar conține o defăimare în contra cultelor recunoscute de Stat, pedeapsa închisorii este dela 6 luni la 2 ani.
+
+Art. 328. -
+Acela care, în public, prin orice mijloace, laudă fapte calificate crime sau delicte, sau pe autorii, instigatorii ori complicii lor, comite delictul de apologie a infracțiunilor și se pedepsește cu închisoare corecțională dela 2 luni la un an.
+
+Aceeași pedeapsă se aplică și aceluia care deschide subscripție publică, pentru a se plăti cheltuielile, despăgubirile sau amenzile celor condamnați ori pentru a le da ajutor.
+
+Art. 329. -
+Publicarea sau reproducerea de știri false, de documente, închipuite, falsificate sau pe nedrept atribuite altora, când asemenea vești sunt de natură să turbure liniștea publică, constituie delictul de răspândire de știri false și se pedepsește cu închisoare corecțională dela 2 la 6 luni și amendă dela 2.000 la 10.000 lei.
+
+Art. 330. -
+Când cete sau adunări, fie că aparțin ori nu vreunei asociații, săvârșesc acte de violență contra persoanelor sau bunurilor, în scopul de a manifesta, prin aceasta ură sau ostilitate contra unei clase sociale, naționalități sau confesiuni, comit delictul de violență contra armoniei sociale și se pedepsesc instigatorii și conducătorii cu închisoare corecțională dela unu la 2 ani și amendă dela 2.000 la 10.000 lei, iar ceilalți participanți cu închisoare corecțională dela 6 luni la un an și amendă dela 2.000 la 5.000 lei, întru cât nu s'au făcut vinovați de infracțiuni mai grave.
+
+Art. 331. -
+Când se întrunesc adunări sau cete, care turbură liniștea publică, dacă cei ce participă nu se risipesc după trei somațiuni ce li se fac de către autoritățile competente și sunt prinși pe loc, comit delictul de înfruntare a autorității și se pedepsesc cu detențiune simplă dela o lună la un an, iar instigatorii și conducătorii cu detențiune simplă dela 6 luni la 2 ani.
+
+Participanții care poartă arme se pedepsesc cu detențiune simplă dela unu la 2 ani.
+
+Dacă, cu ocazia unei adunări care turbură liniștea publică, sub impulsul mulțimii agitate, s'au comis crime sau delicte, autorii, instigatorii și complicii cunoscuți, se pedepsesc potrivit dispozițiunilor referitoare la acele infracțiuni.
+
+Aceia care, făcând parte din mulțimea agitată, au fost prinși la locul sau în imediata apropiere a locului unde s'a săvârșit infracțiunea, se pedepsesc în caz de crimă, cu închisoare corecțională dela 3 luni la un an, iar în caz de delict, cu închisoare corecțională dela una la 3 luni, afară de cazul când pedeapsa prevăzută de lege pentru infracțiunea respectivă ar fi mai mică.
+
+Art. 332. -
+Dacă o ceată săvârșește violențe în contra persoanelor sau bunurilor, în stradă, piață sau orice alt loc deschis, pedeapsa pentru fiecare individ este închisoarea corecțională dela 6 luni la 2 ani și amenda dela 2.000 la 5.000 lei, întru cât nu s'au comis infracțiuni pedepsite de lege cu pedepse mai mari.
+
+Art. 333. -
+Comit delictul de răsvrătire colectivă contra liniștei muncitorești și se pedepsesc cu închisoare corecțională dela 2 luni la un an și amendă dela 2.000 la 5.000 lei aceia care, întruniți în ceată:
+
+1. se îngrămădesc în fața fabricilor, atelierelor sau în fața localurilor unde lucrează muncitori, ori în fața locuinței patronului sau a șefului de atelier, sau în fața locului unde se află aceștia, spre a împiedeca începerea sau continuarea lucrului sau spre a hotărî pe lucrători să părăsească lucrul;
+
+2. săvârșesc acte de violență împotriva unui lucrător sau patron, în scopul sporirii sau reducerii salariului;
+
+3. se închid sau se baricadează în clădirile publice sau în clădirile întreprinderilor industriale ori comerciale, publice sau private, și refuză de a părăsi acele localuri, după somația autorității competente.
+
+Art. 334. -
+Tatăl sau mama minorului, precum și orice persoană însărcinată cu supravegherea și educația lui, comit delict contra liniștei publice și se pedepsesc cu amendă dela 2.000 la 5.000 lei, dacă din cauza acțiunii, atitudinei, sau toleranței lor, minorul se găsește luând parte la manifestații ce pot turbura liniștea publică.
+
+În caz de recidivă pedeapsa se îndoește.
+
+Art. 335. -
+Acela care, în mod clandestin, fabrică, strânge, transportă sau păstrează arme, muniții de orice fel, mașini infernale, explosibile omorîtoare sau incendiatoare, în scop de a le întrebuința ei însuși sau a le da făcătorilor de rele pentru săvârșire de crime sau delicte, comite delictul de înlesnire a infracțiunilor contra liniștei publice și se pedepsește cu închisoare corecțională dela unu la 5 ani și amendă dela 2.000 la 10.000 lei, întru cât nu s'au comis infracțiuni lovite de lege cu pedepse mai mari.
+
+Art. 336. -
+Când infracțiunile prevăzute în acest capitol sunt săvârșite de către un funcționar public, se aplică pedepsele prevăzute de lege pentru aceste infracțiuni, sporindu-se cu un plus până la 2 ani.
+
+CAPITOLUL IV
+Dispozițiuni comune capitolelor I, II și III din
+prezentul titlu
+Art. 337. -
+Acela care, având cunoștința despre vreuna din infracțiunile prevăzute de art. 315, 316, 317, 318, 319, 326 și 335, omite să o denunțe mai înainte de a fi fost descoperită sau de a se fi început executarea ei, se pedepsește cu închisoare corecțională dela 2 luni la un an.
+
+Nu se pedepsesc persoanele arătate în art. 287 nici aceia care, mai înainte de orice urmărire, vor fi încunoștiințat autoritățile competente despre infracțiune, sau care, chiar după ce culpabilii au fost descoperiți sau după ce s'a început urmărirea, au înlesnit arestarea acestora.
+
+CAPITOLUL V
+Vagabondaj și cerșetorie
+SECȚIUNEA I
+Vagabondajul
+Art. 338. -
+Acela care nu are domiciliu stabil, nici mijloace de trai, și care nu exercită, în mod obișnuit o profesiune sau meșterie, deși ar avea putința sau mijlocul, comite delictul de vagabondaj.
+
+De asemenea comite delictul de vagabondaj și persoana capabilă de muncă, cu domiciliu stabil, care, deși lipsită de mijloace normale de trai, refuză a se angaja, timp de 15 zile, dela oferta de muncă, potrivită cu aptitudinile sale, ce i s'a făcut, fie de către organele Statului, județului sau comunei, fie de către societățile de asistență, remunerată cu cel puțin două treimi din prețul zilei.
+
+Art. 339. -
+Vagabondajul se pedepsește cu închisoare corecțională dela una la 6 luni.
+
+Instanța poate pronunța măsura de siguranță din art. 75, în condițiile acolo prevăzute.
+
+SECȚIUNEA II
+Vagabondajul special
+Art. 340. -
+Comite delictul de vagabondaj și acela care, fie că are sau nu domiciliu stabil, își câștigă mijloacele de trai, în mod obișnuit, practicând sau înlesnind, pe drumuri publice sau pe locuri deschise, jocuri de noroc neîngăduite de lege, și se pedepsește cu închisoarea corecțională dela 3 luni la un an.
+
+Acela care a eliberat declarație falsă de muncă sau serviciu infractorilor din alin. precedent, se pedepsește cu închisoare corecțională dela 3 la 6 luni.
+
+SECȚIUNEA III
+Cerșetoria
+Art. 341. -
+Orice persoană care, deși dispune de mijloace de trai sau are putința să-și procure întreținerea prin muncă, cere pomană în public, comite delictul de cerșetorie și se pedepsește cu închisoare corecțională dela una la 6 luni.
+
+Art. 342. -
+Orice cerșetor, care a făcut uz de amenințare, sau a intrat într'o casă sau în dependințele acesteia, fără permisiunea proprietarului sau acelor care o locuiesc, precum și acela care a simulat răni, boale, sluțiri, orice alte infirmități, spre a inspira mila publică, sau cerșește cu copii mici în comunele unde sunt aziluri publice de copii, se pedepsește cu închisoare corecțională dela 3 luni la un an.
+
+Aceeași pedeapsă se aplică și acelora care cerșesc în grup.
+
+Nu se consideră ca cerșind în grup, soțul cu soția, părinții cu copii, orbul sau ologul cu conducătorul lor.
+
+Art. 343. -
+Cerșetorul care insultă pe acela care a refuzat să-i dea pomană, se pedepsește cu închisoare corecțională dela una la 3 luni.
+
+SECȚIUNEA IV
+Dispoziții comune vagabonzilor și cerșetorilor
+Art. 344. -
+Nimeni nu poate fi declarat culpabil de vagabondaj sau cerșetorie, dacă nu are vârsta de cel puțin 14 ani împliniți.
+
+Vagabonzii și cerșetorii care au fost condamnați, conform art. 339 și 341, își execută pedeapsa într'o colonie penitenciară, anume destinată în acest scop, unde sunt supuși la muncă.
+
+Ei sunt întrebuințați, fie în colonie, fie în afară, la lucrări agricole, industriale sau de utilitate publică.
+
+Condamnații internați în condițiile de mai sus pot beneficia de dispozițiunile relative la liberarea condiționată.
+
+Art. 345. -
+Vagabondul sau cerșetorul care este prins deghizat sau travestit, ori purtând arme, deși nu le-a întrebuințat, sau acela asupra căruia ce găsește pașaport, bilet de drum sau de identitate false, sau pe urmele altor persoane, precum și acela care poartă asupra sa unelte sau instrumente pentru săvârșire de infracțiuni, se pedepsește cu închisoare corecțională dela 6 luni la 2 ani.
+
+SECȚIUNEA V
+Vagabonzii și cerșetorii minori
+Art. 346. -
+Comite delictul de vagabondaj adolescentul (art. 138, alin. 3), care, fără cauză legitimă, a părăsit domiciliul părinților sau tutorului, sau locul unde era plasat de cei în drept și a fost găsit fie rătăcind fără profesiune sau meserie. fie trăind din desfrâu sau alte fapte imorale.
+
+Adolescentul care, aflându-se în condițiunile de mai sus, a fost găsit cerșind, se face culpabil de cerșetorie. Pedeapsa este, în cazul alin. 1, aceia din art. 339, iar în cazul alin. 2, aceia, din art. 341.
+
+Art. 347. -
+Copilul care este găsit vagabondând sau cerșind poate fi supus măsurilor prevăzute de art. 140.
+
+Când faptul de vagabondaj sau cerșetorie s'a comis de copil din îndemnul părinților sau tutorului, aceștia se pedepsesc cu închisoare corecțională dela 6 luni la un an, și cu decădere din puterea părintească sau tutelă.
+
+Art. 348. -
+Acela care, în scopul de a împărtăși folos de pe urma cerșitului, îndeamnă la aceasta pe un minor (art. 138, alin. 1), precum și acela care procură unui cerșetor un minor, spre a se servi de el la cerșit, comite delictul de exploatare a cerșetoriei și se pedepsește cu închisoare corecțională dela 6 luni la 2 ani și amendă dela 2.000 la 10.000 lei, iar dacă culpabilul este părintele sau tutorul, se aplică și decăderea prevăzută în articolul precedent.
+
+CAPITOLUL VI
+Delicte contra liniștei publice comise de către
+ministrul unui cult
+Art. 349. -
+Orice preot, călugăr sau predicator al unui cult, care, în adunările credincioșilor sau cu ocazia slujbei sale religioase, rostește o cuvântare prin care amenință pe credincioși cu pedepse spirituale, dacă se vor supune autorităților sau legilor, ori le acordă sau promite beneficii spirituale, dacă nu se vor supune, sau care leagă prin jurământ, luat individual sau colectiv, pe enoriași să urmeze anume credințe politice, comite delictul de abuz de putere spirituală și se pedepsește cu închisoare corecțională dela 6 luni la 2 ani când instigarea n'a fost urmată de efect, iar dacă a dat naștere la nesupunere, se pedepsește cu închisoare corecțională dela unu la 2 ani.
+
+Când această nesupunere a condus la o rebeliune, ce ar da loc la aplicarea de pedepse mai aspre, în contra unuia sau mai multora dintre culpabili, ministrul cultului se pedepsește cu aceleași pedepse.
+
+Art. 350. -
+Pedeapsa prevăzută de art. 349 se aplică ministrului cultului și în cazul când delictul de mai sus s'a comis prin scris, sub formă de instrucții pastorale, sau prin răspândire de publicațiuni.
+
+Art. 351. -
+Orice ministru al unui cult care, prin mijloacele arătate în articolele precedente, face propagandă pentru a provoca ura unei naționalități sau confesiuni religioase recunoscute de Stat în contra alteia, comite delictul de învrăjbire confesională și se pedepsește cu închisoare corecțională dela 6 luni la 2 ani și amendă dela 3.000 la 10.000 lei.
+
+TITLUL VII
+Crime și delicte care produc pericol public
+CAPITOLUL I
+Crime și delicte care produc pericol public prin
+întrebuințarea de explozibile și prin distrugere
+Art. 352. -
+Acela care, în scopul de a provoca un pericol public, aruncă bombe sau întrebuințează materii explosibile, gaze sau lichide corosive, asfixiante ori inflamabile, comite delictul de provocare de pericol public și se pedepsește cu închisoare corecțională dela 3 la 7 ani, amendă dela 5.000 la 10.000 lei și interdicție corecțională dela 2 la 5 ani.
+
+Comite acest delict și se pedepsește cu aceeași pedeapsă și acela care dărâmă, distruge, în tot sau în parte, edificii, clădiri sau orice alte construcții, în scopul de a provoca un pericol public.
+
+Când faptul a fost săvârșit asupra unui edificiu public sau destinat uzului public, monument, statue publică, cimitir, uzină, vas plutitor sau aeronavă, pedeapsa este închisoarea corecțională dela 5 la 10 ani, amenda dela 10.000 la 20.000 lei și interdicția corecțională dela 3 la 5 ani.
+
+Faptul constitue crima de provocare a pericolului public și se pedepsește:
+
+1. cu muncă silnică pe vieață dacă s'a cauzat moartea unei persoane;
+
+2. cu temniță grea dela 5 la 10 ani, amendă dela 10.000 la 15.000 lei și degradare civică dela 3 la 5 ani, dacă s'a cauzat o vătămare gravă sănătății sau integrității corporale a cuiva.
+
+CAPITOLUL II
+Incendiul
+Art. 353. -
+Comite delictul de incendiu și se pedepsește cu închisoare corecțională dela 2 la 6 ani, amendă dela 5.000 la 10.000 lei și interdicție corecțională dela unu la 3 ani acela care dă foc unei case, clădiri, uzine, fabrici, mori, păduri, grădini publice, unui edificiu, aeroport, magazin, pod, parc, stoc sau depozit de mărfuri, unor producte ale pământului, culese sau neculese, materiale lemnoase tăiate sau netăiate, aflate în grămezi sau depozite, sau oricăror alte lucruri.
+
+Dacă din incendiere rezultă un pericol public, pedeapsa este închisoarea corecțională dela 3 la 10 ani, amenda dela 5.000 la 15.000 lei și interdicția corecțională dela 2 la 5 ani.
+
+Dispozițiunile de mai sus sunt aplicabile și în caz când obiectele incendiate sunt proprietatea celui ce a dat foc, dacă incendiul expune la un pericol public.
+
+Art. 354. -
+Pedeapsa este închisoarea corecțională dela 3 la 8 ani, amenda dela 10.000 la 15.000 lei și interdicția corecțională dela 2 la 5 ani:
+
+1. dacă se dă foc unei case sau clădiri care servește de locuință;
+
+2. dacă se dă foc unui muzeu, edificiu public sau destinat uzului public, unei bisericii arhive publice, unor intrepozite ori fabrici sau depozite de materii inflamabile ori explosibile.
+
+Pedeapsa este închisoarea corecțională dela 5 la 10 ani, amendă dela 10.000 la 15.000 lei și interdicția corecțională dela 3 la 5 ani, când s'a dat foc uneia din clădirile prevăzute în alineatele precedente, în timpul când se găsea în ele una sau mai multe persoane.
+
+Art. 355. -
+Incendiul constitue crimă și se pedepsește cu muncă silnică dela 10 la 15 ani, și degradare civică dela 5 la 10 ani:
+
+1. dacă din cauza focului a murit o persoană, care, în timpul punerii focului, se afla în localul incendiat, sau în acela asupra căruia incendiul s'a întins, în cazul că acel care a dat foc putea să prevadă că în local se află cineva;
+
+2. dacă aceeași persoană a săvârșit, în același timp, ori în scurte intervale, mai multe incendii, sau dacă incendiul este comis în asociație cu mai multe persoane.
+
+Art. 356. -
+Pedeapsa este munca silnică dela 15 la 25 ani și degradarea civică dela 5 la 10 ani, dacă incendiatorul știa că în locul incendiat se află persoana care a murit din cauza incendiului, dacă fapta nu constitue o infracțiune mai gravă.
+
+Art. 357. -
+Acela care, din imprudență sau neglijență, aprinde vreunul din lucrurile menționate de art. 353 și 354, ce aparțin altora, comite delictul de incendiu neintenționat și se pedepsește cu închisoare corecțională dela 3 luni la un an și amendă până la 5.000 lei, iar dacă prin aceasta s'a cauzat vătămarea sănătății sau integrității corporale ori moartea unei persoane, pedeapsa este în caz de vătămarea sănătății sau integrității corporale, închisoarea corecțională dela 6 luni la 3 ani și amenda până la 10.000 lei, iar în caz de moarte, închisoarea corecțională dela unu la 5 ani și amenda până la 15.000 lei.
+
+Art. 358. -
+Tentativa delictelor din acest capitol, cu excepția celor prevăzute în articolul precedent, se pedepsește.
+
+Când faptul ar consista numai în prepararea incendierii, prin așezarea substanțelor inflamabile sau de natură a produce sau a comunica incendiul, fie la locul în care focul trebuia să isbucnească, fie în jurul lucrului destinat a fi incendiat, pedeapsa este închisoarea corecțională dela o lună la 6 luni și amenda dela 5.000 la 10.000 lei.
+
+CAPITOLUL III
+Crime și delicte contra siguranței transporturilor
+și a mijloacelor de convorbire
+Art. 359. -
+Acela care strică sau distruge, în totul sau în parte, o linie ferată sau obiectele ori instrumentele ce îi aparțin și servesc la funcționarea ei, și prin aceasta expune unui pericol persoanele sau mărfurile aflate în trenuri sau pe linia ferată, ori în apropierea acestora, comite delictul de pericol de catastrofă de cale ferată și se pedepsește cu închisoare corecțională dela 3 la 5 ani, amendă dela 3.000 la 7.000 lei și interdicție corecțională de la unu la 3 ani.
+
+Aceeași pedeapsă se aplică și aceluia care, prin o semnalizare falsă, expune unui pericol persoanele sau mărfurile arătate în articolul precedent.
+
+Tentativa se pedepsește.
+
+Art. 360. -
+Faptul arătat în art. 359, dacă produce o catastrofă de cale ferată prin deraierea, răsturnarea sau prăbușirea unui tren, ori ciocnirea între două trenuri, constituie crima de catastrofă de cale ferată și se pedepsește cu temniță grea dela 6 la 10 ani și degradare civică dela 3 la 6 ani.
+
+Art. 361. -
+Dacă în urma faptelor arătate în art. 359 și 360 a rezultat vătămarea sănătății sau integrității corporale a cuiva, în sensul art. 470 și 471, ori o distrugere de mărfuri, pedeapsa este aceea prevăzută în articolele de mai sus, cu un plus până la 2 ani, iar dacă s'a cauzat vreuna din consecințele prevăzute în art. 472, 473 și 474, pedeapsa se sporește cu un plus până la 3 ani, fără a se putea însă depăși maximum general al pedepsei respective.
+
+Când însă s'a produs moartea unei sau mai multor persoane, pedeapsa este în cazul art. 359, munca silnică dela 10 la 25 ani și degradarea civică dela 3 la 6 ani, iar în cazul art. 360, munca silnică pe vieață.
+
+Art. 362. -
+Funcționarul dela căile ferate sau orice persoană angajată în serviciul acestei instituții, care nu își îndeplinește îndatoririle sale de serviciu, sau lucrează contra îndatoririlor sale și prin aceasta expune la pericol persoanele sau mărfurile arătate în art. 359, se pedepsește cu închisoare corecțională dela 5 la 8 ani, amendă dela 7.000 la 12.000 lei și interdicție corecțională dela 3 la 5 ani, iar în cazul art. 360, pedeapsa este temnița grea dela 7 la 12 ani și degradarea civică dela 4 la 8 ani.
+
+Aceste pedepse se sporesc cu un plus până la 3 ani în cazul art. 361, alin. 1.
+
+Art. 363. -
+Acela care fără intenție săvârșește vreunul din faptele arătate în art. 359, 360, 361 și 362, se pedepsește: în cazul art. 359, cu închisoare corecțională dela unu la 2 ani și amendă dela 2.000 la 5.000 lei; în cazul art. 360, cu închisoare corecțională dela 3 la 5 ani și amendă dela 5.000 la 10.000 lei; în cazul art. 361, cu închisoare corecțională dela 5 la 8 ani și amendă dela 7.000 la 12.000 lei.
+
+Dacă culpabilul este persoana arătată în art. 362, pedeapsa este aceea prevăzută în alineatul de mai sus sporită cu un plus până la 2 ani.
+
+Art. 364. -
+Dispozițiunile art. 359, 360, 361 și 363 se aplică și când faptele se săvârșesc asupra unei șosele, pod, apeduct ori alte lucrări publice sau construcții, care servesc transporturilor pe uscat, pe apă sau aer, precum și asupra mijloacelor care servesc la acest scop, fie ale Statului, fie particulare.
+
+Aceleași dispozițiuni se aplică și în caz de împotmolire a unui vas.
+
+Art. 365. -
+Acela care strică sau distruge în totul sau în parte vreo instalație de telegraf, telefon sau radio, fie a Statului, fie particulară, dacă aceasta expune la un pericol public, comite delictul de pericol public prin stricarea mijloacelor de comunicații și se pedepsește cu închisoare corecțională dela unu la 5 ani, amendă dela 2.000 la 5.000 lei și interdicție corecțională dela unu la 2 ani.
+
+Este culpabil de acest delict și acela care pune în circulațiune semnale sau apeluri false de pericol ori împiedecă funcționarea instalațiilor arătate mai sus, dacă aceasta expune la un pericol public.
+
+Tentativa se pedepsește.
+
+Art. 366. -
+Dacă faptele prevăzute în art. 365 produc o calamitate sau o catastrofă publică, constituesc delictul de catastrofă publică prin stricarea mijloacelor de comunicație, iar pedeapsa este închisoarea corecțională dela 5 la 10 ani, amenda dela 7.000 la 12.000 lei și interdicția corecțională dela 3 la 5 ani, iar dacă s'a produs vreuna din consecințele prevăzute de art. 472, 473, 474 și 475, pedeapsa este închisoarea corecțională dela 7 la 10 ani, amenda dela 10.000 la 15.000 lei și interdicția corecțională dela 3 la 5 ani.
+
+Art. 367. -
+Dacă faptele prevăzute în art. 365 și 366 sunt săvârșite fără intențiune, pedeapsa este în cazul art. 365, închisoarea corecțională dela 3 la 6 luni și amenda dela 2.000 la 5.000 lei, iar în cazul art. 366, închisoarea corecțională dela unu la 3 ani și amenda dela 3.000 la 7.000 lei.
+
+Art. 368. -
+Dacă faptele prevăzute în art. 365, 366 și 367 sunt săvârșite de un funcționar sau persoană aparținând serviciului de telegraf, telefon sau radio, pedeapsa este aceea prevăzută în sus arătatele articole, după distincțiile acolo făcute, sporită cu un plus până la 2 ani, fără a se putea depăși maximum general.
+
+CAPITOLUL IV
+Alte delicte care produc pericol public
+Art. 369. -
+Acela care strică sau distruge în totul sau în partea vreo instalație de energie electrică sau de gaz, fie a statului, fie particulară, destinate iluminatului, încălzitului sau industriei, dacă aceasta expune la un pericol public, comite delictul de pericol public prin stricarea instalațiilor de energii se pedepsește cu închisoare corecțională dela unu la 5 ani, amendă dela 2.000 la 5.000 lei și interdicție corecțională dela unu la 2 ani.
+
+Dispozițiunile art. 366, 367 și 368 se aplică și în cazul faptelor prevăzute în prezentul articol.
+
+Tentativa se pedepsește.
+
+Art. 370. -
+Acela care strică, deschide sau distruge, în totul sau în parte, un dig, zăgaz, scoc, canal sau alte lucrări destinate apărării în contra apelor, avalanșelor, revărsărilor sau alunecărilor de teren, dacă aceasta expune la un pericol de inundație, surpare sau la orice alt pericol, comite delictul de pericol public de inundație sau surpare și se pedepsește cu închisoare corecțională dela unu la 5 ani, amendă dela 2.000 la 50.000 lei și interdicție corecțională dela unu la 2 ani.
+
+Dispozițiunile art. 366, 367 și 368 se aplică și în cazul faptelor prevăzute în prezentul articol.
+
+Tentativa se pedepsește.
+
+Art. 371. -
+Acela care, cu ocazia unui incendiu ori naufragiu, unei inundații, catastrofe de transport sau oricărei alte calamități sau catastrofe publice, sustrage, ascunde sau face inutilizabil materialul, aparatele sau mijloacele destinate pentru apărare, asistență sau salvare, ori împiedică sau zădărnicește aceste operațiuni, comite delictul de impiedecare a salvării în caz de catastrofă și se pedepsește cu închisoare corecțională dela 2 la 5 ani, amendă dela 2.000 la 7.000 lei și interdicție corecțională dela unu la 3 ani.
+
+Tentativa se pedepsește.
+
+Art. 372. -
+Acela care otrăvește un puț, izvor, apeduct, o fântână, conductă sau rezervor care conține apă potabilă, comite delictul de otrăvirea apelor și se pedepsește cu închisoare corecțională dela 5 la 10 ani, amendă dela 7.000 la 15.000 lei și interdicție corecțională dela 3 la 5 ani.
+
+Se pedepsește cu închisoare corecțională dela unu la 2 ani și amendă dela 2.000 la 5.000 lei acela care otrăvește apa nepotabilă pentru oameni, dar care servește de băut animalelor.
+
+Dacă faptele de mai sus au avut ca rezultat moartea vreunei persoane, se aplică pedeapsa prevăzută pentru omor, iar dacă, s'a cauzat moartea vreunui animal, se aplică închisoarea corecțională dela unu la 3 ani și amenda dela 2.000 la 5.000 lei.
+
+Tentativa se pedepsește.
+
+CAPITOLUL V
+Dispozițiuni comune capitolelor I, II, III și IV
+Art. 373. -
+Când vreuna din infracțiunile prevăzute în capitolele precedente s'a săvârșit în scopul indicat în art. 209, se aplică maximum pedepsei prevăzute pentru acea infracțiune.
+
+TITLUL VIII
+Delicte contra sănătății publice
+CAPITOLUL I
+Propagarea de epidemii și oricare alte
+boale contagioase
+Art. 374. -
+Acela care deține, pregătește sau răspândește culturi sau produse microbiene în scopul de a provoca boale la oameni sau animale, comite delictul de cauzare de epidemie și se pedepsește cu închisoare corecțională dela 5 la 10 ani, amendă dela 7.000 la 15.000 lei și interdicție corecțională dela 2 la 6 ani.
+
+Dacă în urma acestui fapt s'a produs moartea uneia sau mai multor persoane, pedeapsa este munca silnică pe viață.
+
+Art. 375. -
+Acela care calcă măsurile prescrise de autorități, pentru prevenirea sau localizarea boalelor contagioase, comite delictul de propagare a boalelor contagioase și se pedepsește cu închisoare corecțională dela 2 la 6 luni și amendă dela 2.000 la 5.000 lei.
+
+Dacă în urma acestui fapt s'a îmbolnăvit vreo persoană, pedeapsa este închisoarea corecțională dela 6 luni la 2 ani și amenda dela 2.000 la 7.000 lei; iar dacă s'a produs moartea uneia sau mai multor persoane, pedeapsa este închisoarea corecțională dela 3 la 5 ani și amenda dela 3.000 la 10.000 lei.
+
+Art. 376. -
+Acela care știind că este bolnav de o boală venerică, ascunzând această stare, transmite boala altei persoane, prin raport sexual, sau pe orice altă cale, comite delictul de contagiune venerică și se pedepsește cu închisoare corecțională dela 3 luni la un an și amendă dela 2.000 la 3.000 lei.
+
+Acțiunea penală se poate pune în mișcare numai la plângerea părții vătămate.
+
+Art. 377. -
+Acela care, știind că este bolnav de o boală venerică, în fază de contaminare, ascunde această boală, și căsătorindu-se, o transmite celuilalt soț, se pedepsește cu închisoare corecțională dela unu la 3 ani și amendă dela 2.000 la 5.000 lei.
+
+Acțiunea penală se poate pune în mișcare numai la plângerea părții vătămate.
+
+Art. 378. -
+Acela care calcă măsurile prescrise de autorități, pentru prevenirea sau localizarea unei boli contagioase pentru animale sau plante, sau a oricăror paraziți, ori dușmani vegetali sau animali ai sămănăturilor, plantațiilor, viilor ori pădurilor, comite delictul de cauzare de boli contagioase pentru animale sau plante și se pedepsește cu închisoare corecțională dela una la trei luni și amendă dela 2.000 la 5.000 lei.
+
+Dacă în urma acestui fapt s'a îmbolnăvit vreun animal, sau s'a contaminat semănătura, plantația, pădurea sau via altuia, pedeapsa este închisoare corecțională dela 3 la 6 luni și amendă dela 2.000 la 7.000 lei.
+
+CAPITOLUL II
+Alterarea și falsificarea de substanțe alimentare și
+medicamentoase. Traficul de substanțe stupefiante
+Art. 379. -
+Acela care amestecă sau pune să se amestece substanțe vătămătoare sănătății, în alimente sau băuturi destinate consumației publice, sau le falsifică în orice alt mod, făcându-le periculoase sănătății, precum și acela care păstrează în prăvălie sau în orice alt loc de vânzare sau depozit asemenea alimente sau băuturi falsificate sau alterate, comite delictul de falsificare sau alterare a substanțelor alimentare și se pedepsește cu închisoare corecțională dela 6 luni la 2 ani, amendă dela 2.000 la 5.000 lei și interdicție corecțională dela unu la 2 ani.
+
+Dacă acest fapt se săvârșește asupra altor lucruri sau substanțe destinate comerțului și produce un pericol pentru sănătate, pedeapsa este închisoarea corecțională dela 3 luni la un an, amenda dela 2.000 la 3.000 lei și interdicția corecțională dela unu la 2 ani.
+
+Pentru medicamente, adăugirea de substanțe străine se pedepsește după prevederile alin. 1.
+
+Art. 380. -
+Acela care pune în consumație alimente, băuturi, substanțe sau lucruri din acele arătate în art. 379, comite delictul de vânzări de substanțe falsificate sau alterate și se pedepsește cu închisoare corecțională de la unu la 3 ani, amendă dela 2.000 la 6.000 lei și interdicție corecțională dela unu la 2 ani.
+
+Art. 381. -
+Acela care, făcând comerț cu substanțe medicamentoase sau droguri, cu sau fără autorizație, le vinde, calitativ sau cantitativ, în neconformitate cu ordonanța medicală, sau altfel de cum au fost declarate sau convenite, dacă prin aceasta ar putea produce un pericol pentru sănătate, comite delictul de vânzare de medicamente primejdioase pentru sănătate și se pedepsește cu închisoare corecțională dela 2 luni la un an și amendă dela 2.000 la 3.000 lei.
+
+Art. 382. -
+Acela care, fără autorizație, importă, prepară sau deține substanțe stupefiante, în scop de a le vinde în mod clandestin sau fraudulos, precum și acela care vinde în mod clandestin sau fraudulos astfel de substanțe, comite delictul de comerț clandestin de stupefiante și se pedepsește cu închisoare corecțională dela unu la 3 ani și amendă dela 2.000 la 5.000 lei.
+
+Acela care, fără autorizație sau fără prescripție medicală, deține substanțe stupefiante, ori le oferă gratuit altora, se pedepsește cu închisoare corecțională dela 3 luni la un an și amendă dela 2.000 la 5.000 lei.
+
+Pedeapsa prevăzută în alin. 1 se aplică și aceluia care întrebuințează sau lasă să se întrebuințeze un local pentru întâlnirea mai multor persoane care se dedau la consumare de stupefiante.
+
+Medicul care prescrie unei persoane substanțe stupefiante fără nevoie temeinică, precum și farmacistul care le vinde, fără prescripție medicală, sau le vinde cu prescripție medicală falșă, se pedepsesc potrivit alin. 1 al acestui articol.
+
+CAPITOLUL III
+Dispozițiuni comune capitolelor I și II
+Art. 383. -
+Dacă faptele prevăzute la art. 379, 380, 381 și 382, cauzează o gravă vătămare sănătății sau integrității corporale a cuiva, pedeapsa este închisoarea corecțională dela 3 la 5 ani, amenda dela 5.000 la 10.000 lei și interdicția corecțională dela unu la 3 ani, iar dacă au cauzat moartea, pedeapsa este închisoarea corecțională dela 5 la 10 ani, amenda dela 7.000 la 15.000 lei și interdicția corecțională dela 3 la 5 ani.
+
+Art. 384. -
+Dacă faptele prevăzute în art. 374, 375, 379, 380, 381 și 382 alin. 4 se comit fără intenție, pedeapsa este închisoarea corecțională dela o lună la trei luni, iar dacă s'a produs vreo infirmitate din cele prevăzute la art. 472 și 473, pedeapsa este închisoarea corecțională dela 3 luni la un an, iar în caz de moarte se aplică pedeapsa din art. 467.
+
+TITLUL IX
+Crime și delicte contra intereselor publice
+CAPITOLUL I
+Falsificarea de monedă, titluri de credit public,
+mărci, timbre, hârtii timbrate, sigilii sau semne
+de autentificare, certificare ori recunoaștere
+SECȚIUNEA I
+Falsificarea de monedă
 Art. 385. -
-Se vor pedepsi cu amendă dela 5 până la 10 lei2):
+Comite delictul de falsificare de monedă și se pedepsește cu închisoare corecțională dela 5 la 10 ani, amendă dela 5.000 la 20.000 lei și interdicție corecțională dela 3 la 5 ani, acela care:
 
+1. contraface moneda; in.d;aco
 
-2) Conform art. 399, al. III, <<amenzile pentru contravențiuni se socotesc în lei noi, fără nici o reducere>>.
+2. alterează pe cea adevărată, dându-i aparența unei valori mai mari;
 
-385.1. Cei ce nu vor îngriji să țină în bună stare, să dreagă sau să măture coșurile (ogeacurile), sau ori-ce alt loc unde se află foc;
+3. alterează moneda scoasă din circulație, dându-i aparență celei aflate în circulație;
 
-385.2. Cei ce vor călca ordinul guvernului ce poprește de a da puști și pistoale prin orașe și târguri, sau focuri de artificii în ore-cari locuri;
-
-385.3. Cei ce nu vor îngriji să curețe ulițele la locurile unde această îngrijire este dată pe seama locuitorilor;
-
-385.4. Cei ce vor impiedica circulațiunea străzilor, punând pe dânsele, fără neapărată trebuință, materiale sau ori-ce alte lucruri care împiedecă ori împuținează libera trecere, precum și cei ce nu vor îngriji a lumina noaptea cu felinare materialele ce vor fi grămădite de dânșii sau găurile ce vor fi săpat lângă străzi și piețe publice;
-
-385.5. Cei ce nu se vor supune ordinului ce li se va da de către vre-o autoritate competentă, ca să dreagă sau să dărâme ziduri în stare proastă;
-
-385.6. Cei ce vor arunca înaintea locuinței lor lucruri cari vor fi de natură a vătăma, prin căderea sau putoarea lor, sănătatea;
-
-385.7. Cei ce nu vor ucide omizile prin grădini, sau pe locuri sădite de pe moșii, când se va pune o asemenea îndatorire de către autoritatea competentă și se va publica în tot cuprinsul ei.
-
-385.8. Cei ce, cu nesocotință, vor arunca asupra cui-va lucruri puturoase;
-
-385.9. Acei cari vor călca regulamentele făcute după lege de către puterea administrativă sau de către autoritatea municipală;
-
-385.10. Acei cari, afară din cazurile de furtișag, se vor prinde culegând sau pe loc fructe ale altuia;
-
-385.11. Acela care, fără drept, calcă și vatămă, sau cu piciorul sau cu vita, holdele altuia;
-
-385.12. Acela care, în public vor maltrata dobitoacele sau le va supune la poveri mai presus de puterea lor.
+4. micșorează conținutul ei metalic.
 
 Art. 386. -
-Se vor confisca încă și obiectele de artificii în cazul prevăzut de aliniatul al doilea al art. 385.
+Acela care, fără a participa la falsificare, introduce pe teritoriul statului monedă falsificată, cunoscută de el ca atare, comite delictul de introducere în țară a monedei falsificate și se pedepsește cu închisoare corecțională dela 3 la 5 ani, amendă dela 2.000 la 10.000 lei și interdicție corecțională dela unu la 3 ani.
+
+Dacă culpabilul săvârșește acest fapt în înțelegere cu autorul, complicele sau un intermediar al acestora, pedeapsa este aceea prevăzută în art. 386.
 
 Art. 387. -
-Pedeapsa închisorii dela o zi până la duoă zile se va putea aplica, pe lângă amendă, după circumstanțe, în contra celor căzuți în contravențiunea prevăzută la aliniatul 2 al art. 385.
+Acela care, în scopul de a pune în circulație, primește, dobândește, sau deține monedă falșificată, cunoscută de el ca atare, comite delictul de dobândire a monedei falsificate și se pedepsește cu închisoare corecțională dela 3 la 5 ani, amendă dela 2.000 la 5.000 lei și interdicție corecțională, dela unu la 3 ani.
+
+Dacă culpabilul primește monedă falsificată, de la autorul sau complicele falsificării, ori dela intermediarul lor, pedeapsa este închisoarea corecțională dela 4 la 7 ani, amenda, dela 3.000 la 10.000 lei și interdicția corecțională dela 2 la 5 ani.
 
 Art. 388. -
-La întîmplare de recidivă din partea celor menționați într'această secțiune, osândiții se vor supune la închisoare de trei zile.
+Acela care pune în circulație monedă falsificată, cunoscută de el ca atare, comite delictul de punere în circulație a monedei falsificate și se pedepsește cu închisoare corecțională dela 4 la 7 ani, amendă dela 3.000 la 10.000 lei și interdicție corecțională dela 2 la 5 ani.
 
-II. A doua clasă
+Dacă culpabilul săvârșește acest fapt în înțelegere cu autorii sau complicele falsificării, ori intermediarul acestora, pedeapsa este aceea din art. 385.
+
+Dacă punerea în circulație se face de către autorul falsificării, pedeapsa este închisoarea corecțională dela 7 la 10 ani, amenda dela 5.000 la 20.000 lei și interdicția corecțională dela 2 la 5 ani, iar dacă se face de complice, pedeapsa este închisoarea corecțională dela 5 la 10 ani, amenda dela 5.000 la 20.000 lei și interdicția corecțională dela unu la 3 ani.
 
 Art. 389. -
-Se vor pedepsi cu amendă dela 10 pînă la 15 lei1):
-
-
-1) Conform art. 399, al. III, <<amenzile pentru contravențiuni se socotesc în lei noi, fără nici o reducere>>.
-
-389.1. Birtașii, hangii și ori-ce asemenea închirietori, cari nu vor îngriji să înscrie îndată într'un registru regulat numele, pronumele, data intrărei și ieșirei a ori-cărei persoane în casele lor, precum și cei ce nu vor înfățișa asemenea registru când li se va cere de dregătorii competenți;
-
-389.2. Cărăușii, chirigii și ori-ce conducători de trăsuri sau de dobitoace de povară, cari nu vor sta totdeauna lângă caii sau dobitoacele lor, nu vor ținea o parte numai a străzilor sau a drumurilor ca să lase pe cealaltă liberă, spre trecerea celorlalte trăsuri ce vor umbla pe aceleași străzi sau drumuri;
-
-389.3. Cei ce vor da drumul sau vor lăsa să alerge caii, dobitoacele de tras, de povară sau de călărie înăuntrul unui loc locuit;
-
-389.4. Cei ce, umblând cu trăsurile prin străzile orașelor, sau nu-și vor păzi rândul, ori vor alerga prea iute;
-
-389.5. Birjarii și cei cu diligențe publice, cari nu vor avea număr la trăsura lor, ori cari vor lua plată mai mare decât cea hotărâtă;
-
-389.6. Cei ce vor așeza pe străzi, pe drumuri, în piețe sau bâlciuri, jocuri de loterie sau ori-ce alt joc de noroc;
-
-389.7. Cei ce vor vinde băuturi prefăcute, fără apărare de osânda hotărâtă la întâmplare când acele băuturi vor fi amestecate cu materii vătămătoare sănătăței;
-
-389.8. Cei ce vor lăsa să umble liberi nebunii sau furioșii cari vor fi sub paza lor, sau vor da drumul la dobitoace făcătoare de rău, precum și cei ce vor ațâța sau nu vor opri câinii lor, când se pornesc asupra trecătorilor, și chiar de nu ar fi rezultat din acesta vre-un rău sau vre-o pagubă;
-
-389.9. Cei ce vor arunca pietre sau alte lucruri tari ori gunoaie pe casele, zidurile și împrejmuirile altuia, sau în grădini ori împrejmuiri străine, precum și cei ce, cu voință vor arunca lucruri tari sau puturoase asupra cuiva;
-
-389.10. Acei cari, fără drept, vor intra în grădinile altuia, cănd sunt pe picior, sau în viile ori grădina altuia, când fructele sunt coapte sau aproape de coacere;
-
-389.11. Cei ce nu vor da ajutorul ce li se va cere la întâmplare de înnecăciune, de aprindere, de tâlhării, jefuiri, flagrant-delict, clamoare publică sau alte asemenea nevoi;
-
-389.12. Cei ce vor pune spre vânzare lucruri de mâncare stricate, clocite sau vătămătoare ori poame crude.
+Acela care primește o monedă falsificată, crezând că este adevărată, și apoi, luând cunoștință că este falsă, o pune în circulație, comite delictul de întrebuințare de monedă falsificată și se pedepsește cu amendă al cărei maximum este de cinci ori valoarea monedei repuse în circulație.
 
 Art. 390. -
-Se va putea, după împrejurări, pronunța, afară din amendă, și închisoarea până la trei zile cel mult, la cazurile prevăzute de aliniatele 2, 3, 4, 7 și 9 ale art. 389.
+Prin monedă se înțelege, moneda metalică sau de hârtie, națională sau străină și biletul de bancă național sau străin, având curs legal sau comercial pe teritoriul statului sau în străinătate.
 
+SECȚIUNEA II
+Falsificarea de titluri de credit public, mărci,
+timbre și hârtii timbrate
 Art. 391. -
-Se vor confisca:
-
-1. Mesele, instrumentele și gătirile de jocuri sau de loterii așezate pe străzi, pe drumuri și prin locuri publice, precum și banii ori lucrurile de loterie propuse jucătorilor;
-
-2. Băuturile prefăcute ce se vor găsi a fi ale vânzătorilor, se vor vărsa;
-
-3. Scrierile sau gravurile în contra bunelor moravuri ce vor rupe și se vor desființa;
-
-4. Lucrurile de mâncare stricate, clocite sau vătămătoare și poamele crude se vor lepăda.
+Sunt asimilate monedelor, în ce privește aplicarea legii penale, titlurile naționale sau străine emise de stat, județ sau comună și de instituțiile de credit controlate de stat.
 
 Art. 392. -
-La întîmplare de recidivă din partea celor menționați în această secțiune, osânda va fi închisoarea dela cinci zile deplin; iar pentru cei menționați în paragraful 6 al art. 389, de vor cădea în recidivă, fapta lor se va socoti delict și se vor pedepsi cu închisoarea dela șase zile până la o lună, ori cu amendă dela 26 până la 200 lei1).
+Dispozițiunile art. 385, 386, 387, 388 și 389 se aplică și când faptele prescrise în aceste articole se săvârșesc asupra mărcilor poștale, timbrelor poștale sau fiscale și hârtiilor timbrate naționale sau străine, precum și asupra timbrelor sau mărcilor emise în baza unei legi speciale, de persoanele juridice de drept privat, care au menirea de a satisface un interes obștesc.
 
-
-1) A se vedea nota 2 dela art. 1 și art. 399, al. II Codul penal.
-
-III. A treia clasă
-
+SECȚIUNEA III
+Falsificarea de sigilii sau de semne de autentificare,
+certificare sau recunoaștere
 Art. 393. -
-Se vor pedepsi cu amendă dela 15 până la 252):
-
-
-2) Conform art. 399, al. III, <<amenzile pentru contravențiuni se socotesc în lei noi, fără nici o reducere>>.
-
-393.1. Cei cari, afară de întâmplările prevăzute la art. 352 până la art. 380 inclusiv, vor cauză, cu voință, pagubă la proprietățile mișcătoare ale altuia;
-
-393.2. Cei ce vor cauza moarte sau răniri dobitoacelor altuia, prin lăsarea fără pază de nebuni sau furioși, ori de dobitoace făcătoare de rău, sau prin repeziciunea ori reaua conducere a trăsurilor, ori prin covârșitorea lor povară, sau a cailor, a dobitoacelor de tras, de povară sau călărie;
-
-393.3. Cei ce vor cauza aceleași stricăciuni prin întrebuințarea de arme cu nedibăcie, ori fără cuviincioasă pază, sau prin aruncarea de pietre ori de alte lucruri tari;
-
-393.4. Cei ce vor cauza aceleași stricăciuni sau pericole prin învechirea, dărăpănarea și nedregerea sau neținerea în bună stare a caselor ori a clădirilor, sau prin astuparea străzilor, ori prin vre-o săpătură, sau prin ori-ce altă lucrare făcută pe străzi, piețe sau locuri publice, ori lângă dânsele, fără a fi luat despre aceasta nici o măsură de pază, nici să fi pus trebuincioasele semne;
-
-393.5. Cei ce vor avea dramuri sau măsuri minciunoase în magaziile, în prăvăliile sau casele lor de negoț, sau în târguri ori bâlciuri, fără a fi apărați cu acesta de osândele corecționale hotărâte pentru dânșii, când vor întrebuința asemenea minciunoase dramuri sau măsuri;
-
-393.6. Cei ce vor întrebuința alte dramuri sau măsuri decât acele prevăzute de legile în vigoare;
-
-393.7. Brutarii, măcelarii și lumânărarii, cari vor vinde pâine, carne sau lumânări cu prețul mai mare decât cel hotărât și publicat, ori cu lipsă de dramuri, ori de calitate mai proastă decât cea cuvenită și hotărîtă1);
-
-393.8. Acei cari cauzează sau contribuesc a cauza sgomot sau larmă noaptea, turburând cu aceasta liniștea locuitorilor;
-
-393.9. Cei ce vor deslipi sau vor rupe, cu cuget rău, afișele lipite din ordinul autorităților;
-
-393.10. Cei ce vor strica, ori în ce chip, drumurile publice sau vor lua loc din lărgimea lor;
-
-393.11. Cei ce vor rupe ori strica instrumente de agricultură, surle ori colibe ale paznicilor2;
-
-393.12. Nesupunerile și necuviințele servitorilor către stăpân2);
-
-393.13. Părăsirea serviciului fără o prealabilă încunoștiințare către stăpâni, cel puțin cu trei zile înainte2).
-
-Se va putea, după împrejurări, pronunța pe lângă amendă și pedeapsa închisorei, până la cinci zile cel mult, în contra acelora ce se vor afla în cazurile prevăzute la aliniatele 2, 4, 5, 6, 7, 8, 12 și 13 din acest articol.
-
-
-1) Art. francez corespunzător, 479, al. 7, nu cuprinde ultima frază: <<ori cu lipsă de dramuri, ori de calitate mai proastă decât cea cuvenită și hotărâtă>>.
-
-2) Art. francez corespunzător, 479, nu cuprinde ultimele trei aliniate, 11, 12 și 13, care au fost adăugate vechiului art. 393 Codul penal român de către legiuitorul modificator dela 1874.
+Acela care falsifică sigiliul Statului, sau întrebuințează un asemenea sigiliu falsificat, comite delictul de falsificare de sigiliu al Statului și se pedepsește cu închisoare corecțională dela 3 la 5 ani, amendă dela 5.000 la 20.000 lei și interdicție corecțională dela unu la 3 ani.
 
 Art. 394. -
-Se vor confisca încă dramurile și măsurile minciunoase, precum și dramurile și măsurile osebite de cele prevăzute de legile în vigore.
+Acela care falsifică sigiliul unei autorități sau unui oficiu public, ori întrebuințează un asemenea sigiliu falsificat, comite delictul de falsificare de sigiliu public și se pedepsește cu închisoare corecțională dela unu la 3 ani, amendă dela 2.000 la 5.000 lei și interdicție corecțională dela unu la 2 ani.
 
 Art. 395. -
-La întâmplare de recidivă din partea celor însemnați într'această secțiune, culpabilii se vor supune totdeauna la închisoare de cinci zile.
-
-IV1). A patra clasă
-
-
-1) Această secțiune, în edițiunea oficială din 1874, este greșit numerotată cu No. III, în loc de IV, cum trebuie să fie. Ea lipsește în Codul penal francez.
+Acela care falsifică sigiliul, timbrul sau marca unei instituții private sau unui stabiliment particular, ori le întrebuințează, comite delictul de falsificare de sigiliu particular și se pedepsește cu închisoare corecțională dela unu la 2 ani, amendă dela 2.000 la 5.000 lei și interdicție corecțională dela unu la 2 ani.
 
 Art. 396. -
-Se vor pedepsi cu maximul amenzii de 25 lei2) și cu închisoare dela una până la cincisprezece zile:
-
-396.1. Aceia cari vor fi contravenit dispozițiunilor art. 238 al. II;
-
-396.2. Aceia cari vor fi comis faptul prevăzut de art. 300;
-
-396.3. Aceia cari vor tăia lemne sau arbori din o pădure, sau de pe ori-ce altă proprietate străină, sau vor ridica cărbuni, precum și acei cari fără a fi autorizați vor ridica de pe drumurile publice, brazde, pământuri sau pietriș sau cari vor fi luat de pe locurile ce sunt proprietăți ale comunelor, pământuri sau alte materiale
-
-
-2) Conform art. 399, al. III, <<amenzile pentru contravențiuni se socotesc în lei noi, fără nici o reducere>>.
-
-Disposițiuni comune la cele patru secțiuni de mai sus
+Acela care falsifică instrumentul destinat pentru verificarea și certificarea publică a obiectelor de metal prețios, a aparatelor de măsurat și cântărit, de taxat mărfurile sau produsele supuse verificării sau certificării publice, comite delictul de falsificare a instrumentului de marcare publică și se pedepsește cu închisoare corecțională dela unu la 3 ani, amendă dela 2.000 la 3.000 lei și interdicție corecțională dela unu la 2 ani.
 
 Art. 397. -
-Este recidivă la toate întâmplările prevăzute de cartea III, când în contra celui abătut se va fi dat hotărâre pentru vre-o altă abatere polițienească, în curgerea de 12 luni, socotite dela darea acelei hotărâri până la săvârșirea celei din nou abateri, săvârșite în ocolul juridicțiunei aceluiaș tribunal.
-
-În caz de recidivă din partea celor însemnați în art. 396, se va aplica maximul închisoarei polițienești3).
-
-
-3) Art. francez corespunzător, 483, nu cuprinde acest al doilea aliniat. E dealtfel o consecință a celor arătate în nota secțiunei IV, sub care se găsește art. 396.
-
-Dispozițiuni generale
+Acela care falsifică amprenta sau semnul unui sigiliu, ori ale unui instrument de marcare, prin alte mijloace decât întrebuințarea sau aplicarea unui sigiliu sau instrument de marcare falsificat, comite delictul de falsificare de amprentă a sigiliului sau instrumentului de marcare și se pedepsește cu închisoare corecțională dela 6 luni la 2 ani, amendă dela 1.000 la 3.000 lei și interdicție corecțională dela unu la 2 ani.
 
 Art. 398. -
-Sunt și rămân abrogate toate legiuirile penale anterioare din România, afară de dispozițiunile privitoare la delictele de presă ce se prevăd în legea de presă, din anul 18624).
+Acela care, în mod ilicit întrebuințează sigiliul adevărat sau instrumentul de marcare adevărat în profitul său, ori în dauna altuia, comite delictul de întrebuințare abuzivă a sigiliului sau a instrumentului de marcare și se pedepsește cu închisoare corecțională dela 6 luni la un an, amendă dela 2.000 la 3.000 lei și interdicție corecțională dela unu la 2 ani.
 
-
-4) Legea Presei din 1862 a fost modificată în mod radical în ceeace privește drepturile autorilor. A se vedea <<Noua lege asupra proprietăței literare și artistice>> din 28 Iunie 1923.
-
+SECȚIUNEA IV
+Dispozițiuni comune
 Art. 399. -
-Nici una din pedepsele prescrise prin acest codice nu se va putea aplica fără hotărârea dată de către autoritățile judicătorești competente.
-
-Toate amenzile prevăzute de acest codice se vor socoti pe lei noi. Cifra însă din textul legei va fi pretutindenea redusă la jumătate, fără ca, în materie de delict, să poată fi mai mică de 26 lei noi1).
-
-Amenzile pentru contravențiuni se socotesc în lei noi fără nici o reducere.
-
-
-1) Conform legei din 1923 toate amenzile prevăzute de Codul penal trebuesc mărite de zece ori. De sigur că aceasta e o măsură provizorie, luată din cauza deprecierei valutei leului.
-
-Disposițiuni tranzitorii
+Acela care fabrică ori deține instrumente sau materiale anume destinate la falsificarea sau alterarea de monede, efecte, sigilii, instrumente arătate în art. 385, 391, 393, 394, 395, 396 și 397, în scopul de a servi la falsificare, se pedepsește cu închisoare corecțională dela 6 luni la un an și amendă dela 2.000 la 5.000 lei.
 
 Art. 400. -
-Acest codice va fi obligator și se va aplica după șase luni dela data promulgărei lui.
+Dispozițiunile art. 231, se aplică și infracțiunilor prevăzute în acest capitol.
+
+CAPITOLUL II
+Falsul în acte
+SECȚIUNEA I
+Falsul în acte publice și private
+Art. 401. -
+Acela care falsifică un act public, fie contrafăcând scrierea sau subscrierea, fie alterând un act adevărat, în orice mod, comite delictul de fals în acte publice și se pedepsește cu închisoare corecțională dela unu la 3 ani, amendă dela 2.000 la 5.000 lei și interdicție corecțională dela unu la 2 ani.
+
+Pedeapsa este închisoarea corecțională dela 2 la 5 ani, amendă dela 2.000 la 10.000 lei și interdicția corecțională dela 2 la 5 ani, dacă faptul se săvârșește:
+
+1. de către un funcționar public în exercițiul funcțiunii sale;
+
+2. în scop de a dobândi pentru sine sau pentru altul un folos material sau de a cauza cuiva o pagubă materială.
+
+Art. 402. -
+Funcționarul public care, în exercițiul funcțiunii sale, alcătuind sau primind un act atestă în mod fals, că un fapt s'a îndeplinit de către el sau în prezența sa, ori atestă, ca făcute înaintea sa, declarațiuni care nu s'au făcut, ori omite sau alterează declarațiuni ce s'au făcut înaintea sa, ori atestă, în mod fals, fapte despre care actul era destinat să facă probă, comite delictul de fals în acte publice și se pedepsește potrivit art. 401, alin. 2.
+
+Art. 403. -
+Funcționarul public care, în exercițiul funcțiunii sale atestă, în mod fals, în certificate sau autorizații administrative, un fapt despre care actul era destinat să facă probă, precum și acela care eliberează o copie legalizată falsă de pe un act public sau privat, sau certifică un act drept copie de pe un act inexistent, comite delictul de eliberare de acte false și se pedepsește cu închisoare corecțională dela 2 la 5 ani, amendă dela 2.000 la 5.000 lei și interdicție corecțională dela unu la 2 ani.
+
+Pedeapsa este cea prevăzută în art. 401, alin. 2, când faptul s'a săvârșit în scopul arătat la punctul 2 al acelui alineat.
+
+Art. 404. -
+Acela care înaintea unui funcționar public face declarațiuni neadevărate pentru întocmirea unui act public, privitor la starea civilă sau stabilirea identității unei persoane, ori privitor la vreun raport juridic dintre alte persoane, comite delictul de fals în declarațiuni și se pedepsește cu închisoare corecțională dela 3 luni la un an, amendă dela 2.000 la 5.000 lei și interdicție corecțională dela unu la 2 ani.
+
+Art. 405. -
+Acela care, afară de cazul prevăzut de art. 404, cu ocazia unui interogator asupra identității, situațiunii sau altor calități ale persoanei sale sau ale altuia, face declarațiuni neadevărate înaintea unui funcționar public, aflat în exercițiul funcțiunii sale, comite delictul de fals în declarațiuni și se pedepsește potrivit art. 404.
+
+Aceeași pedeapsă se aplică și aceluia care face declarațiuni neadevărate, în scopul de a induce în eroare autoritatea publică asupra identității stării sale civile sau altor calități ale persoanei sale ori ale alteia, chiar dacă faptul s'a petrecut înaintea unui particular ce are îndatorirea de a înregistra identitatea persoanelor.
+
+Art. 406. -
+Acela care, falsifică un act privat, în modurile prevăzute de art. 401 și îl întrebuințează, îl încredințează altuia spre a fi întrebuințat, pentru a dovedi existența, încetarea sau modificarea unui drept sau unei obligații, comite delictul de fals în acte private și se pedepsește cu închisoare corecțională dela 6 luni la 2 ani, amendă dela 2.000 la 5.000 lei și interdicție corecțională dela unu la 2 ani.
+
+Pedeapsa este închisoarea corecțională dela 2 la 5 ani, amendă dela 2.000 la 10.000 lei și interdicția corecțională dela unu la 3 ani, dacă faptul se referă la următoarele acte:
+
+1. registru de comerț impus de lege, cambie, cek sau orice titlu de credit, la ordin sau la purtător, livret de depuneri la bancă sau la Casa de economie ori recipisa unei case de consemnațiuni;
+
+2. warant, scrisoare de trăsură sau orice titlu ce este în circulație publică, cu excepția monedei;
+
+3. testamente neautentice.
+
+Art. 407. -
+Acela care umple sau completează o hârtie, pe care se află semnătura unei persoane, fie fără consimțimântul acesteia, fie în mod diferit de cum s'a convenit și o întrebuințează sau o încredințează altuia spre a fi întrebuințată, în scopul arătat în art. 406, comite delictul de fals prin abuz de semnătură în alb, și se pedepsește cu închisoare corecțională dela 6 luni la 2 ani, amendă dela 2.000 la 10.000 lei și interdicție corecțională dela unu la 2 ani.
+
+Când faptul este comis în condițiile prevăzute în art. 401, alin. 2, punctele 1 și 2, se aplică pedeapsa prevăzută în acel alineat.
+
+Art. 408. -
+Sunt asimilate cu actele publice sau private: biletele, tichetele sau orice alte imprimate, producătoare de efecte juridice, după cum emană dela o autoritate sau serviciu public, ori dela particulari sau întreprinderi particulare.
+
+SECȚIUNEA II
+Falsul în pașapoarte, foi de drum, certificate,
+traduceri și registre de călători
+Art. 409. -
+Cănd vreunul din delictele prevăzute în art. 401, 402, 403, 404, 405, 412 și 414 se referă la vreun bilet, pașaport sau carnet de identitate, carnet de serviciu, certificate de bună purtare, de avere sau de paupertate, pedeapsa este închisoarea corecțională dela una la 6 luni și amenda dela 1.000 la 2.000 lei.
+
+Art. 410. -
+Medicul care eliberează un certificat neadevărat, asupra sănătății unei persoane, spre a servi la o autoritate sau societate de asigurare, comite delictul de liberare de certificat fals și se pedepsește cu închisoare corecțională dela 2 luni la un an și amendă dela 5.000 la 10.000 lei.
+
+Art. 411. -
+Funcționarul public sau orice altă persoană, care, primind dela o autoritate însărcinarea de translator sau interpret, denaturează în traducere conținutul actului sau denaturează în esența ei declarația părții, în așa fel, încât s'ar putea cauza pagubă sau un folos nedrept unei persoane, comite delictul de falsă traducere și se pedepsește cu închisoare corecțională dela unu la 3 ani, amendă dela 2.000 la 5.000 lei și interdicție corecțională dela unu la 2 ani.
+
+SECȚIUNEA III
+Întrebuințarea de fals
+Art. 412. -
+Acela care, fără să participe la falsificare, întrebuințează un act fals, comite delictul de întrebuințare de act fals și se pedepsește cu pedeapsa prevăzută în articolele precedente pentru delictul săvârșit prin falsificarea acelui act.
+
+Întrebuințarea unui act fals privat constituie delictul prevăzut în alin. 1, numai în cazul când s'a făcut uz de acel act, în scopul arătat în art. 406.
+
+Art. 412. -
+Acela care, în scopul de a induce în eroare o autoritate sau o societate de asigurare, în privința sănătății sale sau a altei persoane, utilizează un certificat medical fals, comite delictul de întrebuințare de certificat medical fals și se pedepsește cu închisoare corecțională dela o lună la un an și amendă dela 2.000 la 5.000 lei.
+
+CAPITOLUL III
+Falsul prin substituire de persoane
+și prin uzurpare de titluri sau onoruri
+Art. 414. -
+Acela care, induce sau menține în eroare o autoritate publică sau pe un particular, substituindu-se pe nedrept unei alte persoane sau atribuindu-și lui sau altuia un nume fals sau o stare civilă falsă, comite delict de substituire de persoane și se pedepsește cu închisoare corecțională dela un an la 3 ani, amendă dela 2.000 la 5.000 lei și interdicție corecțională dela unu la 2 ani.
+
+Se aplică aceeași pedeapsă și persoanei care a convenit să fie substituită.
+
+Art. 415. -
+Acela care, fără drept poartă în public uniformă, decorațiuni sau semne distinctive ale unei autorități sau ale unui serviciu public, ori ale unei profesiuni care are autorizație specială pentru aceasta, precum și acela care își atribue sau întrebuințează în public o denumire sau un grad academic ori titlu sau calități, pe care nu le are, comite delictul de uzurpare de titluri sau onoruri și se pedepsește cu închisoare corecțională dela una la 3 luni și amendă dela 2.000 la 3.000 lei.
+
+CAPITOLUL IV
+Dispozițiuni comune
+Art. 416. -
+Tentativa delictelor prevăzute în prezentul titlu se pedepsește.
+
+TITLUL X
+Delicte contra creditului Statului sau creditului
+particular
+Art. 417. -
+Comite delictul de sdruncinare a creditului și se pedepsește cu închisoare corecțională dela 6 luni la 2 ani și amendă dela 2.000. la 5.000 lei, acela care, prin răspândire în public de știri sau fapte neadevărate, exagerate sau tendențioase, ori prin diferite manopere, provoacă retragerea de depozite din instituțiile de credit și economie, ori în scop de speculă provoacă scăderea titlurilor sau valorilor admise la bursă sau negociate în comerț, ori scăderea sau urcarea prețurilor lucrurilor sau mărfurilor de primă sau generală necesitate, ori abținerea dela cumpărarea sau subscrierea de titluri sau valori.
+
+Pedeapsa este închisoarea corecțională dela 2 la 5 ani, amendă dela 2.000 la 20.000 lei și interdicția corecțională dela 2 la 3 ani:
+
+1. dacă faptul a provocat o depreciere a monedei naționale sau a titlurilor de stat;
+
+2. dacă faptul este comis pentru a favoriza interese străine;
+
+Tentativa se pedepsește.
+
+Acțiunea penală pentru urmărirea infracțiunilor de mai sus, nu se poate pune în mișcare, decât cu autorizarea Ministerului Justiției.
+
+Art. 418. -
+Acela care, în scopul de a sdruncina sau micșora creditul financiar al unei întreprinderi comerciale sau industriale, răspândește în public, știri sau fapte neadevărate, exagerate sau tendențioase, privind activitatea, afacerile, creditul, mărfurile sau produsele sale, comite delictul de compromiterea creditului particular și se pedepsește cu închisoare corecțională dela 2 luni la 6 luni și amendă dela 5.000 la 20.000 lei.
+
+TITLUL XI
+Infracțiuni contra pudoarei și a bunelor moravuri
+CAPITOLUL I
+Infracțiuni contra pudoarei
+Art. 419. -
+Comite delictul de viol și se pedepsește cu închisoare corecțională dela 2 la 5 ani și interdicție corecțională dela 3 la 5 ani:
+
+1. bărbatul care, prin violență sau amenințare, constrânge o persoană de orice sex, să aibă cu el raport sexual;
+
+2. bărbatul care, profitând de starea de inconștiență a unei persoane de orice sex, sau de neputința acesteia de a-și exprima voința, ori de a se apăra, are cu ea raport sexual, în afară de căsătorie, indiferent dacă el sau altcineva a produs această stare.
+
+În ambele cazuri dacă victima este mai mică de 14 ani sau dacă a rămas gravidă ori i s'a transmis vreo boală venerică, pedeapsa este închisoarea corecțională dela 5 la 10 ani și interdicția corecțională dela 2 la 5 ani.
+
+Art. 420. -
+Acela care, prin violență sau amenințare, ori profitând de starea arătată la punctul 2 al articolului precedent, săvârșește vreun act de inversiune sexuală asupra unei persoane, comite delictul de violență contra pudoarei și se pedepsește cu închisoare corecțională dela 2 la 5 ani și interdicție corecțională dela unu la 3 ani, întru cât nu ar constitui o infracțiune mai gravă.
+
+Art. 421. -
+Bărbatul care are raport sexual cu o fată mai mică de 14 ani, comite delictul de atentat la pudoare fără, violență și se pedepsește cu închisoare corecțională dela unu la 3 ani.
+
+Dacă victima a rămas gravidă sau dacă infractorul i-a transmis o boală venerică, pedeapsa este închisoarea corecțională dela 3 la 5 ani și interdicția corecțională dela unu la 5 ani.
+
+Art. 422. -
+Pedeapsa pentru delictul prevăzut la art. 419, alin. 1, este închisoarea corecțională dela 4 la 8 ani și interdicția corecțională dela 3 la 5 ani iar pentru delictele prevăzute în art. 420 și 421, închisoarea corecțională dela 3 la 7 ani și interdicția corecțională dela unu la 3 ani, când faptul s'a săvârșit:
+
+1. de un ascendent sau descendent;
+
+2. de un tutor, curator, învățător, educator, supraveghetor sau îngrijitor, medic curant, stăpân ori duhovnic;
+
+3. de mai multe persoane asupra aceleași victime sau cu ajutorul uneia sau mai multor persoane.
+
+Art. 423. -
+Acela, care, substituindu-se unei alte persoane, profită de eroarea în care se găsește o femeie și are cu ea raport sexual, comite delictul de atentat fraudulos la pudoare și se pedepsește cu închisoare corecțională dela 3 luni la un an.
+
+Art. 424. -
+Acela care, prin promisiuni formale de căsătorie, determină o persoană de sex femenin mai mică de 18 ani, de a avea cu el raport sexual, comite delictul de seducție și se pedepsește cu închisoare corecțională dela unu la 3 ani.
+
+Art. 425. - Reviste (1)
+Funcționarul public care are raport sexual sau de inversiune sexuală cu o persoană arestată sau deținută, aflată, în virtutea funcțiunii, sub paza sa, sau i-a fost încredințată în executarea unei măsuri a autorității competinte, comite delictul de atentat la pudoare prin abuz de putere și se pedepsește cu închisoare corecțională dela unu la 3 ani și interdicție corecțională dela unu la 2 ani, întru cât faptul nu ar constitui o infracțiune mai gravă.
+
+Art. 426. -
+Dacă din faptul prevăzut de art. 419 și 420 rezultă moartea victimei, pedeapsa este munca silnică pe vieață.
+
+Art. 427. -
+Delictele de viol, violență contra pudoarei și atentatul la pudoare fără violență nu se pedepsesc, dacă mai înainte ca hotărîrea penală, să fi rămas definitivă a intervenit căsătorie între autor și victimă.
+
+Art. 428. -
+Tentativa infracțiunilor prevăzute în art. 419, 420 și 425, se pedepsește.
+
+CAPITOLUL II
+Infracțiuni contra bunelor moravuri
+Art. 429. -
+Acela care, în public, se dedă la acte, gesturi sau orice manifestări verbale, cu caracter obscen, comite delictul de ultraj la bunele moravuri și se pedepsește cu închisoare corecțională dela una la 6 luni și amendă dela 5.000 la 20.000 lei.
+
+Când delictul este săvârșit față de un minor de orice sex, pedeapsa este închisoarea corecțională dela 3 luni la un an și amenda dela 5.000 la 20.000 lei.
+
+Art. 430. -
+Comite delictul de trafic de publicațiuni obscene și se pedepsește cu închisoare corecțională dela 3 luni la un an și amendă dela 5.000 la 20.000 lei:
+
+1. acela care, în scop de comerț, expune, procură, pune în circulație, importă, exportă sau transportă: scrieri, desene, gravuri, fotografii, filme, plăci gramofonice, cărți, imprimate de orice fel, embleme sau orice alte obiecte cu caracter obscen;
+
+2. acela care face comerț, chiar clandestin, cu obiectele arătate mai sus, ori le distribue sau le expune în public.
+
+Dacă vânzarea, distribuirea sau expunerea se face unei persoane de orice sex, mai mică de 19 ani împliniți, pedeapsa este închisoarea corecțională dela 6 luni la 2 ani și amendă dela 5.000 la 20.000 lei.
+
+Art. 431. -
+Actele de inversiune sexuală săvârșite între bărbați sau între femei, dacă provoacă scandal public, constituiesc delictul de inversiune sexuală și se pedepsesc cu închisoare corecțională dela 6 luni la 2 ani.
+
+Dacă actul s'a săvârșit asupra unei persoane mai mici de 19 ani, pedeapsa este închisoarea corecțională dela unu la 3 ani.
+
+Art. 432. -
+Actele sexuale săvârșite între oameni și animale, dacă provoacă scandal public, constituiesc delictul de bestialitate și se pedepsesc cu închisoare corecțională dela 3 luni la un an.
+
+Art. 433 -
+Acela care, cu scop de exploatare a desfrâului, ațâță la prostituție o persoană de orice sex, sau o excită la corupție, comite delictul de corupție sexuală și se pedepsește cu închisoare corecțională dela 2 la 5 ani și interdicție corecțională dela unu la 3 ani.
+
+Acela care, în scopul arătat de alineatul precedent, ajută, asistă sau favorizează în orice mod prostituția unei persoane, comite delictul de favorizare a prostituției și se pedepsește cu închisoare corecțională dela 6 luni la un an și interdicție corecțională dela unu la 2 ani.
+
+Când faptele din cele două alineate precedente sunt săvârșite, de un ascendent, fie în linie directă, sau prin alianță, de tatăl sau mama adoptivă, de unul din soți, de tutor sau orice altă persoană, căreia victima îi este încredințată spre îngrijire, educație, instrucție, supraveghere sau pază, pedeapsa este, în cazul dela alin. 1, închisoarea corecțională dela 3 la 7 ani și interdicția corecțională dela unu la 5 ani, iar în cazul alin. 2, închisoarea corecțională dela 2 la 3 ani și interdicția corecțională dela unu la 3 ani.
+
+Art. 434. -
+Când faptele prevăzute în art. 433 sunt săvârșite asupra unui minor sau când sunt comise prin violență, amenințare, abuz de putere sau de autoritate, fraudă, întrebuințare de băuturi alcoolice sau stupefiante, se pedepsesc potrivit susmenționatului text, sporindu-se pedepsele cu 1/4.
+
+Art. 435. -
+Acela care primește să fie întreținut, chiar numai în parte, de către o femeie, din câștigurile provenite din prostituarea ei, precum și acela care, în mod obișnuit și în scop de folos personal, acordă protecția sau ajutorul său unei femei pentru exercitarea prostituției, comite delictul de exploatare a prostituției și se pedepsește cu închisoare corecțională dela 3 luni la 2 ani, amendă dela 2.000 la 5.000 lei și interdicție corecțională dela unu la 2 ani.
+
+Dacă acela care dă ajutorul sau protecția sa, poartă arme, i se sporesc pedepsele cu 1/4.
+
+Art. 436. -
+Oricine procură cuiva, în mod obișnuit și în scopul de a realiza un folos material, o persoană pentru săvârșire de acte sexuale sau acte de inversiune sexuală, comite delictul de proxenetism și se pedepsește cu închisoare corecțională dela 6 luni la 2 ani, amendă dela 2.000 la 5.000 lei și interdicție corecțională dela unu la 2 ani.
+
+Art. 437. -
+Comite de asemenea delictul de proxenetism:
+
+1. acela care determină o femeie, care nu este considerată în public ca prostituată, de a intra într'o casă în care s'ar practica prostituția, în scopul arătat de articolul precedent;
+
+2. acela care reține o femeie, contra voinței ei, sub orice pretext, într'o casă în care s'ar practica prostituția.
+
+Pedeapsa în cazurile prevăzute de acest articol este aceea prescrisă în art. 433, alin. 1.
+
+Pedeapsa este închisoarea corecțională dela 3 la 6 ani, amenda dela 2.000 la 5.000 lei și interdicția corecțională dela unu la 3 ani, în ambele cazuri ale acestui articol, când femeia nu are vârsta de 21 ani împliniți.
+
+Art. 438. -
+Proxenetismul se pedepsește cu închisoare corecțională dela 3 la 7 ani, amendă dela 3.000 la 6.000 lei și interdicție corecțională dela unu la 3 ani, dacă este săvârșit:
+
+1. prin violență, amenințare, fraudă sau întrebuințare de stupefiante;
+
+2. de către o persoană din cele prevăzute în art. 433, alineatul ultim.
+
+Art. 439. -
+Acela care trimite sau duce în străinătate o femeie, pentru exercitarea prostituției, comite delictul de trafic de femei și se pedepsește cu închisoare corecțională dela 2 la 8 ani, amendă dela 5.000 la 10.000 lei și interdicție corecțională dela 2 la 5 ani.
+
+Pedeapsa este închisoarea corecțională dela 3 la 10 ani, amenda dela 6.000 la 10.000 lei și interdicția corecțională dela 3 la 5 ani, dacă faptul se săvârșește:
+
+1. asupra unei femei, mai tânără de 21 ani împliniți sau care se găsește într'o stare din cele arătate la art. 419, punctul 2;
+
+2. prin violență, amenințare, fraudă sau întrebuințare de stupefiante;
+
+3. asupra unei femei căsătorite.
+
+Art. 440. -
+Tentativa delictului prevăzut în art. 437 se pedepsește.
+
+Se pedepsesc la fel cu tentativa și următoarele acte săvârșite în vederea delictului de trafic de femei:
+
+1. faptul de a face propagandă pentru emigrarea persoanelor de sex femenin;
+
+2. faptul traficanților și prepușilor acestora de a căuta sau angaja femei sau fete;
+
+3. remiterea de fonduri pentru a le permite ajungerea la destinație;
+
+4. faptul însoțirii femeilor, în călătoria lor, pe tot parcursul sau o parte din el;
+
+5. cumpărarea de haine, rufe, vestminte, în vederea plecării;
+
+6. plata cheltuielilor de hotel sau subsistență în timpul drumului;
+
+7. demersurile făcute în vederea obținerii de pașaport sau orice acte săvârșite în vederea înlesnirii plecării.
+
+CAPITOLUL III
+Dispozițiuni comune
+Art. 441. -
+Acțiunea penală pentru infracțiunile prevăzute în art. 419, 420, 421, 422, 433 și 436, poate fi pusă în mișcare numai la plângerea prealabilă a victimei, iar dacă victima este mai mică de 21 ani împliniți, la plângerea prealabilă a unuia din părinți sau a tutorului. Dacă, infractorul este chiar părintele sau tutorul, fie la plângerea prealabilă a victimei, fie la aceea a unui ascedent sau colateral de prim rang.
+
+În cazul art. 420 și 424 acțiunea penală poate fi pusă în mișcare numai la plângerea prealabilă a victimei.
+
+Retragerea plângerii nu împiedică cursul acțiunii penale.
+
+În cazul art. 425 și 426 acțiunea penală se pune în mișcare din oficiu.
+
+Art. 442. -
+Când infractorii sunt: tatăl, mama sau tutorul, ei sunt decăzuți din puterea părintească sau din tutelă.
+
+TITLUL XII
+Delicte contra familiei
+CAPITOLUL I
+Bigamia, incestul și adulterul
+Art. 443. -
+Comite delictul de bigamie și se pedepsește cu închisoare corecțională dela unu la 3 ani, acela care, fiind căsătorit legitim, mai înainte de a se fi desfăcut în mod legal această căsătorie, încheie o nouă căsătorie valabilă.
+
+Aceeași pedeapsă se aplică și aceluia, care, nefiind căsătorit, încheie căsătorie valabilă cu o persoană pe care o știa căsătorită.
+
+Acțiunea penală se stinge, chiar față de complice, când prima căsătorie e declarată nulă sau când cea de a doua căsătorie este anulată pentru alte cauze decât bigamia.
+
+Art. 444. -
+Ofițerul stării civile, care, știind că o persoană este căsătorită, oficiază la o nouă căsătorie a aceleiași persoane, se pedepsește cu închisoare corecțională dela unu la 5 ani, amendă dela 2.000 la 5.000 lei și interdicție corecțională dela unu la 3 ani, iar preotul care, cu știință, celebrează o asemenea căsătorie, se pedepsește cu închisoare corecțională dela 6 luni la un an.
+
+Art. 445. -
+Oricare dintre soți, ar avea relațiuni sexuale în afară de căsătorie, comite delictul de adulter și se pedepsește cu închisoare corecțională dela o lună la un an, iar dacă relațiunile culpabile continuă și după deschiderea acțiunii penale, pedeapsa este dela 6 luni la 2 ani.
+
+Aceeași pedeapsă se aplică și complicelui.
+
+Acțiunea penală nu se poate pune în mișcare decât numai după plângerea prealabilă a soțului inocent.
+
+Soțul inocent poate cere oricând în cursul procesului stingerea acțiunii penale, precum și după darea hotărîrii definitive, stingerea pedepsei, dacă soții consimt a relua vieața în comun.
+
+În acest din urmă caz, complicele condamnat nu e apărat de pedeapsă.
+
+Probele care pot fi aduse pentru dovedirea adulterului sunt numai flagrantul delict și acelea care rezultă din scrisori sau alte scrieri ce emană dela soțul urmărit.
+
+Acțiunea penală se stinge și în caz de moartea soțului care a făcut plângerea și în caz de anulare a căsătoriei soțului culpabil.
+
+Nicio urmărire nu se poate face dacă faptul s'a comis după îndemnul sau încurajarea celuilalt soț, sau dacă vieața conjugală era întreruptă în fapt și soții trăiau despărțiți.
+
+Art. 446. -
+Conviețuirea în concubinaj a minorilor sub 16 ani pentru fete și 18 ani pentru băieți constitue delictul de degenerare a rasei.
+
+Părinții sau reprezentanții lor legali care înlesnesc sau aprobă asemenea legături, se pedepsesc cu închisoare corecțională dela o lună la un an și cu amendă dela 5.000 la 20.000 lei, iar copiii sau adolescenții culpabili de acest fapt, vor fi internați într'un institut de educație corectivă pe timp dela unu la 3 ani.
+
+Art. 447. -
+Raportul sexual sau de inversiune sexuală între rude în linie directă, precum și între frate și soră, constitue delictul de incest și se pedepsește cu închisoare corecțională dela unu la 3 ani.
+
+Minorul mai mic de 15 ani, sedus de un major, nu se pedepsește.
+
+Acțiunea penală se poate pune în mișcare numai la plângerea prealabilă a unui ascendent sau colateral de prim grad.
+
+Pedeapsa pronunțată contra tatălui și mamei atrage și decăderea din puterea părintească.
+
+CAPITOLUL II
+Delicte contra stării civile, abandonul de familie
+și abuzul de drept de corecțiune
+Art. 448. -
+Ofițerul stării civile care nu a înscris actele stării civile în registrele destinate pentru aceasta, comite delictul de neregulată ținere a actelor de stare civilă și se pedepsește cu închisoare corecțională dela o lună la 6 luni și amendă dela 2.000 la 5.000 lei.
+
+Art. 449. -
+Ofițerul stării civile care celebrează căsătoria fără să se fi asigurat de vârsta legală a celor care se căsătoresc și de existența consimțimântului tatălui, mamei sau altor persoane, care, în conformitate cu legea, trebuiau să-și dea asentimentul pentru valabilitatea căsătoriei, comite delictul de neregulată celebrare a căsătoriei și se pedepsește cu închisoare corecțională dela o lună la 6 luni și amendă dela 2.000 la 5.000 lei.
+
+Art. 450. -
+Preotul, de orice cult recunoscut de stat, care celebrează o cununie mai înainte de îndeplinirea actelor și formelor cerute de legea civilă, comite delictul de neregulată celebrare a cununiei și se pedepsește cu închisoare corecțională dela o lună la 6 luni și amendă dela 2.000 la 5.000 lei.
+
+Art. 451. -
+Acela care face să se înregistreze în actele de stare civilă o naștere inexistentă comite delictul de supozițiune a stării civile și se pedepsește cu închisoare corecțională dela unu la 3 ani.
+
+Art. 452. -
+Acela care, prin orice mijloace, suprimă sau schimbă starea civilă a unui copil, comite delictul de suprimare a stării civile și se pedepsește cu închisoare corecțională dela 2 la 5 ani.
+
+Art. 453. -
+Acela care, asistând la nașterea unui copil nu face declarația prescrisă de codul civil, în termenul și ordinea prevăzută acolo, comite delictul de nedeclarare a nașterii și se pedepsește cu amendă dela 1.000 la 5.000 lei.
+
+Aceeași pedeapsă se aplică și aceluia, care găsind un copil de curând născut, nu-l înfățișează autorităților polițienești locale, chiar când ar voi să se însărcineze cu creșterea lui.
+
+Art. 454. -
+Acela care, cu rea voință, se îndepărtează dela domiciliul familiei, lăsând în părăsire pe aceia față de care, în virtutea puterii părintești, a tutelei legale, a autorității maritale sau calității de soț, avea obligația de asistență morală sau materială, lăsăndu-i prin aceasta expuși mizeriei fizice sau morale, comite delictul de abandon familial și se pedepsește cu închisoare corecțională dela 3 luni la un an.
+
+Aceeași pedeapsă se aplică și aceluia care, cu rea voință, se sustrage timp de 3 luni fără să achite obligațiile de întreținere stabilite printr'o hotărîre judecătorească, precum și părintelui care, în scopul arătat în alin. 1, își alungă copilul, care, din cauza vârstei sau stării sale, este incapabil de a se proteja sau îngriji el însuși.
+
+Art. 455. -
+Acela care își exercită, prin astfel de mijloace și în așa fel dreptul de corecție sau disciplină asupra unei persoane mai mici de 15 ani, supusă autorității sale, sau încredințată lui pentru educație, instrucție, supraveghere, ori pentru învățarea unei meserii, sau aflată în serviciul său, încât îi expune unui pericol grav sănătatea sau desvoltarea intelectuală, comite delictul de abuz de drept de corecție și se pedepsește cu închisoare corecțională dela una la 6 luni.
+
+Dacă victima a fost supusă la chinuri ori cruzimi, pedeapsa este închisoarea corecțională dela unu la 2 ani.
+
+Lovirile (art. 470), aplicate în executarea dreptului de corecție nu se pedepsesc.
+
+Orice altă vătămare a integrității corporale sau a sănătății se pedepsește după distincțiile din art. 471, 472, 473, 474 și 475.
+
+CAPITOLUL III
+Răpirea
+Art. 456. -
+Acela care, prin amăgire, amenințare sau violență, răpește, reține sau sechestrează o persoană, mai mică de 15 ani, luând-o de sub puterea părintească, sau autoritatea tutelară sub care se află, sau a acelora cărora le-a fost încredințată, comite delictul de răpire de minori și se pedepsește cu închisoare corecțională dela 3 la 5 ani.
+
+Dacă faptul de mai sus a fost săvârșit cu voia victimei, însă fără știrea părinților sau tutorelui, pedeapsa este dela 6 luni la 2 ani.
+
+Când faptul se comite pentru a întrebuința pe minor la desfrâu, cerșetorie sau la obținerea altui folos material, precum și în cazul când se cer sume de bani în schimbul eliberării, pedeapsa este, în cazul primului alineat, închisoarea corecțională dela 5 la 8 ani, iar în cazul alin. 2, dela unu la 3 ani.
+
+Art. 457. -
+Dacă asupra copilului răpit, reținut sau sechestrat, s'au săvârșit loviri ori s'a cauzat vătămarea sănătății sau integrității corporale, ori dacă a intervenit vreuna din consecințele prevăzute de art. 493, pedeapsa este închisoarea corecțională dela 5 la 12 ani, iar dacă s'au produs infirmități din cele prevăzute în art. 473, ori s'a săvârșit atentat la pudoare sau viol, pedeapsa este închisoarea corecțională dela 7 la 12 ani și interdicția corecțională dela 2 la 5 ani.
+
+Art. 458. -
+Acela care, prin amenințare, violență sau sub pretext de căsătorie, răpește, reține sau sechestrează o persoană de sex femenin mai mare de 15 ani, comite delictul de răpire de femei și se pedepsește cu închisoare corecțională dela 6 luni la 2 ani.
+
+Pedeapsa este închisoarea corecțională dela unu la 3 ani pentru acela care, cunoscând starea victimei răpește, reține sau sechestrează o femeie atinsă de o boală mintală sau în stare de inconștiență, ori incapabilă de a se apăra, pentru a săvârși asupra ei acte contra pudoarei.
+
+Dispozițiunile art. 457 se aplică și cazurilor prevăzute de acest articol.
+
+Art. 459. -
+Părintele care răpește, reține sau sechestrează copilul său minor, de sub puterea celuilalt părinte, căruia îi era încredințat prin hotărîre judecătorească, comite delictul de răpire a copilului propriu și se pedepsește cu închisoare corecțională dela una la 3 luni.
+
+Aceeași pedeapsă se aplică și părintelui care, având prin hotărîre judecătorească sub îngrijirea sa copilul, cu obligațiunea de a-l încredința și celuilalt părinte, în condițiunile anume stabilite, nu respectă această îndatorire.
+
+Art. 460. -
+Acțiunea penală, în cazurile art. 456 alin. 1 și 2, 458 și 459, se poate pune în mișcare numai la plângerea prealabilă a părții vătămate sau a reprezentanților săi legali.
+
+Art. 461. -
+Dacă răpitorul se căsătorește cu fata răpită, reținută sau sechestrată, nu se pedepsește, afară de cazul când căsătoria a fost anulată și în acest caz acțiunea penală poate fi pusă în mișcare numai după plângerea acelora care au cerut nulitatea căsătoriei.
+
+Art. 462. -
+Tentativa delictelor prevăzute în art. 456 se pedepsește.
+
+TITLUL XIII
+Crime și delicte contra persoanelor
+CAPITOLUL I
+Crimele și delictele în contra vieții și integrității
+corporale
+SECTIUNEA I
+Omorul
+Art. 463. -
+Acela care ucide un om, comite crima de omor și se pedepsește cu muncă silnică dela 10 la 25 ani și degradare civică dela 3 la 8 ani.
+
+Art. 464. -
+Crima de omor se pedepsește cu muncă silnică pe vieață, când este săvârșită în următoarele împrejurări:
+
+1. cu premeditare (asasinat);
+
+2. pentru a ascunde crima sau delictul săvârșit mai înainte sau pentru a se sustrage pe sine sau pe altul dela urmărire sau arestare;
+
+3. prin întrebuințare de torturi;
+
+4. asupra unui ascendent sau descendent legitim, adoptiv sau natural;
+
+5. asupra fratelui sau surorei;
+
+6. asupra soțului;
+
+7. asupra mai multor persoane cu aceeași ocaziune.
+
+Art. 465. - Reviste (1)
+Mama care își ucide copilul natural înainte de a fi expirat termenul legal de declarare la oficiul stării civile, comite crima de pruncucidere și se pedepsește cu temniță grea dela 3 la 5 ani.
+
+Art. 466. -
+Acela care, în scopul de a obține vreun profit, se oferă unei persoane de a săvârși omor asupra cuiva, se pedepsește cu închisoare corecțională dela 3 luni la un an.
+
+Oferta revocată mai înainte de a fi acceptate nu se pedepsește.
+
+Art. 467. -
+Acela care, fără intenție, cauzează din orice culpă moartea unui om, comite delictul de omucidere prin imprudență și se pedepsește cu închisoare corecțională dela unu la 3 ani și amendă dela 2.000 la 5.000 lei.
+
+Dacă infractorul a cauzat moartea altuia prin nepriceperea profesiunii sau meseriei sale, ori prin nesocotirea sau nerespectarea regulilor referitoare la exercițiul acesteia, pedeapsa este închisoarea corecțională dela 2 la 5 ani și amenda dela 5.000 la 20.000 lei.
+
+Art. 468. - Reviste (1)
+Acela care ucide un om, în urma rugăminței stăruitoare și repetate a acestuia, comite crima de omor la rugăminte și se pedepsește cu temniță grea dela 3 la 8 ani.
+
+Aceeași pedeapsă se aplică și aceluia care determină pe altul să se sinucidă, sau îi întărește hotărîrea de a se sinucide, ori îi înlesnește, în orice mod, executarea, dacă sinuciderea a avut loc.
+
+Pedeapsa este închisoarea corecțională dela unu la 5 ani, atunci când faptul a fost săvârșit, în condițiile alineatelor precedente, sub impulsul unui sentiment de milă, pentru a curma chinurile fizice ale unei persoane care suferea de o boală incurabilă și a cărei moarte era inevitabilă din această cauză.
+Reviste (1)
+
+Art. 469. -
+Dacă două persoane au căzut de acord să tragă la sorți, care din ele urmează să se sinucidă și dacă sinucigașul a murit, cel rămas în vieață se pedepsește pentru delictul de sinucidere prin sorți, cu închisoare corecțională dela unu la 5 ani.
+
+Tentativa se pedepsește.
+
+SECȚIUNEA II
+Lovirea și vătămarea integrității corporale
+sau a sănătății
+Art. 470. -
+Acela care lovește o persoană, fără a-i cauza vreuna din vătămările arătate în art. 471 și următoarele, comite delictul de lovire și se pedepsește cu închisoare corecțională dela o lună la 2 luni.
+
+Când lovirea a produs echimoze, pedeapsa este închisoarea corecțională dela o lună la 3 luni.
+
+Art. 471. -
+Acela care, în afară de cazurile de mai sus, vatămă în orice mod integritatea corporală sau sănătatea unei persoane, comite delictul de vătămare a integrității corporale sau a sănătății și se pedepsește cu închisoare corecțională dela 2 luni la un an și amendă dela 2.000 la 5.000 lei.
+
+Art. 472. -
+Când vătămarea integrității corporale sau a sănătății a reclamat îngrijire medicală de cel puțin 10 zile pentru vindecare, se comite delictul de vătămare gravă a integrității corporale sau a sănătății și se pedepsește cu închisoare corecțională dela 6 luni la 2 ani și amendă dela 3.000 la 6.000 lei.
+
+Art. 473. -
+Când vătămarea integrității corporale sau a sănătății a cauzat victimei o boală de lungă durată ori incurabilă, pierderea unui simț sau organ, ori a funcțiunii lor, pierderea sau alterarea capacității de procreare, o mutilare, sluțire, deformare, desfigurare, avort, boală mintală sau orice infirmitate permanentă fizică sau psihică, constitue delictul de vătămare foarte gravă a integrității corporale sau a sănătății și se pedepsește cu închisoare corecțională dela 3 la 6 ani și amendă dela 5.000 la 10.000 lei.
+
+Art. 474. -
+Pedeapsa este închisoarea corecțională dela 3 la 10 ani și amenda dela 5.000 la 10.000 lei, când autorul a avut anume intențiunea de a cauza victimei vreo stare din cele arătate în articolul precedent și aceasta s'a și produs.
+
+Art. 475. -
+Când vreunul din faptele prevăzute în prezenta secțiune a cauzat moartea victimei, pedeapsa este închisoarea corecțională dela 3 la 10 ani și amenda dela 6.000 la 12.000 lei.
+
+Art. 476. -
+Dacă vreuna din infracțiunile prevăzute în art. 470, 471, 472, 473, 474 și 475, se comit asupra unui ascendent în linie directă, sau asupra unei persoane mai mici de 15 ani, pedeapsa este acea prevăzută pentru acea infracțiune, sporită cu un plus până la un an în cazurile art. 470, 471 și 472 și până la 2 ani în cazul art. 473, iar în cazul art. 474 și 475 minimum pedepsei se ridică la 4 ani.
+
+Art. 477. -
+Când infracțiunile prevăzute în art. 470, 471, 472, 473, 474 și 475 sunt comise cu premeditare, pedepsele respective se sporesc cu un plus egal cu cel arătat în art. 476.
+
+Art. 478. -
+Acela care, fără intenție, săvârșește din orice culpă vreuna din faptele prevăzute în art 471, 472, 473 și 475, comite delictul de vătămare a integrității corporale sau sănătății prin imprudență și se pedepsește cu închisoare corecțională dela una la 6 luni și amendă dela 1.000 la 2.000 lei în cazul art. 471 și 472, cu închisoare corecțională dela 6 luni la 2 ani și amendă dela 2.000 la 3.000 lei în cazul art. 473 și cu pedeapsa din art. 467, în cazul art. 475.
+
+Art. 479. -
+Dacă infractorul săvârșește faptele arătate în art. 472 și 473, în condițiile stabilite de art. 467, alin. 2, pedeapsa este cea prevăzută de art. 476, sporită cu un plus până la un an.
+
+Art. 480. -
+Acela care se face impropriu serviciului militar, prin ciuntire, mutilare sau alte mijloace întrebuințate de el însuși sau de altul, cu consimțimântul său, comite delictul de automutilare și se pedepsește cu închisoare corecțională dela 3 luni la un an.
+
+Aceeași pedeapsă se aplică și aceluia care pune pe o persoană, după cererea ei, în stare de a nu fi proprie serviciului militar.
+
+Art. 481. -
+În cazurile infracțiunilor prevăzute în art. 470, 471 și 472, precum și în cazul când aceste infracțiuni au fost comise în condițiunile art. 476 și 478, acțiunea penală se pune în mișcare numai la plângerea părți vătămate.
+
+Împăcarea părților în aceste cazuri stinge încriminarea.
+
+SECȚIUNEA III
+Avortul
+Art. 482. -
+Acela care prin orice mijloace provoacă întreruperea cursului normal al sarcinei, comite delictul de avort și se pedepsește precum urmează:
+
+1. când delictul e săvârșit fără consimțimântul femeii însărcinate, cu închisoare corecțională dela 2 la 5 ani.
+
+Dacă s'a cauzat femeii însărcinate vreo vătămare a sănătății sau o infirmitate din cele arătate la art. 473, pedeapsa este închisoarea corecțională de la 3 la 6 ani, iar dacă s'a pricinuit moartea acesteia închisoarea corecțională dela 7 la 10 ani;
+
+2. când delictul e săvârșit de însăși femeia însărcinată necăsătorită, sau când aceasta a consimțit ca altcineva să i-l provoace, cu închisoare corecțională dela 3 la 6 luni, iar dacă femeia este căsătorită, cu închisoare corecțională dela 6 luni la un an.
+
+Aceeași pedeapsă și după distincțiile de mai sus se aplică și aceluia care săvârșește faptul cu consimțământul femeii. Dacă s'a cauzat femeii însărcinate vreo vătămare a sănătății sau o infirmitate din cele arătate la art. 473, pedeapsa este închisoarea corecțională dela unu la 3 ani, iar dacă s'a pricinuit moartea acesteia, pedeapsa este închisoarea corecțională dela 3 la 5 ani.
+
+În cazurile prevăzute la punctul 2, dacă faptul s'a comis în scopul de a obține un folos material pedeapsa se sporește după distincțiile de mai sus cu un plus până la 2 ani.
+
+Art. 483. -
+Tentativa delictului prevăzut de art. 482, punctul 1, se pedepsește.
+
+Art. 484. -
+Nu se consideră avort întreruperea cursului normal al sarcinii făcută de un medic:
+
+1. Când vieața femeii este în pericol iminent sau când sarcina agravează o boală de care suferă femeia, punându-i vieața în pericol, care nu putea fi înlăturat prin alte mijloace și este vădit că intervenția n'a fost făcută decât eu scopul de a salva vieața femeii;
+
+2. Când unul din părinți este atins de alienație mintală și este certitudine că copilul va purta grave tare mintale.
+
+În caz de pericol iminent, medicul este obligat a aduce faptul în scris și confidențial la cunoștința parchetului în 48 de ore după intervenție.
+
+În celelalte cazuri, medicul nu poate interveni decât cu autorizația parchetului, dată pe baza unui certificat medical al unui așezământ spitalicesc sau unui aviz emis în urma unui consult între medicul care va interveni și cel puțin un medic specialist în boala care determină intervențiunea.
+
+Parchetul, în toate cazurile prevăzute de acest articol, este obligat a păstra caracterul confidențial al tuturor comunicărilor sau autorizărilor, până la intervenirea vreunei eventuale reclamațiuni.
+
+Art. 485. -
+În cazurile delictelor prevăzute în această secțiune, medicilor, agenților sanitari, farmaciștilor, droghiștilor sau moașelor li se aplică și interdicția corecțională dela unu la 3 ani.
+
+SECȚIUNEA IV
+Alte delicte contra vieții și integrității corporale
+Art. 486. -
+Acela care, având sub paza sa, sau îngrijirea sa o persoană care, din cauza vârstei sau a unei stări fizice sau mintale, este în neputință de a se proteja și îngriji ea însăși, o expune sau o părăsește, în așa fel sau loc, încât îi pune în pericol iminent vieața, sănătatea sau integritatea corporală, comite delictul de abandonare a persoanelor neputincioase și se pedepsește cu închisoare corecțională dela 5 luni la 2 ani.
+Jurisprudență (1)
+
+Dacă faptul de mai sus este săvârșit asupra uneia din persoanele arătate în punctele 4, 5 și 6 ale art. 464, pedeapsa este închisoarea corecțională dela 2 la 5 ani, iar dacă faptul este săvârșit de mamă asupra copilului natural, înainte de a fi expirat termenul de declarare la oficiul stării civile, pedeapsa este închisoarea corecțională, dela 6 luni la un an.
+
+E apărată de pedeapsă mama care după comiterea faptului de abandon al copilului său își reia de bună voie îndatoririle de mamă.
+
+Art. 487. -
+Dacă persoana expusă sau părăsită a suferit o vătămare a integrității corporale sau a sănătății din cele prevăzute la art. 471, 472 și 473, pedeapsa este acea prescrisă de art. 486, sporită cu un plus până la 3 ani, după distincțiile acolo arătate; iar dacă a rezultat moartea, este aceea prevăzută de art. 475.
+Jurisprudență (1)
+
+În cazul art. 486, alin. 2, partea finală, dacă s'a cauzat o vătămare a integrității corporale sau a sănătății din cele arătate în art. 471, 472 și 473, pedeapsa se sporește cu un plus până la un an, iar dacă s'a cauzat moartea, cu un plus până la 2 ani.
+
+Art. 488. -
+Acela care, prin violarea unei obligații legale sau contractuale, expune o persoană unui pericol de moarte iminent, comite delictul de primejduire a vieții și se pedepsește cu închisoare corecțională dela 3 luni la un an.
+
+Pentru patronul, șeful sau conducătorul unei întreprinderi industriale sau comerciale care contravine pentru a treia oară în cursul a 2 ani, la dispozițiunile legale, care ocrotesc munca minorilor, sub 18 ani de ambele sexe sau a femeilor, ori calcă în aceleași condițiuni legile care reglementează repausul săptămânal și sărbătorile legale, precum și măsurile de igienă și salubritate a muncitorilor, de orice categorie, pedeapsa este închisoarea corecțională dela una la 3 luni și amenda dela 5.000 la 20.000 lei.
+
+Art. 489. -
+Acela care, găsind abandonată sau pierdută o persoană dintre cele arătate în art. 484, omite de a încunoștiința de îndată autoritatea, comite delictul de omisiune de ajutor și se pedepsește cu închisoare corecțională dela una la 3 luni.
+
+Aceeași pedeapsă se aplică și conducătorului de vehicul care după ce a provocat un accident, nu oprește.
+
+Aceeași pedeapsă se aplică și aceluia care văzând o persoană rănită grav sau în primejdie de moarte, omite de a-i da ajutor, fără temere rațională de vreun pericol pentru persoana sa, ori pentru alte persoane, sau de a anunța imediat autoritatea.
+
+SECȚIUNEA V
+Delicte contra vieții, integrității corporale și sănătății,
+comise de mulțime și prin încăerări.
+Art. 490. -
+Dacă o crimă sau un delict contra persoanelor este săvârșit de o mulțime, se aplică dispozițiunile art. 331.
+
+Când vătămarea cauzată integrității corporale sau sănătății, are loc cu ocazia unei încăerări între mai multe persoane și când acțiunea fiecăreia nu poate fi determinată, toți participanții la încăerare se pedepsesc în cazul art. 471, 472 și 473, cu închisoare corecțională dela una lună la 2 ani și amendă dela 1.000 la 3.000 lei, iar în cazul art. 475, cu închisoare corecțională dela unu la 3 ani și amendă dela 2.000 la 5.000 lei.
+
+CAPITOLUL II
+Delicte în contra libertății individuale
+SECȚIUNEA I
+Sclavia și sechestrarea de persoane
+Art. 491. -
+Acela care pune sau ține o persoană în sclavie sau într'o situație analoagă, ori participă la acte de comerț sau de transport de sclavi, comite delictul de sclavie și se pedepsește cu închisoare corecțională dela unu la 5 ani și amendă dela 10.000 la 15.000 lei.
+
+Art. 492. -
+Acela care, în mod ilegal reține, deține, sechestrează sau, în orice alt mod, privează de libertate o persoană, comite delictul de sechestrare de persoană, și se pedepsește cu închisoare corecțională dela 3 la 6 luni:
+
+Aceeași pedeapsă se aplică și aceluia care, deși îndreptățit a reține o persoană, nu aduce de îndată la cunoștința autorității competente această reținere.
+
+Art. 493. -
+Delictul prevăzut în articolul precedent se pedepsește cu închisoare corecțională dela 5 la 10 ani, când:
+
+1. din faptul sechestrării victimei, sau tratamentului la care a fost supusă, în timpul sechestrării, a rezultat o vătămare gravă a integrității corporale sau a sănătății acesteia, ori dacă s'a întrebuințat în contra ei violență sau tortură;
+
+2. sechestrarea a ținut mai mult de o lună;
+
+3. faptul s'a comis asupra unui ascendent sau descendent, legitim sau natural, soț, frate sau soră;
+
+4. sechestrarea s'a executat de către o persoană care a simulat prin orice mijloc o calitate oficială sau a întrebuințat vreun ordin falsificat al autorității publice;
+
+5. persoana sechestrată a fost transportată peste frontieră;
+
+6. sechestrarea s'a comis prin întrebuințare de arme.
+
+SECȚIUNEA II
+Amenințarea și șantajul
+Art. 494. -
+Acela care, într'un mod susceptibil de a alarma, amenință o persoană cu săvârșirea unei infracțiuni sau cauzarea unui prejudiciu, întru cât faptul nu ar constitui o infracțiune mai gravă, comite delictul de amenințare și se pedepsește, la plângerea părții vătămate, cu închisoare corecțională dela una la 6 luni.
+
+Pedeapsa este închisoarea corecțională dela unu la 5 ani, în următoarele cazuri:
+
+1. dacă amenințarea este însoțită de o cerere pentru depunerea unei sume de bani sau a oricărei alte valori în anumit loc sau timp;
+
+2. dacă este însoțită de semne simbolice sau alte mijloace, spre a face să creadă că amenințarea vine din partea unei puternice asociații secrete, adevărată sau închipuită;
+
+3. dacă se amenință cu moartea, cu vătămarea integrității corporale sau a sănătății, ori cu incendiul;
+
+4. dacă infractorul a simulat prin orice mijloc o calitate oficială sau a intrebuințat un ordin falsificat a unei autorități publice;
+
+5. dacă amenințarea s'a făcut de o persoană travestită sau mascată;
+
+6. dacă amenințarea s'a făcut cu arme.
+
+Art. 495. -
+Acela care, în scopul de a dobândi, în mod injust, pentru sine sau pentru altul, un folos material, constrânge o persoană prin violență sau amenințare, ca să facă, să nu facă sau să sufere ceva, întru cât faptul nu ar constitui o infracțiune mai gravă, comite delictul de șantaj și se pedepsește cu închisoare corecțională dela 6 luni la 2 ani.
+
+Pedeapsa este închisoarea corecțională dela unu la 3 ani, dacă amenințarea consistă în aceea că se vor da publicității fapte, reale sau imaginare, compromițătoare pentru persoana amenințată sau o rudă a ei, ori pentru o persoană de care este legată printr'o temeinică afecțiune.
+
+Tentativa se pedepsește.
+
+SECȚIUNEA III
+Violarea de domiciliu
+Art. 496. -
+Acela care, prin violență, amenințare, efracțiune, escaladare, întrebuințare de chei mincinoase, prin viclenie, ori în mod clandestin, pătrunde în locuința unei persoane, în localul său de afaceri, în dependințele acestora, sau într'un loc împrejmuit, în contra voinței aceluia care locuește acolo, sau care are dreptul de a dispune de ele, întru cât faptul nu ar constitui o infracțiune mai gravă, comite delictul de violare de domiciliu, și se pedepsește cu închisoare corecțională dela 2 luni la un an și amendă dela 2.000 la 5.000 lei.
+
+Tentativa se pedepsește.
+
+Art. 497. -
+Violarea de domiciliu se pedepsește cu închisoare corecțională dela 6 luni la 2 ani, când infracțiunea s'a săvârșit în următoarele împrejurări:
+
+1. de o ceată;
+
+2. în timpul nopții;
+
+3. infractorul era înarmat;
+
+4. autorul a simulat prin orice mijloace o calitate oficială sau a întrebuințat un ordin falsificat al autorității publice.
+
+Art. 498. -
+Săvârșește de asemenea delictul de violare de domiciliu și se pedepsește cu închisoare corecțională dela 2 la 6 luni și amendă dela 2.000 la 5.000 lei, acela care, găsindu-se în locurile arătate în art. 496, nu le părăsește, la invitația expresă a celui în drept, sau rămâne acolo prin viclenie sau în mod clandestin.
+
+Art. 499. -
+Funcționarul public, care, depășind limitele competenței sale sau abuzând de puterea sa, ori fără respectarea formalităților impuse de lege, se introduce sau rămâne în locurile arătate în art. 496, în contra voinței aceluia care locuește acolo sau are drept a dispune de ele, comite delictul de violare de domiciliu și se pedepsește cu închisoare dela 6 luni la 2 ani.
+
+Dacă cu această ocazie se face și perchiziție domiciliară sau alt act arbitrar, pedeapsa este închisoarea corecțională dela unu la 3 ani și amenda dela 2.000 la 5.000 lei.
+
+Tentativa se pedepsește.
+
+Art. 500. -
+Acțiunea penală, în cazurile prevăzute de articolele din prezenta secțiune, se poate pune în mișcare numai la plângerea părții vătămate.
+
+SECȚIUNEA IV
+Violarea de secrete
+Art. 501. -
+Acela care fără drept, deschide o corespondență închisă sau orice înscris închis, care nu sunt adresate lui, în scopul de a lua cunoștință de conținut sau de a și-l însuși pe cale de reproducere, comite delictul de violare a secretului corespondenței și se pedepsește cu închisoare corecțională dela una la 6 luni și amendă dela 2.000 la 3.000 lei.
+
+Aceeași pedeapsă se aplică și aceluia care, luând cunoștință de anumite fapte, din conținutul unei corespondențe deschise, care nu i-a fost adresată sau încredințată, le divulgă, procurându-și un folos material, sau cauzând altuia un prejudiciu moral sau material.
+
+Când divulgarea, în condițiile alin. 2, s'a făcut cu privire la corespondența închisă, arătată în alin. 1 al acestui articol, pedeapsa este închisoarea corecțională dela 3 luni la un an și amenda dela 2.000 la 5.000 lei.
+
+Art. 502. -
+Acela care, sustrage sau suprimă vreuna din corespondențele arătate în art. 501, închise sau deschise, destinate altuia, comite delictul de sustragere a corespondenței și se pedepsește cu închisoare corecțională dela una lună la un an, iar în cazul că divulgă conținutul, în condițiunile arătate în art. 501, alin. 2, pedeapsa este închisoarea corecțională dela unu la 3 ani și amenda dela 2.000 la 5.000 lei.
+
+Art. 503. -
+Acela care, în mod fraudulos, obține sau interceptează o comunicare telegrafică, sau o convorbire telefonică, comite delictul de interceptare frauduloasă și se pedepsește cu închisoare corecțională dela una la 6 luni.
+
+Când infractorul divulgă comunicarea telegrafică sau convorbirea spre a-și procura un folos material, sau cauzează altuia un prejudiciu moral sau material, pedeapsa este închisoarea corecțională de la 6 luni la 2 ani.
+
+Art. 504. -
+Când delictele prevăzute în art. 501 502 și 503, se comit de funcționarii publici, pedeapsa este aceea prevăzută în acele articole, după distincțiile arătate acolo, sporită cu un plus până la 2 ani.
+
+Art. 505. -
+Acela care, în virtutea situației funcțiunii, profesiunii sau meseriei sale, având cunoștință de un secret pe care este ținut a-l păstra, îl destăinuește sau divulgă, în afară de cazurile când legea autoriză o asemenea destăinuire, și dacă faptul poate aduce un prejudiciu moral sau material unei persoane sau unei familii, comite delictul de revelațiune a secretului profesional și se pedepsește cu închisoare corecțională dela 6 luni la 2 ani și amendă dela 2.000 la 5.000 lei.
+
+Art. 506. -
+Comite delictul de divulgare a secretului industrial sau comercial și se pedepsește cu închisoare corecțională dela 6 luni la 2 ani și amendă dela 2.000 la 5.000 lei, acela care:
+
+1. divulgă un secret licit de comerț sau de fabricație al unei întreprinderi, în care funcționează sau a funcționat, ori pe care în virtutea funcțiunii sale le-a aflat sau se folosește de acest secret în întreprinderea sa proprie sau a altuia, în scopul de a-și procura sieși sau altuia vreun folos material, sau de a cauza vreo pagubă întreprinderii al cărei secret l-a divulgat sau folosit;
+
+2. se folosește, în comerțul sau întreprinderea sa, ori a altuia, de un secret licit de comerț sau industrie, care i-a fost destăinuit în condițiile de mai sus, sau despre care a luat cunoștință în mod fraudulos, în scopul de a cauza vreo pagubă întreprinderii sau comerțului al cărei secret a fost destăinuit.
+
+CAPITOLUL III
+Delicte contra onoarei
+SECȚIUNEA I
+Calomnia și defăimarea
+Art. 507. -
+Acela care în public prin orice mijloace afirmă cu privire la o persoană sau impută acesteia fapte determinate privitoare la vieața sau activitatea ei publică, care, dacă ar fi adevărate, ar expune acea persoană la urmărire penală sau disciplinară, ori disprețului public, comite delictul de calomnie în contra vieții publice și se pedepsește cu închisoare corecțională dela 3 luni la un an și amendă dela 2.000 la 5.000 lei.
+
+Art. 508. -
+Acela care în public prin orice mijloace afirmă cu privire la o persoană sau impută acesteia fapte determinate privitoare la vieața sa particulară, activitatea sa profesională, sau cinstea ei personală, care, dacă ar fi adevărate, ar expune acea persoană la urmărire penală sau disciplinară, ori disprețului public, comite delictul de calomnie în contra vieții private și se pedepsește cu închisoare corecțională dela 6 luni la 2 ani și amendă dela 2.000 la 8.000 lei.
+
+Art. 509. -
+Pedeapsa calomniei în cazul art. 507, este închisoarea corecțională dela 6 luni la un an și amenda dela 2.000 la 5.000 lei, dacă delictul este comis:
+
+1. în contra unui corp constituit în Stat sau contra unei administrații publice, ori în contra unei administrații sau întreprinderi, în care sunt angajate interese publice, în contra unui membru al acestora, sau în contra unui funcționar public;
+
+2. prin presă, prin orice mijloace de difuzare, ori în adunări publice;
+
+3. din motive josnice.
+
+Iar în cazul art. 508, dacă faptele sunt săvârșite în condițiunile prevăzute în alin. 2 și 3, pedeapsa este închisoarea corecțională dela unu la 2 ani și amenda dela 2.000 la 10.000 lei.
+
+Art. 510. -
+În cazul când se afirmă sau se răspândesc fapte, ori se fac imputări sau afirmațiuni pentru care legea nu admite proba verității, faptul constitue delictul de defăimare și se pedepsește cu închisoare corecțională dela 2 la 6 luni și amendă dela 2.000 la 3.000 lei.
+
+Art. 511. -
+Acela care, prin orice mijloace, aduce ofensă memoriei unui defunct, comite delictul de defăimare a memoriei defunctului și se pedepsește cu închisoare corecțională dela una la 3 luni și amendă, dela 2.000 la 3.000 lei.
+
+Dacă prin acest fapt se aduce atingere și onoarei sau reputației unui descendent sau altei rude apropiate, ori unui moștenitor al defunctului, pedeapsa este acea prevăzută pentru delictul de injurie.
+
+SECȚIUNEA II
+Injuria
+Art. 512. -
+Acela care, prin orice mijloace, aduce atingere onoarei sau reputației unei persoane sau o expune batjocurei, întru cât nu ar fi cazul prevăzut de art. 507, 508 și 510, comite delictul de injurie și se pedepsește cu închisoare corecțională dela una la 2 luni.
+
+Este injurie și în cazul când se impută sau se reproșează un defect, boală sau infirmitate, care chiar reale de ar fi, impun compătimire din considerațiuni de umanitate.
+
+Art. 513. -
+Pedeapsa injuriei este închisoarea corecțională dela 2 la 4 luni, dacă s'a comis în condițiunile arătate la art. 509 sau în prezența mai multor persoane, ori dacă a fost foarte brutală.
+
+SECȚIUNEA III
+Dispozițiuni comune
+Art. 514. -
+În caz de calomnie sau injurie se poate face proba verității, imputării sau afirmației în următoarele cazuri:
+
+1. dacă imputarea sau afirmația s'a făcut pentru proteguirea sau conservarea unui interes public, sau unui interes particular important și temeinic.
+
+Prin interes public, se înțelege:
+
+a) asigurarea unei cât mai bune recrutări a elementelor chemate a îndeplini funcțiuni sau servicii publice;
+
+b) respectarea legilor, regulamentelor și ordonanțelor;
+
+c) prevenirea abuzurilor în administrațiile publice;
+
+d) apărarea, intereselor unei clase sociale, ale unei confesiuni recunoscute de stat sau ale unei profesiuni;
+
+2. dacă imputarea sau afirmația face obiectul unei acțiuni penale sau disciplinare în curs;
+
+3. dacă imputarea sau afirmația sunt constatate ca adevărate printr'o hotărîre judecătorească;
+
+4. dacă cel calomniat sau injuriat cere expres să se facă proba verității;
+
+5. dacă imputarea sau afirmația se referă la vieața publică a unui funcționar sau particular.
+
+Art. 515. -
+Proba verității este interzisă, în orice caz și chiar în cazurile prevăzute în art. 514:
+Jurisprudență (1)
+
+1. dacă partea ofensată este vreuna dintre persoanele arătate în art. 205;
+
+2. dacă imputarea sau afirmația privește un fapt asupra căruia o instanță judecătorească sau disciplinară a pronunțat achitarea sau reabilitarea.
+
+Art. 516. -
+Proba verității este admisă numai cu condiția ca imputarea sau afirmația, cât și forma în care s'au făcut, să fi fost necesare în scop de a protegui sau a conserva un interes public, în următoarele cazuri:
+
+1. dacă imputarea sau afirmația privește vieața intimă a unei persoane sau familii, sau onoarea unei femei, întru cât nu ar fi vorba de o infracțiune urmărită din oficiu;
+
+2. dacă imputarea sau afirmația se referă la o infracțiune ce se poate urmări numai la plângerea, prealabilă a părții vătămate, care nu a făcut o asemenea plângere și inculpatul știa aceasta în timpul comiterii infracțiunii.
+
+Art. 517. -
+Acela care a făcut proba verității imputării sau afirmației sale nu este culpabil de calomnie sau injurie.
+
+Art. 518. -
+Acțiunea penală pentru calomnie, defăimare și injurie se poate pune în mișcare numai la plângerea prealabilă a părții vătămate.
+
+Dacă persoana față de care s'a săvârșit vreo infracțiune contra onoarei, a încetat din vieață înainte de a pune în mișcare acțiunea penală, dreptul de a o pune în mișcare, întrucât nu a expirat termenul de 3 luni prevăzut de art. 161, trece asupra soțului, descendenților, ascendenților, fraților, surorilor și în lipsa acestora asupra nepoților direcți, care pot face plângere în termenul de 6 luni dela moarte, fără a avea însă dreptul la despăgubiri bănești.
+
+Pentru defăimarea memoriei defunctului, acțiunea penală se pune în mișcare la plângerea prealabilă a persoanelor arătate în alineatul precedent, de asemenea fără drept la despăgubiri bănești.
+
+În caz de calomnie, defăimare sau injurie reciprocă, când acestea intră în prevederile aceluiași text al legii, infractorul este în drept a face și el plângere în contra reclamantului, până la închiderea desbaterilor, înaintea primei instanțe, chiar dacă ar fi expirat termenul de 3 luni prevăzut de art. 161.
+
+Împăcarea părților stinge încriminarea.
+
+Art. 519. -
+Nu se consideră calomnie, defăimare sau injurie, imputarea sau afirmația ce se face oral sau în scris de către părți sau reprezentanții lor, cu ocazia desbaterilor care au loc înaintea unei autorități ori înaintea unei instanțe judecătorești sau disciplinare, dacă acea imputare sau afirmație era în legătură cu obiectul desbaterilor și necesară cauzei.
+
+Art. 520. - Jurisprudență (1)
+Nu se consideră injurie, dojana pe care o persoană o face alteia în exercițiul dreptului de corecție și disciplină.
+
+Art. 521. -
+Dacă injuria se produce în urma atitudinei sau conduitei provocătoare a celui injuriat, instanța poate pronunța achitarea.
+
+Art. 522. -
+În caz de calomnie, defăimare sau injurie reciprocă, replicată îndată, instanța poate achita pe ambii inculpați sau numai pe unul din ei.
+
+CAPITOLUL IV
+Delicte contra liniștei personale
+Art. 523. -
+Proprietarul sau patronul unei întreprinderi, de orice fel care, prin nerespectarea sau călcarea dispozițiilor reglementare prescrise pentru exercițiul acesteia sau prin nepăsare sau neglijență, ori în scop de șicană, lasă să se producă sgomot, prin orice mijloace, care turbură liniștea necesară odihnei sau ocupației obișnuite a unei persoane, comite delictul de turburare a liniștei personale și se pedepsește cu închisoare corecțională dela una la 3 luni.
+
+Aceeași pedeapsă se aplică și proprietarului, locatarului sau deținătorului, care în imobilul sau apartamentul ce ocupă, face sau lasă să se facă, prin orice mijloc, sgomot excesiv, care nu este datorit unei simple întâmplări și este de natură turbura liniștea vecinilor săi.
+
+TITLUL XIV
+Crime și delicte contra patrimoniului
+CAPITOLUL I
+Furtul
+Art. 524. - Reviste (1)
+Acela care ia un lucru mobil, ce nu-i aparține, din posesiunea sau detențiunea altuia, fără consimțimântul acestuia, în scopul de a și-l însuși pe nedrept, comite delictul de furt.
+
+Se consideră lucru mobil și orice energie care are o valoare economică.
+
+Se consideră lucru ce nu aparține autorului și acela asupra căruia el are un drept de coproprietate sau se găsește în posesiunea altuia cu un titlu legal.
+
+Furtul se pedepsește cu închisoare corecțională dela 3 luni la 2 ani, amendă dela 5.000 la 10.000 lei și interdicție corecțională dela unu la 2 ani.
+
+Art. 525. -
+Furtul este calificat în următoarele cazuri:
+
+1. când este săvârșit:
+
+a) într'un local consacrat unui cult recunoscut de stat, asupra vreunui obiect consacrat cultului sau destinat unui scop pios sau caritabil;
+
+b) într'un cimitir, asupra unui obiect consacrat cultului morților, sau aflat pe cadavru;
+
+c) pe câmp sau în pădure, asupra animalelor, recoltelor strânse sau nu, ori uneltelor;
+
+d) într'un loc public, unde prin obișnuință sau destinație se lasă obiecte, ținându-se seama de încrederea publicului;
+
+e) asupra obiectelor aflate în locuri publice;
+
+2. când este săvârșit:
+
+a) în timpul și cu ocazia unui incendiu, naufragiu, accident de cale ferată, unei explozii, inundații sau oricărei alte calamități publice, ori în apropierea locului unde acestea s'au produs;
+
+b) în timpul nopții, într'o casă locuită;
+
+3. când este săvârșit prin:
+
+a) escaladarea zidurilor sau îngrădirilor;
+
+b) efracțiunea încuietorilor, legăturilor sau a oricărui dispozitiv de închidere;
+
+c) cheie mincinoasă sau cheie adevărată, când se găsea în mâna autorului, prin orice împrejurare care nu-i da dreptul de a se folosi de ea;
+
+4. când este săvârșit:
+Jurisprudență (1)
+
+a) prin simulare, de către autor, a unei calități oficiale sau însărcinări din partea unei autorități sau a unui serviciu public;
+
+b) prin mascarea, deghizarea sau travestirea infractorului;
+
+c) de către două sau mai multe persoane;
+
+d) de către un infractor, care avea asupra lui arme sau narcotice, fără să le fi întrebuințat;
+
+5. când este săvârșit:
+
+a) de către un funcționar public care abuzează de calitatea sa oficială;
+
+b) de către hotelier, restaurator, birtaș, cărăuș sau orice patron sau antreprenor al unui local accesibil publicului, sau de către persoanele din serviciul lor, asupra lucrărilor încredințate sau lăsate, potrivit obiceiului, în localurile sau vehiculele lor, precum și de către călători sau consumatori, asupra lucrurilor din hotel, restaurant sau birt;
+
+c) de către o persoană care este în serviciu, asupra lucrurilor patronului sau ale familiei lui, sau ale altor persoane, de care numai calitatea sa i-a permis să se apropie;
+
+d) de o persoană care se găsește în aceeași locuință cu acela dela care a furat;
+
+e) asupra unei persoane incapabile de a-și exprima voința sau de a se apăra.
+
+Pedeapsa, în cazurile de mai sus, este închisoarea corecțională, dela unu la 5 ani, amenda dela 5.000 la 10.000 lei și interdicția corecțională dela unu la 3 ani, iar în cazurile prevăzute la literele c și d de sub punctul 4, pedeapsa este închisoarea corecțională dela 2 la 7 ani, amenda dela 5.000 la 20.000 lei și interdicția corecțională dela 2 la 5 ani.
+
+Art. 526. -
+Furtul săvârșit între rude, ori de către minor sau o persoană pusă sub curatelă, în paguba tutorelui sau curatorului său, nu poate fi urmărit decât la plângerea prealabilă a părții vătămate.
+
+Dispozițiunile de mai sus se aplică și în cazul prevăzut în art. 525, punctul 5, litera d.
+
+Partea vătămată își poate retrage plângerea. Retragerea plângerii are de consecință stingerea acțiunii penale față de persoanele de mai sus.
+
+Instigatorii, coautorii și complicii, care nu se găsesc în gradul de rudenie de mai sus, se pedepsesc în toate cazurile și se pot urmări din oficiu.
+
+Art. 527. -
+Furtul comis de un coproprietar ori de proprietar, în condițiunile art. 524, alin. 3, se pedepsește în caz de furt simplu cu închisoare corecțională dela o lună la un an și amendă dela 1.000 la 3.000 lei, iar în caz de furt calificat, cu închisoare corecțională dela 6 luni la 3 ani, amendă dela 2.000 la 5.000 lei și interdicție corecțională dela unu la 2 ani.
+
+Art. 528. -
+Tentativa delictului prevăzut în acest capitol ce pedepsește.
+
+CAPITOLUL II
+Tâlhăria și pirateria
+SECȚIUNEA I
+Tâlhăria
+Art. 529. -
+Acela care ia prin violență sau amenințare, un lucru mobil, ce nu-i aparține, din posesiunea sau detențiunea altuia, în scopul de a și-l însuși pe nedrept, comite delictul de tâlhărie și se pedepsește cu închisoare corecțională dela 3 la 8 ani, amendă dela 5.000 la 10.000 lei și interdicție corecțională dela 2 la 5 ani.
+
+Art. 530. -
+Se socotește de asemenea că a săvârșit delictul de tâlhărie și se pedepsește potrivit articolului precedent:
+
+1. acela care, surprins fiind în flagrant delict de furt, întrebuințează violență sau amenințare, în scopul de a păstra lucrul furat, sau a distruge urmele delictului, ori de a asigura scăparea sa, sau a coparticipanților săi;
+
+2. acela care ia un lucru dela o persoană, pe care a pus-o, în acest scop în stare de inconștiență sau neputință de a se apăra, prin narcotice sau orice alte mijloace;
+
+3. acela care obține, prin violență sau amenințare, semnătura sau remiterea unui act, unui titlu, sau oricărui alt înscris, care poate avea efecte juridice.
+
+Art. 531. - Jurisprudență (1)
+Tâlhăria se pedepsește cu închisoare corecțională dela 5 la 10 ani, amendă dela 10.000 la 20.000 lei și interdicție corecțională dela 3 la 5 ani, când este săvârșită:
+
+1. în timpul nopții;
+
+2. pe drumuri sau piețe publice;
+
+3. de două sau mai multe persoane;
+
+4. de către una sau mai multe persoane mascate, deghizate, sau travestite;
+
+5. de către una sau mai multe persoane care aveau asupra lor, toate sau parte din ele, arme sau narcotice;
+
+6. prin bătăi sau rele tratamente care n'au cauzat victimei vreo vătămare gravă a sănătății sau integrității corporale.
+
+Art. 532. -
+Tâlhăria este crimă și se pedepsește cu muncă silnică dela 10 la 15 ani, și degradare civică dela 5 la 8 ani, în următoarele cazuri:
+
+1. când s'a întrebuințat tortură;
+
+2. când s'a cauzat vreo vătămare a integrității corporale sau a sănătății, din cele prevăzute în art. 473, ori s'a săvârșit și tentativă de omor.
+
+Art. 533. -
+Crima de tâlhărie se pedepsește cu muncă silnică pe vieață, când s'a cauzat moartea victimei.
+
+Art. 534. -
+Tentativa delictelor prevăzute în această secțiune se pedepsește.
+
+SECȚIUNEA II
+Pirateria
+Art. 535. -
+Acela care, făcând parte din echipajul unui vas, săvârșește pe cont propriu, în marea liberă prin violență sau amenințare, acte de prădare în scopul de a răpi un alt vas sau bunurile de pe el, comite crima de piraterie și se pedepsește cu temniță grea dela 7 la 12 ani și degradare civică dela 5 la 8 ani.
+
+Când faptul este însoțit de loviri asupra personalului vasului sau călătorilor, ori a cauzat acestora vreo vătămare a integrității corporale sau a sănătății, pedeapsa este munca silnică dela 7 la 12 ani și degradarea civică dela 8 la 10 ani, iar dacă s'a comis vreun omor sau s'a răpit ori s'a distrus vasul, pedeapsa este munca silnică pe vieață.
+
+Se consideră piraterie și se pedepsește cu aceeași pedeapsă și după distincțiile de mai sus:
+
+1. faptul săvârșit chiar de personalul vasului sau de persoanele aflate pe vas, în contra vasului, în scopul sus arătat;
+
+2. faptul de a provoca, prin orice mijloc naufragiul sau eșuarea unui vas, în scopul de a-și însuși încărcătura lui, sau de a prăda pe călători.
+
+Art. 536. -
+Dispozițiunile din articolul precedent se aplică și când crima de piraterie s'a săvârșit între aeronave sau între acestea și vase.
+
+CAPITOLUL III
+Delicte contra patrimoniului prin nesocotirea
+încrederei
+SECȚIUNEA I
+Abuzul de încredere
+Art. 537. -
+Acela care, având în posesia sau detențiunea sa, sub orice titlu, un lucru mobil al altuia, și-l însușește sau dispune de el, pe nedrept, ori refuză de a-l restitui, comite delictul de abuz de încredere și se pedepsește cu închisoare corecțională dela 6 luni la 3 ani, amendă dela 2.000 la 5.000 lei și interdicție corecțională dela 6 luni la un an.
+
+Acțiunea penală se poate pune în mișcare numai prin plângerea prealabilă a părții vătămate.
+
+În cazul când lucrurile sustrase sau sumele risipite vor fi restituite sau depuse, ori prejudiciul va fi integral reparat, până la pronunțarea hotărîrii definitive, acțiunea penală se stinge.
+
+Art. 538. -
+Pedeapsa este închisoarea corecțională dela unu la 5 ani, amenda dela 2.000 la 10.000 lei și interdicția corecțională dela unu la 3 ani, când abuzul de încredere s'a săvârșit:
+
+1. de către o persoană din serviciul sau din intimitatea celui lezat, cu excepția rudelor;
+
+2. de către o persoană căreia, datorită profesiunii sau îndeletnicirii sale, permanentă sau temporară, publicul îi încredințează lucruri;
+
+3. asupra unor lucruri încredințate în împrejurările prevăzute de art. 525, punctul 2, litera a și punctul 5, litera b.
+
+Dispozițiunile art. 537, alin. 3, nu sunt aplicabile în cazurile prevăzute de punctele 2 și 3 de mai sus.
+
+SECȚIUNEA II
+Gestiunea frauduloasă
+Art. 539. - Reviste (1)
+Acela care, fiind însărcinat cu administrarea, îngrijirea sau supravegherea bunurilor altuia, și, în această calitate, pricinuește daune materiale aceluia ale cărui interese este obligat a le sprijini, comite delictul de gestiune frauduloasă și se pedepsește cu închisoare corecțională dela 6 luni la 3 ani și interdicție corecțională dela unu la 2 ani.
+
+Pedeapsa este închisoarea corecțională dela unu la 5 ani, amenda dela 2.000 la 10.000 lei și interdicția corecțională dela 2 la 5 ani, în cazul când autorul săvârșește gestiunea frauduloasă în scopul de a dobândi un folos material.
+
+Art. 540. -
+Constitue de asemenea delictul de gestiune frauduloasă și se pedepsește cu închisoare corecțională dela 2 la 10 ani, amendă dela 5.000 la 20.000 lei și interdicție corecțională dela 2 la 5 ani, faptul administratorului sau directorului unei societăți:
+
+1. care, alcătuind un bilanț fals, a încasat sau plătit dividende sau participațiuni, sub orice formă, pentru beneficii nereale;
+
+2. care a provocat la bursă sau prin răspândire de știri falșe, scăderea sau ridicarea valorii creanțelor societății, în scopul de a-și procura beneficii;
+
+3. care a operat asupra fondurilor societății, ridicări de bani, pentru uz personal ori pentru scopuri străine de obiectul social, în afară de statute și fără autorizarea adunării generale, sau care a utilizat creditul societății pentru scopuri străine obiectului social;
+
+4. care, în scopul de a-și procura lui sau altuia un folos material, cumpără sau vinde, pe socoteala societății, acțiuni ale altor societăți, pe un preț păgubitor;
+
+5. care, în constituirea adunării se folosește de acțiuni neplasate sau nu respectă dispozițiunile legale înscrise pentru decăderea acțiunilor neplătite, dobândește acțiuni ale altor societăți, pe contul acesteia, fără autorizare, sau cu suma care nu a fost preluată din benefici regulat constatate, ori emite obligații fără a fi autorizat, sau emite acțiuni pe un preț inferior valorii nominale, sau noi acțiuni, mai înainte ca acțiunile emise anterior să fi fost achitate în întregime.
+
+Art. 541. - Reviste (1)
+Acțiunea penală, în cazurile art. 539 și 540 se poate pune în mișcare numai la plângerea prealabilă a părții vătămate, iar dacă delictul de gestiune frauduloasă a fost comis în exercițiul mandatului de tutor, curator, consilier judiciar, custode, sechestru, sindic al falimentului, de vreun administrator al fundațiilor ale căror bugete sunt aprobate de Stat, de vreun executor testamentar, ori de către un membru în consiliul de administrație sau direcție, sau de vreun administrator ori censor al unei societăți pe acțiuni sau cooperative, sau în general de orice persoană care are însărcinarea sau autorizarea dela o autoritate publică să administreze averea străină, acțiunea penală se pune în mișcare din oficiu.
+
+SECȚIUNEA III
+Exploatarea slăbiciunilor persoanelor incapabile
+Art. 542. -
+Acela care, în scopul de a obține un folos material, pentru sine sau pentru altul, abuzând de trebuințele, pasiunile, viciile sau de inexperiența unui minor, ori de inferioritatea sau infirmitatea psihică a unei persoane, o face să săvârșească un act care ar produce pentru el sau pentru altul un efect juridic dăunător, comite delictul de exploatare a slăbiciunilor sau viciilor și se pedepsește cu închisoare corecțională dela unul la 4 ani, amendă dela 2.000 la 10.000 lei și interdicție corecțională dela unu la 3 ani.
+
+SECȚIUNEA IV
+Însușirea lucrurilor pierdute și deținerea pe
+nedrept
+Art. 543. -
+Acela care găsește un lucru și nu-l predă, în termen de 8 zile, autorităților sau aceluia care l-a pierdut, comite delictul de însușire a lucrului pierdut și se pedepsește cu închisoare corecțională dela una la 6 luni și amendă dela 2.000 la 5.000 lei.
+
+Pedeapsa este închisoarea corecțională dela 3 luni la un an și amenda dela 2.000 la 5.000 lei, când lucrul a fost găsit într'o casă, curte, grădină sau altă încăpere și nu a fost arătat stăpânului ori chiriașului locului.
+
+Aceeași pedeapsă se aplică și birjarului, șoferului, hotelului sau hangiului care nu predă autorităților polițienești vreun obiect uitat de client sau călător.
+
+Când faptele de mai sus sunt comise de rude, acțiunea penală nu se pune în mișcare decât după plângerea prealabilă a părții vătămate.
+
+Art. 544. -
+Comite delictul de deținere pe nedrept și se pedepsește cu închisoare corecțională dela 2 la 6 luni și amendă dela 2.000 la 5.000 lei:
+
+1. acela care, găsind o comoară, o deține și nu o declară autorității, în termen de 8 zile;
+
+2. acela care, din eroare, ajunge în posesiunea unui lucru ce aparține altuia și fără a anunța aceasta locului respectiv, și-l însușește pe nedrept.
+
+SECȚIUNEA V
+Abuzul de încredere profesională
+Art. 545. -
+Avocatul, care, primind daruri sau promisiuni dela partea adversă, vatămă, prin fapte positive sau puțin omisiuni, cauza, clientului său, comite delictul de abuz de încredere profesională și se pedepsește cu închisoare corecțională dela unu la 3 ani, amendă dela 2.000 la 5.000 lei și interdicție corecțională dela unu la 2 ani.
+
+Pedeapsa este închisoarea corecțională dela unu la 5 ani, amenda dela 2.000 la 10.000 lei și interdicția corecțională dela 2 la 5 ani, când faptul săvârșit în condițiile de mai sus se referă la interesele unui inculpat.
+
+Pedeapsa din alineatul precedent se aplică și avocatului, care, pentru a obține un onorar mai mare, ar pretexta că trebue să cumpere favoarea vreunui magistrat sau funcționar public.
+
+Art. 546. -
+Când avocatul vatămă, prin fapte pozitive sau prin omisiuni interesele unui inculpat, se pedepsește precum urmează:
+
+1. în caz de crimă cu închisoare corecțională dela unu la 5 ani și cu interdicție corecțională dela unu la 2 ani;
+
+2. în caz de delict, cu închisoare corecțională dela 3 luni la un an și interdicție corecțională dela 6 luni la un an;
+
+3. în caz de contravenție, cu închisoare corecțională dela o lună la 6 luni.
+
+Art. 547. -
+Cărăușul sau însărcinatul său, care schimbă, în totul sau în parte, substanța sau calitatea lucrurilor sau mărfurilor, al căror transport i-a fost încredințat, comite delict de fraudă în transport și se pedepsește cu închisoare corecțională dela 2 luni la un an și amendă dela 2.000 la 3.000 lei.
+
+Dacă schimbarea s'a făcut prin amestecare de materii vătămătoare, pedeapsa este închisoarea corecțională dela 3 luni la 2 ani și amendă, dela 3.000 la 5.000 lei.
+
+SECȚIUNEA VI
+Fraudarea creditorilor
+Art. 548. -
+Acela care, în scop de a frustra pe un creditor, de către care este chemat în judecată, sau care are titlu executor obținut în contra sa, ascunde, înstrăinează, deteriorează sau distruge ceva din averea sa, sau face datorii fictive, ori alte acte, în paguba creditorilor, comite delictul de frustrare a creditorilor și se pedepsește cu închisoare corecțională dela 6 luni la 2 ani, amendă dela 2.000 la 5.000 lei și interdicție corecțională dela unu la 2 ani.
+
+Acțiunea penală poate fi pusă în mișcare numai la plângerea prealabilă a părții vătămate.
+
+SECȚIUNEA VII
+Înșelăciunea
+Art. 549. -
+Acela care, în scopul de a obține pentru sine sau pentru altul un folos material injust face să se treacă drept adevărate fapte mincinoase, sau prezintă ca mincinoase fapte adevărate, și prin aceasta, cauzează o pagubă materială unei persoane, comite delictul de înșelăciune și se pedepsește cu închisoare corecțională dela 3 luni la 2 ani, amendă dela 2.000 la 10.000 lei și interdicție corecțională dela unu la 2 ani.
+
+Când, pentru comiterea faptului de mai sus, infractorul a întrebuințat nume, calități mincinoase sau alte mijloace frauduloase, pedeapsa este închisoarea corecțională dela unu la 3 ani, amenda dela 3.000 la 12.000 lei și interdicția corecțională dela unu la 3 ani.
+
+Art. 550. -
+Pedepsele sunt cele prevăzute în art. 549, sporite cu un plus până la 2 ani când faptele se săvârșesc:
+
+1. de către un funcționar public, avocat, mandatar sau funcționar privat, în exercițiul funcțiunii sau mandatului său;
+
+2. de o persoană care a simulat calitatea de funcționar public.
+
+Art. 551. -
+Comite delictul de înșelăciune în convențiuni și se pedepsește după distincțiile din art. 549, acela care, cu ocazia încheierii sau exercitării unei convențiuni, induce sau menține în eroare pe cealaltă parte, în așa fel, încât, fără această eroare, ea nu ar fi încheiat sau executat convenția în condițiile stipulate.
+Jurisprudență (1)
+
+Art. 552. - Jurisprudență (1)
+Acela care, în scopul arătat la art. 549, induce sau menține în eroare o persoană, asupra condițiilor de trai sau de muncă în țara de emigrare sau asupra foloaselor ce această țară oferă emigranților, și o determină să emigreze, sau o îndrumează către o altă țară decât aceea în care voia să meargă, cauzând acesteia sau alteia o pagubă materială, comite delictul de înșelăciune în emigrațiune și se pedepsește cu închisoare corecțională dela 3 luni la 2 ani și amendă dela 5.000 la 10.000 lei.
+
+Cu aceeași pedeapsă se pedepsește și propaganda făcută în vederea emigrării în condițiunile din alineatul precedent.
+
+Art. 553. -
+Acela care, în scopul arătat la art. 549, emite un cek asupra unei bănci sau unei persoane, știind că nu are provizia sau acoperirea necesară ori suficientă, precum și acela care, în același scop, după emisiune, retrage provizia în totul sau în parte, sau interzice trasului de a plăti înainte de expirarea termenului de prezentare, cauzând prin aceasta o pagubă posesorului cekului, comite delictul de înșelăciune prin cekuri și se pedepsește cu închisoare corecțională dela 2 la 5 ani și cu amendă dela 2.000 până la 10.000 lei.
+
+Art. 554. -
+Acela care, în scop de a obține, pentru sine sau pentru altul despăgubirea, isvorînd dintr'o convenție de asigurare sau alt folos material injust, distruge, risipește sau deteriorează în orice mod lucruri care aparțin lui sau altuia în total sau în parte, sau cauzează sieși sau altuia răni sau infirmități, comite delictul de înșelăciune contra asigurătorului și se pedepsește cu închisoare corecțională dela 6 luni până la 2 ani și amendă dela 2.000 la 5.000 lei, iar dacă desființarea propriului său lucru, care era asigurat, a fost făcută prin incendiu, pedeapsa este dela unu la 5 ani.
+
+Art. 555. -
+Tentativa delictelor prevăzute în acest capitol se pedepsește.
+
+CAPITOLUL IV
+Strămutarea de hotare, desființarea semnelor de
+hotar, stricăciuni și alte turburări aduse
+proprietății
+Art. 556. -
+Acela care, în scopul de a-și însuși, fără drept, pământul posedat de altul, strămută sau face să se strămute semnele de hotare dintre proprietăți, comite delictul de strămutare de hotare și se pedepsește cu închisoare corecțională dela o lună la un an și amendă dela 2.000 la 3.000 lei.
+
+Art. 557. -
+Acela care, desființează orice semn sau orice lucru, care servește de hotar între proprietăți, comite delictul de desființare a semnelor de hotar și se pedepsește cu închisoare corecțională dela una la 6 luni și amendă dela 2.000 la 5.000 lei.
+
+Art. 558. -
+Acela care, prin violență sau amenințare, ocupă, fără drept imobilul aflat în posesia altuia, comite delictul de turburare a posesiei și se pedepsește cu închisoare corecțională dela 2 luni la 6 luni și amendă dela 2.000 la 3.000 lei.
+
+Art. 559. -
+Acela care, strică un lucru mobil sau imobil, aparținând în total sau în parte altuia, comite delictul de degradare a lucrului altuia și se pedepsește cu închisoare corecțională dela o lună la un an și amendă dela 2.000 la 5.000 lei:
+
+Aceeași pedeapsă se aplică și aceluia care, fără necesitate, ucide sau, în orice alt mod, face improprii întrebuințării, animalele care aparțin altuia.
+
+Art. 560. -
+Pedeapsa este închisoarea corecțională dela 6 luni la 2 ani și amenda dela 2.000 la 5.000 lei, când delictul prevăzut în art. 559 este săvârșit:
+
+1. asupra unui edificiu public sau destinat uzului public, unui monument sau unei statui publice, monument al naturii, parc public, plantație de utilitate publică, cimitir, uzină sau vas, întru cât nu ar constitui infracțiunea prevăzută de art. 352;
+
+2. asupra unei biblioteci, arhive, colecțiuni publice, ori asupra unui obiect păstrat în acestea, în scop științific, artistic, documentar sau industrial precum și asupra unui registru, act sau script ale unui serviciu public sau depuse la acesta;
+
+3. asupra unui titlu de credit public sau privat, ori registru de comerț, aparținând în totul sau în parte altuia;
+
+4. asupra bunurilor unor martori, experți, funcționari publici, din răzbunare pentru mărturia sau opinia lor, ori pentru lucrări săvârșite în exercițiul funcțiunii lor;
+
+5. prin întrebuințare de amenințare sau violență;
+
+6. de către o persoană angajată la muncă, sau de un muncitor, cu ocazia unei greve sau cu ocazia vreuneia din infracțiunile prevăzute de art. 333;
+
+7. de către un funcționar public, asupra unui act sau lucru care se găsea în păstrarea lui;
+
+8. de o ceată.
+
+Art. 561. -
+Acela care, ca proprietar, arendaș sau în orice altă calitate, având moară, piuă, ferestrău sau alte asemenea instalații, înalță cu voință apa prin zăgazuri, mai sus de nivelul cuvenit, cauzând astfel inundație pe proprietatea altuia sau pe drumuri, comite delictul de stricăciune prin inundație și se pedepsește cu închisoare corecțională, dela o lună la 3 luni și amendă dela 2.000 la 5.000 lei.
+
+Art. 562. - Jurisprudență (1)
+Acela care, în scopul de a cauza altuia o pagubă, strică, distruge un act autentic sau sub semnătură privată, care nu este al său ori nu este exclusiv al său, ori ascunde un act care nu este al său, comite delictul de distrugere de acte și se pedepsește cu închisoare corecțională dela 3 luni la un an și amendă dela 2.000 la 3.000 lei.
+
+Art. 563. -
+Acțiunea penală pentru delictele prevăzute în art. 556, 557, 558 și 559, se pune în mișcare la plângerea prealabilă a părții vătămate.
+
+CAPITOLUL V
+Jocul de noroc, loterie și specula contra
+economiei publice
+Art. 564. -
+Acela care, fără autorizație legală, organizează sau ține vreun joc public de noroc, precum și acela care ajută la aceasta, comite delictul de organizare a jocului de noroc și se pedepsește cu închisoare corecțională dela 3 luni la un an și amendă dela 2.000 la 20.000 lei.
+
+Pedeapsa este închisoarea corecțională dela 6 luni la 2 ani și amenda dela 5.000 la 20.000 lei:
+
+1. dacă infractorul săvârșește faptul în mod obișnuit sau profesional;
+
+2. dacă deschide sau ține o casă pentru joc public de noroc;
+
+3. dacă printre jucători au fost primite și persoane mai tinere de 21 ani.
+
+Art. 565. -
+Comite delictul de joc de noroc și se pedepsește cu amendă dela 2.000 la 30.000 lei acela care ia parte, într'un loc public sau deschis publicului, la vreun joc de noroc neautorizat.
+
+Art. 566. -
+Pedeapsa este închisoarea corecțională dela 3 luni la 2 ani și amenda dela 2.000 la 10.000 lei, când acel care, deși autorizat să organizeze vreun joc public de noroc, sau să țină o casă în acest scop, admite la joc persoane mai mici de 21 ani.
+
+Art. 567. -
+În cazurile art. 564, instanța poate aplica și cauțiunea de bună purtare.
+
+Art. 568. -
+Oricine ține un local public sau deschis publicului, care îngădue sau tolerează, în localul său, joc de noroc, comite delictul de tolerare a jocului de noroc și se pedepsește cu închisoare corecțională dela una la 3 luni și amendă dela 2.000 la 5.000 lei.
+
+În caz de a doua recidivă se poate aplica și măsura de siguranță a închiderii localului, prevăzută de art. 84.
+
+Art. 569. -
+Se consideră joc de noroc acela, în care câștigul sau pierderea atârnă, în totul sau în mare parte, de voia întâmplării.
+
+Art. 570. -
+Acela care, fără autorizație legală, deschide, organizează, lansează, prin orice mijloace, o loterie de orice fel, comite delictul de joc de noroc prin loterie și se pedepsește cu închisoare corecțională dela una la 3 luni și amendă dela 5.000 la 10.000 lei.
+
+Art. 571. -
+Comite delictul de joc de bursă și se pedepsește cu închisoare corecțională dela unu la 3 luni și cu amendă dela 2.000 la 5.000 lei, acela care cu scopul de a specula și lichida prin diferență, încheie convențiuni de a vinde sau a elibera efecte, acțiuni sau orice alte titluri de credit cotate la Bursă, când vânzătorul nu posedă efectele în momentul liberării.
+
+Art. 572. -
+Acela care, prin cereri sau oferte fictive, ori prin publicare sau răspândire de știri false, exagerate sau tendențioase, sau prin întrebuințarea de alte manopere frauduloase de natură a influența prețurile, vrea să turbure târgul intern al valorilor sau mărfurilor negociate la bursă sau în comerț, comite delictul de specială contra economiei publice și se pedepsește cu închisoare corecțională dela 2 la 6 luni și amendă dela 5.000 la 10.000 lei.
+
+Dacă prin comiterea faptului de mai sus s'a provocat urcarea sau scăderea prețului efectelor sau mărfurilor negociate la bursă sau în comerț, pedeapsa este dela 6 luni la 2 ani și amenda dela 10.000 la 20.000 lei.
+
+Art. 573. - Reviste (1)
+Acela care, în scop de a face să împuțineze mărfurile de consum, distruge materii prime sau produse agricole sau industriale ori mijloace de producțiune, aducând prin aceasta un prejudiciu grav nevoilor publice de consum, comite delictul de speculă a nevoilor de consum și se pedepsește cu închisoare corecțională dela unu la 3 ani și amendă dela 5.000 la 20.000 lei.
+
+TITLUL XV
+Delicte contra dreptului de răspuns prin presă și
+alte delicte comise în administrarea presei
+Art. 574. -
+Comite delictul de refuz de publicare a răspunsului și se pedepsește cu amendă dela 2.000 lei la 10.000 lei, directorul sau, în lipsa lui, redactorul oricărei publicațiuni periodice, care a refuzat să publice răspunsul unei persoane vizate direct sau indirect în acea publicațiune, cel mai târziu în primul număr ce apare după două zile libere dela notificarea, prin portărel sau notar public, a acelui răspuns.
+
+Același drept îl are, în cazul când se aduc imputări memoriei unui defunct, oricare dintre persoanele arătate în art. 511, chiar când ea nu a fost vizată personal.
+
+Răspunsul se publică gratuit, fără nicio intercalare sau comentar, în aceeași ediție, cu aceleași caractere tipografice și în același loc al publicațiunii în care a apărut articolul sau informația la care s'a răspuns.
+
+Răspunsul poate fi cel mult de două ori mai lung ca articolul la care se referă, calculat după numărul cuvintelor.
+
+Directorul e în drept să refuze publicarea unui răspuns, care nu ar fi făcut într'o formă obiectivă sau care ar fi în contra bunelor moravuri, ori ar conține expresiuni injurioase în contra vreuneia dintre persoanele care fac parte din direcția, redacția sau administrația ziarului, sau altei persoane străine.
+
+Dreptul de a cere publicarea unui răspuns se prescrie în termen de 30 zile dela apariția articolului sau informației care dă drept la acel răspuns.
+
+Partea vătămată, în caz de refuz nejustificat de a i se publica răspunsul, se poate adresa tribunalului, care judecă cu precădere și se pronunță în cel mult 10 zile dela cerere. În caz când tribunalul constată refuzul nejustificat, pe lângă sancțiunea prevăzută mai sus, ordonă și inserarea răspunsului, care se face în cel mult 3 zile libere dela comunicarea sentinței, sub sancțiunea unei daune de 500 lei pentru fiecare zi de întârziere.
+
+Publicarea răspunsului părții vătămate nu împiedecă dreptul de urmărire pentru infracțiunile ce ar rezulta din publicarea articolului care a provocat răspunsul.
+
+Art. 575. -
+Proprietarul oricărui ziar sau publicațiuni, care nu înscrie în fruntea acestora, în mod vizibil și permanent, numele directorului sau al redactorului responsabil, sau care nu arată schimbările survenite în privința acestor persoane, precum și acela care ar menține, ca director sau redactor responsabil, o persoană care nu este cetățean român, nu are domiciliul în țară, ori a suferit condamnațiuni penale cu interdicție corecțională sau acela care, mai înainte de apariția publicațiunii periodice, nu declară și înscrie la instanța competentă numele său, domiciliul, titlul publicațiunii periodice, modul de apariție și numele directorului sau redactorului responsabil, se pedepsește cu închisoare corecțională dela 2 la 6 luni și amendă dela 10.000 la 20.000 lei.
+
+Când proprietatea ziarului sau publicațiunii periodice ar aparține unei societăți comerciale, răspunderea penală pentru faptele de mai sus o au: în societățile în nume colectiv, toți asociații; în societățile în comandită simplă, comanditatul; în societățile anonime și în comandită pe acțiuni, persoana însărcinată cu administrarea societății.
+
+Art. 576. -
+Directorul, și, în lipsa lui, redactorul responsabil al oricărei publicațiuni periodice, care nu publică, în cel dintâiu număr, hotărîrea rămasă definitivă, a cărei publicare a ordonat-o instanța și care i-a fost comunicată în acest scop, se pedepsește cu amendă dela 2.000 la 20.000 lei.
+
+Art. 577. -
+Directorul, și, în lipsa lui, redactorul responsabil al oricărei publicațiuni periodice, care nu publică, în mod gratuit, comunicatele oficiale, destinate a rectifica faptele eronate cuprinse în acea publicațiune, se pedepsește cu amendă dela 2.000 la 10.000 lei.
+
+Rectificarea sau răspunsul nu poate depăși numărul îndoit al cuvintelor pe care le conținea informația supusă rectificării.
+
+Art. 578. -
+Se pedepsește cu amendă dela 5.000 la 20.000 lei:
+
+1. tipograful care nu a indicat pe imprimat numele și domiciliul său, sau care a tipărit un ziar sau o publicațiune periodică fără să aibă un director sau redactor responsabil;
+
+2. tipograful care nu s'a conformat obligației de depozit impuse de lege;
+
+3. acel care vinde sau distribue ziare sau orice alte publicațiuni care nu conțin indicațiunea numelui vreuneia din persoanele responsabile după lege.
+
+CARTEA III
+Contravenții
+TITLUL I
+Dispozițiuni generale
+Art. 579. -
+Contravenție este fapta pe care o declară ca atare:
+
+1. legea;
+
+2. regulamentul;
+
+3. ordonanța autorității administrative sau polițienești.
+
+Art. 580. -
+Regulamentul și ordonanța, prevăzute la punctele 2 și 3 din articolul precedent, sunt valabile numai dacă se întemeiază pe lege și pedepsele stabilite prin ele nu depășesc pe cele prevăzute, pentru contravenție, în art. 24 din acest cod.
+
+Ordonanța prevăzută la punctul 3 devine obligatorie numai după trecerea unui termen de minimum 5 zile dela publicare.
+
+În cazurile urgente, autoritatea în drept poate reduce acest termen la 24 ore.
+
+Instanța nu poate discuta necesitatea sau oportunitatea regulamentului sau ordonanței.
+
+Art. 581. -
+Când o contravenție a fost comisă de o persoană pusă sub autoritatea, direcțiunea sau supravegherea altei persoane, este responsabilă și se pedepsește, în afară de infractor, și persoana investită cu autoritatea, ori însărcinată cu direcțiunea sau supravegherea, dacă aceasta s'a făcut vinovată de neglijență sau nesupraveghere, în aplicarea sau respectarea unor dispozițiuni, în privința cărora avea această obligație și prin călcarea cărora s'a săvârșit contravenția.
+
+TITLUL II
+Contravenții în special
+CAPITOLUL I
+Contravenții contra autorității publice
+Art. 582. -
+Proprietarul de automobil, sau de oricare alt vehicul cu motor care angajează un conducător de mașină, care nu are sau căruia i s'a ridicat dreptul de a conduce, se pedepsește cu închisoare polițienească dela una la 10 zile și amendă dela 100 la 1.000 lei, iar când conducătorul fără drept, este însăși proprietarul vehiculului, pedeapsa este dela una la 15 zile și amenda dela 500 la 1.000 lei.
+
+Art. 583. -
+Se pedepsește cu închisoare polițienească dela 5 la 20 zile și amendă dela 100 la 1.000 lei:
+
+1. hotelierii, hangii și alți asemenea locatari, care nu pun în vedere călătorilor, în termenul fixat de autorități, să facă declarația de identitate cerută de lege, sau nu înscriu în registre numele, prenumele și data intrării sau ieșirii persoanelor pe care le au în gazdă sau care, la refuzul călătorilor de a face declarațiile legale, nu denunță cazul în 24 ore, autorităților în drept, precum și acela care nu înfățișează asemenea registre autorităților competente, când li se cer;
+
+2. acela care nu-și declară numele, profesia și domiciliul în registrul menționat în alineatul precedent, atunci când i s'a prezentat sau când dă indicații false dacă faptul nu ar constitui o infracțiune mai gravă;
+
+3. restauratorii, cârciumarii, birtașii, cafegii și alții asemenea care îngăduesc clienților să stea în localurile lor de consumație sau îi ascund, după orele fixate pentru închidere, ori împiedecă organele autorităților să controleze sau să instrumenteze atari abateri;
+
+4. executarea, fără permisiunea autorității militare sau maritime și fără intențiune frauduloasă, de fotografii, ridicări de planuri sau lucrări topografice, în zona interzisă sau în stabilimente militare ori maritime;
+
+5. trecerea fără autorizație și fără just motiv peste bariere, ziduri, garduri, uluci, șanțuri, taluzuri de fortificațiuni, îngrădiri de terenuri, aparținând administrațiunii militare, sau care sunt în posesiunea ei și unde intrarea este interzisă.
+
+Art. 584. -
+Se pedepsesc cu închisoare polițienească dela una la 5 zile și amendă dela 100 la 1.000 lei:
+
+1. conducătorul de oricare vehicul sau de animale de povară, care nu ține în mod reglementar numai o parte a străzii sau a drumului, astfel ca cealaltă parte să rămână liberă pentru trecerea altora, precum și acel conducător de vehicul cu tracțiune animală, sau de animale de povară, care nu stă, în timpul mersului sau staționării, lângă animalele sale;
+
+2. acela care conducând un vehicul; pe străzi sau pe drumuri, nu ține rândul sau mână prea iute;
+
+3. conducătorul oricărui vehicul care nu are luminile cerute de regulamente, sau nu le întrebuințează în conformitate cu acele regulamente;
+
+4. conducătorul de vehicule care nu are numărul reglementar la vehiculul său;
+
+5. acela, care nu îngrijește de curățirea străzii, când îi este impusă această obligație;
+
+6. acela care deslipește, rupe sau distruge, în orice mod, afișele, extrasele de hotărîri, ordonanțele, imprimatele, desenurile sau manuscrisele lipite din ordinul autorităților sau cu autorizația lor, în locurile anume destinate;
+
+7. acela care deține în prăvălie sau întrebuințează alte greutăți sau măsuri decât cele prevăzute de lege, fără ca prin aceasta să fi cauzat vreun prejudiciu;
+
+8. acela care refuză să primească, pe valoarea lor, monede care au curs legal în stat;
+
+9. acela care întrebuințează sau face să se întrebuințeze în învățământ, cărți sau mijloace didactice de învățământ, prohibite de autoritatea superioară școlară;
+
+10. acel consumator care, după ora legală a închiderii localului, la invitația patronului sau autorității, refuză să plece;
+
+11. acela care fiind somat de un funcționar sau de un reprezentant al autorității, care se legitimează și care se află în exercițiul funcțiunii, refuză de a declara numele, profesia, domiciliul sau alte indicații asupra identității, sau care dă indicații falșe, întru cât faptul nu ar constitui o infracțiune mai gravă.
+
+CAPITOLUL II
+Contravenții care produc pericol public
+Art. 585. -
+Se pedepsesc cu închisoare polițienească dela 10 zile la una lună și amendă dela 500 la 1.500 lei:
+
+1. acela care împiedecă circulația pe străzi, drumuri sau piețe publice, punând pe ele, fără neapărată trebuință, materiale sau orice alte lucruri care stânjenesc sau împiedecă libera trecere, precum și acela care nu așează semne sau bariere pentru a înlătura pericolul, sau nu îngrijește a lumina noaptea materialele ce a îngrămădit, ori gropile sau șanțurile ce a săpat pe rampe, străzi, drumuri sau piețe publice;
+
+2. acela care, în mod arbitrar, ridică sau desființează semnele arătate în alineatul precedent;
+
+3. acela care, din proprie inițiativă, stinge lămpile care servesc la iluminatul public, ridică sau desființează aparate sau semne, altele decât cele arătate la punctul 2, destinate unui serviciu public;
+
+4. acela care, din nesocotință, pune pe ferestre, balcoane sau orice alte locuri asemănătoare, lucruri care, prin căderea lor, pot răni sau murdări pe trecători.
+
+Dacă autorul faptei nu este cunoscut, proprietarul sau posesorul clădirii se pedepsește, când nu a făcut toate diligențele ca să împiedece faptul;
+
+5. acela care nu se supune ordinului dat de către autoritatea competentă, ca să repare sau să dărâme ziduri sau clădiri care amenință cu prăbușirea;
+
+6. acela care lasă să umble liber un nebun ce este sub paza sa, sau nu anunță imediat autoritatea când nebunul a scăpat de sub paza sa;
+
+7. acela care lasă libere animalele sale, pe care le știa, periculoase sau nu ia măsurile cerute de regulamente în privința lor;
+
+8. acela care, fiind autorizat sau obligat să întrețină un ponton, pod, pod umblător sau bac, nu ia toate măsurile prescrise de autorități sau care sunt necesare, pentru ca în timpul utilizării lor persoanele, animalele sau lucrurile să fie la adăpost de orice pericol;
+
+9. acela care lasă fără pază sau în libertate, în locuri neîngrădite sau în locuri publice, animale de tracțiune, povară sau călărie, precum și acela care le conduce fără pricepere sau le încredințează unei persoane neexperimentate, ori, prin felul cum le conduce, le ațâță sau sperie, și dacă din aceste fapte rezultă un pericol pentru siguranța publicului;
+
+10. acela care conduce, în mod periculos pentru siguranța persoanelor sau lucrurilor, vehicule cu tracțiune animală prin locuri publice;
+
+11. conducătorul oricărui vehicul cu tracțiune mecanică, care nu respectă viteza permisă și afișată vizibil de autorități, precum și acela care nu micșorează viteza sau nu oprește când pe drumul public vede că apropierea vehiculului produce spaima animalelor de tracțiune sau de călărie.
+
+În caz de recidivă, pe lângă pedeapsa cuvenită, se poate aplica și măsura de siguranță a interdicției profesiunii sau a dreptului de conducere pe timp de 2 luni la un an;
+
+12. acela care calcă prescripțiunile luate de autorități, spre a împiedeca isbucnirea incendiului, precum și acela care, după isbucnire, calcă măsurile luate de autorități pentru a-l stinge sau pentru a menține ordinea și siguranța;
+
+13. acela care ține deschis localul de spectacol public sau de întruniri, fără să observe prescripțiile cerute pentru proteguirea siguranței publicului.
+
+Art. 586. -
+Se pedepsesc cu închisoare polițienească dela una la 15 zile și amendă dela 500 la 1.500 lei:
+
+1. acela care, fără a încunoștiința autoritatea competentă sau fără a obține autorizarea ei, primește în paza sa o persoană pe care o știe că este atinsă de alienație mintală sau, după ce a primit-a, o lasă liberă;
+
+2. acela care nu îngrijește să se țină în bună stare, să se repare sau să se curețe coșurile sau orice alt loc unde se face foc.
+
+CAPITOLUL III
+Contravenții contra liniștei publice
+Art. 587. -
+Se pedepsesc cu închisoare polițienească dela una la 10 zile și amendă dela 100 la 1.000 lei:
+
+1. acela care calcă ordinul autorității, prin care se oprește de a se trage cu arme de foc în oraș sau comună sau se interzic focuri de artificii de orice natură, sau acela care turbură ordinea în localuri publice;
+
+2. acela care, în scopul de a vinde imprimate, ziare sau orice mărfuri, pe stradă sau în orice alt loc public, turbură prin strigăte liniștea locuitorilor în timpul obișnuit pentru odihna lor;
+
+3. acela care, prin tragerea clopotelor sau orice alte semnale de pericol, știind că nu este niciun motiv serios de a face uz de ele, turbură liniștea locuitorilor, induce în eroare autoritățile sau produce panică;
+
+4. acela care cauzează sau contribue a cauza zgomot sau larmă, noaptea, turburând astfel liniștea locuitorilor, prin țipete, cântece sau petreceri cu lăutari.
+
+Aceeași pedeapsă se aplică lăutarilor și conducătorilor de vehicule care întovărășesc pe turburători;
+
+5. conducătorul de automobil care, în contra regulamentului de circulație sau fără o justă necesitate, prin instrumente sonore sau prin manevrarea motorului, face astfel de zgomot încât turbură liniștea locuitorilor.
+
+Se aplică în cazurile prevăzute la punctele 2, 3 și 4, maximum pedepsei pentru aceia care, fiind somați a înceta, au persistat și continuă faptele lor zgomotoase și turburătoare pentru liniștea publică.
+
+Art. 588. -
+Se pedepsesc cu închisoare polițienească dela una la 10 zile și amendă dela 100 la 1.000 lei:
+
+Părintele, tutorul și supraveghetorul care n'a întrebuințat toate măsurile îngăduite, ce-i stau în putință, spre a împiedeca vagabondajul minorului mai mic de 19 ani, pus sub autoritatea sau supravegherea sa.
+
+CAPITOLUL IV
+Contravenții contra sănătății publice
+Art. 589. -
+Se pedepsesc cu închisoare polițienească dela 5 la 15 zile și amendă dela 500 la 1.000 lei:
+
+1. medicul care, în timpul unei epidemii, refuză fără just motiv, la cererea autorității, pe teritoriul unde își exercită profesiunea, să dea primele ajutoare persoanelor atinse de boale epidemice;
+
+2. moașa, farmacistul, precum și medicul și veterinarul, aceștia doi din urmă, în comunele rurale care, în cazuri urgente fără just motiv refuză sau întârzie să presteze serviciile solicitate de autorități sau de particulari;
+
+3. acela care practică arta de a vindeca fără a întruni condițiunile legale pentru exercitarea profesiunii de medic;
+
+4. proprietarul unui vehicul destinat transportului public de persoane, cu care s'a transportat o persoană atinsă de o boală contagioasă și care, cunoscând aceasta, a continuat să întrebuințeze vehiculul pentru transportul public, fără să-l fi desinfectat la serviciul sanitar respectiv;
+
+5. acela care, constatând că un animal, ce se află sub supravegherea sa, prezintă semne de turbare sau de o altă boală transmisibilă omului, nu-l pune în imposibilitate de a fi vătămător și nu înștiințează autoritatea publică, competentă despre existența acestei boli.
+
+Art. 590. -
+Se pedepsesc cu închisoare polițienească dela unu la 10 zile și amendă dela 500 la 1.000 lei:
+
+1. acela care aruncă înaintea locuinții sau grădinii sale, sau în împrejurime, sau ține în acestea, lucruri, gunoaie sau orice alte murdării de natură a vătăma, prin căderea sau mirosul lor, sănătatea publică;
+
+2. acela care nu îngroapă animalele sau păsările moarte ce-i aparțin, ci le aruncă în curte, pe străzi, piețe sau locuri virane;
+
+3. acela care aruncă în fântână, apeduct, apă curgătoare sau izvor, ce servesc la alimentarea cu apă potabilă, un obiect sau substanțe murdare;
+
+4. acela care vinde băuturi sau alimente alterate ori în condiții neigienice sau vinde fructe crude, nerespectând prescripțiile sanitare.
+
+CAPITOLUL V
+Contravenții contra moralei publice și bunelor
+moravuri
+Art. 591. - Jurisprudență (3)
+Se pedepsesc cu închisoare polițienească dela 15 zile la o lună și amendă dela 500 la 1.500 lei:
+Jurisprudență (1)
+
+1. acela care, făcând baie, în public, fără costum, se comportă astfel încât prin aceasta jignește simțul de pudoare publică;
+
+2. acela care se arată, în public, într'o stare de beție ce provoacă scandal, precum și acela care, cu voință, îmbată pe altul, fie procurându-i băutură, fie făcând cu el prinsoare de a bea anumită cantitate, afară de cazurile prevăzute de art. 379 și 380;
+
+3. cârciumarul care a servit băuturi alcoolice unei persoane, mai mică de 16 ani.
+
+CAPITOLUL VI
+Contravenții contra persoanelor
+Art. 592. -
+Se pedepsește cu închisoare polițienească dela 5 la 15 zile și amendă dela 500 la 1.500 lei acela care ațâță sau nu oprește câinele său când se dă la trecători, chiar dacă nu le-a cauzat vreo vătămare.
+
+CAPITOLUL VII
+Contravenții contra protecției animalelor
+Art. 593. -
+Se pedepsesc cu închisoare polițienească dela 5 la 20 zile și amendă dela 100 la 500 lei acela care, în public, săvârșește acte de cruzime sau tortură față de animale.
+
+Se consideră de asemenea acte de cruzime sau de tortură, dacă sunt săvârșite în public:
+
+1. supunerea animalelor la poveri mai presus de puterile lor sau la oboseli excesive;
+
+2. întrebuințarea animalelor la munci pentru care sunt inapte din cauza vârstei, boalei, infirmității sau rănilor;
+
+3. părăsirea animalelor infirme, rănite sau bolnave;
+
+4. bătaia cu nesocotință;
+
+5. înțeparea sau îmboldirea animalelor cu instrumente sau unelte ascuțite pentru a le stimula la muncă sau la mers, ori pentru a le face să se ridice când sunt căzute, rănite sau bolnave;
+
+6. transportul de păsări sau alte animale mici, legate de picioare și atârnate cu capul în jos;
+
+7. întrebuințarea animalelor la jocuri sau spectacole publice ce comportă suferințe sau cruzimi;
+
+8. supunerea animalelor, fie chiar în scop științific sau didactic, la experiențe de natură a provoca mila sau desgustul, cu excepția experiențelor făcute în clinicile universitare și institutele științifice de specialitate, sub stricta supraveghere și răspundere a profesorului sau directorului institutului;
+
+9. tăierea animalelor pe străzi sau în alte locuri publice prin natura lor.
+
+Art. 594. -
+Se pedepsește cu închisoare polițienească dela una la 10 zile și amendă dela 50 la 1.000 lei acela care:
+
+1. săvârșește vreunul din actele prevăzute în alin. 1 și 2, punctele 1, 2, 4 și 5, ale art. 593, fără să existe condiția publicității;
+
+2. dresează animale prin mijloace barbare;
+
+3. distruge cuiburile păsărilor folositoare.
+
+CAPITOLUL VIII
+Contravenții contra bunurilor
+Art. 595. -
+Se pedepsesc cu închisoare polițienească dela o zi la o lună și amendă dela 500 lei la 1.000 lei:
+
+1. acela care, fără drept, calcă sau vatămă holdele altuia, cu piciorul, cu vitele sau cu orice vehicul și acela care fără drept, introduce vite la păscut pe loc străin;
+
+2. acela care dă drumul sau lasă să alerge animalele de tracțiune, povară sau călărie, în locul unde circulă sau staționează publicul;
+
+3. acela care fabrică chei sau orice fel de instrumente care pot fi întrebuințate la închidere sau deschidere și le încredințează altor persoane decăt celor ce au dreptul să se servească de ele sau le vinde oricui;
+
+4. acela care deschide încuietori de orice fel la cererea unei persoane, fără, se se încredințeze dacă este proprietara sau posesoarea locului ori lucrului;
+
+5. acela care fabrică chei, după tipar de ceară sau altfel de material, la comanda unei alte persoane decăt aceea pe care o știe că are dreptul sau le încredințează unei alte persoane;
+
+6. conducătorul de automobil care, atunci când drumul, șoseaua sau strada este plină de noroi sau apă, nu conduce încet, spre a feri pe pietoni și îi stropește;
+
+7. acela care, fără drept, intră în grădinile, livezile sau viile altuia și mănâncă din fructe;
+
+8. acela care refuză, fără just motiv, să dea ajutorul ce i s'a cerut în caz de înec, inundație, incendiu, tâlhărie sau orice alt caz de infracțiune flagrantă;
+
+9. acela care, fără intenție, prin orice mijloace, cauzează moartea sau rănirea animalelor altuia;
+
+10. acela care, fără a fi autorizat, ridică de pe drumurile publice, brazde, pavaj, pietriș sau pământ, ori acela care ia asemenea lucruri de pe locurile ce sunt proprietatea altuia;
+
+11. acela care, prin orice mijloace, murdărește vreun lucru mobil sau imobil, aparținând în totul sau în parte altuia.
+
+CAPITOLUL IX
+Contravențiuni contra intereselor agricole
+Art. 596. -
+Se pedepsește cu închisoare corecțională dela o zi până la o lună și amendă dela 500 la 1.000 lei:
+
+1. acela care jupoaie coaja de pe copaci, ori frânge crăcile arborilor, duzilor ori pomilor de pe proprietatea altuia ori de pe drumurile publice;
+
+2. acela care, în timpul muncilor agricole, pune în orice chip, în stare de a nu putea funcționa orice fel de mașină agricolă a altuia;
+
+3. acela care aruncă în curtea, grădina, livada ori via altuia, păsări sau altor animale moarte, ori resturi de cadavre;
+
+4. acela care ia pământ, nisip sau piatră din loc străin, fără voia celui în drept;
+
+5. acela care, fără învoirea celui în drept, cosește și ia iarbă ori culege frunze de dud, sau orice fel de materiale de hrană, ori de foc, de pe loc străin, când sunt în cantități mici, care exclud ideea de furt;
+
+6. acela care, fără învoire, paște vitele sale pe alt loc din zona șoselelor sau de pe drumurile inerbate, decât pe porțiunea din dreptul proprietății sale;
+
+7. acela care, fără învoire, calcă cu vitele, mașinile, ori cu instrumentele sale, locul vecinului, cu prilejul facerii lucrărilor agricole de pe terenul său;
+
+8. acela care, fiind din localitate și cerându-i-se concursul, refuză, fără motiv să ajute pe gardianul, sau pe proprietarul în drept să prindă și să aducă la oborul comunal vitele prinse pe loc străin;
+
+9. acela care trece pe loc străin, prevăzut cu semne de oprire și la cererea pasnicului în drept, a proprietarului ori a arendașului locului, sau a oamenilor acestora, nu se înapoiază la drumul public;
+
+10. acela care nu execută dispozițiunea autorității, de a-și îngrădi locurile pe care se află fântâni, când sunt părăsite, sau orice fel de gropi, care, pun vieața oamenilor sau animalelor în primejdie;
+
+11. acela care împiedecă urmărirea sau prinderea albinelor altuia, în timpul roitului, sau în termen de 48 ore dela roitul lor;
+
+12. acela care, făcând foc pe terenul său, ori pe marginea drumului, îl lasă nestins la plecare, ori seara, chiar dacă prin aceasta n'ar pricinui niciun rău nimănui;
+
+13. acela care, fără drept, schimbă ori distruge semnele de oprirea drumurilor sau semnele pentru arătarea drumurilor sau numirea localităților, puse de cei în drept;
+
+14. acela care împiedică pe cei în drept să ia zălog dela cei prinși asupra unui fapt oprit de lege, ori îi împiedică să prindă, să conducă, sau să închidă vitele aflate fără paznic, sau găsite pe locuri ce nu-i aparțin proprietarului vitelor;
+
+15. acela care paște în silnicie cu vitele sale pășunea altuia.
+
+CARTEA IV
+Punerea în vigoare și aplicarea codului penal
+Dispozițiuni transitorii
+
+Art. 597. -
+Acest cod se pune în aplicare la 1 Ianuarie 1937, afară de dispozițiunile cuprinse în art. 50, 51, 54, 55, 56, 57 și 59, care intră în vigoare la data publicării codului.
+
+Dela 1 Ianuarie 1937, se abrogă:
+
+1. Codul penal din 30 Octomvrie 1864, în vigoare în Vechiul Regat și Basarabia, cu modificările ulterioare, precum și dispozițiunile art. 65, 66, 67, 68, 69, 70, 71, 72 și 73 din legea din 26 Iunie 1921, pentru organizarea Dobrogii Noi;
+
+2. legea presei din 13 Aprilie 1862, în vigoare în Vechiul Regat;
+
+3. codul penal din 29 Mai 1878 (legea V), referitor la crime și delicte și codul penal din 14 Iunie 1879 (legea XL), referitor la contravenții, ambele în vigoare în Transilvania, precum și legea din 21 Iunie 1880 (legea XXXVII) referitoare la punerea în aplicare a acestor coduri;
+
+4. legea XXXI din 1908, denumită Novela penală, referitoare la suspendarea condiționată a executării pedepsei la minori și la unele infracțiuni, precum și legea VII din 1913, referitoare la instanțele minorilor, ambele în vigoare în Transilvania;
+
+5. legea XXI din 1913, referitoare la vagabonzi, legea XL din 1914, pentru apărarea autorităților, legea XLI din 1914, pentru apărarea onoarei, toate în vigoare în Transilvania;
+
+6. legea XIV din 1914, asupra presei, în vigoare în Transilvania;
+
+7. orice alte legi care au completat sau amplificat codurile și legile penale în vigoare în Transilvania;
+
+8. codul penal din 27 Mai 1852, în vigoare în Bucovina, precum și legea din 17 Decemvrie 1872, cu modificările ulterioare, în vigoare în aceeași provincie;
+
+9. acele dispozițiuni din legile speciale cu caracter penal de pe întreg teritoriul țării care sunt în contradicție cu dispozițiunile actualului cod.
+
+Pedepsele pronunțate în baza codurilor sau legilor abrogate și neprevăzute de acest cod, se execută după normele pedepselor echivalente din codul de față.
+
+Aceeași dispozițiune se aplică ori de câte ori instanța, conform art. 3 din prezentul cod, pronunță pedepse care nu sunt prevăzute de acest cod.
+
+Art. 598. -
+Până la organizarea penitenciarelor, conform principiilor acestui cod, pedepsele se execută în penitenciarele actuale, potrivit legii penitenciare în vigoare, în măsura în care noile dispozițiuni înscrise în prezentul cod nu pot fi aplicate:
+
+Art. 599. -
+Pedepsele pecuniare pronunțate în baza codurilor vechi în caz de neplată în termenul fixat de lege, se transformă în obligațiune de muncă conform art. 54 din acest cod.
+
+Până la înființarea de colonii penitenciare, munca pentru amenzile corecționale ca și pentru cele polițienești, se va executa în comunele urbane de organele administrațiunii comunale la lucrări publice în folosul comunei, iar în comunele rurale de organele administrațiunii județene în folosul județului sau comunelor.
+
+Art. 600. -
+În caz de stingere prin prescripție, a încriminării sau a pedepselor pronunțate dacă termenele stabilite prin prezentul cod sunt diferite de cele stabilite prin legile anterioare, se aplică prescripțiilor în curs dispozițiunile cele mai favorabile, ținându-se în seamă timpul curs sub imperiul legii anterioare.
+
+Actele întreruptive de prescripție, împlinite sub legea anterioară, păstrează efectele lor și sub legea nouă.
+
+Dispozițiunile art. 166, alineatul penultim nu se aplică proceselor în curs la data punerii în aplicare a prezentului cod.
+
+Art. 601. -
+În cauzele pendinte, în care prezentul cod ar cere ca o condiție a începerii urmăririi, plângerea prealabilă a părții vătămate, se acordă acestei părți, spre a introduce plângerea, un termen de 3 luni, socotit dela data punerii în aplicare.
+
+Când legea nouă fixează un termen, în care trebue să se introducă această plângere, se respectă acel termen ce curge dela punerea în aplicare a codului.
+
+Cauzele în care nu se prezintă plângerile persoanelor vătămate se închid, iar hotărîrile deja pronunțate se consideră ca fără valoare.
+
+În ce privește infracțiunile pentru care legile anterioare cereau plângerea prealabilă, și nu mai este cerută de prezentul cod, cauzele pendinte își urmează cursul, chiar dacă s'ar retrage plângerea.
+
+Art. 602. -
+Dispozițiunile prezentului cod, relative la pedepsele privative de drepturi, fie ca pedepse accesorii, fie ca pedepse complimentare, nu se aplică condamnărilor pronunțate sub legile anterioare și nici în afacerile pendinte la data punerii în aplicare a acestui cod.
+
+Art. 603. -
+Dela data intrării în vigoare a acestui cod, toate termenele de prescripțiune mai mici de un an din legile speciale, se înlocuiesc cu termenul de un an pentru prescripțiunea încriminărilor și de 2 ani pentru prescripțiunea pedepselor.
+
+Această lege s'a votat de Adunarea Deputaților în ședința dela 29 Februarie, anul 1936 și s'a adoptat cu unanimitate de 148 voturi.
+Președinte, N. N. SĂVEANU
+(L.S.A.D.)
+
+Secretar, Remus Zăgănescu
+
+Această lege s'a votat de Senat în ședința dela 13 Martie, anul 1936, și s'a adoptat cu unanimitate de 114 voturi.
+Președinte, C. D. DIMITRIU
+(L.S.S.)
+
+Secretar, Matei Vasiliu
+
+Promulgăm această lege și ordonăm ca ea să fie investită cu sigiliul Statului și publicată în Monitorul Oficial.
+
+Dat în București la 17 Martie 1936
+
+CAROL
+(L.S.St.).
+
+Ministrul justiției,
+
+Paleriu Pop
+
+nr. 471.
