@@ -2,8 +2,15 @@
 - constitutia
 - coduri
   - codul penal
-    - https://ro.wikipedia.org/wiki/Codul_penal_al_României
-    - http://legislatie.just.ro/Public/RezultateCautare?tipdoc=90&publicatinceputtext=1936/03/18
+    - surse texte
+      - https://ro.wikipedia.org/wiki/Codul_penal_al_României
+      - http://legislatie.just.ro/Public/RezultateCautare?tipdoc=90
+      - https://lege5.ro/Gratuit/he2danbv/codul-penal-din-1968
+    - variante
+      - 1956 - Cuza
+      - 1936 - Carol II
+      - 1948 - Comunisti dupa abdicare - https://sites.google.com/site/repereistoriaromaniei/5-romania-dupa-1947
+      - 1969 - Nicolae Ceausescu
 
 # Surse
 
@@ -16,8 +23,7 @@
 - worst - monitorul oficial
 
 
-
-# 
+# Clasificari legi
 
 - Tip Act
   - ACORD
