@@ -1,6 +1,6 @@
 source:
-  html: http://legislatie.just.ro/Public/DetaliiDocument/63659
-  print: http://legislatie.just.ro/Public/FormaPrintabila/00000G30ETQE70F3ZT33NCJT1ILCD88P
+  html: http://legislatie.just.ro/Public/DetaliiDocument/63660
+  print: http://legislatie.just.ro/Public/FormaPrintabila/00000G3LAMFLZJSAFU00LW1IB5D0WHCF
 
 details
   - http://www.cdep.ro/pls/legis/legis_pck.htp_act?ida=32756 (LEGE nr.15 din 21 iunie 1968 Codul Penal al României)
@@ -10,7 +10,7 @@ details
 
 ---
 CODUL PENAL din 21 iunie 1968 (*republicat*)(**actualizat**)
-(actualizat până la data de 27 noiembrie 2004**)
+(actualizat până la data de 15 aprilie 2005*)
 EMITENT	
 PARLAMENTUL
 
@@ -19,7 +19,7 @@ PARLAMENTUL
 
 -----------
 *) Codul penal a fost publicat în B. Of., Partea I, nr. 79-79 bis din 21 iunie 1968; republicat B. Of., Partea I, nr. 55-56 din 23 aprilie 1973; republicat în M. Of., Partea I, nr. 65 din 16 aprilie 1997, în temeiul art. III din Legea nr. 140/1996, publicată în M. Of. al României, Partea I, nr. 289 din 14 noiembrie 1996.
-**) Textul iniţial a fost publicat în MONITORUL OFICIAL nr. 65 din 16 aprilie 1997. Aceasta este forma actualizată de S.C. "Centrul Teritorial de Calcul Electronic" S.A. Piatra Neamt până la data de 27 noiembrie 2004, cu modificările şi completările aduse de: LEGEA nr. 143 din 26 iulie 2000; LEGEA nr. 197 din 13 noiembrie 2000; ORDONANŢA DE URGENŢĂ nr. 207 din 15 noiembrie 2000; ORDONANŢA DE URGENŢĂ nr. 10 din 11 ianuarie 2001; ORDONANŢA DE URGENŢĂ nr. 89 din 21 iunie 2001; LEGEA nr. 456 din 18 iulie 2001; LEGEA nr. 20 din 10 ianuarie 2002; LEGEA nr. 61 din 16 ianuarie 2002; LEGEA nr. 169 din 10 aprilie 2002; ORDONANŢA DE URGENŢĂ nr. 58 din 23 mai 2002; ORDONANŢA DE URGENŢĂ nr. 93 din 20 iunie 2002; ORDONANŢA DE URGENŢĂ nr. 143 din 24 octombrie 2002; ORDONANŢA DE URGENŢĂ nr. 109 din 16 noiembrie 2004.
+**) Textul iniţial a fost publicat în MONITORUL OFICIAL nr. 65 din 16 aprilie 1997. Aceasta este forma actualizată de S.C. "Centrul Teritorial de Calcul Electronic" S.A. Piatra Neamt până la data de 15 aprilie 2005, cu modificările şi completările aduse de: LEGEA nr. 143 din 26 iulie 2000; LEGEA nr. 197 din 13 noiembrie 2000; ORDONANŢA DE URGENŢĂ nr. 207 din 15 noiembrie 2000; ORDONANŢA DE URGENŢĂ nr. 10 din 11 ianuarie 2001; ORDONANŢA DE URGENŢĂ nr. 89 din 21 iunie 2001; LEGEA nr. 456 din 18 iulie 2001; LEGEA nr. 20 din 10 ianuarie 2002; LEGEA nr. 61 din 16 ianuarie 2002; LEGEA nr. 169 din 10 aprilie 2002; ORDONANŢA DE URGENŢĂ nr. 58 din 23 mai 2002; ORDONANŢA DE URGENŢĂ nr. 93 din 20 iunie 2002; ORDONANŢA DE URGENŢĂ nr. 143 din 24 octombrie 2002; ORDONANŢA DE URGENŢĂ nr. 109 din 16 noiembrie 2004; LEGEA nr. 85 din 7 aprilie 2005.
 
 Partea GENERALĂ
 
@@ -1672,7 +1672,7 @@ Supunerea la munca forţată sau obligatorie
 
 Articolul 191
 
-Fapta de a supune o persoană, în alte cazuri decît cele prevăzute de dispoziţiile legale, la prestarea unei munci contra voinţei sale sau la o munca obligatorie, se pedepseşte cu închisoare de la 6 luni la 3 ani.
+Fapta de a supune o persoană, în alte cazuri decît cele prevăzute de dispoziţiile legale, la prestarea unei munci contra vointei sale sau la o munca obligatorie, se pedepseşte cu închisoare de la 6 luni la 3 ani.
 Violarea de domiciliu
 
 Articolul 192
@@ -2078,7 +2078,7 @@ Articolul 239
 
 (1) Insulta sau calomnia săvârşită nemijlocit ori prin mijloace de comunicare directa contra unui funcţionar public care îndeplineşte o funcţie ce implica exerciţiul autorităţii de stat, aflat în exerciţiul funcţiunii ori pentru fapte îndeplinite în exerciţiul funcţiunii, se pedepseşte cu închisoare de la 3 luni la 3 ani.
 (1') Ameninţarea săvârşită nemijlocit sau prin mijloace de comunicare directa contra unui funcţionar public care îndeplineşte o funcţie ce implica exerciţiul autorităţii de stat, aflat în exerciţiul funcţiunii ori pentru fapte îndeplinite în exerciţiul funcţiunii, se pedepseşte cu închisoare de la 3 luni la 4 ani*).
-(2) Lovirea sau orice acte de violenta, precum şi vătămarea corporală săvârşite împotriva persoanei prevăzute în alin. 1, aflată în exercitiul funcţiunii ori pentru fapte îndeplinite în exerciţiul funcţiunii, se pedepsesc cu închisoare de la 6 luni la 7 ani, iar dacă s-a produs vătămarea corporală grava, pedeapsa este închisoarea de la 3 la 12 ani.
+(2) Lovirea sau orice acte de violenta, precum şi vătămarea corporală săvârşite împotriva persoanei prevăzute în alin. 1, aflată în exerciţiul funcţiunii ori pentru fapte îndeplinite în exerciţiul funcţiunii, se pedepsesc cu închisoare de la 6 luni la 7 ani, iar dacă s-a produs vătămarea corporală grava, pedeapsa este închisoarea de la 3 la 12 ani.
 (3) Dacă faptele prevăzute în alineatele precedente sunt săvârşite împotriva unui magistrat, poliţist sau jandarm ori alt militar, maximul special al pedepsei se majorează cu 3 ani.
 ------------
 Alin. (1) al art. 239 a fost modificat de ORDONANŢA DE URGENŢĂ nr. 58 din 23 mai 2002 publicată în MONITORUL OFICIAL nr. 351 din 27 mai 2002.
@@ -2422,16 +2422,16 @@ Exercitarea fără drept a unei profesii
 Articolul 281
 
 Exercitarea fără drept a unei profesii sau a oricărei alte activităţi pentru care legea cere autorizaţie, ori exercitarea acestora în alte condiţii decît cele legale, dacă legea specială prevede că săvârşirea unor astfel de fapte se sancţionează potrivit legii penale, se pedepseşte cu închisoare de la o luna la 1 an sau cu amendă.
-Nerespectarea regimului transportului
+Nerespectarea regimului transportului rutier public
 
 Articolul 281^1
 
-Efectuarea transportului rutier fără licenta de transport sau autorizaţie de transport valabilă ori fără licenta de execuţie pentru vehicul sau licenta de execuţie pentru traseu valabilă se pedepseşte cu închisoare de la 6 luni la 1 an sau amenda.
-Cu pedeapsa prevăzută la alin. 1 se sancţionează şi persoana care autorizeaza sau consimte la efectuarea transportului rutier în condiţiile prevăzute la alin. 1.
-Eliberarea, cu ştiinţa, a unei licenţe de transport, autorizaţii de transport sau licenţe de execuţie, fără respectarea legii, se pedepseşte cu închisoare de la 6 luni la 1 an sau amenda.
-Acţiunea penală pentru faptele prevăzute la alin. 1-3 se pune în mişcare numai la sesizarea organelor competente din domeniul transportului rutier.
+Efectuarea transportului rutier public fără licenta de transport, fără licenta de execuţie pentru vehicul sau fără licenta de execuţie pentru traseu, după caz, ori cu licenţe cu valabilitatea expirată se pedepseşte cu închisoare de la o luna la un an sau amenda.
+Persoana care dispune efectuarea transportului rutier public în condiţiile prevăzute la alin. 1 sau consimte la efectuarea acestuia se pedepseşte cu închisoare de la 3 luni la 2 ani ori amenda.
+Eliberarea, cu ştiinţa, a unei licenţe de transport rutier public, a unei licenţe de execuţie pentru vehicul sau a unei licenţe de execuţie pentru traseu, fără respectarea legii, se pedepseşte cu închisoare de la 6 luni la 3 ani.
 ------------
 Art. 281^1 a fost introdus de articolul unic din ORDONANŢA DE URGENŢĂ nr. 109 din 16 noiembrie 2004, publicată în MONITORUL OFICIAL nr. 1.115 din 27 noiembrie 2004.
+Art. 281^1 a fost modificat de articolul unic din LEGEA nr. 85 din 7 aprilie 2005, publicată în MONITORUL OFICIAL nr. 303 din 12 aprilie 2005.
 
 Titlul VII INFRACŢIUNI DE FALS
 
