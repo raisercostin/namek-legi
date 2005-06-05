@@ -1,6 +1,6 @@
 source:
-  html: http://legislatie.just.ro/Public/DetaliiDocument/63660
-  print: http://legislatie.just.ro/Public/FormaPrintabila/00000G3LAMFLZJSAFU00LW1IB5D0WHCF
+  html: http://legislatie.just.ro/Public/DetaliiDocument/63661
+  print: http://legislatie.just.ro/Public/FormaPrintabila/00000G2G26XLD7KBH493OZSAU7YYWPDZ
 
 details
   - http://www.cdep.ro/pls/legis/legis_pck.htp_act?ida=32756 (LEGE nr.15 din 21 iunie 1968 Codul Penal al României)
@@ -10,7 +10,7 @@ details
 
 ---
 CODUL PENAL din 21 iunie 1968 (*republicat*)(**actualizat**)
-(actualizat până la data de 15 aprilie 2005*)
+(actualizat până la data de 5 iunie 2005*)
 EMITENT	
 PARLAMENTUL
 
@@ -19,7 +19,7 @@ PARLAMENTUL
 
 -----------
 *) Codul penal a fost publicat în B. Of., Partea I, nr. 79-79 bis din 21 iunie 1968; republicat B. Of., Partea I, nr. 55-56 din 23 aprilie 1973; republicat în M. Of., Partea I, nr. 65 din 16 aprilie 1997, în temeiul art. III din Legea nr. 140/1996, publicată în M. Of. al României, Partea I, nr. 289 din 14 noiembrie 1996.
-**) Textul iniţial a fost publicat în MONITORUL OFICIAL nr. 65 din 16 aprilie 1997. Aceasta este forma actualizată de S.C. "Centrul Teritorial de Calcul Electronic" S.A. Piatra Neamt până la data de 15 aprilie 2005, cu modificările şi completările aduse de: LEGEA nr. 143 din 26 iulie 2000; LEGEA nr. 197 din 13 noiembrie 2000; ORDONANŢA DE URGENŢĂ nr. 207 din 15 noiembrie 2000; ORDONANŢA DE URGENŢĂ nr. 10 din 11 ianuarie 2001; ORDONANŢA DE URGENŢĂ nr. 89 din 21 iunie 2001; LEGEA nr. 456 din 18 iulie 2001; LEGEA nr. 20 din 10 ianuarie 2002; LEGEA nr. 61 din 16 ianuarie 2002; LEGEA nr. 169 din 10 aprilie 2002; ORDONANŢA DE URGENŢĂ nr. 58 din 23 mai 2002; ORDONANŢA DE URGENŢĂ nr. 93 din 20 iunie 2002; ORDONANŢA DE URGENŢĂ nr. 143 din 24 octombrie 2002; ORDONANŢA DE URGENŢĂ nr. 109 din 16 noiembrie 2004; LEGEA nr. 85 din 7 aprilie 2005.
+**) Textul iniţial a fost publicat în MONITORUL OFICIAL nr. 65 din 16 aprilie 1997. Aceasta este forma actualizată de S.C. "Centrul Teritorial de Calcul Electronic" S.A. Piatra Neamt până la data de 5 iunie 2005, cu modificările şi completările aduse de: LEGEA nr. 143 din 26 iulie 2000; LEGEA nr. 197 din 13 noiembrie 2000; ORDONANŢA DE URGENŢĂ nr. 207 din 15 noiembrie 2000; ORDONANŢA DE URGENŢĂ nr. 10 din 11 ianuarie 2001; ORDONANŢA DE URGENŢĂ nr. 89 din 21 iunie 2001; LEGEA nr. 456 din 18 iulie 2001; LEGEA nr. 20 din 10 ianuarie 2002; LEGEA nr. 61 din 16 ianuarie 2002; LEGEA nr. 169 din 10 aprilie 2002; ORDONANŢA DE URGENŢĂ nr. 58 din 23 mai 2002; ORDONANŢA DE URGENŢĂ nr. 93 din 20 iunie 2002; ORDONANŢA DE URGENŢĂ nr. 143 din 24 octombrie 2002; ORDONANŢA DE URGENŢĂ nr. 109 din 16 noiembrie 2004; LEGEA nr. 85 din 7 aprilie 2005; LEGEA nr. 160 din 30 mai 2005.
 
 Partea GENERALĂ
 
@@ -459,7 +459,7 @@ Regimul general al executării pedepsei
 Articolul 56
 
 Regimul executării pedepsei închisorii se întemeiază pe obligaţia condamnaţilor de a presta o munca utila, dacă sunt apţi pentru aceasta, pe acţiunea educativă ce trebuie desfăşurată faţă de condamnaţi, pe respectarea de către aceştia a disciplinei muncii şi a ordinii interioare a locurilor de deţinere, precum şi pe stimularea şi recompensarea celor stăruitori în munca, disciplinaţi şi care dau dovezi temeinice de îndreptare.
-Toate aceste mijloace trebuie folosite în asa fel încât sa conducă la reeducarea celor condamnaţi.
+Toate aceste mijloace trebuie folosite în asa fel încât sa conduca la reeducarea celor condamnaţi.
 După împlinirea virstei de 60 de ani pentru bărbaţi şi de 55 de ani pentru femei, condamnaţii nu au obligaţia de a munci în timpul executării pedepsei; ei pot fi admişi la munca dacă cer aceasta.
 Regimul de deţinere
 
@@ -1672,7 +1672,7 @@ Supunerea la munca forţată sau obligatorie
 
 Articolul 191
 
-Fapta de a supune o persoană, în alte cazuri decît cele prevăzute de dispoziţiile legale, la prestarea unei munci contra vointei sale sau la o munca obligatorie, se pedepseşte cu închisoare de la 6 luni la 3 ani.
+Fapta de a supune o persoană, în alte cazuri decît cele prevăzute de dispoziţiile legale, la prestarea unei munci contra voinţei sale sau la o munca obligatorie, se pedepseşte cu închisoare de la 6 luni la 3 ani.
 Violarea de domiciliu
 
 Articolul 192
@@ -1823,11 +1823,12 @@ Calomnia
 
 Articolul 206
 
-(1) Afirmarea sau imputarea în public, prin orice mijloace, a unei fapte determinate privitoare la o persoană, care, dacă ar fi adevarata, ar expune acea persoana la o sancţiune penală, administrativă sau disciplinară, ori dispreţului public, se pedepseşte cu închisoare de la 2 luni la 2 ani sau cu amendă.
+(1) Afirmarea sau imputarea în public, prin orice mijloace, a unei fapte determinate privitoare la o persoană, care, dacă ar fi adevarata, ar expune acea persoana la o sancţiune penală, administrativă sau disciplinară, ori dispreţului public, se pedepseşte cu amendă de la 2.500.000 lei la 130.000.000 lei.
 (2) Acţiunea penală se pune în mişcare la plîngerea prealabilă a persoanei vătămate.
 (3) Împăcarea părţilor inlatura răspunderea penală.
 ------------
 Alin. (1) al art. 206 a fost modificat de ORDONANŢA DE URGENŢĂ nr. 58 din 23 mai 2002 publicată în MONITORUL OFICIAL nr. 351 din 27 mai 2002.
+Alin. (1) al art. 206 a fost modificat de pct. 1 al articolului unic din LEGEA nr. 160 din 30 mai 2005, publicată în MONITORUL OFICIAL nr. 470 din 2 iunie 2005.
 Proba verităţii
 
 Articolul 207
@@ -2076,14 +2077,16 @@ Ultrajul
 
 Articolul 239
 
-(1) Insulta sau calomnia săvârşită nemijlocit ori prin mijloace de comunicare directa contra unui funcţionar public care îndeplineşte o funcţie ce implica exerciţiul autorităţii de stat, aflat în exerciţiul funcţiunii ori pentru fapte îndeplinite în exerciţiul funcţiunii, se pedepseşte cu închisoare de la 3 luni la 3 ani.
-(1') Ameninţarea săvârşită nemijlocit sau prin mijloace de comunicare directa contra unui funcţionar public care îndeplineşte o funcţie ce implica exerciţiul autorităţii de stat, aflat în exerciţiul funcţiunii ori pentru fapte îndeplinite în exerciţiul funcţiunii, se pedepseşte cu închisoare de la 3 luni la 4 ani*).
-(2) Lovirea sau orice acte de violenta, precum şi vătămarea corporală săvârşite împotriva persoanei prevăzute în alin. 1, aflată în exerciţiul funcţiunii ori pentru fapte îndeplinite în exerciţiul funcţiunii, se pedepsesc cu închisoare de la 6 luni la 7 ani, iar dacă s-a produs vătămarea corporală grava, pedeapsa este închisoarea de la 3 la 12 ani.
+(1) Abrogat.
+(1') Ameninţarea săvârşită nemijlocit sau prin mijloace de comunicare directa contra unui funcţionar public care îndeplineşte o funcţie ce implica exerciţiul autorităţii de stat, aflat în exerciţiul funcţiunii ori pentru fapte îndeplinite în exerciţiul funcţiunii, se pedepseşte cu închisoare de la 3 luni la 4 ani.*)
+(2) Lovirea sau orice acte de violenta, precum şi vătămarea corporală săvârşite împotriva unui funcţionar public care îndeplineşte o funcţie ce implica exerciţiul autorităţii de stat, aflat în exerciţiul funcţiunii ori pentru fapte îndeplinite în exerciţiul funcţiunii, se pedepsesc cu închisoare de la 6 luni la 7 ani, iar dacă s-a produs vătămarea corporală grava, pedeapsa este închisoarea de la 3 la 12 ani.
 (3) Dacă faptele prevăzute în alineatele precedente sunt săvârşite împotriva unui magistrat, poliţist sau jandarm ori alt militar, maximul special al pedepsei se majorează cu 3 ani.
 ------------
 Alin. (1) al art. 239 a fost modificat de ORDONANŢA DE URGENŢĂ nr. 58 din 23 mai 2002 publicată în MONITORUL OFICIAL nr. 351 din 27 mai 2002.
 *) NOTA C.T.C.E.:
 ORDONANŢA DE URGENŢĂ nr. 58 din 23 mai 2002, publicată în MONITORUL OFICIAL nr. 351 din 27 mai 2002, la punctul 5 al art. I, a prevăzut introducerea unui nou alineat, fără ca legiuitorul sa-l numeroteze. De aceea, consideram ca este alineatul (1'), rămânând valabilă numerotarea anterioară a celorlalte alineate ale art. 239.
+Alin. (1) al art. 239 a fost abrogat de pct. 2 al articolului unic din LEGEA nr. 160 din 30 mai 2005, publicată în MONITORUL OFICIAL nr. 470 din 2 iunie 2005.
+Alin. (2) al art. 239 a fost modificat de pct. 3 al articolului unic din LEGEA nr. 160 din 30 mai 2005, publicată în MONITORUL OFICIAL nr. 470 din 2 iunie 2005.
 Cazuri speciale de pedepsire
 
 Articolul 239^1
@@ -2864,7 +2867,7 @@ Lovirea sau insulta inferiorului
 Articolul 336
 
 Lovirea inferiorului ori subordonatului de către superior sau şef se pedepseşte cu închisoare de la o luna la 1 an.
-Insulta inferiorului ori subordonatului de către superior sau şef se pedepseşte cu închisoare de la o luna la 6 luni.
+Insulta inferiorului ori subordonatului de către superior sau şef se pedepseste cu închisoare de la o luna la 6 luni.
 Dispoziţiile alin. 1 şi 2 nu se aplică în timp de război, dacă faptele au fost determinate de o necesitate militară.
 Punerea în mişcare a acţiunii penale
 
