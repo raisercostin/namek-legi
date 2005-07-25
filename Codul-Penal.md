@@ -1,6 +1,6 @@
 source:
-  html: http://legislatie.just.ro/Public/DetaliiDocument/63661
-  print: http://legislatie.just.ro/Public/FormaPrintabila/00000G2G26XLD7KBH493OZSAU7YYWPDZ
+  html: http://legislatie.just.ro/Public/DetaliiDocument/63662
+  print: http://legislatie.just.ro/Public/FormaPrintabila/00000G0K6H1RCKA95IF2MA36HM1F9M9G
 
 details
   - http://www.cdep.ro/pls/legis/legis_pck.htp_act?ida=32756 (LEGE nr.15 din 21 iunie 1968 Codul Penal al României)
@@ -10,7 +10,7 @@ details
 
 ---
 CODUL PENAL din 21 iunie 1968 (*republicat*)(**actualizat**)
-(actualizat până la data de 5 iunie 2005*)
+(actualizat până la data de 25 iulie 2005**)
 EMITENT	
 PARLAMENTUL
 
@@ -19,7 +19,7 @@ PARLAMENTUL
 
 -----------
 *) Codul penal a fost publicat în B. Of., Partea I, nr. 79-79 bis din 21 iunie 1968; republicat B. Of., Partea I, nr. 55-56 din 23 aprilie 1973; republicat în M. Of., Partea I, nr. 65 din 16 aprilie 1997, în temeiul art. III din Legea nr. 140/1996, publicată în M. Of. al României, Partea I, nr. 289 din 14 noiembrie 1996.
-**) Textul iniţial a fost publicat în MONITORUL OFICIAL nr. 65 din 16 aprilie 1997. Aceasta este forma actualizată de S.C. "Centrul Teritorial de Calcul Electronic" S.A. Piatra Neamt până la data de 5 iunie 2005, cu modificările şi completările aduse de: LEGEA nr. 143 din 26 iulie 2000; LEGEA nr. 197 din 13 noiembrie 2000; ORDONANŢA DE URGENŢĂ nr. 207 din 15 noiembrie 2000; ORDONANŢA DE URGENŢĂ nr. 10 din 11 ianuarie 2001; ORDONANŢA DE URGENŢĂ nr. 89 din 21 iunie 2001; LEGEA nr. 456 din 18 iulie 2001; LEGEA nr. 20 din 10 ianuarie 2002; LEGEA nr. 61 din 16 ianuarie 2002; LEGEA nr. 169 din 10 aprilie 2002; ORDONANŢA DE URGENŢĂ nr. 58 din 23 mai 2002; ORDONANŢA DE URGENŢĂ nr. 93 din 20 iunie 2002; ORDONANŢA DE URGENŢĂ nr. 143 din 24 octombrie 2002; ORDONANŢA DE URGENŢĂ nr. 109 din 16 noiembrie 2004; LEGEA nr. 85 din 7 aprilie 2005; LEGEA nr. 160 din 30 mai 2005.
+**) Textul iniţial a fost publicat în MONITORUL OFICIAL nr. 65 din 16 aprilie 1997. Aceasta este forma actualizată de S.C. "Centrul Teritorial de Calcul Electronic" S.A. Piatra Neamt până la data de 25 iulie 2005, cu modificările şi completările aduse de: LEGEA nr. 143 din 26 iulie 2000; LEGEA nr. 197 din 13 noiembrie 2000; ORDONANŢA DE URGENŢĂ nr. 207 din 15 noiembrie 2000; ORDONANŢA DE URGENŢĂ nr. 10 din 11 ianuarie 2001; ORDONANŢA DE URGENŢĂ nr. 89 din 21 iunie 2001; LEGEA nr. 456 din 18 iulie 2001; LEGEA nr. 20 din 10 ianuarie 2002; LEGEA nr. 61 din 16 ianuarie 2002; LEGEA nr. 169 din 10 aprilie 2002; ORDONANŢA DE URGENŢĂ nr. 58 din 23 mai 2002; ORDONANŢA DE URGENŢĂ nr. 93 din 20 iunie 2002; ORDONANŢA DE URGENŢĂ nr. 143 din 24 octombrie 2002; ORDONANŢA DE URGENŢĂ nr. 109 din 16 noiembrie 2004; LEGEA nr. 85 din 7 aprilie 2005; LEGEA nr. 160 din 30 mai 2005; LEGEA nr. 247 din 19 iulie 2005.
 
 Partea GENERALĂ
 
@@ -345,10 +345,11 @@ Articolul 44
 
 (1) Nu constituie infracţiune fapta prevăzută de legea penală, săvârşită în stare de legitima apărare.
 (2) Este în stare de legitima apărare acela care săvârşeşte fapta pentru a inlatura un atac material, direct, imediat şi injust, îndreptat împotriva sa, a altuia sau împotriva unui interes obştesc, şi care pune în pericol grav persoana sau drepturile celui atacat ori interesul obştesc.
-(2^1) Se prezuma ca este în legitima apărare, şi acela care săvârşeşte fapta pentru a respinge pătrunderea fără drept a unei persoane prin violenta, viclenie, efracţie sau prin alte asemenea mijloace, într-o locuinta, încăpere, dependinta sau loc împrejmuit ţinând de acestea.
+(2^1) Se prezuma ca este în legitima apărare, şi acela care săvârşeşte fapta pentru a respinge pătrunderea fără drept a unei persoane prin violenta, viclenie, efracţie sau prin alte asemenea mijloace, într-o locuinta, încăpere, dependinta sau loc împrejmuit ori delimitat prin semne de marcare.
 (3) Este de asemenea în legitima apărare şi acela care din cauza tulburării sau temerii a depăşit limitele unei apărări proporţionale cu gravitatea pericolului şi cu împrejurările în care s-a produs atacul.
 ------------
 Alin. (2^1) al art. 44 a fost introdus de LEGEA nr. 169 din 10 aprilie 2002 publicată în MONITORUL OFICIAL nr. 261 din 18 aprilie 2002.
+Alin. (2^1) al art. 44 a fost modificat de pct. 1 al articolului unic din Titlul IX din LEGEA nr. 247 din 19 iulie 2005, publicată în MONITORUL OFICIAL nr. 653 din 22 iulie 2005.
 Starea de necesitate
 
 Articolul 45
@@ -459,7 +460,7 @@ Regimul general al executării pedepsei
 Articolul 56
 
 Regimul executării pedepsei închisorii se întemeiază pe obligaţia condamnaţilor de a presta o munca utila, dacă sunt apţi pentru aceasta, pe acţiunea educativă ce trebuie desfăşurată faţă de condamnaţi, pe respectarea de către aceştia a disciplinei muncii şi a ordinii interioare a locurilor de deţinere, precum şi pe stimularea şi recompensarea celor stăruitori în munca, disciplinaţi şi care dau dovezi temeinice de îndreptare.
-Toate aceste mijloace trebuie folosite în asa fel încât sa conduca la reeducarea celor condamnaţi.
+Toate aceste mijloace trebuie folosite în asa fel încât sa conducă la reeducarea celor condamnaţi.
 După împlinirea virstei de 60 de ani pentru bărbaţi şi de 55 de ani pentru femei, condamnaţii nu au obligaţia de a munci în timpul executării pedepsei; ei pot fi admişi la munca dacă cer aceasta.
 Regimul de deţinere
 
@@ -808,7 +809,7 @@ Modul de executare
 
 Articolul 86^8
 
-Pe durata executării pedepsei, condamnatul este obligat sa îndeplinească toate îndatoririle la locul de muncă, cu următoarele limitări ale drepturilor ce-i revin potrivit legii:
+Pe durata executării pedepsei, condamnatul este obligat sa îndeplinească toate indatoririle la locul de muncă, cu următoarele limitări ale drepturilor ce-i revin potrivit legii:
 a) din totalul veniturilor cuvenite, potrivit legii, pentru munca prestată, cu excepţia sporurilor acordate pentru activitatea desfăşurată în locuri de muncă cu condiţii vătămătoare sau periculoase, se retine o cota de 15-40%, stabilită potrivit legii, în raport cu cuantumul veniturilor şi cu îndatoririle condamnatului pentru întreţinerea altor persoane, care se vărsa la bugetul statului. În cazul condamnatului minor, limitele reţinerii se reduc la jumătate;
 b) drepturile de asigurări sociale se stabilesc în procentele legale aplicate la venitul net cuvenit condamnatului, după reţinerea cotei prevăzute la lit. a);
 c) durata executării pedepsei nu se considera vechime în munca;
@@ -1976,12 +1977,12 @@ Tulburarea de posesie
 
 Articolul 220
 
-Ocuparea, în întregime sau în parte, fără drept, a unui imobil aflat în posesia altuia, se pedepseşte cu închisoare de la o luna la 2 ani sau cu amendă.
-Dacă fapta prevăzută în alin. 1 se săvârşeşte prin violenta sau ameninţare ori prin desfiinţarea sau strămutarea semnelor de hotar, a unui imobil aflat în posesia altuia, pedeapsa este închisoarea de la 6 luni la 5 ani.
-Dacă fapta prevăzută în alin. 2 se săvârşeşte de doua sau mai multe persoane împreună, pedeapsa este închisoarea de la unu la 7 ani.
-Dacă imobilul este în posesia unei persoane private, cu excepţia cazului când acesta este în întregime sau în parte al statului, acţiunea penală se pune în mişcare la plîngerea prealabilă a persoanei vătămate. Împăcarea părţilor inlatura răspunderea penală.
+Ocuparea, în întregime sau în parte, fără drept, a unui imobil aflat în posesia altuia, fără consimţământul acestuia sau fără aprobare prealabilă primită în condiţiile legii, ori refuzul de a elibera imobilul astfel ocupat se pedepseşte cu închisoare de la 1 la 5 ani.
+Dacă fapta prevăzută în alin. 1 se săvârşeşte prin violenta sau ameninţare ori prin desfiinţarea semnelor de hotar, a reperelor de marcare, pedeapsa este închisoarea de la 2 la 7 ani.
+Dacă fapta prevăzută în alin. 2 se săvârşeşte de doua sau mai multe persoane împreună, pedeapsa este închisoarea de la 3 la 15 ani.
+Împăcarea părţilor inlatura răspunderea penală.
 --------------
-NOTĂ: Prin decizia nr. 165 din 21 octombrie 1999, definitivă, publicată în M. Of. nr. 624 din 21 decembrie 1999, Curtea Constituţională, a admis excepţia de neconstituţionalitate şi a constatat ca dispoziţia "cu excepţia cazului când acesta este în întregime sau în parte al statului" din art. 220 alin. 4 C.pen., este neconstitutionala.
+Art. 220 a fost modificat de pct. 2 al articolului unic din Titlul IX din LEGEA nr. 247 din 19 iulie 2005, publicată în MONITORUL OFICIAL nr. 653 din 22 iulie 2005.
 Tăinuirea
 
 Articolul 221
@@ -2078,8 +2079,8 @@ Ultrajul
 Articolul 239
 
 (1) Abrogat.
-(1') Ameninţarea săvârşită nemijlocit sau prin mijloace de comunicare directa contra unui funcţionar public care îndeplineşte o funcţie ce implica exerciţiul autorităţii de stat, aflat în exerciţiul funcţiunii ori pentru fapte îndeplinite în exerciţiul funcţiunii, se pedepseşte cu închisoare de la 3 luni la 4 ani.*)
-(2) Lovirea sau orice acte de violenta, precum şi vătămarea corporală săvârşite împotriva unui funcţionar public care îndeplineşte o funcţie ce implica exerciţiul autorităţii de stat, aflat în exerciţiul funcţiunii ori pentru fapte îndeplinite în exerciţiul funcţiunii, se pedepsesc cu închisoare de la 6 luni la 7 ani, iar dacă s-a produs vătămarea corporală grava, pedeapsa este închisoarea de la 3 la 12 ani.
+(1') Ameninţarea săvârşită nemijlocit sau prin mijloace de comunicare directa contra unui funcţionar public care îndeplineşte o funcţie ce implica exerciţiul autorităţii de stat, aflat în exerciţiul funcţiunii ori pentru fapte îndeplinite în exerciţiul funcţiunii, se pedepseşte cu închisoare de la 3 luni la 4 ani*).
+(2) Lovirea sau orice acte de violenta, precum şi vătămarea corporală săvârşite împotriva unui funcţionar public care îndeplineşte o funcţie ce implica exerciţiul autorităţii de stat, aflat în exerciţiul funcţiunii ori pentru fapte îndeplinite în exerciţiul funcţiunii, se pedepsesc cu inchisoare de la 6 luni la 7 ani, iar dacă s-a produs vătămarea corporală grava, pedeapsa este închisoarea de la 3 la 12 ani.
 (3) Dacă faptele prevăzute în alineatele precedente sunt săvârşite împotriva unui magistrat, poliţist sau jandarm ori alt militar, maximul special al pedepsei se majorează cu 3 ani.
 ------------
 Alin. (1) al art. 239 a fost modificat de ORDONANŢA DE URGENŢĂ nr. 58 din 23 mai 2002 publicată în MONITORUL OFICIAL nr. 351 din 27 mai 2002.
@@ -2867,7 +2868,7 @@ Lovirea sau insulta inferiorului
 Articolul 336
 
 Lovirea inferiorului ori subordonatului de către superior sau şef se pedepseşte cu închisoare de la o luna la 1 an.
-Insulta inferiorului ori subordonatului de către superior sau şef se pedepseste cu închisoare de la o luna la 6 luni.
+Insulta inferiorului ori subordonatului de către superior sau şef se pedepseşte cu închisoare de la o luna la 6 luni.
 Dispoziţiile alin. 1 şi 2 nu se aplică în timp de război, dacă faptele au fost determinate de o necesitate militară.
 Punerea în mişcare a acţiunii penale
 
@@ -3057,7 +3058,9 @@ Dispoziţiile din partea generală a acestui cod se aplică şi faptelor sancţi
 Articolul 363
 
 Prezentul cod intră în vigoare la data de 1 ianuarie 1969.
+
 NOTĂ:
+
 Potrivit art. 2 alin. 1 din Legea nr. 140/1996, dispoziţiile prevăzute în această lege referitoare la liberarea condiţionată nu se aplică celor condamnaţi definitiv înainte de intrarea în vigoare a legii, cu excepţia celor care s-au sustras de la executare.
 Potrivit art. 2 alin. 2 din Legea nr. 140/1996, dispoziţiile art. 39 alin. 6 din Codul penal sunt aplicabile şi în cazul în care condamnarea la pedeapsa cu moartea a fost comutată sau înlocuită cu pedeapsa detenţiunii pe viaţa sau cu pedeapsa închisorii.
 ----------
