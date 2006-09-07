@@ -1,6 +1,6 @@
 source:
-  html: http://legislatie.just.ro/Public/DetaliiDocument/73500
-  print: http://legislatie.just.ro/Public/FormaPrintabila/00000G1V9VQ2UHCVD1R17E5GK2V1SEXE
+  html: http://legislatie.just.ro/Public/DetaliiDocument/75129
+  print: http://legislatie.just.ro/Public/FormaPrintabila/00000G12JGOT2E9LYUR15G8BN3DIP5EE
 
 details
   - http://www.cdep.ro/pls/legis/legis_pck.htp_act?ida=32756 (LEGE nr.15 din 21 iunie 1968 Codul Penal al României)
@@ -9,8 +9,8 @@ details
   - http://www.cdep.ro/pls/legis/legis_pck.htp_act?ida=11472
 
 ---
-CODUL PENAL din 21 iunie 1968 (*republicat*)(**actualizat**)
-(actualizat până la data de 11 august 2006**)
+CODUL PENAL din 21 iunie 1968 (**republicat**)(*actualizat*)
+(actualizat până la data de 7 septembrie 2006**)
 EMITENT	
 PARLAMENTUL
 
@@ -18,12 +18,13 @@ PARLAMENTUL
 
 
 -----------
-*) Codul penal a fost publicat în B. Of., Partea I, nr. 79-79 bis din 21 iunie 1968; republicat B. Of., Partea I, nr. 55-56 din 23 aprilie 1973; republicat în M. Of., Partea I, nr. 65 din 16 aprilie 1997, în temeiul art. III din Legea nr. 140/1996, publicată în M. Of. al României, Partea I, nr. 289 din 14 noiembrie 1996.
-**) Textul initial a fost publicat în MONITORUL OFICIAL nr. 65 din 16 aprilie 1997. Aceasta este forma actualizata de S.C. "Centrul Teritorial de Calcul Electronic" S.A. Piatra Neamt până la data de 11 august 2006, cu modificările şi completările aduse de: LEGEA nr. 143 din 26 iulie 2000; LEGEA nr. 197 din 13 noiembrie 2000; ORDONANŢA DE URGENŢĂ nr. 207 din 15 noiembrie 2000; ORDONANŢA DE URGENŢĂ nr. 10 din 11 ianuarie 2001; ORDONANŢA DE URGENŢĂ nr. 89 din 21 iunie 2001; LEGEA nr. 456 din 18 iulie 2001; LEGEA nr. 20 din 10 ianuarie 2002; LEGEA nr. 61 din 16 ianuarie 2002; LEGEA nr. 169 din 10 aprilie 2002; ORDONANŢA DE URGENŢĂ nr. 58 din 23 mai 2002; ORDONANŢA DE URGENŢĂ nr. 93 din 20 iunie 2002; ORDONANŢA DE URGENŢĂ nr. 143 din 24 octombrie 2002; ORDONANŢA DE URGENŢĂ nr. 109 din 16 noiembrie 2004; LEGEA nr. 85 din 7 aprilie 2005; LEGEA nr. 160 din 30 mai 2005; LEGEA nr. 247 din 19 iulie 2005; LEGEA nr. 278 din 4 iulie 2006.
+*) Textul initial a fost publicat în MONITORUL OFICIAL nr. 65 din 16 aprilie 1997. Aceasta este forma actualizata de S.C. "Centrul Teritorial de Calcul Electronic" S.A. Piatra Neamt până la data de 7 septembrie 2006, cu modificările şi completările aduse de: LEGEA nr. 143 din 26 iulie 2000; LEGEA nr. 197 din 13 noiembrie 2000; ORDONANŢA DE URGENŢĂ nr. 207 din 15 noiembrie 2000; ORDONANŢA DE URGENŢĂ nr. 10 din 11 ianuarie 2001; ORDONANŢA DE URGENŢĂ nr. 89 din 21 iunie 2001; LEGEA nr. 456 din 18 iulie 2001; LEGEA nr. 20 din 10 ianuarie 2002; LEGEA nr. 61 din 16 ianuarie 2002; LEGEA nr. 169 din 10 aprilie 2002; ORDONANŢA DE URGENŢĂ nr. 58 din 23 mai 2002; ORDONANŢA DE URGENŢĂ nr. 93 din 20 iunie 2002; ORDONANŢA DE URGENŢĂ nr. 143 din 24 octombrie 2002; ORDONANŢA DE URGENŢĂ nr. 109 din 16 noiembrie 2004; LEGEA nr. 85 din 7 aprilie 2005; LEGEA nr. 160 din 30 mai 2005; LEGEA nr. 247 din 19 iulie 2005; LEGEA nr. 278 din 4 iulie 2006; ORDONANŢA DE URGENŢĂ nr. 60 din 6 septembrie 2006.
+**) Codul penal a fost publicat în B. Of., Partea I, nr. 79-79 bis din 21 iunie 1968; republicat B. Of., Partea I, nr. 55-56 din 23 aprilie 1973; republicat în M. Of., Partea I, nr. 65 din 16 aprilie 1997, în temeiul art. III din Legea nr. 140/1996, publicată în M. Of. al României, Partea I, nr. 289 din 14 noiembrie 1996.
 ***) Conform art. II din LEGEA nr. 278 din 4 iulie 2006, publicată în MONITORUL OFICIAL nr. 601 din 12 iulie 2006 expresia pedepse complimentare din cuprinsul Codului penal sau al altor acte normative în vigoare se inlocuieste cu expresia pedepse complementare.
 ****) Conform art. VIII din LEGEA nr. 278 din 4 iulie 2006, publicată în MONITORUL OFICIAL nr. 601 din 12 iulie 2006 prezenta lege intră în vigoare la 30 de zile de la publicarea în Monitorul Oficial al României, Partea I, cu excepţia prevederilor privind persoana juridica, ce intră în vigoare la 90 de zile de la data publicarii.
 
-Partea GENERALĂ 
+Partea GENERALĂ
+
 
 Titlul I LEGEA PENALA ŞI LIMITELE EI DE APLICARE
 
@@ -291,10 +292,11 @@ Dacă pentru una dintre infractiunile concurente s-a stabilit şi o pedeapsă co
 Dacă s-au stabilit mai multe pedepse complementare de natura diferita, sau chiar de aceeasi natura dar cu continut diferit, acestea se aplică alaturi de pedeapsa inchisorii.
 Dacă s-au stabilit mai multe pedepse complementare de aceeasi natura şi cu acelasi continut, se aplică cea mai grea dintre acestea.
 Masurile de siguranţă de natura diferita sau de aceeasi natura, dar cu un continut diferit, luate în cazul infracţiunilor concurente, se cumuleaza.
-Dacă s-au luat mai multe măsuri de siguranţă de aceeasi natura şi cu acelasi continut, dar pe durate diferite, se aplică o singură dată măsura de siguranţă cu durata cea mai lunga. În cazul masurilor de siguranţă de aceeasi natura şi cu acelasi continut, luate conform art. 118 alin. 1 lit. a)-e), acestea se cumuleaza.
+Dacă s-au luat mai multe măsuri de siguranţă de aceeasi natura şi cu acelasi continut, dar pe durate diferite, se aplică o singură dată măsura de siguranţă cu durata cea mai lunga. În cazul masurilor de siguranţă de aceeasi natura şi cu acelasi continut, luate potrivit art. 118, acestea se cumuleaza.
 -------------
 Alin. 4 al art. 35 a fost modificat de pct. 4 al art. I din LEGEA nr. 278 din 4 iulie 2006, publicată în MONITORUL OFICIAL nr. 601 din 12 iulie 2006.
 Alin. 5 al art. 35 a fost introdus de pct. 5 al art. I din LEGEA nr. 278 din 4 iulie 2006, publicată în MONITORUL OFICIAL nr. 601 din 12 iulie 2006.
+Alin. 5 al art. 35 a fost modificat de art. IV din ORDONANŢA DE URGENŢĂ nr. 60 din 6 septembrie 2006, publicată în MONITORUL OFICIAL nr. 764 din 7 septembrie 2006.
 Contopirea pedepselor pentru infractiuni concurente savarsite de persoana fizica
 
 Articolul 36
@@ -400,10 +402,10 @@ Legitima aparare
 
 Articolul 44
 
-(1) Nu constituie infractiune fapta prevăzută de legea penala, savirsita în stare de legitima aparare.
-(2) Este în stare de legitima aparare acela care savirseste fapta pentru a inlatura un atac material, direct, imediat şi injust, indreptat împotriva sa, a altuia sau împotriva unui interes obstesc, şi care pune în pericol grav persoana sau drepturile celui atacat ori interesul obstesc.
-(2^1) Se prezuma ca este în legitima aparare, şi acela care savarseste fapta pentru a respinge patrunderea fără drept a unei persoane prin violenta, viclenie, efractie sau prin alte asemenea mijloace, intr-o locuinta, incapere, dependinta sau loc imprejmuit ori delimitat prin semne de marcare.
-(3) Este de asemenea în legitima aparare şi acela care din cauza tulburarii sau temerii a depasit limitele unei aparari proportionale cu gravitatea pericolului şi cu imprejurarile în care s-a produs atacul.
+Nu constituie infractiune fapta prevăzută de legea penala, savirsita în stare de legitima aparare.
+Este în stare de legitima aparare acela care savirseste fapta pentru a inlatura un atac material, direct, imediat şi injust, indreptat împotriva sa, a altuia sau împotriva unui interes obstesc, şi care pune în pericol grav persoana sau drepturile celui atacat ori interesul obstesc.
+Se prezuma ca este în legitima aparare, şi acela care savarseste fapta pentru a respinge patrunderea fără drept a unei persoane prin violenta, viclenie, efractie sau prin alte asemenea mijloace, intr-o locuinta, incapere, dependinta sau loc imprejmuit ori delimitat prin semne de marcare. (Alin. 2^1)
+Este de asemenea în legitima aparare şi acela care din cauza tulburarii sau temerii a depasit limitele unei aparari proportionale cu gravitatea pericolului şi cu imprejurarile în care s-a produs atacul.
 ------------
 Alin. (2^1) al art. 44 a fost introdus de LEGEA nr. 169 din 10 aprilie 2002 publicată în MONITORUL OFICIAL nr. 261 din 18 aprilie 2002.
 Alin. (2^1) al art. 44 a fost modificat de pct. 1 al articolului unic din Titlul IX din LEGEA nr. 247 din 19 iulie 2005, publicată în MONITORUL OFICIAL nr. 653 din 22 iulie 2005.
@@ -514,7 +516,7 @@ Capitolul III Pedepsele principale aplicabile persoanei fizice
 -------------
 Titlul Cap. III al Titlului III a fost modificat de pct. 17 al art. I din LEGEA nr. 278 din 4 iulie 2006, publicată în MONITORUL OFICIAL nr. 601 din 12 iulie 2006.
 
-Secţiunea Regimul de executare a pedepselor principale privative de libertate
+Secţiune Regimul de executare a pedepselor principale privative de libertate
 
 -------------
 Secţiunea "Regimul de executare a pedepselor principale privative de libertate" a fost introdusa de pct. 18 al art. I din LEGEA nr. 278 din 4 iulie 2006, publicată în MONITORUL OFICIAL nr. 601 din 12 iulie 2006.
@@ -1627,7 +1629,8 @@ Articolul 154
 
 La calcularea timpului ziua se socoteste de 24 de ore şi saptamina de 7 zile. Luna şi anul se socotesc implinite cu o zi înainte de ziua corespunzătoare datei de la care au inceput să curgă.
 
-Partea SPECIALA 
+Partea SPECIALA
+
 
 Titlul I INFRACTIUNI CONTRA SIGURANTEI STATULUI
 
