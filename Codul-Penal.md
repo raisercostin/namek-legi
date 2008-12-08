@@ -1,6 +1,6 @@
 source:
-  html: http://legislatie.just.ro/Public/DetaliiDocument/90728
-  print: http://legislatie.just.ro/Public/FormaPrintabila/00000G1218M8TAGOSSI0KB5I501C361F
+  html: http://legislatie.just.ro/Public/DetaliiDocument/100123
+  print: http://legislatie.just.ro/Public/FormaPrintabila/00000G0ZM6MIRT5B1T3140ATRCU23BCF
 
 details
   - http://www.cdep.ro/pls/legis/legis_pck.htp_act?ida=32756 (LEGE nr.15 din 21 iunie 1968 Codul Penal al României)
@@ -10,7 +10,7 @@ details
 
 ---
 CODUL PENAL din 21 iunie 1968 (**republicat**)(*actualizat*)
-(actualizat până la data de 28 martie 2008*)
+(actualizat până la data de 8 decembrie 2008*)
 EMITENT	
 PARLAMENTUL
 
@@ -18,13 +18,12 @@ PARLAMENTUL
 
 
 -----------
-*) Textul republicat al codului a fost publicat în MONITORUL OFICIAL nr. 65 din 16 aprilie 1997. Aceasta este forma actualizată de S.C. "Centrul Teritorial de Calcul Electronic" S.A. Piatra Neamţ până la data de 28 martie 2008, cu modificările şi completările aduse de: LEGEA nr. 143 din 26 iulie 2000; LEGEA nr. 197 din 13 noiembrie 2000; ORDONANŢA DE URGENŢĂ nr. 207 din 15 noiembrie 2000; ORDONANŢA DE URGENŢĂ nr. 10 din 11 ianuarie 2001; ORDONANŢA DE URGENŢĂ nr. 89 din 21 iunie 2001; LEGEA nr. 456 din 18 iulie 2001; LEGEA nr. 20 din 10 ianuarie 2002; LEGEA nr. 61 din 16 ianuarie 2002; LEGEA nr. 169 din 10 aprilie 2002; ORDONANŢA DE URGENŢĂ nr. 58 din 23 mai 2002; ORDONANŢA DE URGENŢĂ nr. 93 din 20 iunie 2002; ORDONANŢA DE URGENŢĂ nr. 143 din 24 octombrie 2002; ORDONANŢA DE URGENŢĂ nr. 109 din 16 noiembrie 2004; LEGEA nr. 85 din 7 aprilie 2005; LEGEA nr. 160 din 30 mai 2005; LEGEA nr. 247 din 19 iulie 2005; LEGEA nr. 278 din 4 iulie 2006; ORDONANŢA DE URGENŢĂ nr. 60 din 6 septembrie 2006; DECIZIA nr. 62 din 18 ianuarie 2007; LEGEA nr. 337 din 3 decembrie 2007; LEGEA nr. 58 din 19 martie 2008.
+*) Textul republicat al codului a fost publicat în MONITORUL OFICIAL nr. 65 din 16 aprilie 1997. Aceasta este forma actualizată de S.C. "Centrul Teritorial de Calcul Electronic" S.A. Piatra Neamţ până la data de 8 decembrie 2008, cu modificările şi completările aduse de: LEGEA nr. 143 din 26 iulie 2000; LEGEA nr. 197 din 13 noiembrie 2000; ORDONANŢA DE URGENŢĂ nr. 207 din 15 noiembrie 2000; ORDONANŢA DE URGENŢĂ nr. 10 din 11 ianuarie 2001; ORDONANŢA DE URGENŢĂ nr. 89 din 21 iunie 2001; LEGEA nr. 456 din 18 iulie 2001; LEGEA nr. 20 din 10 ianuarie 2002; LEGEA nr. 61 din 16 ianuarie 2002; LEGEA nr. 169 din 10 aprilie 2002; ORDONANŢA DE URGENŢĂ nr. 58 din 23 mai 2002; ORDONANŢA DE URGENŢĂ nr. 93 din 20 iunie 2002; ORDONANŢA DE URGENŢĂ nr. 143 din 24 octombrie 2002; ORDONANŢA DE URGENŢĂ nr. 109 din 16 noiembrie 2004; LEGEA nr. 85 din 7 aprilie 2005; LEGEA nr. 160 din 30 mai 2005; LEGEA nr. 247 din 19 iulie 2005; LEGEA nr. 278 din 4 iulie 2006; ORDONANŢA DE URGENŢĂ nr. 60 din 6 septembrie 2006; DECIZIA nr. 62 din 18 ianuarie 2007; LEGEA nr. 337 din 3 decembrie 2007; LEGEA nr. 58 din 19 martie 2008; ORDONANŢA DE URGENŢĂ nr. 198 din 4 decembrie 2008.
 **) Codul penal a fost publicat în B. Of., Partea I, nr. 79-79 bis din 21 iunie 1968; republicat B. Of., Partea I, nr. 55-56 din 23 aprilie 1973; republicat în M. Of., Partea I, nr. 65 din 16 aprilie 1997, în temeiul art. III din Legea nr. 140/1996, publicată în M. Of. al României, Partea I, nr. 289 din 14 noiembrie 1996.
 ***) Conform art. II din LEGEA nr. 278 din 4 iulie 2006, publicată în MONITORUL OFICIAL nr. 601 din 12 iulie 2006 expresia pedepse complimentare din cuprinsul Codului penal sau al altor acte normative în vigoare se inlocuieste cu expresia pedepse complementare.
 ****) Conform art. VIII din LEGEA nr. 278 din 4 iulie 2006, publicată în MONITORUL OFICIAL nr. 601 din 12 iulie 2006 prezenta lege intră în vigoare la 30 de zile de la publicarea în Monitorul Oficial al României, Partea I, cu excepţia prevederilor privind persoana juridica, ce intră în vigoare la 90 de zile de la data publicarii.
 
-Partea GENERALĂ
-
+Partea GENERALĂ 
 
 Titlul I LEGEA PENALA ŞI LIMITELE EI DE APLICARE
 
@@ -168,7 +167,7 @@ b) prevede rezultatul faptei sale şi, desi nu-l urmareste, accepta posibilitate
 a) prevede rezultatul faptei sale, dar nu-l accepta, socotind fără temei ca el nu se va produce;
 b) nu prevede rezultatul faptei sale, desi trebuia şi putea sa-l prevada.
 Fapta constind intr-o actiune savirsita din culpa constituie infractiune numai atunci când în lege se prevede în mod expres aceasta.
-Fapta constind intr-o infractiune constituie infractiune fie ca este savirsita cu intentie, fie din culpa, afară de cazul când legea sancţionează numai savirsirea ei cu intentie.
+Fapta constind intr-o inacţiune constituie infractiune fie ca este savirsita cu intentie, fie din culpa, afară de cazul când legea sancţionează numai savirsirea ei cu intentie.
 Condiţiile raspunderii penale a persoanelor juridice
 
 Articolul 19^1*)
@@ -516,7 +515,7 @@ Capitolul III Pedepsele principale aplicabile persoanei fizice
 -------------
 Titlul Cap. III al Titlului III a fost modificat de pct. 17 al art. I din LEGEA nr. 278 din 4 iulie 2006, publicată în MONITORUL OFICIAL nr. 601 din 12 iulie 2006.
 
-Secţiune Regimul de executare a pedepselor principale privative de libertate
+Secţiunea Regimul de executare a pedepselor principale privative de libertate
 
 -------------
 Secţiunea "Regimul de executare a pedepselor principale privative de libertate" a fost introdusa de pct. 18 al art. I din LEGEA nr. 278 din 4 iulie 2006, publicată în MONITORUL OFICIAL nr. 601 din 12 iulie 2006.
@@ -976,7 +975,7 @@ Articolul 86^2
 
 Termenul de incercare în cazul suspendarii executarii pedepsei sub supraveghere se compune din cuantumul pedepsei inchisorii aplicate, la care se adauga un interval de timp, stabilit de instanţa, între 2 şi 5 ani.
 Dispozitiile art. 82 alin. 3 se aplică în mod corespunzător.
-Masurile de supraveghere şi obligaţiile condamnatului
+Masurile de supraveghere şi oblibaţiile condamnatului
 
 Articolul 86^3
 
@@ -1629,8 +1628,7 @@ Articolul 154
 
 La calcularea timpului ziua se socoteste de 24 de ore şi saptamina de 7 zile. Luna şi anul se socotesc implinite cu o zi înainte de ziua corespunzătoare datei de la care au inceput să curgă.
 
-Partea SPECIALA
-
+Partea SPECIALA 
 
 Titlul I INFRACTIUNI CONTRA SIGURANTEI STATULUI
 
@@ -2400,6 +2398,7 @@ Amenintarea savarsita nemijlocit sau prin mijloace de comunicare directa contra 
 Lovirea sau orice acte de violenta, savarsite împotriva unui functionar public care indeplineste o functie ce implica exercitiul autorităţii de stat, aflat în exercitiul functiunii ori pentru fapte indeplinite în exercitiul functiunii, se pedepseste cu inchisoare de la 6 luni la 3 ani sau cu amendă.
 Vatamarea corporala, savarsita împotriva unui functionar public care indeplineste o functie ce implica exercitiul autorităţii de stat, aflat în exercitiul functiunii ori pentru fapte indeplinite în exercitiul functiunii, se pedepseste cu inchisoare de la 6 luni la 6 ani.
 Vatamarea corporala grava, savarsita împotriva unui functionar public care indeplineste o functie ce implica exercitiul autorităţii de stat, aflat în exercitiul functiunii ori pentru fapte indeplinite în exercitiul functiunii, se pedepseste cu inchisoare de la 3 la 12 ani.
+Dacă faptele prevăzute în alin. 1-4 sunt săvârşite împotriva unui judecător sau procuror, organ de cercetare penală, expert, executor judecătoresc, poliţist, jandarm ori militar, limitele pedepsei se majorează cu jumătate.
 ------------
 Alin. (1) al art. 239 a fost modificat de ORDONANŢA DE URGENŢĂ nr. 58 din 23 mai 2002 publicată în MONITORUL OFICIAL nr. 351 din 27 mai 2002.
 *) NOTA C.T.C.E.:
@@ -2407,14 +2406,16 @@ ORDONANŢA DE URGENŢĂ nr. 58 din 23 mai 2002, publicată în MONITORUL OFICIAL
 Alin. (1) al art. 239 a fost abrogat de pct. 2 al articolului unic din LEGEA nr. 160 din 30 mai 2005, publicată în MONITORUL OFICIAL nr. 470 din 2 iunie 2005.
 Alin. (2) al art. 239 a fost modificat de pct. 3 al articolului unic din LEGEA nr. 160 din 30 mai 2005, publicată în MONITORUL OFICIAL nr. 470 din 2 iunie 2005.
 Art. 239 a fost modificat de pct. 57 al art. I din LEGEA nr. 278 din 4 iulie 2006, publicată în MONITORUL OFICIAL nr. 601 din 12 iulie 2006.
+Alin. (5) al art. 239 a fost introdus de pct. 1 al articolului unic din ORDONANŢA DE URGENŢĂ nr. 198 din 4 decembrie 2008, publicată în MONITORUL OFICIAL nr. 824 din 8 decembrie 2008.
 Cazuri speciale de pedepsire
 
 Articolul 239^1
 
-În cazul infracţiunilor prevăzute în art. 180-182, art. 189 şi 193, savarsite împotriva sotului, copiilor sau parintilor unui judecator, procuror, politist, jandarm ori militar, în scop de intimidare sau de razbunare pentru acte sau fapte indeplinite în exercitiul functiunii, maximul pedepsei se majoreaza cu 2 ani.
+În cazul infracţiunilor prevăzute de art. 180-183, art. 189 şi art. 193, săvârşite împotriva soţului sau a unei rude apropiate a uneia dintre persoanele prevăzute în art. 239 alin. 5, în scop de intimidare sau de răzbunare în legătură cu exercitarea de către aceste persoane a atribuţiilor de serviciu, limitele pedepsei se majorează cu jumătate.
 ------------
 Art. 239^1 a fost modificat de ORDONANŢA DE URGENŢĂ nr. 58 din 23 mai 2002 publicată în MONITORUL OFICIAL nr. 351 din 27 mai 2002.
 Art. 239^1 a fost modificat de pct. 58 al art. I din LEGEA nr. 278 din 4 iulie 2006, publicată în MONITORUL OFICIAL nr. 601 din 12 iulie 2006.
+Art. 239^1 a fost modificat de pct. 2 al articolului unic din ORDONANŢA DE URGENŢĂ nr. 198 din 4 decembrie 2008, publicată în MONITORUL OFICIAL nr. 824 din 8 decembrie 2008.
 Uzurparea de calităţi oficiale
 
 Articolul 240
@@ -2673,6 +2674,14 @@ Articolul 272
 Retinerea sau distrugerea unui inscris emis de un organ de urmărire penala, de o instanţa de judecată sau de un alt organ de jurisdictie, ori impiedicarea în orice mod ca un inscris destinat unuia dintre organele sus-aratate sa ajunga la acesta, când astfel de inscrisuri sunt necesare solutionarii unei cauze, se pedepseste cu inchisoare de la 6 luni la 3 ani.
 ------------
 Art. 272 a fost modificat de LEGEA nr. 169 din 10 aprilie 2002 publicată în MONITORUL OFICIAL nr. 261 din 18 aprilie 2002.
+Sfidarea organelor judiciare
+
+Articolul 272^1
+
+Întrebuinţarea de cuvinte insultătoare ori gesturi obscene sau ameninţătoare la adresa integrităţii fizice a unui judecător, a unui procuror sau a unui organ de cercetare penală, de către o persoană care participă sau asistă la o procedură care se desfăşoară în faţa instanţei sau a organului de urmărire penală, se pedepseşte cu închisoare de la 3 luni la un an sau cu amendă.
+Cu aceeaşi pedeapsă se sancţionează întrebuinţarea de cuvinte insultătoare ori gesturi obscene sau ameninţătoare în mod nemijlocit la adresa integrităţii fizice a unui judecător, a unui procuror sau a unui organ de cercetare penală, poliţist sau jandarm, pentru fapte îndeplinite în exerciţiul funcţiei.
+------------
+Art. 272^1 a fost introdus de pct. 3 al articolului unic din ORDONANŢA DE URGENŢĂ nr. 198 din 4 decembrie 2008, publicată în MONITORUL OFICIAL nr. 824 din 8 decembrie 2008.
 
 Capitolul III INFRACTIUNI CONTRA SIGURANTEI CIRCULATIEI PE CAILE FERATE
 
