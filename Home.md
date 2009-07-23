@@ -11,6 +11,9 @@
       - 1936 - Carol II
       - 1948 - Comunisti dupa abdicare - https://sites.google.com/site/repereistoriaromaniei/5-romania-dupa-1947
       - 1969 - Nicolae Ceausescu
+      - 2009 - creeare nou Cod Penal: presedinte: Traian Basescu, guvern Emil Boc, senat: MIRCEA-DAN GEOANĂ, deputati: ROBERTA ALMA ANASTASE, fost prim ministru: Calin Popescu Tariceanu, fost ministru justitie: Cătălin Marian Predoiu
+        - https://www.hotnews.ro/stiri-esential-5447325-guvernul-adoptat-noul-cod-penal-codul-procedura-penala-codul-procedura-civila.htm#self
+        - Guvernul a adoptat, in sedinta de miercuri, Codul de Procedura Civila, Codul de Procedura Penala si noul Cod Penal. Ministrul Justitiei, Catalin Predoiu, va sustine o declaratie de presa pe aceasta tema, la finalul sedintei de Guvern, a anuntat premierul Emil Boc, in cadrul unei conferinte de presa, la finalul sedintei Executivului. Guvernul urmeaza sa dea unda verde si noului Cod Civil saptamana viitoare.
 
 # Surse
 
@@ -22,6 +25,9 @@
 - parlament - http://www.cdep.ro/pls/legis/
 - worst - monitorul oficial
 
+## Surse
+- guverne: https://ro.wikipedia.org/wiki/Lista_prim-mini%C8%99trilor_Rom%C3%A2niei
+- https://ro.wikipedia.org/wiki/Guvernul_C%C4%83lin_Popescu-T%C4%83riceanu
 
 # Clasificari legi
 
@@ -620,6 +626,8 @@
   - original
   - cleaned (autoformated) branches for easy tracking of important changes
   - consolidated (manually cleaned from cleaned branch)
+  - current (master branch)
+  - proposals (proposals made by parlament, government, ICCJ)
 - autoformat should for example
   - replace Art. with Articol
   - a line before and after articol
@@ -629,7 +637,13 @@
 - category to show that laws are replacing and continue other ones. For example:
   - codul penal roman are 4 versiuni total diferite: Cuza(1864) -> Carol 2(1936) -> Comunism(1969) -> Modern(2009) dar exista si schimbari minore intre aceste schimbari majore.
 - change letters
-  - lowercase - ţ => ţ
+  - special chars
+    - ţ => ţ
+    - Ș -> Ş
   - (\n\r)+ => \n
   - (\n)+ => \n
   - ^Articolul (\d+) => \nArticolul \1\n
+- Legislation maps
+  - law - publicate/republicate
+  - update law - commits
+  - delete law - commits
