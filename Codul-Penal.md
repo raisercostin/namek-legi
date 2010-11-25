@@ -1,6 +1,6 @@
 source:
-  html: http://legislatie.just.ro/Public/DetaliiDocument/119397
-  print: http://legislatie.just.ro/Public/FormaPrintabila/00000G0PSNNJS2L9SGT2R60EP5X5T4KA
+  html: http://legislatie.just.ro/Public/DetaliiDocument/123150
+  print: http://legislatie.just.ro/Public/FormaPrintabila/00000G0846ER7UROHQN1QS2Q1LBAHT4G
 
 details
   - http://www.cdep.ro/pls/legis/legis_pck.htp_act?ida=32756 (LEGE nr.15 din 21 iunie 1968 Codul Penal al României)
@@ -10,7 +10,7 @@ details
 
 ---
 CODUL PENAL din 21 iunie 1968 (**republicat**)(*actualizat*)
-(actualizat până la data de 30 mai 2010*)
+(aplicabil începând cu data de 25 noiembrie 2010*)
 EMITENT	
 PARLAMENTUL
 
@@ -18,7 +18,7 @@ PARLAMENTUL
 
 
 -----------
-*) Textul republicat al codului a fost publicat în MONITORUL OFICIAL nr. 65 din 16 aprilie 1997. Aceasta este forma actualizată de S.C. "Centrul Teritorial de Calcul Electronic" S.A. Piatra Neamţ până la data de 30 mai 2010, cu modificările şi completările aduse de: LEGEA nr. 143 din 26 iulie 2000; LEGEA nr. 197 din 13 noiembrie 2000; ORDONANŢA DE URGENŢĂ nr. 207 din 15 noiembrie 2000; ORDONANŢA DE URGENŢĂ nr. 10 din 11 ianuarie 2001; ORDONANŢA DE URGENŢĂ nr. 89 din 21 iunie 2001; LEGEA nr. 456 din 18 iulie 2001; LEGEA nr. 20 din 10 ianuarie 2002; LEGEA nr. 61 din 16 ianuarie 2002; LEGEA nr. 169 din 10 aprilie 2002; ORDONANŢA DE URGENŢĂ nr. 58 din 23 mai 2002; ORDONANŢA DE URGENŢĂ nr. 93 din 20 iunie 2002; ORDONANŢA DE URGENŢĂ nr. 143 din 24 octombrie 2002; ORDONANŢA DE URGENŢĂ nr. 109 din 16 noiembrie 2004; LEGEA nr. 85 din 7 aprilie 2005; LEGEA nr. 160 din 30 mai 2005; LEGEA nr. 247 din 19 iulie 2005; LEGEA nr. 278 din 4 iulie 2006; ORDONANŢA DE URGENŢĂ nr. 60 din 6 septembrie 2006; DECIZIA nr. 62 din 18 ianuarie 2007; LEGEA nr. 337 din 3 decembrie 2007; LEGEA nr. 58 din 19 martie 2008; ORDONANŢA DE URGENŢĂ nr. 198 din 4 decembrie 2008; LEGEA nr. 93 din 21 mai 2010.
+*) Textul republicat al codului a fost publicat în MONITORUL OFICIAL nr. 65 din 16 aprilie 1997. Aceasta este forma actualizată de S.C. "Centrul Teritorial de Calcul Electronic" S.A. Piatra Neamţ până la data de 25 noiembrie 2010, cu modificările şi completările aduse de: LEGEA nr. 143 din 26 iulie 2000; LEGEA nr. 197 din 13 noiembrie 2000; ORDONANŢA DE URGENŢĂ nr. 207 din 15 noiembrie 2000; ORDONANŢA DE URGENŢĂ nr. 10 din 11 ianuarie 2001; ORDONANŢA DE URGENŢĂ nr. 89 din 21 iunie 2001; LEGEA nr. 456 din 18 iulie 2001; LEGEA nr. 20 din 10 ianuarie 2002; LEGEA nr. 61 din 16 ianuarie 2002; LEGEA nr. 169 din 10 aprilie 2002; ORDONANŢA DE URGENŢĂ nr. 58 din 23 mai 2002; ORDONANŢA DE URGENŢĂ nr. 93 din 20 iunie 2002; ORDONANŢA DE URGENŢĂ nr. 143 din 24 octombrie 2002; ORDONANŢA DE URGENŢĂ nr. 109 din 16 noiembrie 2004; LEGEA nr. 85 din 7 aprilie 2005; LEGEA nr. 160 din 30 mai 2005; LEGEA nr. 247 din 19 iulie 2005; LEGEA nr. 278 din 4 iulie 2006; ORDONANŢA DE URGENŢĂ nr. 60 din 6 septembrie 2006; DECIZIA nr. 62 din 18 ianuarie 2007; LEGEA nr. 337 din 3 decembrie 2007; LEGEA nr. 58 din 19 martie 2008; ORDONANŢA DE URGENŢĂ nr. 198 din 4 decembrie 2008; LEGEA nr. 93 din 21 mai 2010; LEGEA nr. 202 din 25 octombrie 2010.
 **) Codul penal a fost publicat în B. Of., Partea I, nr. 79-79 bis din 21 iunie 1968; republicat B. Of., Partea I, nr. 55-56 din 23 aprilie 1973; republicat în M. Of., Partea I, nr. 65 din 16 aprilie 1997, în temeiul art. III din Legea nr. 140/1996, publicată în M. Of. al României, Partea I, nr. 289 din 14 noiembrie 1996.
 ***) Conform art. II din LEGEA nr. 278 din 4 iulie 2006, publicată în MONITORUL OFICIAL nr. 601 din 12 iulie 2006 expresia pedepse complimentare din cuprinsul Codului penal sau al altor acte normative în vigoare se înlocuieşte cu expresia pedepse complementare.
 ****) Conform art. VIII din LEGEA nr. 278 din 4 iulie 2006, publicată în MONITORUL OFICIAL nr. 601 din 12 iulie 2006 prezenta lege intră în vigoare la 30 de zile de la publicarea în Monitorul Oficial al României, Partea I, cu excepţia prevederilor privind persoana juridică, ce intră în vigoare la 90 de zile de la data publicării.
@@ -154,8 +154,10 @@ Fapta care nu prezintă pericolul social al unei infracţiuni
 Articolul 18^1
 
 Nu constituie infracţiune fapta prevazută de legea penală, dacă prin atingerea minimă adusă uneia din valorile apărate de lege şi prin conţinutul ei concret, fiind lipsită în mod vădit de importanţă, nu prezintă gradul de pericol social al unei infracţiuni.
-La stabilirea în concret a gradului de pericol social se ţine seama de modul şi mijloacele de săvârşire a faptei, de scopul urmărit, de împrejurările în care fapta a fost comisă, de urmarea produsă sau care s-ar fi putut produce, precum şi de persoana şi conduita făptuitorului.
-În cazul faptelor prevăzute în prezentul articol, procurorul sau instanţa aplică una din sancţiunile cu caracter administrativ prevăzute în art. 91.
+La stabilirea în concret a gradului de pericol social se ţine seama de modul şi mijloacele de săvârşire a faptei, de scopul urmărit, de împrejurările în care fapta a fost comisă, de urmarea produsă sau care s-ar fi putut produce, precum şi de persoana şi conduita făptuitorului, dacă este cunoscut.
+În cazul faptelor prevăzute în prezentul articol, procurorul sau instanţa poate aplica una dintre sancţiunile cu caracter administrativ prevăzute la art. 91.
+-------------
+Alin. 2 şi 3 ale art. 18^1 au fost modificate de pct. 1 al art. XX din LEGEA nr. 202 din 25 octombrie 2010, publicată în MONITORUL OFICIAL nr. 714 din 26 octombrie 2010.
 Vinovăţia
 
 Articolul 19
@@ -826,6 +828,14 @@ a) conduita bună a infractorului înainte de săvârşirea infracţiunii;
 b) stăruinţa depusă de infractor pentru a înlătura rezultatul infracţiunii sau a repara paguba pricinuită;
 c) atitudinea infractorului după săvârşirea infracţiunii, rezultând din prezentarea sa în faţa autorităţii, comportarea sinceră în cursul procesului, înlesnirea descoperirii ori arestării participanţilor.
 Împrejurările enumerate în prezentul articol au caracter exemplificativ.
+
+Articolul 74^1
+
+În cazul săvârşirii infracţiunilor de gestiune frauduloasă, înşelăciune, delapidare, abuz în serviciu contra intereselor persoanelor, abuz în serviciu contra intereselor publice, abuz în serviciu în formă calificată şi neglijenţă în serviciu, prevăzute în prezentul cod, ori a unor infracţiuni economice prevăzute în legi speciale, prin care s-a pricinuit o pagubă, dacă în cursul urmăririi penale sau al judecăţii, până la soluţionarea cauzei în primă instanţă, învinuitul sau inculpatul acoperă integral prejudiciul cauzat, limitele pedepsei prevăzute de lege pentru fapta săvârşită se reduc la jumătate.
+Dacă prejudiciul cauzat şi recuperat în aceleaşi condiţii este de până la 100.000 euro, în echivalentul monedei naţionale, se poate aplica pedeapsa cu amendă. Dacă prejudiciul cauzat şi recuperat în aceleaşi condiţii este de până la 50.000 euro, în echivalentul monedei naţionale, se aplică o sancţiune administrativă, care se înregistrează în cazierul judiciar.
+Dispoziţiile prevăzute la alin. 1 şi 2 nu se aplică dacă făptuitorul a mai săvârşit o infracţiune de acelaşi gen, prevăzută de prezentul cod, într-un interval de 5 ani de la comiterea faptei, pentru care a beneficiat de prevederile alin. 1 şi 2.
+-------------
+Art. 74^1 a fost introdus de pct. 2 al art. XX din LEGEA nr. 202 din 25 octombrie 2010, publicată în MONITORUL OFICIAL nr. 714 din 26 octombrie 2010.
 Circumstanţe agravante
 
 Articolul 75
@@ -1883,9 +1893,11 @@ Când săvârşirea faptei prevăzute în alin. 1 este urmarea nerespectării di
 Fapta prevazută în alin. 2 dacă este urmarea nerespectării dispoziţiilor legale sau a măsurilor de prevedere arătate în alineatul precedent se pedepseşte cu închisoare de la 6 luni la 3 ani.
 Dacă faptele prevăzute la alin. 3 şi 4 sunt săvârşite de către o persoană care se află în stare de ebrietate, pedeapsa este închisoarea de la unu la 3 ani, în cazul alin. 3, şi închisoarea de la unu la 5 ani, în cazul alin. 4.(Alin. 4^1)
 Pentru faptele prevăzute în alin. 1 şi 3, acţiunea penală se pune în mişcare la plângerea prealabilă a persoanei vătămate. Împăcarea părţilor înlătură răspunderea penală.
+Pentru faptele prevăzute la alin. 2 şi 4, împăcarea părţilor înlătură răspunderea penală.
 -------------
 Alin. (1) şi (2) ale art. 184 au fost modificate de LEGEA nr. 169 din 10 aprilie 2002, publicată în MONITORUL OFICIAL nr. 261 din 18 aprilie 2002.
 Alin. (4^1) al art. 184 a fost introdus de LEGEA nr. 169 din 10 aprilie 2002, publicată în MONITORUL OFICIAL nr. 261 din 18 aprilie 2002.
+Alin. (6) al art. 184 a fost introdus de pct. 3 al art. XX din LEGEA nr. 202 din 25 octombrie 2010, publicată în MONITORUL OFICIAL nr. 714 din 26 octombrie 2010.
 
 Secţiunea III Avortul
 
@@ -3046,9 +3058,12 @@ Traficul de stupefiante
 
 Articolul 312
 
-Abrogat.*)
+Producerea, deţinerea sau orice operaţiune privind circulaţia produselor ori substanţelor stupefiante*) sau toxice, cultivarea în scop de prelucrare a plantelor care conţin astfel de substanţe ori experimentarea produselor sau substanţelor toxice, toate acestea fără drept, se pedepsesc cu închisoare de la 3 la 15 ani şi interzicerea unor drepturi.
+Dacă fapta prevăzută în alin. 1*) a fost săvârşită organizat, pedeapsa este detenţiunea pe viaţa sau închisoarea de la 15 la 25 de ani şi interzicerea unor drepturi.
+Prescrierea de către medic, fără a fi necesar, a produselor sau substanţelor stupefiante*), se pedepseşte cu închisoare de la unu la 5 ani, iar organizarea sau îngăduirea consumului de asemenea produse ori substanţe în locuri anumite se pedepseşte cu închisoare de la 3 la 15 ani şi interzicerea unor drepturi.
+Tentativa se pedepseşte.
 -----------
-*) Art. 312 a fost abrogat prin art. 32 al Legii privind combaterea traficului şi consumului ilicit de droguri, nr. 143/2000, publicată în M. Of. nr. 362 din 3 august 2000.
+*) Art. 312 a fost abrogat prin art. 32 al Legii privind combaterea traficului şi consumului ilicit de droguri, nr. 143/2000, publicată în M. Of. nr. 362 din 3 august 2000, în ceea ce priveşte produsele sau substanţele stupefiante.
 Falsificarea de alimente sau alte produse
 
 Articolul 313

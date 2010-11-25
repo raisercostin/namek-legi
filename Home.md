@@ -633,3 +633,7 @@
   - (\n\r)+ => \n
   - (\n)+ => \n
   - ^Articolul (\d+) => \nArticolul \1\n
+- Legislation maps
+  - law - publicate/republicate
+  - update law - commits
+  - delete law - commits
