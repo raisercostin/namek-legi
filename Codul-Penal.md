@@ -1,6 +1,6 @@
 source:
-  html: http://legislatie.just.ro/Public/DetaliiDocument/123150
-  print: http://legislatie.just.ro/Public/FormaPrintabila/00000G0846ER7UROHQN1QS2Q1LBAHT4G
+  html: http://legislatie.just.ro/Public/DetaliiDocument/130588
+  print: http://legislatie.just.ro/Public/FormaPrintabila/00000G09FERLXVW2KSM0TNE71KRE1MQC
 
 details
   - http://www.cdep.ro/pls/legis/legis_pck.htp_act?ida=32756 (LEGE nr.15 din 21 iunie 1968 Codul Penal al României)
@@ -10,7 +10,7 @@ details
 
 ---
 CODUL PENAL din 21 iunie 1968 (**republicat**)(*actualizat*)
-(aplicabil începând cu data de 25 noiembrie 2010*)
+(actualizat până la data de 25 mai 2011*)
 EMITENT	
 PARLAMENTUL
 
@@ -18,7 +18,7 @@ PARLAMENTUL
 
 
 -----------
-*) Textul republicat al codului a fost publicat în MONITORUL OFICIAL nr. 65 din 16 aprilie 1997. Aceasta este forma actualizată de S.C. "Centrul Teritorial de Calcul Electronic" S.A. Piatra Neamţ până la data de 25 noiembrie 2010, cu modificările şi completările aduse de: LEGEA nr. 143 din 26 iulie 2000; LEGEA nr. 197 din 13 noiembrie 2000; ORDONANŢA DE URGENŢĂ nr. 207 din 15 noiembrie 2000; ORDONANŢA DE URGENŢĂ nr. 10 din 11 ianuarie 2001; ORDONANŢA DE URGENŢĂ nr. 89 din 21 iunie 2001; LEGEA nr. 456 din 18 iulie 2001; LEGEA nr. 20 din 10 ianuarie 2002; LEGEA nr. 61 din 16 ianuarie 2002; LEGEA nr. 169 din 10 aprilie 2002; ORDONANŢA DE URGENŢĂ nr. 58 din 23 mai 2002; ORDONANŢA DE URGENŢĂ nr. 93 din 20 iunie 2002; ORDONANŢA DE URGENŢĂ nr. 143 din 24 octombrie 2002; ORDONANŢA DE URGENŢĂ nr. 109 din 16 noiembrie 2004; LEGEA nr. 85 din 7 aprilie 2005; LEGEA nr. 160 din 30 mai 2005; LEGEA nr. 247 din 19 iulie 2005; LEGEA nr. 278 din 4 iulie 2006; ORDONANŢA DE URGENŢĂ nr. 60 din 6 septembrie 2006; DECIZIA nr. 62 din 18 ianuarie 2007; LEGEA nr. 337 din 3 decembrie 2007; LEGEA nr. 58 din 19 martie 2008; ORDONANŢA DE URGENŢĂ nr. 198 din 4 decembrie 2008; LEGEA nr. 93 din 21 mai 2010; LEGEA nr. 202 din 25 octombrie 2010.
+*) Textul republicat al codului a fost publicat în MONITORUL OFICIAL nr. 65 din 16 aprilie 1997. Aceasta este forma actualizată de S.C. "Centrul Teritorial de Calcul Electronic" S.A. Piatra Neamţ până la data de 25 mai 2011, cu modificările şi completările aduse de: LEGEA nr. 143 din 26 iulie 2000; LEGEA nr. 197 din 13 noiembrie 2000; ORDONANŢA DE URGENŢĂ nr. 207 din 15 noiembrie 2000; ORDONANŢA DE URGENŢĂ nr. 10 din 11 ianuarie 2001; ORDONANŢA DE URGENŢĂ nr. 89 din 21 iunie 2001; LEGEA nr. 456 din 18 iulie 2001; LEGEA nr. 20 din 10 ianuarie 2002; LEGEA nr. 61 din 16 ianuarie 2002; LEGEA nr. 169 din 10 aprilie 2002; ORDONANŢA DE URGENŢĂ nr. 58 din 23 mai 2002; ORDONANŢA DE URGENŢĂ nr. 93 din 20 iunie 2002; ORDONANŢA DE URGENŢĂ nr. 143 din 24 octombrie 2002; ORDONANŢA DE URGENŢĂ nr. 109 din 16 noiembrie 2004; LEGEA nr. 85 din 7 aprilie 2005; LEGEA nr. 160 din 30 mai 2005; LEGEA nr. 247 din 19 iulie 2005; LEGEA nr. 278 din 4 iulie 2006; ORDONANŢA DE URGENŢĂ nr. 60 din 6 septembrie 2006; DECIZIA nr. 62 din 18 ianuarie 2007; LEGEA nr. 337 din 3 decembrie 2007; LEGEA nr. 58 din 19 martie 2008; ORDONANŢA DE URGENŢĂ nr. 198 din 4 decembrie 2008; LEGEA nr. 93 din 21 mai 2010; LEGEA nr. 202 din 25 octombrie 2010; DECIZIA nr. 573 din 3 mai 2011.
 **) Codul penal a fost publicat în B. Of., Partea I, nr. 79-79 bis din 21 iunie 1968; republicat B. Of., Partea I, nr. 55-56 din 23 aprilie 1973; republicat în M. Of., Partea I, nr. 65 din 16 aprilie 1997, în temeiul art. III din Legea nr. 140/1996, publicată în M. Of. al României, Partea I, nr. 289 din 14 noiembrie 1996.
 ***) Conform art. II din LEGEA nr. 278 din 4 iulie 2006, publicată în MONITORUL OFICIAL nr. 601 din 12 iulie 2006 expresia pedepse complimentare din cuprinsul Codului penal sau al altor acte normative în vigoare se înlocuieşte cu expresia pedepse complementare.
 ****) Conform art. VIII din LEGEA nr. 278 din 4 iulie 2006, publicată în MONITORUL OFICIAL nr. 601 din 12 iulie 2006 prezenta lege intră în vigoare la 30 de zile de la publicarea în Monitorul Oficial al României, Partea I, cu excepţia prevederilor privind persoana juridică, ce intră în vigoare la 90 de zile de la data publicării.
@@ -829,13 +829,18 @@ b) stăruinţa depusă de infractor pentru a înlătura rezultatul infracţiunii
 c) atitudinea infractorului după săvârşirea infracţiunii, rezultând din prezentarea sa în faţa autorităţii, comportarea sinceră în cursul procesului, înlesnirea descoperirii ori arestării participanţilor.
 Împrejurările enumerate în prezentul articol au caracter exemplificativ.
 
-Articolul 74^1
+Articolul 74^1*)
 
 În cazul săvârşirii infracţiunilor de gestiune frauduloasă, înşelăciune, delapidare, abuz în serviciu contra intereselor persoanelor, abuz în serviciu contra intereselor publice, abuz în serviciu în formă calificată şi neglijenţă în serviciu, prevăzute în prezentul cod, ori a unor infracţiuni economice prevăzute în legi speciale, prin care s-a pricinuit o pagubă, dacă în cursul urmăririi penale sau al judecăţii, până la soluţionarea cauzei în primă instanţă, învinuitul sau inculpatul acoperă integral prejudiciul cauzat, limitele pedepsei prevăzute de lege pentru fapta săvârşită se reduc la jumătate.
 Dacă prejudiciul cauzat şi recuperat în aceleaşi condiţii este de până la 100.000 euro, în echivalentul monedei naţionale, se poate aplica pedeapsa cu amendă. Dacă prejudiciul cauzat şi recuperat în aceleaşi condiţii este de până la 50.000 euro, în echivalentul monedei naţionale, se aplică o sancţiune administrativă, care se înregistrează în cazierul judiciar.
 Dispoziţiile prevăzute la alin. 1 şi 2 nu se aplică dacă făptuitorul a mai săvârşit o infracţiune de acelaşi gen, prevăzută de prezentul cod, într-un interval de 5 ani de la comiterea faptei, pentru care a beneficiat de prevederile alin. 1 şi 2.
 -------------
 Art. 74^1 a fost introdus de pct. 2 al art. XX din LEGEA nr. 202 din 25 octombrie 2010, publicată în MONITORUL OFICIAL nr. 714 din 26 octombrie 2010.
+NOTA C.T.C.E. S.A. Piatra-Neamţ:
+*) Prin DECIZIA CURŢII CONSTITUŢIONALE nr. 573 din 3 mai 2011, publicată în MONITORUL OFICIAL nr. 363 din 25 mai 2011 a fost admisă excepţia de neconstituţionalitate ridicată cu privire la dispoziţiile art. 74^1 din Codul penal, constatându-se ca acestea sunt neconstituţionale.
+Conform art. 147 din CONSTITUŢIA ROMÂNIEI republicată în MONITORUL OFICIAL nr. 767 din 31 octombrie 2003,
+dispoziţiile din legile şi ordonanţele în vigoare, precum şi cele din regulamente, constatate ca fiind neconstituţionale, îşi încetează efectele juridice la 45 de zile de la publicarea deciziei Curţii Constituţionale dacă, în acest interval, Parlamentul sau Guvernul, după caz, nu pun de acord prevederile neconstituţionale cu dispoziţiile Constituţiei. Pe durata acestui termen, dispoziţiile constatate ca fiind neconstituţionale sunt suspendate de drept.
+În consecinţă, prevederile de mai sus din cuprinsul art. 74^1 din Codul penal, se suspenda începând cu data de 25 mai 2011.
 Circumstanţe agravante
 
 Articolul 75
