@@ -1,6 +1,6 @@
 source:
-  html: http://legislatie.just.ro/Public/DetaliiDocument/130588
-  print: http://legislatie.just.ro/Public/FormaPrintabila/00000G09FERLXVW2KSM0TNE71KRE1MQC
+  html: http://legislatie.just.ro/Public/DetaliiDocument/135345
+  print: http://legislatie.just.ro/Public/FormaPrintabila/00000G2V70WGYAMXXUC2ON0YB84YNSUG
 
 details
   - http://www.cdep.ro/pls/legis/legis_pck.htp_act?ida=32756 (LEGE nr.15 din 21 iunie 1968 Codul Penal al României)
@@ -10,7 +10,7 @@ details
 
 ---
 CODUL PENAL din 21 iunie 1968 (**republicat**)(*actualizat*)
-(actualizat până la data de 25 mai 2011*)
+(actualizat până la data de 14 iunie 2011*)
 EMITENT	
 PARLAMENTUL
 
@@ -18,7 +18,7 @@ PARLAMENTUL
 
 
 -----------
-*) Textul republicat al codului a fost publicat în MONITORUL OFICIAL nr. 65 din 16 aprilie 1997. Aceasta este forma actualizată de S.C. "Centrul Teritorial de Calcul Electronic" S.A. Piatra Neamţ până la data de 25 mai 2011, cu modificările şi completările aduse de: LEGEA nr. 143 din 26 iulie 2000; LEGEA nr. 197 din 13 noiembrie 2000; ORDONANŢA DE URGENŢĂ nr. 207 din 15 noiembrie 2000; ORDONANŢA DE URGENŢĂ nr. 10 din 11 ianuarie 2001; ORDONANŢA DE URGENŢĂ nr. 89 din 21 iunie 2001; LEGEA nr. 456 din 18 iulie 2001; LEGEA nr. 20 din 10 ianuarie 2002; LEGEA nr. 61 din 16 ianuarie 2002; LEGEA nr. 169 din 10 aprilie 2002; ORDONANŢA DE URGENŢĂ nr. 58 din 23 mai 2002; ORDONANŢA DE URGENŢĂ nr. 93 din 20 iunie 2002; ORDONANŢA DE URGENŢĂ nr. 143 din 24 octombrie 2002; ORDONANŢA DE URGENŢĂ nr. 109 din 16 noiembrie 2004; LEGEA nr. 85 din 7 aprilie 2005; LEGEA nr. 160 din 30 mai 2005; LEGEA nr. 247 din 19 iulie 2005; LEGEA nr. 278 din 4 iulie 2006; ORDONANŢA DE URGENŢĂ nr. 60 din 6 septembrie 2006; DECIZIA nr. 62 din 18 ianuarie 2007; LEGEA nr. 337 din 3 decembrie 2007; LEGEA nr. 58 din 19 martie 2008; ORDONANŢA DE URGENŢĂ nr. 198 din 4 decembrie 2008; LEGEA nr. 93 din 21 mai 2010; LEGEA nr. 202 din 25 octombrie 2010; DECIZIA nr. 573 din 3 mai 2011.
+*) Textul republicat al codului a fost publicat în MONITORUL OFICIAL nr. 65 din 16 aprilie 1997. Aceasta este forma actualizată de S.C. "Centrul Teritorial de Calcul Electronic" S.A. Piatra Neamţ până la data de 14 iunie 2011, cu modificările şi completările aduse de: LEGEA nr. 143 din 26 iulie 2000; LEGEA nr. 197 din 13 noiembrie 2000; ORDONANŢA DE URGENŢĂ nr. 207 din 15 noiembrie 2000; ORDONANŢA DE URGENŢĂ nr. 10 din 11 ianuarie 2001; ORDONANŢA DE URGENŢĂ nr. 89 din 21 iunie 2001; LEGEA nr. 456 din 18 iulie 2001; LEGEA nr. 20 din 10 ianuarie 2002; LEGEA nr. 61 din 16 ianuarie 2002; LEGEA nr. 169 din 10 aprilie 2002; ORDONANŢA DE URGENŢĂ nr. 58 din 23 mai 2002; ORDONANŢA DE URGENŢĂ nr. 93 din 20 iunie 2002; ORDONANŢA DE URGENŢĂ nr. 143 din 24 octombrie 2002; ORDONANŢA DE URGENŢĂ nr. 109 din 16 noiembrie 2004; LEGEA nr. 85 din 7 aprilie 2005; LEGEA nr. 160 din 30 mai 2005; LEGEA nr. 247 din 19 iulie 2005; LEGEA nr. 278 din 4 iulie 2006; ORDONANŢA DE URGENŢĂ nr. 60 din 6 septembrie 2006; DECIZIA nr. 62 din 18 ianuarie 2007; LEGEA nr. 337 din 3 decembrie 2007; LEGEA nr. 58 din 19 martie 2008; ORDONANŢA DE URGENŢĂ nr. 198 din 4 decembrie 2008; LEGEA nr. 93 din 21 mai 2010; LEGEA nr. 202 din 25 octombrie 2010; DECIZIA nr. 573 din 3 mai 2011; DECIZIA nr. 8 din 18 octombrie 2010.
 **) Codul penal a fost publicat în B. Of., Partea I, nr. 79-79 bis din 21 iunie 1968; republicat B. Of., Partea I, nr. 55-56 din 23 aprilie 1973; republicat în M. Of., Partea I, nr. 65 din 16 aprilie 1997, în temeiul art. III din Legea nr. 140/1996, publicată în M. Of. al României, Partea I, nr. 289 din 14 noiembrie 1996.
 ***) Conform art. II din LEGEA nr. 278 din 4 iulie 2006, publicată în MONITORUL OFICIAL nr. 601 din 12 iulie 2006 expresia pedepse complimentare din cuprinsul Codului penal sau al altor acte normative în vigoare se înlocuieşte cu expresia pedepse complementare.
 ****) Conform art. VIII din LEGEA nr. 278 din 4 iulie 2006, publicată în MONITORUL OFICIAL nr. 601 din 12 iulie 2006 prezenta lege intră în vigoare la 30 de zile de la publicarea în Monitorul Oficial al României, Partea I, cu excepţia prevederilor privind persoana juridică, ce intră în vigoare la 90 de zile de la data publicării.
@@ -2108,7 +2108,7 @@ Insulta
 
 Articolul 205
 
-Abrogat.
+Abrogat**).
 ------------
 Alin. (1) al art. 205 a fost modificat de ORDONANŢA DE URGENŢĂ nr. 58 din 23 mai 2002, publicată în MONITORUL OFICIAL nr. 351 din 27 mai 2002.
 Art. 205 a fost abrogat de pct. 56 al art. I din LEGEA nr. 278 din 4 iulie 2006, publicată în MONITORUL OFICIAL nr. 601 din 12 iulie 2006*).
@@ -2116,22 +2116,13 @@ NOTA C.T.C.E. S.A. Piatra-Neamţ:
 *) Prin DECIZIA CURŢII CONSTITUŢIONALE nr. 62 din 18 ianuarie 2007, publicată în MONITORUL OFICIAL nr. 104 din 12 februarie 2007 a fost admisă excepţia de neconstituţionalitate ridicată cu privire la dispoziţiile art. I pct. 56 din Legea nr. 278/2006 pentru modificarea şi completarea Codului penal, precum şi pentru modificarea şi completarea altor legi, partea referitoare la abrogarea art. 205, 206 şi 207 din Codul penal, constatându-se ca acestea sunt neconstituţionale.
 Conform art. 147 din CONSTITUŢIA ROMÂNIEI republicată în MONITORUL OFICIAL nr. 767 din 31 octombrie 2003,
 dispoziţiile din legile şi ordonanţele în vigoare, precum şi cele din regulamente, constatate ca fiind neconstituţionale, îşi încetează efectele juridice la 45 de zile de la publicarea deciziei Curţii Constituţionale dacă, în acest interval, Parlamentul sau Guvernul, după caz, nu pun de acord prevederile neconstituţionale cu dispoziţiile Constituţiei. Pe durata acestui termen, dispoziţiile constatate ca fiind neconstituţionale sunt suspendate de drept.
-În consecinţă, abrogarea art. 205 este inaplicabilă începând cu data de 30 martie 2007, urmând ca art. 205 să se aplice în forma de dinainte de abrogare, respectiv:
-"Insulta
-
-Articolul 205
-
-(1) Atingerea adusă onoarei ori reputaţiei unei persoane prin cuvinte, prin gesturi sau prin orice alte mijloace, ori prin expunerea la batjocură, se pedepseşte cu amendă.
-(2) Aceeaşi pedeapsă se aplică şi în cazul când se atribuie unei persoane un defect, boală sau infirmitate care, chiar reale de-ar fi, nu ar trebui relevate.
-(3) Acţiunea penală se pune în mişcare la plângerea prealabilă a persoanei vătămate.
-(4) Împăcarea părţilor înlatură răspunderea penală.
-------------
-Alin. (1) al art. 205 a fost modificat de ORDONANŢA DE URGENŢĂ nr. 58 din 23 mai 2002, publicată în MONITORUL OFICIAL nr. 351 din 27 mai 2002."
+**) Prin DECIZIA ÎNALTEI CURŢI DE CASAŢIE ŞI JUSTIŢIE - SECŢIILE UNITE - nr. 8 din 18 octombrie 2010, publicată în MONITORUL OFICIAL nr. 416 din 14 iunie 2011, a fost admis recursul în interesul legii declarat de procurorul general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie şi sesizarea Colegiului de conducere al Parchetului de pe lângă Curtea de Apel Bucureşti, în sensul că:
+Normele de incriminare a insultei şi calomniei cuprinse în art. 205 şi 206 din Codul penal, precum şi prevederile art. 207 din Codul penal privind proba verităţii, abrogate prin dispoziţiile art. I pct. 56 din Legea nr. 278/2006, dispoziţii declarate neconstituţionale prin Decizia nr. 62 din 18 ianuarie 2007 a Curţii Constituţionale, nu sunt în vigoare.
 Calomnia
 
 Articolul 206
 
-Abrogat.
+Abrogat**).
 ------------
 Alin. (1) al art. 206 a fost modificat de ORDONANŢA DE URGENŢĂ nr. 58 din 23 mai 2002, publicată în MONITORUL OFICIAL nr. 351 din 27 mai 2002.
 Alin. (1) al art. 206 a fost modificat de pct. 1 al articolului unic din LEGEA nr. 160 din 30 mai 2005, publicată în MONITORUL OFICIAL nr. 470 din 2 iunie 2005.
@@ -2140,34 +2131,21 @@ NOTA C.T.C.E. S.A. Piatra-Neamţ:
 *) Prin DECIZIA CURŢII CONSTITUŢIONALE nr. 62 din 18 ianuarie 2007, publicată în MONITORUL OFICIAL nr. 104 din 12 februarie 2007 a fost admisă excepţia de neconstituţionalitate ridicată cu privire la dispoziţiile art. I pct. 56 din Legea nr. 278/2006 pentru modificarea şi completarea Codului penal, precum şi pentru modificarea şi completarea altor legi, partea referitoare la abrogarea art. 205, 206 şi 207 din Codul penal, constatându-se că acestea sunt neconstituţionale.
 Conform art. 147 din CONSTITUŢIA ROMÂNIEI republicată în MONITORUL OFICIAL nr. 767 din 31 octombrie 2003,
 dispoziţiile din legile şi ordonanţele în vigoare, precum şi cele din regulamente, constatate ca fiind neconstituţionale, îşi încetează efectele juridice la 45 de zile de la publicarea deciziei Curţii Constituţionale dacă, în acest interval, Parlamentul sau Guvernul, după caz, nu pun de acord prevederile neconstituţionale cu dispoziţiile Constituţiei. Pe durata acestui termen, dispoziţiile constatate ca fiind neconstituţionale sunt suspendate de drept.
-În consecinţă, abrogarea art. 206 este inaplicabilă începând cu data de 30 martie 2007, urmând ca art. 206 să se aplice în forma de dinainte de abrogare, respectiv:
-"Calomnia
-
-Articolul 206
-
-(1) Afirmarea sau imputarea în public, prin orice mijloace, a unei fapte determinate privitoare la o persoană, care, dacă ar fi adevarată, ar expune acea persoană la o sancţiune penală, administrativă sau disciplinară, ori dispreţului public, se pedepseşte cu amendă de la 2.500.000 lei la 130.000.000 lei.
-(2) Acţiunea penală se pune în mişcare la plângerea prealabilă a persoanei vătămate.
-(3) Împăcarea părţilor înlătură răspunderea penală.
-------------
-Alin. (1) al art. 206 a fost modificat de ORDONANŢA DE URGENŢĂ nr. 58 din 23 mai 2002, publicată în MONITORUL OFICIAL nr. 351 din 27 mai 2002.
-Alin. (1) al art. 206 a fost modificat de pct. 1 al articolului unic din LEGEA nr. 160 din 30 mai 2005, publicată în MONITORUL OFICIAL nr. 470 din 2 iunie 2005."
+**) Prin DECIZIA ÎNALTEI CURŢI DE CASAŢIE ŞI JUSTIŢIE - SECŢIILE UNITE - nr. 8 din 18 octombrie 2010, publicată în MONITORUL OFICIAL nr. 416 din 14 iunie 2011, a fost admis recursul în interesul legii declarat de procurorul general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie şi sesizarea Colegiului de conducere al Parchetului de pe lângă Curtea de Apel Bucureşti, în sensul că:
+Normele de incriminare a insultei şi calomniei cuprinse în art. 205 şi 206 din Codul penal, precum şi prevederile art. 207 din Codul penal privind proba verităţii, abrogate prin dispoziţiile art. I pct. 56 din Legea nr. 278/2006, dispoziţii declarate neconstituţionale prin Decizia nr. 62 din 18 ianuarie 2007 a Curţii Constituţionale, nu sunt în vigoare.
 Proba verităţii
 
 Articolul 207
 
-Abrogat.
+Abrogat**).
 ------------
 Art. 207 a fost abrogat de pct. 56 al art. I din LEGEA nr. 278 din 4 iulie 2006, publicată în MONITORUL OFICIAL nr. 601 din 12 iulie 2006.
 NOTA C.T.C.E. S.A. Piatra-Neamţ:
 *) Prin DECIZIA CURŢII CONSTITUŢIONALE nr. 62 din 18 ianuarie 2007, publicată în MONITORUL OFICIAL nr. 104 din 12 februarie 2007 a fost admisă excepţia de neconstituţionalitate ridicată cu privire la dispoziţiile art. I pct. 56 din Legea nr. 278/2006 pentru modificarea şi completarea Codului penal, precum şi pentru modificarea şi completarea altor legi, partea referitoare la abrogarea art. 205, 206 şi 207 din Codul penal, constatându-se că acestea sunt neconstituţionale.
 Conform art. 147 din CONSTITUŢIA ROMÂNIEI republicată în MONITORUL OFICIAL nr. 767 din 31 octombrie 2003,
 dispoziţiile din legile şi ordonanţele în vigoare, precum şi cele din regulamente, constatate ca fiind neconstituţionale, îşi încetează efectele juridice la 45 de zile de la publicarea deciziei Curţii Constituţionale dacă, în acest interval, Parlamentul sau Guvernul, după caz, nu pun de acord prevederile neconstiţutionale cu dispoziţiile Constituţiei. Pe durata acestui termen, dispoziţiile constatate ca fiind neconstituţionale sunt suspendate de drept.
-În consecinţă, abrogarea art. 207 este inaplicabilă începând cu data de 30 martie 2007, urmând ca art. 207 să se aplice în forma de dinainte de abrogare, respectiv:
-"Proba verităţii
-
-Articolul 207
-
-Proba verităţii celor afirmate sau imputate este admisibilă, dacă afirmarea sau imputarea a fost săvârşită pentru apărarea unui interes legitim. Fapta cu privire la care s-a facut proba verităţii nu constituie infracţiunea de insultă sau calomnie."
+**) Prin DECIZIA ÎNALTEI CURŢI DE CASAŢIE ŞI JUSTIŢIE - SECŢIILE UNITE - nr. 8 din 18 octombrie 2010, publicată în MONITORUL OFICIAL nr. 416 din 14 iunie 2011, a fost admis recursul în interesul legii declarat de procurorul general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie şi sesizarea Colegiului de conducere al Parchetului de pe lângă Curtea de Apel Bucureşti, în sensul că:
+Normele de incriminare a insultei şi calomniei cuprinse în art. 205 şi 206 din Codul penal, precum şi prevederile art. 207 din Codul penal privind proba verităţii, abrogate prin dispoziţiile art. I pct. 56 din Legea nr. 278/2006, dispoziţii declarate neconstituţionale prin Decizia nr. 62 din 18 ianuarie 2007 a Curţii Constituţionale, nu sunt în vigoare.
 
 Titlul III INFRACŢIUNI CONTRA PATRIMONIULUI
 

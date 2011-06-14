@@ -620,6 +620,8 @@
   - original
   - cleaned (autoformated) branches for easy tracking of important changes
   - consolidated (manually cleaned from cleaned branch)
+  - current (master branch)
+  - proposals (proposals made by parlament, government, ICCJ)
 - autoformat should for example
   - replace Art. with Articol
   - a line before and after articol
