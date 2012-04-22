@@ -631,7 +631,9 @@
 - category to show that laws are replacing and continue other ones. For example:
   - codul penal roman are 4 versiuni total diferite: Cuza(1864) -> Carol 2(1936) -> Comunism(1969) -> Modern(2009) dar exista si schimbari minore intre aceste schimbari majore.
 - change letters
-  - lowercase - ţ => ţ
+  - special chars
+    - ţ => ţ
+    - Ș -> Ş
   - (\n\r)+ => \n
   - (\n)+ => \n
   - ^Articolul (\d+) => \nArticolul \1\n

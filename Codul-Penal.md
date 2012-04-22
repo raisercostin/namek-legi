@@ -1,6 +1,6 @@
 source:
-  html: http://legislatie.just.ro/Public/DetaliiDocument/136377
-  print: http://legislatie.just.ro/Public/FormaPrintabila/00000G32CYPQ213H9TA3AZBV9ZL7SB0X
+  html: http://legislatie.just.ro/Public/DetaliiDocument/137244
+  print: http://legislatie.just.ro/Public/FormaPrintabila/00000G2HSPG7J27JDK90H7BG0DRXGG4M
 
 details
   - http://www.cdep.ro/pls/legis/legis_pck.htp_act?ida=32756 (LEGE nr.15 din 21 iunie 1968 Codul Penal al României)
@@ -10,15 +10,17 @@ details
 
 ---
 CODUL PENAL din 21 iunie 1968 (**republicat**)(*actualizat*)
-(actualizat până la data de 23 martie 2012*)
+(actualizat până la data de 22 aprilie 2012*)
 EMITENT	
 PARLAMENTUL
+raisercostin fixed formatting to be compatible with previolus version from 23 martie 2012
 
 
 
 
 -----------
-*) Forma actualizată a codului până la data de 23 martie 2012 este realizată de către Departamentul juridic din cadrul S.C. "Centrul Teritorial de Calcul Electronic" S.A. Piatra-Neamţ prin includerea tuturor modificărilor şi completărilor aduse de către LEGEA nr. 143 din 26 iulie 2000; LEGEA nr. 197 din 13 noiembrie 2000; ORDONANŢA DE URGENŢĂ nr. 207 din 15 noiembrie 2000; ORDONANŢA DE URGENŢĂ nr. 10 din 11 ianuarie 2001; ORDONANŢA DE URGENŢĂ nr. 89 din 21 iunie 2001; LEGEA nr. 456 din 18 iulie 2001; LEGEA nr. 20 din 10 ianuarie 2002; LEGEA nr. 61 din 16 ianuarie 2002; LEGEA nr. 169 din 10 aprilie 2002; ORDONANŢA DE URGENŢĂ nr. 58 din 23 mai 2002; ORDONANŢA DE URGENŢĂ nr. 93 din 20 iunie 2002; ORDONANŢA DE URGENŢĂ nr. 143 din 24 octombrie 2002; ORDONANŢA DE URGENŢĂ nr. 109 din 16 noiembrie 2004; LEGEA nr. 85 din 7 aprilie 2005; LEGEA nr. 160 din 30 mai 2005; LEGEA nr. 247 din 19 iulie 2005; LEGEA nr. 278 din 4 iulie 2006; ORDONANŢA DE URGENŢĂ nr. 60 din 6 septembrie 2006; DECIZIA nr. 62 din 18 ianuarie 2007; LEGEA nr. 337 din 3 decembrie 2007; LEGEA nr. 58 din 19 martie 2008; ORDONANŢA DE URGENŢĂ nr. 198 din 4 decembrie 2008; LEGEA nr. 93 din 21 mai 2010; LEGEA nr. 202 din 25 octombrie 2010; DECIZIA nr. 573 din 3 mai 2011; DECIZIA nr. 8 din 18 octombrie 2010; LEGEA nr. 27 din 16 martie 2012.
+*) Forma actualizată a codului până la data de 23 martie 2012 este realizată de către Departamentul juridic din cadrul S.C. "Centrul Teritorial de Calcul Electronic" S.A. Piatra-Neamţ prin includerea tuturor modificărilor şi completărilor aduse de către LEGEA nr. 143 din 26 iulie 2000; LEGEA nr. 197 din 13 noiembrie 2000; ORDONANŢA DE URGENŢĂ nr. 207 din 15 noiembrie 2000; ORDONANŢA DE URGENŢĂ nr. 10 din 11 ianuarie 2001; ORDONANŢA DE URGENŢĂ nr. 89 din 21 iunie 2001; LEGEA nr. 456 din 18 iulie 2001; LEGEA nr. 20 din 10 ianuarie 2002; LEGEA nr. 61 din 16 ianuarie 2002; LEGEA nr. 169 din 10 aprilie 2002; ORDONANŢA DE URGENŢĂ nr. 58 din 23 mai 2002; ORDONANŢA DE URGENŢĂ nr. 93 din 20 iunie 2002; ORDONANŢA DE URGENŢĂ nr. 143 din 24 octombrie 2002; ORDONANŢA DE URGENŢĂ nr. 109 din 16 noiembrie 2004; LEGEA nr. 85 din 7 aprilie 2005; LEGEA nr. 160 din 30 mai 2005; LEGEA nr. 247 din 19 iulie 2005; LEGEA nr. 278 din 4 iulie 2006; ORDONANŢA DE URGENŢĂ nr. 60 din 6 septembrie 2006; DECIZIA nr. 62 din 18 ianuarie 2007; LEGEA nr. 337 din 3 decembrie 2007; LEGEA nr. 58 din 19 martie 2008; ORDONANŢA DE URGENŢĂ nr. 198 din 4 decembrie 2008; LEGEA nr. 93 din 21 mai 2010; LEGEA nr. 202 din 25 octombrie 2010; DECIZIA nr. 573 din 3 mai 2011; DECIZIA nr. 8 din 18 octombrie 2010; LEGEA nr. 27 din 16 martie 2012; LEGEA nr. 63 din 17 aprilie 2012 
+(http://legislatie.just.ro/Public/DetaliiDocument/137234).
 Conţinutul acestui act aparţine exclusiv S.C. Centrul Teritorial de Calcul Electronic S.A. Piatra-Neamţ şi nu este un document cu caracter oficial, fiind destinat pentru informarea utilizatorilor.
 **) Codul penal a fost publicat în B. Of., Partea I, nr. 79-79 bis din 21 iunie 1968; republicat B. Of., Partea I, nr. 55-56 din 23 aprilie 1973; republicat în M. Of., Partea I, nr. 65 din 16 aprilie 1997, în temeiul art. III din Legea nr. 140/1996, publicată în M. Of. al României, Partea I, nr. 289 din 14 noiembrie 1996.
 ***) Conform art. II din LEGEA nr. 278 din 4 iulie 2006, publicată în MONITORUL OFICIAL nr. 601 din 12 iulie 2006 expresia pedepse complimentare din cuprinsul Codului penal sau al altor acte normative în vigoare se înlocuieşte cu expresia pedepse complementare.
@@ -1284,8 +1286,10 @@ d) interzicerea de a se afla în anumite localităţi;
 e) expulzarea străinilor;
 f) confiscarea specială.
 g) interdicţia de a reveni în locuinţa familiei pe o perioadă determinată.*)
+h) confiscarea extinsă.
 -------------
 *) Lit. g) a art. 112 a fost introdusă prin Legea nr. 197/2000.
+Lit. h) a art. 112 a fost introdusă de pct. 1 al art. I din LEGEA nr. 63 din 17 aprilie 2012, publicată în MONITORUL OFICIAL nr. 258 din 19 aprilie 2012.
 
 Capitolul II REGIMUL MĂSURILOR DE SIGURANŢĂ
 
@@ -1351,6 +1355,46 @@ Articolul 118^1
 Când persoana condamnată la pedeapsa închisorii de cel puţin un an pentru loviri sau orice alte acte de violenţă cauzatoare de suferinţe fizice şi psihice, săvârşite asupra membrilor familiei, dacă instanţa constată că prezenţa acesteia în locuinţa familiei constituie un pericol grav pentru ceilalţi membri ai familiei, poate lua faţă de această persoana măsura interzicerii de a reveni în locuinţa familiei, la cererea părţii vătămate. Această măsura poate fi luată pe o durată de până la 2 ani.*)
 -------------
 *) Art. 118^1 a fost introdus, cu acest conţinut, prin Legea nr. 197/2000.
+Confiscarea extinsă
+
+Articolul 118^2
+
+Sunt supuse confiscării şi alte bunuri decât cele menţionate la art. 118, în cazul în care persoana este condamnată pentru comiterea uneia dintre următoarele infracţiuni, dacă fapta este susceptibilă să îi procure un folos material şi pedeapsa prevăzută de lege este închisoarea de 5 ani sau mai mare:
+a) proxenetism;
+b) infracţiuni privind traficul de droguri şi de precursori;
+c) infracţiuni privind traficul de persoane;
+d) infracţiuni la regimul frontierei de stat a României;
+e) infracţiunea de spălare a banilor;
+f) infracţiuni din legislaţia privind prevenirea şi combaterea pornografiei;
+g) infracţiuni din legislaţia privind prevenirea şi combaterea terorismului;
+h) asocierea pentru săvârşirea de infracţiuni;
+i) infracţiunea de iniţiere sau constituire a unui grup infracţional organizat ori de aderare sau sprijinire sub orice formă a unui astfel de grup;
+j) infracţiuni contra patrimoniului;
+k) infracţiuni privitoare la nerespectarea regimului armelor şi muniţiilor, materialelor nucleare sau al altor materii radioactive şi materiilor explozive;
+l) falsificarea de monedă sau alte valori;
+m) divulgarea secretului economic, concurenţa neloială, nerespectarea dispoziţiilor privind operaţiile de import sau export, deturnarea de fonduri, nerespectarea dispoziţiilor privind importul de deşeuri şi reziduuri;
+n) infracţiuni privind organizarea şi exploatarea jocurilor de noroc;
+o) trafic de migranţi;
+p) infracţiuni de corupţie, infracţiuni asimilate infracţiunilor de corupţie, infracţiuni în legătură cu infracţiunile de corupţie, infracţiuni împotriva intereselor financiare ale Uniunii Europene;
+q) infracţiuni de evaziune fiscală;
+r) infracţiuni privind regimul vamal;
+s) infracţiunea de bancrută frauduloasă;
+ş) infracţiuni săvârşite prin intermediul sistemelor informatice şi almijloacelor de plată electronice;
+t) traficul de organe, ţesuturi sau celule de origine umană.
+Confiscarea extinsă se dispune dacă sunt îndeplinite cumulativ următoarele condiţii:
+a) valoarea bunurilor dobândite de persoana condamnată, într-o perioadă de 5 ani înainte şi, dacă este cazul, după momentul săvârşirii infracţiunii, până la data emiterii actului de sesizare a instanţei, depăşeşte în mod vădit veniturile obţinute de aceasta în mod licit;
+b) instanţa are convingerea că bunurile respective provin din activităţi infracţionale de natura celor prevăzute la alin. 1.
+Pentru aplicarea dispoziţiilor alin. 2 se ţine seama şi de valoarea bunurilor transferate de către persoana condamnată sau de un terţ unui membru de familie, persoanelor cu care persoana condamnată a stabilit relaţii asemănătoare acelora dintre soţi ori dintre părinţi şi copii, în cazul în care convieţuiesc cu acesta, persoanelor juridice asupra cărora persoana condamnată deţine controlul.
+Prin bunuri, conform prezentului articol, se înţelege şi sumele de bani.
+La stabilirea diferenţei dintre veniturile licite şi valoarea bunurilor dobândite se vor avea în vedere valoarea bunurilor la data dobândirii lor şi cheltuielile făcute de persoana condamnată, persoanele prevăzute la alin. 3.
+Dacă bunurile supuse confiscării nu se găsesc, în locul lor se confiscă bani şi bunuri până la concurenţa valorii acestora.
+Se confiscă, de asemenea, bunurile şi banii obţinuţi din exploatarea sau folosirea bunurilor supuse confiscării.
+Confiscarea nu poate depăşi valoarea bunurilor dobândite în perioada prevăzută la alin. 2, care excedează nivelului veniturilor licite ale persoanei condamnate.
+---------
+Art. 118^2 a fost introdus de pct. 2 al art. I din LEGEA nr. 63 din 17 aprilie 2012, publicată în MONITORUL OFICIAL nr. 258 din 19 aprilie 2012.
+Notă 
+Prin Decizia Curţii Constituţionale nr. 78 din 11 februarie 2014, publicată în MONITORUL OFICIAL nr. 273 din 14 aprilie 2014, s-a admis excepţia de neconstituţionalitate cu privire la prevederile art. 118^2 alin. 2 lit. a) din Codul penal din 1969, acestea fiind constituţionale în măsura în care permit aplicarea legii penale mai favorabile.
+
 
 Titlul VII CAUZELE CARE ÎNLĂTURA RĂSPUNDEREA PENALĂ SAU CONSECINŢELE CONDAMNARII
 
@@ -1417,7 +1461,9 @@ Prescripţia specială
 
 Articolul 124
 
-Prescripţia înlatură răspunderea penală oricâte întreruperi ar interveni, dacă termenul de prescripţie prevăzut în art. 122 este depăşit cu încă jumătate.
+Prescripţia înlatură răspunderea penală oricâte întreruperi ar interveni, dacă termenul de prescripţie prevăzut la art. 122 este depăşit cu încă o dată.
+--------------
+Art. 124 a fost modificat de pct. 3 al art. I din LEGEA nr. 63 din 17 aprilie 2012, publicată în MONITORUL OFICIAL nr. 258 din 19 aprilie 2012.
 Prescriptia executării pedepsei
 
 Articolul 125
@@ -2249,7 +2295,10 @@ Articolul 214
 
 Pricinuirea de pagube unei persoane, cu rea-credinţă, cu ocazia administrării sau conservării bunurilor acesteia, de către cel care are ori trebuie să aibă grija administrării sau conservării acelor bunuri, se pedepseşte cu închisoare de la 6 luni la 5 ani.
 Gestiunea frauduloasă săvârşită în scopul de a dobândi un folos material se pedepseşte cu închisoare de la 3 la 10 ani, dacă fapta nu constituie o infracţiune mai gravă.
-Dacă bunul este proprietate privată, cu excepţia cazului când acesta este în intregime sau în parte proprietatea statului, acţiunea penală pentru fapta prevăzută în alin. 1 se pune în mişcare la plângerea prealabilă a persoanei vătămate.
+Dacă bunul este proprietate privată, cu excepţia cazului când acesta este în intregime sau în parte proprietatea statului*), acţiunea penală pentru fapta prevăzută în alin. 1 se pune în mişcare la plângerea prealabilă a persoanei vătămate.
+Notă 
+Prin Decizia Curţii Constituţionale nr. 5 din 4 februarie 1999, publicată în MONITORUL OFICIAL nr. 95 din 5 martie 1999, s-a admis excepţia de neconstituţionalitate cu privire la dispoziţia "cu excepţia cazului când acesta este în intregime sau în parte al statului" prevăzută la art. 214 alin. 3 din Codul penal, constatându-se că aceasta este neconstituţională.
+
 Înşelăciunea
 
 Articolul 215
@@ -2474,6 +2523,9 @@ Abuzul în serviciu contra intereselor persoanelor
 Articolul 246
 
 Fapta funcţionarului public, care, în exerciţiul atribuţiilor sale de serviciu, cu ştiinţă, nu îndeplineşte un act ori îl îndeplineşte în mod defectuos şi prin aceasta cauzează o vătămare intereselor legale ale unei persoane se pedepseşte cu închisoare de la 6 luni la 3 ani.
+Notă 
+Prin Decizia Curţii Constituţionale nr. 405 din 15 iunie 2016, publicată în MONITORUL OFICIAL nr. 517 din 8 iulie 2016, s-a admis excepţia de neconstituţionalitate cu privire la dispoziţiile art. 246 din Codul penal din 1969 şi ale art . 297 alin. (1) din Codul penal, acestea fiind constituţionale în măsura în care prin sintagma "îndeplineşte în mod defectuos" din cuprinsul acestora se înţelege "îndeplineşte prin încălcarea legii".
+
 Abuzul în serviciu prin îngrădirea unor drepturi
 
 Articolul 247
