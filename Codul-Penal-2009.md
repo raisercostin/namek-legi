@@ -1,124 +1,146 @@
 source:
-  html: http://legislatie.just.ro/Public/DetaliiDocument/136456?isFormaDeBaza=True&rep=True
-  print: http://legislatie.just.ro/Public/FormaPrintabila/00000G2FPT4BE4JP7UX276QC5GK0B0EN
-
-details
-  - http://www.cdep.ro/pls/legis/legis_pck.htp_act?ida=32756 (LEGE nr.15 din 21 iunie 1968 Codul Penal al României)
-  - http://www.cdep.ro/pls/legis/legis_pck.htp_act_text?idt=31092 (textul republicat in aprilie 1997)
-  - http://www.cdep.ro/pls/legis/legis_pck.htp_act?ida=8679
-  - http://www.cdep.ro/pls/legis/legis_pck.htp_act?ida=11472
+  html: http://legislatie.just.ro/Public/DetaliiDocument/136456
+  print: http://legislatie.just.ro/Public/FormaPrintabila/00000G2NTE3VWK8HX4628NJUZ5TM98XL
 
 ---
-CODUL PENAL din 17 iulie 2009
+CODUL PENAL din 17 iulie 2009 (*actualizat*)
 (LEGEA nr. 286)
+(actualizat până la data 1 ianuarie 2013*)
 EMITENT	
 PARLAMENTUL
-Publicat în  MONITORUL OFICIAL nr. 510 din 24 iulie 2009
 
 
+
+
+------------
+
+PARTEA GENERALĂ
+      Titlul I - Legea penală şi limitele ei de aplicare          art. 1-14
+    Capitolul I - Principii generale                              art. 1-2
+    Capitolul II - Aplicarea legii penale                         art. 3-14
+     Secţiunea 1 - Aplicarea legii penale în timp                 art. 3-7
+     Secţiunea a 2-a - Aplicarea legii penale în spaţiu           art. 8-14
+      Titlul II - Infracţiunea                                    art. 15-52
+    Capitolul I - Dispoziţii generale                             art. 15-17
+    Capitolul II - Cauzele justificative                          art. 18-22
+    Capitolul III - Cauzele de neimputabilitate                   art. 23-31
+    Capitolul IV - Tentativa                                      art. 32-34
+    Capitolul V - Unitatea şi pluralitatea de infracţiuni         art. 35-45
+    Capitolul VI - Autorul şi participanţii                       art. 46-52
+      Titlul III - Pedepsele                                      art. 53-106
+    Capitolul I - Categoriile pedepselor                          art. 53-55
+    Capitolul II - Pedepsele principale                           art. 56-64
+     Secţiunea 1 - Detenţiunea pe viaţă                           art. 56-59
+     Secţiunea a 2-a - Închisoarea                                art. 60
+     Secţiunea a 3-a - Amenda                                     art. 61-64
+    Capitolul III - Pedeapsa accesorie şi pedepsele complementare art. 65-70
+     Secţiunea 1 - Pedeapsa accesorie                             art. 65
+     Secţiunea a 2-a - Pedepsele complementare                    art. 66-70
+    Capitolul IV - Calculul duratei pedepselor                    art. 71-73
+    Capitolul V - Individualizarea pedepselor                     art. 74-106
+     Secţiunea 1 - Dispoziţii generale                            art. 74
+     Secţiunea a 2-a - Circumstanţele atenuante şi
+                        circumstanţele agravante                  art. 75-79
+     Secţiunea a 3-a - Renunţarea la aplicarea pedepsei           art. 80-82
+     Secţiunea a 4-a - Amânarea aplicării pedepsei                art. 83-90
+     Secţiunea a 5-a - Suspendarea executării pedepsei
+                       sub supraveghere                           art. 91-98
+     Secţiunea a 6-a - Liberarea condiţionată                     art. 99-106
+      Titlul IV - Măsurile de siguranţă                           art. 107-112
+    Capitolul I - Dispoziţii generale                             art. 107-108
+    Capitolul II - Regimul măsurilor de siguranţă                 art. 109-112
+      Titlul V - Minoritatea                                      art. 113-134
+    Capitolul I - Regimul răspunderii penale a minorului          art. 113-116
+    Capitolul II - Regimul măsurilor educative neprivative
+                   de libertate                                   art. 117-123
+    Capitolul III - Regimul măsurilor educative privative
+                    de libertate                                  art. 124-127
+    Capitolul IV - Dispoziţii comune                              art. 128-134
+      Titlul VI - Răspunderea penală a persoanei juridice         art. 135-151
+    Capitolul I - Dispoziţii generale                             art. 135-137
+    Capitolul II - Regimul pedepselor complementare aplicate
+                   persoanei juridice                             art. 138-145
+    Capitolul III - Dispoziţii comune                             art. 146-151
+      Titlul VII - Cauzele care înlătură răspunderea penală       art. 152-159
+      Titlul VIII - Cauzele care înlătură sau modifică
+                    executarea pedepsei                           art. 160-164
+      Titlul IX - Cauzele care înlătură consecinţele condamnării  art. 165-171
+      Titlul X - Înţelesul unor termeni sau expresii în
+                  legea penală                                    art. 172-187
+    PARTEA SPECIALĂ
+      Titlul I - Infracţiuni contra persoanei                     art. 188-227
+    Capitolul I - Infracţiuni contra vieţii                       art. 188-192
+    Capitolul II - Infracţiuni contra integrităţii corporale
+                   sau sănătăţii                                  art. 193-198
+    Capitolul III - Infracţiuni săvârşite asupra unui membru
+                    de familie                                    art. 199-200
+    Capitolul IV - Agresiuni asupra fătului                       art. 201-202
+    Capitolul V - Infracţiuni privind obligaţia de asistenţă
+                  a celor în primejdie                            art. 203-204
+    Capitolul VI - Infracţiuni contra libertăţii persoanei        art. 205-208
+    Capitolul VII - Traficul şi exploatarea persoanelor
+                    vulnerabile                                   art. 209-217
+    Capitolul VIII - Infracţiuni contra libertăţii şi
+                     integrităţii sexuale                         art. 218-223
+    Capitolul IX - Infracţiuni ce aduc atingere domiciliului
+                   şi vieţii private                              art. 224-227
+      Titlul II - Infracţiuni contra patrimoniului                art. 228-256
+    Capitolul I - Furtul                                          art. 228-232
+    Capitolul II - Tâlhăria şi pirateria                          art. 233-237
+    Capitolul III - Infracţiuni contra patrimoniului prin
+                    nesocotirea încrederii                        art. 238-248
+    Capitolul IV - Fraude comise prin sisteme informatice şi
+                   mijloace de plată electronice                  art. 249-252
+    Capitolul V - Distrugerea şi tulburarea de posesie            art. 253-256
+      Titlul III - Infracţiuni privind autoritatea şi
+                   frontiera de stat                              art. 257-265
+    Capitolul I - Infracţiuni contra autorităţii                  art. 257-261
+    Capitolul II - Infracţiuni privind frontiera de stat          art. 262-265
+      Titlul IV - Infracţiuni contra înfăptuirii justiţiei        art. 266-288
+      Titlul V - Infracţiuni de corupţie şi de serviciu           art. 289-309
+    Capitolul I - Infracţiuni de corupţie                         art. 289-294
+    Capitolul II - Infracţiuni de serviciu                        art. 295-309
+      Titlul VI - Infracţiuni de fals                             art. 310-328
+    Capitolul I - Falsificarea de monede, timbre sau de
+                  alte valori                                     art. 310-316
+    Capitolul II - Falsificarea instrumentelor de autentificare
+                   sau de marcare                                 art. 317-319
+    Capitolul III - Falsuri în înscrisuri                         art. 320-328
+      Titlul VII - Infracţiuni contra siguranţei publice          art. 329-366
+    Capitolul I - Infracţiuni contra siguranţei circulaţiei
+                   pe căile ferate                                art. 329-333
+    Capitolul II - Infracţiuni contra siguranţei circulaţiei
+                   pe drumurile publice                           art. 334-341
+    Capitolul III - Nerespectarea regimului armelor, muniţiilor,
+                    materialelor nucleare şi al materiilor
+                   explozive                                      art. 342-347
+    Capitolul IV - Infracţiuni privitoare la regimul stabilit
+                    pentru alte activităţi reglementate de lege   art. 348-351
+    Capitolul V - Infracţiuni contra sănătăţii publice            art. 352-359
+    Capitolul VI - Infracţiuni contra siguranţei şi integrităţii
+                   sistemelor şi datelor informatice              art. 360-366
+      Titlul VIII - Infracţiuni care aduc atingere unor relaţii
+                    privind convieţuirea socială                  art. 367-384
+    Capitolul I - Infracţiuni contra ordinii şi liniştii publice  art. 367-375
+    Capitolul II - Infracţiuni contra familiei                    art. 376-380
+    Capitolul III - Infracţiuni contra libertăţii religioase şi
+                    respectului datorat persoanelor decedate      art. 381-384
+      Titlul IX - Infracţiuni electorale                          art. 385-393
+      Titlul X - Infracţiuni contra securităţii naţionale         art. 394-412
+      Titlul XI - Infracţiuni contra capacităţii de luptă
+                  a forţelor armate                               art. 413-437
+    Capitolul I - Infracţiuni săvârşite de militari               art. 413-431
+    Capitolul II - Infracţiuni săvârşite de militari
+                   sau de civili                                  art. 432-437
+      Titlul XII - Infracţiuni de genocid, contra umanităţii
+                   şi de război                                   art. 438-445
+    Capitolul I - Infracţiuni de genocid şi contra umanităţii     art. 438-439
+    Capitolul II - Infracţiuni de război                          art. 440-445
+      Titlul XIII - Dispoziţii finale                             art. 446
 
 
 Partea GENERALĂ
- 	 	 
- 	Titlul I - Legea penală şi limitele ei de aplicare	art. 1-14
- 	Capitolul I - Principii generale	art. 1-2
- 	Capitolul II - Aplicarea legii penale	art. 3-14
- 	Secţiunea 1 - Aplicarea legii penale în timp	art. 3-7
- 	Secţiunea a 2-a - Aplicarea legii penale în spaţiu	art. 8-14
- 	Titlul II - Infracţiunea	art. 15-52
- 	Capitolul I - Dispoziţii generale	art. 15-17
- 	Capitolul II - Cauzele justificative	art. 18-22
- 	Capitolul III - Cauzele de neimputabilitate	art. 23-31
- 	Capitolul IV - Tentativa	art. 32-34
- 	Capitolul V - Unitatea şi pluralitatea de infracţiuni	art. 35-45
- 	Capitolul VI - Autorul şi participanţii	art. 46-52
- 	Titlul III - Pedepsele	art. 53-106
- 	Capitolul I - Categoriile pedepselor	art. 53-55
- 	Capitolul II - Pedepsele principale	art. 56-64
- 	Secţiunea 1 - Detenţiunea pe viaţă	art. 56-59
- 	Secţiunea a 2-a - Închisoarea	art. 60
- 	Secţiunea a 3-a - Amenda	art. 61-64
- 	Capitolul III - Pedeapsa accesorie şi pedepsele complementare	art. 65-70
- 	Secţiunea 1 - Pedeapsa accesorie	art. 65
- 	Secţiunea a 2-a - Pedepsele complementare	art. 66-70
- 	Capitolul IV - Calculul duratei pedepselor	art. 71-73
- 	Capitolul V - Individualizarea pedepselor	art. 74-106
- 	Secţiunea 1 - Dispoziţii generale	art. 74
- 	Secţiunea a 2-a - Circumstanţele atenuante şi circumstanţele agravante	art. 75-79
- 	Secţiunea a 3-a - Renunţarea la aplicarea pedepsei	art. 80-82
- 	Secţiunea a 4-a - Amânarea aplicării pedepsei	art. 83-90
- 	Secţiunea a 5-a - Suspendarea executării pedepsei sub supraveghere	art. 91-98
- 	Secţiunea a 6-a - Liberarea condiţionată	art. 99-106
- 	Titlul IV - Măsurile de siguranţă	art. 107-112
- 	Capitolul I - Dispoziţii generale	art. 107-108
- 	Capitolul II - Regimul măsurilor de siguranţă	art. 109-112
- 	Titlul V - Minoritatea	art. 113-134
- 	Capitolul I - Regimul răspunderii penale a minorului	art. 113-116
- 	Capitolul II - Regimul măsurilor educative neprivative de libertate	art. 117-123
- 	Capitolul III - Regimul măsurilor educative privative de libertate	art. 124-127
- 	Capitolul IV - Dispoziţii comune	art. 128-134
- 	Titlul VI - Răspunderea penală a persoanei juridice	art. 135-151
- 	Capitolul I - Dispoziţii generale	art. 135-137
- 	Capitolul II - Regimul pedepselor complementare aplicate persoanei juridice	art. 138-145
- 	Capitolul III - Dispoziţii comune	art. 146-151
- 	Titlul VII - Cauzele care înlătură răspunderea penală	art. 152-159
- 	Titlul VIII - Cauzele care înlătură sau modifică executarea pedepsei	art. 160-164
- 	Titlul IX - Cauzele care înlătură consecinţele condamnării	art. 165-171
- 	Titlul X - Înţelesul unor termeni sau expresii în legea penală	art. 172-187
 
-
-Partea SPECIALĂ
- 	 	 
- 	Titlul I - Infracţiuni contra persoanei	art. 188-227
- 	Capitolul I - Infracţiuni contra vieţii	art. 188-192
- 	Capitolul II - Infracţiuni contra integrităţii corporale sau sănătăţii	art. 193-198
- 	Capitolul III - Infracţiuni săvârşite asupra unui membru de familie	art. 199-200
- 	Capitolul IV - Agresiuni asupra fătului	art. 201-202
- 	Capitolul V - Infracţiuni privind obligaţia de asistenţă a celor în primejdie	art. 203-204
- 	Capitolul VI - Infracţiuni contra libertăţii persoanei	art. 205-208
- 	Capitolul VII - Traficul şi exploatarea persoanelor vulnerabile	art. 209-217
- 	Capitolul VIII - Infracţiuni contra libertăţii şi integrităţii sexuale	art. 218-223
- 	Capitolul IX - Infracţiuni ce aduc atingere domiciliului şi vieţii private	art. 224-227
- 	Titlul II - Infracţiuni contra patrimoniului	art. 228-256
- 	Capitolul I - Furtul	art. 228-232
- 	Capitolul II - Tâlhăria şi pirateria	art. 233-237
- 	Capitolul III - Infracţiuni contra patrimoniului prin nesocotirea încrederii	art. 238-248
- 	Capitolul IV - Fraude comise prin sisteme informatice şi mijloace de plată electronice	art. 249-252
- 	Capitolul V - Distrugerea şi tulburarea de posesie	art. 253-256
- 	Titlul III - Infracţiuni privind autoritatea şi frontiera de stat	art. 257-265
- 	Capitolul I - Infracţiuni contra autorităţii	art. 257-261
- 	Capitolul II - Infracţiuni privind frontiera de stat	art. 262-265
- 	Titlul IV - Infracţiuni contra înfăptuirii justiţiei	art. 266-288
- 	Titlul V - Infracţiuni de corupţie şi de serviciu	art. 289-309
- 	Capitolul I - Infracţiuni de corupţie	art. 289-294
- 	Capitolul II - Infracţiuni de serviciu	art. 295-309
- 	Titlul VI - Infracţiuni de fals	art. 310-328
- 	Capitolul I - Falsificarea de monede, timbre sau de alte valori	art. 310-316
- 	Capitolul II - Falsificarea instrumentelor de autentificare sau de marcare	art. 317-319
- 	Capitolul III - Falsuri în înscrisuri	art. 320-328
- 	Titlul VII - Infracţiuni contra siguranţei publice	art. 329-366
- 	Capitolul I - Infracţiuni contra siguranţei circulaţiei pe căile ferate	art. 329-333
- 	Capitolul II - Infracţiuni contra siguranţei circulaţiei pe drumurile publice	art. 334-341
- 	Capitolul III - Nerespectarea regimului armelor, muniţiilor, materialelor nucleare şi al materiilor explozive	art. 342-347
- 	Capitolul IV - Infracţiuni privitoare la regimul stabilit pentru alte activităţi reglementate de lege	art. 348-351
- 	Capitolul V - Infracţiuni contra sănătăţii publice	art. 352-359
- 	Capitolul VI - Infracţiuni contra siguranţei şi integrităţii sistemelor şi datelor informatice	art. 360-366
- 	Titlul VIII - Infracţiuni care aduc atingere unor relaţii privind convieţuirea socială	art. 367-384
- 	Capitolul I - Infracţiuni contra ordinii şi liniştii publice	art. 367-375
- 	Capitolul II - Infracţiuni contra familiei	art. 376-380
- 	Capitolul III - Infracţiuni contra libertăţii religioase şi respectului datorat persoanelor decedate	art. 381-384
- 	Titlul IX - Infracţiuni electorale	art. 385-393
- 	Titlul X - Infracţiuni contra securităţii naţionale	art. 394-412
- 	Titlul XI - Infracţiuni contra capacităţii de luptă a forţelor armate	art. 413-437
- 	Capitolul I - Infracţiuni săvârşite de militari	art. 413-431
- 	Capitolul II - Infracţiuni săvârşite de militari sau de civili	art. 432-437
- 	Titlul XII - Infracţiuni de genocid, contra umanităţii şi de război	art. 438-445
- 	Capitolul I - Infracţiuni de genocid şi contra umanităţii	art. 438-439
- 	Capitolul II - Infracţiuni de război	art. 440-445
- 	Titlul XIII - Dispoziţii finale	art. 446
-
-
-Partea PARTEA GENERALĂ 
 
 Titlul I Legea penală şi limitele ei de aplicare
 
@@ -1468,7 +1490,14 @@ Articolul 153
 
 Prescripţia răspunderii penale
 (1) Prescripţia înlătură răspunderea penală.
-(2) Prescripţia nu înlătură răspunderea penală în cazul infracţiunilor de genocid, contra umanităţii şi de război.
+(2) Prescripţia nu înlătură răspunderea penală în cazul:
+a) infracţiunilor de genocid, contra umanităţii şi de război, indiferent de data la care au fost comise;
+b) infracţiunilor prevăzute la art. 188 şi 189 şi al infracţiunilor intenţionate urmate de moartea victimei.
+--------
+Alin. (2) al art. 153 a fost modificat de pct. 1 al art. II din LEGEA nr. 27 din 16 martie 2012, publicată în MONITORUL OFICIAL nr. 180 din 20 martie 2012.
+(3) Prescripţia nu înlătură răspunderea penală nici în cazul infracţiunilor prevăzute la alin. (2) lit. b) pentru care nu s-a împlinit termenul de prescripţie, generală sau specială, la data intrării în vigoare a acestei dispoziţii.
+--------
+Alin. (3) al art. 153 a fost introdus de pct. 2 al art. II din LEGEA nr. 27 din 16 martie 2012, publicată în MONITORUL OFICIAL nr. 180 din 20 martie 2012.
 
 Articolul 154
 
@@ -1540,7 +1569,14 @@ Articolul 161
 
 Prescripţia executării pedepsei
 (1) Prescripţia înlătură executarea pedepsei principale.
-(2) Prescripţia nu înlătură executarea pedepselor principale pronunţate pentru infracţiunile de genocid, contra umanităţii şi de război.
+(2) Prescripţia nu înlătură executarea pedepselor principale în cazul:
+a) infracţiunilor de genocid, contra umanităţii şi de război, indiferent de data la care au fost comise;
+b) infracţiunilor prevăzute la art. 188 şi 189 şi al infracţiunilor intenţionate urmate de moartea victimei.
+--------
+Alin. (2) al art. 161 a fost modificat de pct. 3 al art. II din LEGEA nr. 27 din 16 martie 2012, publicată în MONITORUL OFICIAL nr. 180 din 20 martie 2012.
+(3) Prescripţia nu înlătură executarea pedepselor principale nici în cazul infracţiunilor prevăzute la alin. (2) lit. b) pentru care, la data intrării în vigoare a acestei dispoziţii, nu s-a împlinit termenul de prescripţie a executării.
+--------
+Alin. (3) al art. 161 a fost introdus de pct. 4 al art. II din LEGEA nr. 27 din 16 martie 2012, publicată în MONITORUL OFICIAL nr. 180 din 20 martie 2012.
 
 Articolul 162
 
@@ -1727,7 +1763,8 @@ Articolul 187
 Pedeapsă prevăzută de lege
 Prin pedeapsă prevăzută de lege se înţelege pedeapsa prevăzută în textul de lege care incriminează fapta săvârşită în forma consumată, fără luarea în considerare a cauzelor de reducere sau de majorare a pedepsei.
 
-Partea SPECIALĂ 
+Partea SPECIALĂ
+
 
 Titlul I Infracţiuni contra persoanei
 
@@ -3710,9 +3747,13 @@ Intrarea în vigoare
 (2) Legea nr. 301/2004 - Codul penal, publicată în Monitorul Oficial al României, Partea I, nr. 575 din 29 iunie 2004, cu modificările ulterioare, şi Legea nr. 294/2004 privind executarea pedepselor şi a măsurilor dispuse de organele judiciare în cursul procesului penal, publicată în Monitorul Oficial al României, Partea I, nr. 591 din 1 iulie 2004, cu modificările ulterioare, se abrogă.
 (3) În termen de 12 luni de la data publicării prezentului cod în Monitorul Oficial al României, Partea I, Guvernul va supune Parlamentului spre adoptare proiectul de lege pentru punerea în aplicare a Codului penal.
 Această lege a fost adoptată la data de 25 iunie 2009, în temeiul prevederilor art. 114 alin. (3) din Constituţia României, republicată, în urma angajării răspunderii Guvernului în faţa Camerei Deputaţilor şi a Senatului, în şedinţa comună din data de 22 iunie 2009.
+
 PREŞEDINTELE CAMEREI DEPUTAŢILOR
+
 ROBERTA ALMA ANASTASE
+
 PREŞEDINTELE SENATULUI
+
 MIRCEA-DAN GEOANĂ
 Bucureşti, 17 iulie 2009.
 Nr. 286.
