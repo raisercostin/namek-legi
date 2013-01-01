@@ -1,11 +1,11 @@
 source:
-  html: http://legislatie.just.ro/Public/DetaliiDocument/136456
-  print: http://legislatie.just.ro/Public/FormaPrintabila/00000G2NTE3VWK8HX4628NJUZ5TM98XL
+  html: http://legislatie.just.ro/Public/DetaliiDocument/137246
+  print: http://legislatie.just.ro/Public/FormaPrintabila/00000G1RFJPANCAHNO326K5TDHL86DTH
 
 ---
 CODUL PENAL din 17 iulie 2009 (*actualizat*)
 (LEGEA nr. 286)
-(actualizat până la data 1 ianuarie 2013*)
+(actualizat până la data 2 ianuarie 2013*)
 EMITENT	
 PARLAMENTUL
 
@@ -1099,6 +1099,9 @@ a) obligarea la tratament medical;
 b) internarea medicală;
 c) interzicerea ocupării unei funcţii sau a exercitării unei profesii;
 d) confiscarea specială.
+e) confiscarea extinsă.
+--------
+Lit. e) a art. 108 a fost introdusă de pct. 1 al art. II din LEGEA nr. 63 din 17 aprilie 2012, publicată în MONITORUL OFICIAL nr. 258 din 19 aprilie 2012.
 
 Capitolul II Regimul măsurilor de siguranţă
 
@@ -1136,6 +1139,39 @@ f) bunurile a căror deţinere este interzisă de legea penală.
 (4) Dispoziţiile alin. (1) lit. b) nu se aplică în cazul faptelor săvârşite prin presă.
 (5) Dacă bunurile supuse confiscării potrivit alin. (1) lit. b)-e) nu se găsesc, în locul lor se confiscă bani şi bunuri până la concurenţa valorii acestora.
 (6) Se confiscă, de asemenea, bunurile şi banii obţinuţi din exploatarea bunurilor supuse confiscării, precum şi bunurile produse de acestea, cu excepţia bunurilor prevăzute în alin. (1) lit. b) şi lit. c).
+
+Articolul 112^1
+
+Confiscarea extinsă
+(1) Sunt supuse confiscării şi alte bunuri decât cele menţionate la art. 112, în cazul în care persoana este condamnată pentru comiterea uneia dintre următoarele infracţiuni, dacă fapta este susceptibilă să îi procure un folos material şi pedeapsa prevăzută de lege este închisoarea de 4 ani sau mai mare:
+a) infracţiuni privind traficul de droguri şi de precursori;
+b) infracţiuni privind traficul şi exploatarea persoanelor vulnerabile;
+c) infracţiuni privind frontiera de stat a României;
+d) infracţiunea de spălare a banilor;
+e) infracţiuni din legislaţia privind prevenirea şi combaterea pornografiei;
+f) infracţiuni din legislaţia privind combaterea terorismului;
+g) constituirea unui grup infracţional organizat;
+h) infracţiuni contra patrimoniului;
+i) nerespectarea regimului armelor, muniţiilor, materialelor nucleare şi al materiilor explozive;
+j) falsificarea de monede, timbre sau de alte valori;
+k) divulgarea secretului economic, concurenţa neloială, nerespectarea dispoziţiilor privind operaţii de import sau export, deturnarea de fonduri, infracţiuni privind regimul importului şi al exportului, precum şi al introducerii şi scoaterii din ţară de deşeuri şi reziduuri;
+l) infracţiuni privind jocurile de noroc;
+m) infracţiuni de corupţie, infracţiunile asimilate acestora, precum şi infracţiunile împotriva intereselor financiare ale Uniunii Europene;
+n) infracţiuni de evaziune fiscală;
+o) infracţiuni privind regimul vamal;
+p) infracţiuni de fraudă comise prin sisteme informatice şi mijloace de plată electronice;
+q) traficul de organe, ţesuturi sau celule de origine umană.
+(2) Confiscarea extinsă se dispune dacă sunt îndeplinite cumulativ următoarele condiţii:
+a) valoarea bunurilor dobândite de persoana condamnată, într-o perioadă de 5 ani înainte şi, dacă este cazul, după momentul săvârşirii infracţiunii, până la data emiterii actului de sesizare a instanţei, depăşeşte în mod vădit veniturile obţinute de aceasta în mod licit;
+b) instanţa are convingerea că bunurile respective provin din activităţi infracţionale de natura celor prevăzute la alin. (1).
+(3) Pentru aplicarea dispoziţiilor alin. (2) se va ţine seama şi de valoarea bunurilor transferate de către persoana condamnată ori de un terţ unui membru al familiei sau unei persoane juridice asupra căreia persoana condamnată deţine controlul.
+(4) Prin bunuri, conform prezentului articol, se înţelege şi sumele de bani.
+(5) La stabilirea diferenţei dintre veniturile licite şi valoarea bunurilor dobândite se vor avea în vedere valoarea bunurilor la data dobândirii lor şi cheltuielile făcute de persoana condamnată, membrii familiei acesteia.
+(6) Dacă bunurile supuse confiscării nu se găsesc, în locul lor se confiscă bani şi bunuri până la concurenţa valorii acestora.
+(7) Se confiscă, de asemenea, bunurile şi banii obţinuţi din exploatarea sau folosirea bunurilor supuse confiscării, precum şi bunurile produse de acestea.
+(8) Confiscarea nu poate depăşi valoarea bunurilor dobândite în perioada prevăzută la alin. (2), care excedează nivelului veniturilor licite ale persoanei condamnate.
+--------
+Art. 112^1 a fost introdus de pct. 2 al art. II din LEGEA nr. 63 din 17 aprilie 2012, publicată în MONITORUL OFICIAL nr. 258 din 19 aprilie 2012.
 
 Titlul V Minoritatea
 
@@ -3564,197 +3600,4 @@ Neluarea măsurilor necesare în operaţiunile navale
 Fapta comandantului unei nave militare sau grupări de nave militare care, fără a fi fost oprit prin vreun ordin sau fără a fi fost împiedicat de misiunea specială pe care o avea:
 a) nu ia măsurile necesare să atace, să lupte împotriva inamicului, să ajute o navă a statului român sau a unei ţări aliate, urmărită de inamic ori angajată în luptă;
 b) nu ia măsurile necesare pentru a distruge un convoi inamic;
-c) nu urmăreşte navele de război sau comerciale ale inamicului se pedepseşte cu închisoarea de la 10 la 20 de ani şi interzicerea exercitării unor drepturi.
-
-Articolul 427
-
-Coborârea pavilionului
-Coborârea pavilionului în timpul luptei, în scopul de a servi cauza inamicului, săvârşită de către comandantul unei nave militare sau al unei grupări de nave militare, precum şi de către orice altă persoană ambarcată, se pedepseşte cu închisoarea de la 10 la 20 de ani şi interzicerea exercitării unor drepturi.
-
-Articolul 428
-
-Coliziunea
-(1) Fapta comandantului unei nave militare sau a oricărei persoane aflate la bordul navei, care a produs o coliziune sau punerea pe uscat a navei, dacă fapta a avut ca urmare avarierea gravă a acesteia, se pedepseşte cu închisoarea de la 5 la 12 ani şi interzicerea exercitării unor drepturi.
-(2) În cazul în care fapta prevăzută în alin. (1) a fost săvârşită din culpă, pedeapsa este închisoarea de la 6 luni la 3 ani.
-(3) Fapta prevăzută în alin. (1) săvârşită în timp de război, pe durata stării de asediu sau a stării de urgenţă, se pedepseşte cu închisoarea de la 10 la 20 de ani şi interzicerea exercitării unor drepturi.
-
-Articolul 429
-
-Sancţionarea tentativei
-Tentativa la infracţiunile prevăzute în art. 421-425, art. 427 şi art. 428 alin. (1) se pedepseşte.
-
-Articolul 430
-
-Infracţiuni privitoare la aeronave militare
-Dispoziţiile art. 423-425, art. 428 şi art. 429 se aplică în mod corespunzător şi în cazul aeronavelor militare.
-
-Articolul 431
-
-Punerea în mişcare a acţiunii penale
-Acţiunea penală pentru infracţiunile prevăzute în art. 413-417 se pune în mişcare numai la sesizarea comandantului.
-
-Capitolul II Infracţiuni săvârşite de militari sau de civili
-
-
-Articolul 432
-
-Sustragerea de la serviciul militar în timp de război
-Fapta persoanei care, în timp de război sau pe durata stării de asediu, îşi provoacă vătămări integrităţii corporale sau sănătăţii, simulează o boală sau o infirmitate, foloseşte înscrisuri false sau orice alte mijloace, în scopul de a se sustrage de la serviciul militar, se pedepseşte cu închisoarea de la 2 la 7 ani.
-
-Articolul 433
-
-Agresiunea împotriva santinelei
-(1) Fapta persoanei care ameninţă sau loveşte santinela sau militarul aflat în serviciu de intervenţie, însoţire sau de securitate se pedepseşte cu închisoarea de la unu la 3 ani.
-(2) Dacă fapta este săvârşită prin folosirea unei arme sau de două sau mai multe persoane împreună, pedeapsa este închisoarea de la 2 la 7 ani.
-
-Articolul 434
-
-Sustragerea de la luarea în evidenţa militară
-(1) Sustragerea de la luarea în evidenţa militară, selecţia, stabilirea aptitudinilor şi a opţiunilor privind modul de îndeplinire a îndatoririlor militare, în timp de pace, se pedepseşte cu amendă.
-(2) Dacă fapta este săvârşită în timp de război sau pe durata stării de asediu, pedeapsa este închisoarea de la unu la 5 ani.
-
-Articolul 435
-
-Neprezentarea la încorporare sau concentrare
-(1) Neprezentarea la încorporare, concentrare sau mobilizare în timp de război sau pe durata stării de asediu, în termenul prevăzut în ordinul de chemare, se pedepseşte cu închisoarea de la 2 la 7 ani.
-(2) Cu aceeaşi pedeapsă se sancţionează şi neprezentarea celui încorporat sau concentrat la unitatea la care a fost repartizat, precum şi a celui care, executând potrivit legii serviciul alternativ, nu se prezintă în termen la angajator.
-(3) Termenele de prezentare prevăzute în alin. (1) şi alin. (2) se prelungesc cu 10 zile, în cazul în care cel chemat se află în străinătate.
-
-Articolul 436
-
-Jefuirea celor căzuţi pe câmpul de luptă
-(1) Jefuirea pe câmpul de luptă a morţilor sau răniţilor se pedepseşte cu închisoarea de la 3 la 10 ani şi interzicerea exercitării unor drepturi.
-(2) Cu aceeaşi pedeapsă se sancţionează fapta prevăzută în alin. (1) care, fără să fie săvârşită pe câmpul de luptă, este urmarea unor operaţii de război.
-
-Articolul 437
-
-Folosirea emblemei Crucea Roşie în timpul operaţiunilor militare
-Folosirea, fără drept, în timp de război sau pe durata stării de asediu, în legătură cu operaţiunile militare, a emblemei ori denumirii de "Crucea Roşie" sau a celor asimilate acesteia se pedepseşte cu închisoarea de la 2 la 7 ani.
-
-Titlul XII Infracţiuni de genocid, contra umanităţii şi de război
-
-
-Capitolul I Infracţiuni de genocid şi contra umanităţii
-
-
-Articolul 438
-
-Genocidul
-(1) Săvârşirea, în scopul de a distruge, în întregime sau în parte, un grup naţional, etnic, rasial sau religios, a uneia dintre următoarele fapte:
-a) uciderea de membri ai grupului;
-b) vătămarea integrităţii fizice sau mintale a unor membri ai grupului;
-c) supunerea grupului la condiţii de existenţă de natură să ducă la distrugerea fizică, totală sau parţială, a acestuia;
-d) impunerea de măsuri vizând împiedicarea naşterilor în cadrul grupului;
-e) transferul forţat de copii aparţinând unui grup în alt grup, se pedepseşte cu detenţiune pe viaţă sau cu închisoare de la 15 la 25 de ani şi interzicerea exercitării unor drepturi.
-(2) Dacă faptele prevăzute în alin. (1) sunt săvârşite în timp de război, pedeapsa este detenţiunea pe viaţă.
-(3) Înţelegerea în vederea săvârşirii infracţiunii de genocid se pedepseşte cu închisoarea de la 5 la 10 ani şi interzicerea exercitării unor drepturi.
-(4) Incitarea la săvârşirea infracţiunii de genocid, comisă în mod direct, în public, se pedepseşte cu închisoarea de la 2 la 7 ani şi interzicerea exercitării unor drepturi.
-
-Articolul 439
-
-Infracţiuni contra umanităţii
-(1) Săvârşirea, în cadrul unui atac generalizat sau sistematic, lansat împotriva unei populaţii civile, a uneia dintre următoarele fapte:
-a) uciderea unor persoane;
-b) supunerea unei populaţii sau părţi a acesteia, în scopul de a o distruge în tot sau în parte, la condiţii de viaţă menite să determine distrugerea fizică, totală sau parţială, a acesteia;
-c) sclavia sau traficul de fiinţe umane, în special de femei sau copii;
-d) deportarea sau transferarea forţată, cu încălcarea regulilor generale de drept internaţional, a unor persoane aflate în mod legal pe un anumit teritoriu, prin expulzarea acestora spre un alt stat sau spre un alt teritoriu ori prin folosirea altor măsuri de constrângere;
-e) torturarea unei persoane aflate sub paza făptuitorului sau asupra căreia acesta exercită controlul în orice alt mod, cauzându-i vătămări fizice sau psihice, ori suferinţe fizice sau psihice grave, ce depăşesc consecinţele sancţiunilor admise de către dreptul internaţional;
-f) violul sau agresiunea sexuală, constrângerea la prostituţie, sterilizarea forţată sau detenţia ilegală a unei femei rămase gravidă în mod forţat, în scopul modificării compoziţiei etnice a unei populaţii;
-g) vătămarea integrităţii fizice sau psihice a unor persoane;
-h) provocarea dispariţiei forţate a unei persoane, în scopul de a o sustrage de sub protecţia legii pentru o perioadă îndelungată, prin răpire, arestare sau deţinere, la ordinul unui stat sau al unei organizaţii politice ori cu autorizarea, sprijinul sau asentimentul acestora, urmate de refuzul de a admite că această persoană este privată de libertate sau de a furniza informaţii reale privind soarta care îi este rezervată ori locul unde se află, de îndată ce aceste informaţii au fost solicitate;
-i) întemniţarea sau altă formă de privare gravă de libertate, cu încălcarea regulilor generale de drept internaţional;
-j) persecutarea unui grup sau a unei colectivităţi determinate, prin privare de drepturile fundamentale ale omului sau prin restrângerea gravă a exercitării acestor drepturi, pe motive de ordin politic, rasial, naţional, etnic, cultural, religios, sexual ori în funcţie de alte criterii recunoscute ca inadmisibile în dreptul internaţional;
-k) alte asemenea fapte inumane ce cauzează suferinţe mari sau vătămări ale integrităţii fizice sau psihice, se pedepseşte cu detenţiune pe viaţă sau cu închisoare de la 15 la 25 de ani şi interzicerea exercitării unor drepturi.
-(2) Cu aceeaşi pedeapsă se sancţionează faptele prevăzute în alin. (1), săvârşite în cadrul unui regim instituţionalizat de oprimare sistematică şi de dominare a unui grup rasial asupra altuia, cu intenţia de a menţine acest regim.
-
-Capitolul II Infracţiuni de război
-
-
-Articolul 440
-
-Infracţiuni de război contra persoanelor
-(1) Săvârşirea, în cadrul unui conflict armat, cu sau fără caracter internaţional, asupra uneia sau mai multor persoane protejate de dreptul internaţional umanitar, a uneia dintre următoarele fapte:
-a) uciderea;
-b) luarea de ostatici;
-c) aplicarea de tratamente cu cruzime sau inumane, cauzându-i vătămări ale integrităţii fizice sau psihice ori suferinţe fizice sau psihice grave, în special prin tortură sau mutilare;
-d) violul sau agresiunea sexuală, constrângerea la prostituţie, sterilizarea forţată sau detenţia ilegală a unei femei rămase gravidă în mod forţat, în scopul modificării compoziţiei etnice a unei populaţii;
-e) deportarea sau transferarea forţată, cu încălcarea regulilor generale de drept internaţional, a unor persoane aflate în mod legal pe un anumit teritoriu, prin expulzarea acestora spre un alt stat sau un alt teritoriu ori prin folosirea altor măsuri de constrângere;
-f) aplicarea sau executarea unei pedepse severe, în special pedeapsa cu moartea sau o pedeapsă privativă de libertate, împotriva unei persoane care nu a fost judecată în cadrul unei proceduri legale şi imparţiale, care să ofere garanţiile impuse de dreptul internaţional;
-g) expunerea unei persoane la un pericol de moarte sau atingere gravă adusă sănătăţii prin:
-1. efectuarea asupra acesteia de experienţe cu privire la care ea nu a consimţit în mod voluntar, expres şi prealabil sau care nu sunt necesare pentru sănătatea acesteia ori nu sunt efectuate în interesul său;
-2. prelevarea de ţesuturi sau organe de la aceasta în scopul transplantului, cu excepţia prelevării de sânge sau piele efectuate în scop terapeutic, în conformitate cu principiile medicale general recunoscute şi cu consimţământul voluntar, expres şi prealabil al persoanei;
-3. supunerea acesteia la metode de tratament nerecunoscute medical, fără ca acestea să fie necesare pentru sănătatea persoanei şi fără ca ea să fi consimţit, în mod voluntar, expres şi prealabil;
-h) supunerea unei persoane la un tratament degradant, se pedepseşte cu detenţiune pe viaţă sau cu închisoare de la 15 la 25 de ani şi interzicerea exercitării unor drepturi.
-(2) Cu aceeaşi pedeapsă se sancţionează recrutarea sau încorporarea minorilor care nu au împlinit vârsta de 15 ani în forţele armate sau în grupuri armate, precum şi determinarea acestora, prin orice mijloace, să participe activ la ostilităţi.
-(3) Rănirea, în cadrul unui conflict armat cu sau fără caracter internaţional, a unui membru al forţelor armate inamice sau a unui combatant al părţii inamice, după ce acesta s-a predat fără condiţii sau care a fost scos din luptă în orice mod, se pedepseşte cu închisoarea de la 5 la 12 ani şi interzicerea exercitării unor drepturi.
-(4) Săvârşirea, în cadrul unui conflict armat cu caracter internaţional, a uneia dintre următoarele fapte:
-a) menţinerea ilegală în detenţie sau întârzierea nejustificată a repatrierii uneia sau mai multor persoane dintre cele prevăzute în alin. (5) lit. a);
-b) transferarea, în mod direct sau indirect, de către un agent al puterii ocupante, a unei părţi a populaţiei civile căreia el îi aparţine, în teritoriul ocupat;
-c) constrângerea, prin violenţă sau ameninţare, a uneia sau mai multor persoane dintre cele prevăzute în alin. (5) lit. a) să servească în forţele armate ale inamicului;
-d) constrângerea resortisanţilor puterii inamice să ia parte la operaţiunile de război îndreptate împotriva ţării lor, se pedepseşte cu închisoarea de la 3 la 10 ani şi interzicerea exercitării unor drepturi.
-(5) Persoanele protejate de dreptul internaţional umanitar sunt:
-a) într-un conflict armat cu caracter internaţional: persoanele protejate în sensul Convenţiilor de la Geneva din 12 august 1949 şi al Protocolului Adiţional I din 8 iunie 1977, în special răniţii, bolnavii, naufragiaţii, prizonierii de război şi civilii;
-b) într-un conflict armat fără caracter internaţional: răniţii, bolnavii, naufragiaţii şi persoanele care nu participă direct la ostilităţi şi care se găsesc sub puterea părţii inamice;
-c) într-un conflict armat cu sau fără caracter internaţional: membrii forţelor armate şi combatanţii părţii inamice, care au depus armele sau care, din orice altă cauză, nu se mai pot apăra şi care nu se află sub puterea părţii inamice.
-
-Articolul 441
-
-Infracţiuni de război contra proprietăţii şi altor drepturi
-(1) Fapta persoanei care, în cadrul unui conflict armat, cu sau fără caracter internaţional, jefuieşte sau, cu încălcarea dreptului internaţional şi fără ca aceasta să fie justificată de necesităţi militare, distruge, îşi însuşeşte sau rechiziţionează bunuri ale părţii inamice, aflate sub puterea părţii căreia îi aparţine făptuitorul, se pedepseşte cu închisoarea de la 3 la 10 ani şi interzicerea exercitării unor drepturi.
-(2) Declararea, în cadrul unui conflict armat cu caracter internaţional, ca fiind stinse, suspendate sau inadmisibile în justiţie drepturile şi acţiunile tuturor resortisanţilor părţii inamice sau ale unei părţi importante a acestora se pedepseşte cu închisoarea de la 3 la 10 ani şi interzicerea exercitării unor drepturi.
-
-Articolul 442
-
-Infracţiuni de război contra operaţiunilor umanitare şi emblemelor
-(1) Fapta persoanei care, în cadrul unui conflict armat cu sau fără caracter internaţional:
-a) declanşează un atac împotriva personalului, instalaţiilor, materialului, unităţilor sau vehiculelor care participă la o misiune de ajutor umanitar ori la o misiune de menţinere a păcii, conform Cartei Naţiunilor Unite, şi care se bucură de protecţia pe care dreptul internaţional umanitar o garantează civililor sau bunurilor cu caracter civil;
-b) declanşează un atac împotriva personalului, clădirilor, unităţilor sanitare sau mijloacelor de transport sanitare, care utilizează semnele distinctive prevăzute de Convenţiile de la Geneva, în conformitate cu dispoziţiile dreptului internaţional umanitar, se pedepseşte cu închisoarea de la 7 la 15 ani şi interzicerea exercitării unor drepturi.
-(2) Fapta persoanei care, în cadrul unui conflict armat cu sau fără caracter internaţional, utilizează fără drept semnele distinctive prevăzute de Convenţiile de la Geneva, steagul de parlamentare, drapelul, insignele militare sau uniforma inamicului ori ale Organizaţiei Naţiunilor Unite, cauzând astfel moartea sau vătămarea corporală a uneia sau mai multor persoane, se pedepseşte cu închisoarea de la 7 la 15 ani şi interzicerea exercitării unor drepturi.
-
-Articolul 443
-
-Utilizarea de metode interzise în operaţiunile de luptă
-(1) Fapta persoanei care, în cadrul unui conflict armat cu sau fără caracter internaţional:
-a) declanşează un atac prin mijloace militare împotriva populaţiei civile sau a unor civili care nu participă direct la ostilităţi;
-b) declanşează un atac prin mijloace militare împotriva bunurilor civile protejate ca atare de dreptul internaţional umanitar, în special clădiri consacrate cultului religios, învăţământului, artei, ştiinţei, acţiunilor caritabile, monumentelor istorice, spitalelor, locurilor unde bolnavii sau răniţii sunt adunaţi, precum şi împotriva oraşelor, satelor, locuinţelor sau clădirilor neapărate ori zonelor demilitarizate sau asupra instalaţiilor ori echipamentelor ce conţin substanţe periculoase, în măsura în care acestea nu sunt folosite ca obiective militare;
-c) desfăşoară un atac prin mijloace militare, ştiind că el va cauza pierderi de vieţi omeneşti în rândul populaţiei civile, răniri ale persoanelor civile, distrugeri de bunuri cu caracter civil, care ar fi vădit disproporţionate în raport cu ansamblul avantajului militar concret şi direct aşteptat;
-d) utilizează o persoană protejată de dispoziţiile dreptului internaţional umanitar pentru a evita ca anumite puncte, zone sau forţe militare să devină ţintă a operaţiunilor militare ale părţii inamice;
-e) utilizează, ca metodă de purtare a războiului, înfometarea deliberată a civililor, privându-i de bunurile indispensabile supravieţuirii sau împiedicând, cu încălcarea dispoziţiilor dreptului internaţional umanitar, primirea ajutoarelor destinate acestora;
-f) declară sau ordonă că nu va exista îndurare pentru învinşi;
-g) ucide sau răneşte, prin viclenie, un membru al forţelor armate inamice sau un combatant al forţelor inamice se pedepseşte cu închisoarea de la 7 la 15 ani şi interzicerea exercitării unor drepturi.
-(2) Desfăşurarea unui atac prin mijloace militare, în cadrul unui conflict armat cu caracter internaţional, ştiind că el va cauza mediului înconjurător daune extinse, de durată şi grave, care ar fi vădit disproporţionate în raport cu ansamblul avantajului militar concret şi direct aşteptat, se pedepseşte cu închisoarea de la 3 la 10 ani şi interzicerea exercitării unor drepturi.
-
-Articolul 444
-
-Utilizarea de mijloace interzise în operaţiunile de luptă
-Fapta persoanei care, în cadrul unui conflict armat, cu sau fără caracter internaţional:
-a) utilizează otravă sau arme cu substanţe otrăvitoare;
-b) utilizează gaze asfixiante, toxice sau asimilate şi orice lichide, materii sau procedee similare;
-c) utilizează arme care cauzează suferinţe fizice inutile se pedepseşte cu închisoarea de la 7 la 15 ani şi interzicerea exercitării unor drepturi.
-
-Articolul 445
-
-Sancţionarea tentativei
-Tentativa la infracţiunile prevăzute în prezentul titlu se pedepseşte.
-
-Titlul XIII Dispoziţii finale
-
-
-Articolul 446
-
-Intrarea în vigoare
-(1) Prezentul cod intră în vigoare la data care va fi stabilită în legea pentru punerea în aplicare a acestuia, cu excepţia dispoziţiilor alin. (2) şi alin. (3), care intră în vigoare la 4 zile de la data publicării în Monitorul Oficial al României, Partea I, a prezentului cod.
-(2) Legea nr. 301/2004 - Codul penal, publicată în Monitorul Oficial al României, Partea I, nr. 575 din 29 iunie 2004, cu modificările ulterioare, şi Legea nr. 294/2004 privind executarea pedepselor şi a măsurilor dispuse de organele judiciare în cursul procesului penal, publicată în Monitorul Oficial al României, Partea I, nr. 591 din 1 iulie 2004, cu modificările ulterioare, se abrogă.
-(3) În termen de 12 luni de la data publicării prezentului cod în Monitorul Oficial al României, Partea I, Guvernul va supune Parlamentului spre adoptare proiectul de lege pentru punerea în aplicare a Codului penal.
-Această lege a fost adoptată la data de 25 iunie 2009, în temeiul prevederilor art. 114 alin. (3) din Constituţia României, republicată, în urma angajării răspunderii Guvernului în faţa Camerei Deputaţilor şi a Senatului, în şedinţa comună din data de 22 iunie 2009.
-
-PREŞEDINTELE CAMEREI DEPUTAŢILOR
-
-ROBERTA ALMA ANASTASE
-
-PREŞEDINTELE SENATULUI
-
-MIRCEA-DAN GEOANĂ
-Bucureşti, 17 iulie 2009.
-Nr. 286.
-----
+c) nu urmăreşte navele de război sau comerciale ale inamicului se pedepseşte cu închisoarea de la 10
