@@ -36,8 +36,8 @@
 - worst - monitorul oficial
 
 ## Surse
+- presedinti: https://ro.wikipedia.org/wiki/Lista_%C8%99efilor_de_stat_ai_Rom%C3%A2niei
 - guverne: https://ro.wikipedia.org/wiki/Lista_prim-mini%C8%99trilor_Rom%C3%A2niei
-- https://ro.wikipedia.org/wiki/Guvernul_C%C4%83lin_Popescu-T%C4%83riceanu
 
 # Clasificari legi
 

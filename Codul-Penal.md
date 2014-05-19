@@ -1,11 +1,11 @@
 source:
-  html: http://legislatie.just.ro/Public/DetaliiDocument/143710
-  print: http://legislatie.just.ro/Public/FormaPrintabila/00000G231KS1REGCVVH0XS34N5S8FDN7
+  html: http://legislatie.just.ro/Public/DetaliiDocument/158408
+  print: http://legislatie.just.ro/Public/FormaPrintabila/00000G0P7VVRENVGJ4Z2XI5686I5SQBI
 
 ---
 CODUL PENAL din 17 iulie 2009 (*actualizat*)
 (LEGEA nr. 286)
-(actualizat până la data 1 februarie 2014*)
+(actualizat până la data 20 mai 2014*)
 EMITENT	
 PARLAMENTUL
 
@@ -181,18 +181,19 @@ Articolul 4
 Aplicarea legii penale de dezincriminare
 Legea penală nu se aplică faptelor săvârşite sub legea veche, dacă nu mai sunt prevăzute de legea nouă. În acest caz, executarea pedepselor, a măsurilor educative şi a măsurilor de siguranţă, pronunţate în baza legii vechi, precum şi toate consecinţele penale ale hotărârilor judecătoreşti privitoare la aceste fapte încetează prin intrarea în vigoare a legii noi.
 
-Articolul 5
+Articolul 5*)
 
 Aplicarea legii penale mai favorabile până la judecarea definitivă a cauzei
 (1) În cazul în care de la săvârşirea infracţiunii până la judecarea definitivă a cauzei au intervenit una sau mai multe legi penale, se aplică legea mai favorabilă.
 (2) Dispoziţiile alin. (1) se aplică şi actelor normative ori prevederilor din acestea declarate neconstituţionale, precum şi ordonanţelor de urgenţă aprobate de Parlament cu modificări sau completări ori respinse, dacă în timpul când acestea s-au aflat în vigoare au cuprins dispoziţii penale mai favorabile.
+--------------
 
 Articolul 6
 
 Aplicarea legii penale mai favorabile după judecarea definitivă a cauzei
 (1) Când după rămânerea definitivă a hotărârii de condamnare şi până la executarea completă a pedepsei închisorii sau amenzii a intervenit o lege care prevede o pedeapsă mai uşoară, sancţiunea aplicată, dacă depăşeşte maximul special prevăzut de legea nouă pentru infracţiunea săvârşită, se reduce la acest maxim.
 (2) Dacă după rămânerea definitivă a hotărârii de condamnare la detenţiune pe viaţă şi până la executarea ei a intervenit o lege care prevede pentru aceeaşi faptă numai pedeapsa închisorii, pedeapsa detenţiunii pe viaţă se înlocuieşte cu maximul închisorii prevăzut pentru acea infracţiune.
-(3) Dacă legea nouă prevede în locul pedepsei închisorii numai amenda, pedeapsa aplicată se înlocuieşte cu amendă, fără a se putea depăşi maximul special prevăzut în legea nouă. Ţinându-se seama de partea executată din pedeapsa închisorii, se poate înlătura în totul sau în parte executarea amenzii.
+(3) Dacă legea nouă prevede în locul pedepsei închisorii numai amenda, pedeapsa aplicată se înlocuieşte cu amenda, fără a se putea depăşi maximul special prevăzut în legea nouă. Ţinându-se seama de partea executată din pedeapsa închisorii, se poate înlătura în totul sau în parte executarea amenzii.
 (4) Măsurile educative neexecutate şi neprevăzute în legea nouă nu se mai execută, iar cele care au corespondent în legea nouă se execută în conţinutul şi limitele prevăzute de aceasta, dacă este mai favorabilă.
 (5) Când legea nouă este mai favorabilă în condiţiile alin. (1)-(4), pedepsele complementare şi măsurile de siguranţă neexecutate şi neprevăzute în legea nouă nu se mai execută, iar cele care au corespondent în legea nouă se execută în conţinutul şi limitele prevăzute de aceasta.
 (6) Dacă legea nouă este mai favorabilă numai sub aspectul pedepselor complementare sau măsurilor de siguranţă, acestea se execută în conţinutul şi limitele prevăzute de legea nouă.
@@ -307,7 +308,7 @@ Articolul 19
 Legitima apărare
 (1) Este justificată fapta prevăzută de legea penală săvârşită în legitimă apărare.
 (2) Este în legitimă apărare persoana care săvârşeşte fapta pentru a înlătura un atac material, direct, imediat şi injust, care pune în pericol persoana sa, a altuia, drepturile acestora sau un interes general, dacă apărarea este proporţională cu gravitatea atacului.
-(3) Se prezumă a fi în legitimă apărare, în condiţiile alin. (2), acela care comite fapta pentru a respinge pătrunderea unei persoane într-o locuinţă, încăpere, dependinţă sau loc împrejmuit ţinând de aceasta, fără drept, prin violenţă, viclenie, efracţie sau alte asemenea modalităţi nelegale ori în timpul nopţii.
+(3) Se prezumă a fi în legitimă apărare, în condiţiile alin. (2), acela care comite fapta pentru a respinge pătrunderea unei persoane într-o locuinţă, încăpere, dependinţa sau loc împrejmuit ţinând de aceasta, fără drept, prin violenţă, viclenie, efracţie sau alte asemenea modalităţi nelegale ori în timpul nopţii.
 
 Articolul 20
 
@@ -417,7 +418,7 @@ Unitatea infracţiunii continuate şi a celei complexe
 Articolul 36
 
 Pedeapsa pentru infracţiunea continuată şi infracţiunea complexă
-(1) Infracţiunea continuată se sancţionează cu pedeapsa prevăzută de lege pentru infracţiunea săvârşită, al cărei maxim se poate majoră cu cel mult 3 ani în cazul pedepsei închisorii, respectiv cu cel mult o treime în cazul pedepsei amenzii.
+(1) Infracţiunea continuată se sancţionează cu pedeapsa prevăzută de lege pentru infracţiunea săvârşită, al cărei maxim se poate majora cu cel mult 3 ani în cazul pedepsei închisorii, respectiv cu cel mult o treime în cazul pedepsei amenzii.
 (2) Infracţiunea complexă se sancţionează cu pedeapsa prevăzută de lege pentru acea infracţiune.
 (3) Infracţiunea complexă săvârşită cu intenţie depăşită, dacă s-a produs numai rezultatul mai grav al acţiunii secundare, se sancţionează cu pedeapsa prevăzută de lege pentru infracţiunea complexă consumată.
 
@@ -625,7 +626,7 @@ Alin. (3) al art. 61 a fost modificat de pct. 2 al art. 245 din LEGEA nr. 187 di
 a) 60 şi 180 de zile-amendă, când legea prevede pentru infracţiunea săvârşită numai pedeapsa amenzii;
 b) 120 şi 240 de zile-amendă, când legea prevede pedeapsa amenzii alternativ cu pedeapsa închisorii de cel mult doi ani;
 c) 180 şi 300 de zile-amendă, când legea prevede pedeapsa amenzii alternativ cu pedeapsa închisorii mai mare de 2 ani.
-(5) Dacă prin infracţiunea săvârşită s-a urmărit obţinerea unui folos patrimonial, iar pedeapsa prevăzută de lege este numai amenda ori instanţa optează pentru aplicarea acestei pedepse, limitele speciale ale zilelor-amendă se pot majoră cu o treime.
+(5) Dacă prin infracţiunea săvârşită s-a urmărit obţinerea unui folos patrimonial, iar pedeapsa prevăzută de lege este numai amenda ori instanţa optează pentru aplicarea acestei pedepse, limitele speciale ale zilelor-amendă se pot majora cu o treime.
 (6) Fracţiile stabilite de lege pentru cauzele de atenuare sau agravare a pedepsei se aplică limitelor speciale ale zilelor-amendă prevăzute în alin. (4) şi alin. (5).
 
 Articolul 62
@@ -699,7 +700,7 @@ j) dreptul de a părăsi teritoriul României;
 k) dreptul de a ocupa o funcţie de conducere în cadrul unei persoane juridice de drept public;
 l) dreptul de a se afla în anumite localităţi stabilite de instanţă;
 m) dreptul de a se afla în anumite locuri sau la anumite manifestări sportive, culturale ori la alte adunări publice, stabilite de instanţă;
-n) dreptul de a comunică cu victima sau cu membri de familie ai acesteia, cu persoanele cu care a comis infracţiunea sau cu alte persoane, stabilite de instanţă, ori de a se apropia de acestea;
+n) dreptul de a comunica cu victima sau cu membri de familie ai acesteia, cu persoanele cu care a comis infracţiunea sau cu alte persoane, stabilite de instanţă, ori de a se apropia de acestea;
 o) dreptul de a se apropia de locuinţa, locul de muncă, şcoala sau alte locuri unde victima desfăşoară activităţi sociale, în condiţiile stabilite de instanţa de judecată.
 (2) Când legea prevede interzicerea exercitării dreptului de a ocupa o funcţie publică, instanţa dispune interzicerea exercitării drepturilor prevăzute în alin. (1) lit. a) şi lit. b).
 (3) Interzicerea exercitării drepturilor prevăzute în alin. (1) lit. a) şi lit. b) se dispune cumulativ.
@@ -1201,10 +1202,10 @@ f) bunurile a căror deţinere este interzisă de legea penală.
 (4) Dispoziţiile alin. (1) lit. b) nu se aplică în cazul faptelor săvârşite prin presă.
 (5) Dacă bunurile supuse confiscării potrivit alin. (1) lit. b)-e) nu se găsesc, în locul lor se confiscă bani şi bunuri până la concurenţa valorii acestora.
 (6) Se confiscă, de asemenea, bunurile şi banii obţinuţi din exploatarea bunurilor supuse confiscării, precum şi bunurile produse de acestea, cu excepţia bunurilor prevăzute în alin. (1) lit. b) şi lit. c).
+Confiscarea extinsă
 
 Articolul 112^1
 
-Confiscarea extinsă
 (1) Sunt supuse confiscării şi alte bunuri decât cele menţionate la art. 112, în cazul în care persoana este condamnată pentru comiterea uneia dintre următoarele infracţiuni, dacă fapta este susceptibilă să îi procure un folos material şi pedeapsa prevăzută de lege este închisoarea de 4 ani sau mai mare:
 a) infracţiuni privind traficul de droguri şi de precursori;
 b) infracţiuni privind traficul şi exploatarea persoanelor vulnerabile;
@@ -1478,7 +1479,7 @@ b) 120 şi 240 de zile-amendă, când legea prevede pedeapsa închisorii de cel 
 c) 180 şi 300 de zile-amendă, când legea prevede pedeapsa închisorii de cel mult 10 ani;
 d) 240 şi 420 de zile-amendă, când legea prevede pedeapsa închisorii de cel mult 20 de ani;
 e) 360 şi 510 de zile-amendă, când legea prevede pedeapsa închisorii mai mare de 20 de ani sau detenţiunea pe viaţă.
-(5) Când prin infracţiunea săvârşită persoana juridică a urmărit obţinerea unui folos patrimonial, limitele speciale ale zilelor-amendă prevăzute de lege pentru infracţiunea comisă se pot majoră cu o treime, fără a se depăşi maximul general al amenzii. La stabilirea amenzii se va ţine seama de valoarea folosului patrimonial obţinut sau urmărit.
+(5) Când prin infracţiunea săvârşită persoana juridică a urmărit obţinerea unui folos patrimonial, limitele speciale ale zilelor-amendă prevăzute de lege pentru infracţiunea comisă se pot majora cu o treime, fără a se depăşi maximul general al amenzii. La stabilirea amenzii se va ţine seama de valoarea folosului patrimonial obţinut sau urmărit.
 
 Capitolul II Regimul pedepselor complementare aplicate persoanei juridice
 
@@ -2234,7 +2235,7 @@ Infracţiuni ce aduc atingere domiciliului şi vieţii private
 Articolul 224
 
 Violarea de domiciliu
-(1) Pătrunderea fără drept, în orice mod, într-o locuinţă, încăpere, dependinţă sau loc împrejmuit ţinând de acestea, fără consimţământul persoanei care le foloseşte, ori refuzul de a le părăsi la cererea acesteia se pedepseşte cu închisoare de la 3 luni la 2 ani sau cu amendă.
+(1) Pătrunderea fără drept, în orice mod, într-o locuinţă, încăpere, dependinţa sau loc împrejmuit ţinând de acestea, fără consimţământul persoanei care le foloseşte, ori refuzul de a le părăsi la cererea acesteia se pedepseşte cu închisoare de la 3 luni la 2 ani sau cu amendă.
 (2) În cazul în care fapta este săvârşită de o persoană înarmată, în timpul nopţii ori prin folosire de calităţi mincinoase, pedeapsa este închisoarea de la 6 luni la 3 ani sau amenda.
 (3) Acţiunea penală se pune în mişcare la plângerea prealabilă a persoanei vătămate.
 
@@ -2248,7 +2249,7 @@ Violarea sediului profesional
 Articolul 226
 
 Violarea vieţii private
-(1) Atingerea adusă vieţii private, fără drept, prin fotografierea, captarea sau înregistrarea de imagini, ascultarea cu mijloace tehnice sau înregistrarea audio a unei persoane aflate într-o locuinţă sau încăpere ori dependinţă ţinând de aceasta sau a unei convorbiri private se pedepseşte cu închisoare de la o lună la 6 luni sau cu amendă.
+(1) Atingerea adusă vieţii private, fără drept, prin fotografierea, captarea sau înregistrarea de imagini, ascultarea cu mijloace tehnice sau înregistrarea audio a unei persoane aflate într-o locuinţă sau încăpere ori dependinţa ţinând de aceasta sau a unei convorbiri private se pedepseşte cu închisoare de la o lună la 6 luni sau cu amendă.
 (2) Divulgarea, difuzarea, prezentarea sau transmiterea, fără drept, a sunetelor, convorbirilor ori a imaginilor prevăzute în alin. (1), către o altă persoană sau către public, se pedepseşte cu închisoare de la 3 luni la 2 ani sau cu amendă.
 (3) Acţiunea penală se pune în mişcare la plângerea prealabilă a persoanei vătămate.
 (4) Nu constituie infracţiune fapta săvârşită:
@@ -2328,7 +2329,7 @@ Tâlhăria şi pirateria
 Articolul 233
 
 Tâlhăria
-Furtul săvârşit prin întrebuinţarea de violenţe sau ameninţări ori prin punerea victimei în stare de inconştienţă sau neputinţă de a se apăra, precum şi furtul urmat de întrebuinţarea unor astfel de mijloace pentru păstrarea bunului furat sau pentru înlăturarea urmelor infracţiunii ori pentru ca făptuitorul să-şi asigure scăparea se pedepsesc cu închisoarea de la 2 la 7 ani şi interzicerea exercitării unor drepturi.
+Furtul săvârşit prin întrebuinţarea de violenţe sau ameninţări ori prin punerea victimei în stare de inconştienţă sau neputinţa de a se apăra, precum şi furtul urmat de întrebuinţarea unor astfel de mijloace pentru păstrarea bunului furat sau pentru înlăturarea urmelor infracţiunii ori pentru ca făptuitorul să-şi asigure scăparea se pedepsesc cu închisoarea de la 2 la 7 ani şi interzicerea exercitării unor drepturi.
 
 Articolul 234
 
@@ -3569,7 +3570,7 @@ Infracţiuni contra securităţii naţionale
 Articolul 394
 
 Trădarea
-Fapta cetăţeanului român de a intră în legătură cu o putere sau cu o organizaţie străină ori cu agenţi ai acestora, în scopul de a suprima sau ştirbi unitatea şi indivizibilitatea, suveranitatea sau independenţa statului, prin:
+Fapta cetăţeanului român de a intra în legătură cu o putere sau cu o organizaţie străină ori cu agenţi ai acestora, în scopul de a suprima sau ştirbi unitatea şi indivizibilitatea, suveranitatea sau independenţa statului, prin:
 a) provocare de război contra ţării sau de înlesnire a ocupaţiei militare străine;
 b) subminare economică, politică sau a capacităţii de apărare a statului;
 c) aservire faţă de o putere sau organizaţie străină;
