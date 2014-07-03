@@ -1,18 +1,18 @@
 source:
-  html: http://legislatie.just.ro/Public/DetaliiDocument/158408
-  print: http://legislatie.just.ro/Public/FormaPrintabila/00000G0P7VVRENVGJ4Z2XI5686I5SQBI
+  html: http://legislatie.just.ro/Public/DetaliiDocument/163138
+  print: http://legislatie.just.ro/Public/FormaPrintabila/00000G245KMQ6FXKIVG1FQL2S70X92V0
 
 ---
 CODUL PENAL din 17 iulie 2009 (*actualizat*)
-(LEGEA nr. 286)
-(actualizat până la data 20 mai 2014*)
+(LEGEA nr. 286/2009)
+(actualizat până la data 4 iulie 2014*)
 EMITENT	
 PARLAMENTUL
 
 
 
 
-------------
+----------
 
 PARTEA GENERALĂ
       Titlul I - Legea penală şi limitele ei de aplicare          art. 1-14
@@ -67,7 +67,9 @@ PARTEA GENERALĂ
       Titlul IX - Cauzele care înlătură consecinţele condamnării  art. 165-171
       Titlul X - Înţelesul unor termeni sau expresii în
                   legea penală                                    art. 172-187
+
     PARTEA SPECIALĂ
+
       Titlul I - Infracţiuni contra persoanei                     art. 188-227
     Capitolul I - Infracţiuni contra vieţii                       art. 188-192
     Capitolul II - Infracţiuni contra integrităţii corporale
@@ -144,11 +146,9 @@ Partea GENERALĂ
 
 Titlul I Legea penală şi limitele ei de aplicare
 
-Legea penală şi limitele ei de aplicare
 
 Capitolul I Principii generale
 
-Principii generale
 
 Articolul 1
 
@@ -165,11 +165,9 @@ Legalitatea sancţiunilor de drept penal
 
 Capitolul II Aplicarea legii penale
 
-Aplicarea legii penale
 
 Secţiunea 1 Aplicarea legii penale în timp
 
-Aplicarea legii penale în timp
 
 Articolul 3
 
@@ -186,7 +184,18 @@ Articolul 5*)
 Aplicarea legii penale mai favorabile până la judecarea definitivă a cauzei
 (1) În cazul în care de la săvârşirea infracţiunii până la judecarea definitivă a cauzei au intervenit una sau mai multe legi penale, se aplică legea mai favorabilă.
 (2) Dispoziţiile alin. (1) se aplică şi actelor normative ori prevederilor din acestea declarate neconstituţionale, precum şi ordonanţelor de urgenţă aprobate de Parlament cu modificări sau completări ori respinse, dacă în timpul când acestea s-au aflat în vigoare au cuprins dispoziţii penale mai favorabile.
---------------
+Notă 
+
+──────────
+
+*) Prin DECIZIA CURŢII CONSTITUŢIONALE nr. 265 din 6 mai 2014, publicată în MONITORUL OFICIAL nr. 372 din 20 mai 2014, s-a admis excepţia de neconstituţionalitate referitoare la dispoziţiile art. 5 din Codul penal, constatându-se că aceste prevederi sunt constituţionale în măsura în care nu permit combinarea prevederilor din legi succesive în stabilirea şi aplicarea legii penale mai favorabile.
+
+Conform art. 147 alin. (1) din CONSTITUŢIA ROMÂNIEI republicată în MONITORUL OFICIAL nr. 767 din 31 octombrie 2003 dispoziţiile din legile şi ordonanţele în vigoare, precum şi cele din regulamente, constatate ca fiind neconstituţionale, îşi încetează efectele juridice la 45 de zile de la publicarea deciziei Curţii Constituţionale dacă, în acest interval, Parlamentul sau Guvernul, după caz, nu pun de acord prevederile neconstituţionale cu dispoziţiile Constituţiei. Pe durata acestui termen, dispoziţiile constatate ca fiind neconstituţionale sunt suspendate de drept.
+
+Prin urmare, în intervalul 20 mai 2014-3 iulie 2014, dispoziţiile art. 5 din Codul penal, în măsura în care permit combinarea prevederilor din legi succesive în stabilirea şi aplicarea legii penale mai favorabile, au fost suspendate de drept, încetându-şi efectele juridice începând cu data de 4 iulie 2014, întrucât legiuitorul nu a intervenit pentru modificarea prevederilor declarate neconstituţionale.
+
+──────────
+
 
 Articolul 6
 
@@ -207,7 +216,6 @@ Aplicarea legii penale temporare
 
 Secţiunea a 2-a Aplicarea legii penale în spaţiu
 
-Aplicarea legii penale în spaţiu
 
 Articolul 8
 
@@ -260,11 +268,9 @@ Extrădarea
 
 Titlul II Infracţiunea
 
-Infracţiunea
 
 Capitolul I Dispoziţii generale
 
-Dispoziţii generale
 
 Articolul 15
 
@@ -295,7 +301,6 @@ b) autorul omisiunii, printr-o acţiune sau inacţiune anterioară, a creat pent
 
 Capitolul II Cauzele justificative
 
-Cauzele justificative
 
 Articolul 18
 
@@ -330,7 +335,6 @@ Consimţământul persoanei vătămate
 
 Capitolul III Cauzele de neimputabilitate
 
-Cauzele de neimputabilitate
 
 Articolul 23
 
@@ -385,7 +389,6 @@ Nu este imputabilă fapta prevăzută de legea penală al cărei rezultat e cons
 
 Capitolul IV Tentativa
 
-Tentativa
 
 Articolul 32
 
@@ -407,7 +410,6 @@ Desistarea şi împiedicarea producerii rezultatului
 
 Capitolul V Unitatea şi pluralitatea de infracţiuni
 
-Unitatea şi pluralitatea de infracţiuni
 
 Articolul 35
 
@@ -500,7 +502,6 @@ b) în caz de recidivă, partea neexecutată din pedeapsa complementară anterio
 
 Capitolul VI Autorul şi participanţii
 
-Autorul şi participanţii
 
 Articolul 46
 
@@ -546,11 +547,9 @@ Participaţia improprie
 
 Titlul III Pedepsele
 
-Pedepsele
 
 Capitolul I Categoriile pedepselor
 
-Categoriile pedepselor
 
 Articolul 53
 
@@ -575,11 +574,9 @@ c) publicarea hotărârii de condamnare.
 
 Capitolul II Pedepsele principale
 
-Pedepsele principale
 
 Secţiunea 1 Detenţiunea pe viaţă
 
-Detenţiunea pe viaţă
 
 Articolul 56
 
@@ -603,7 +600,6 @@ Calculul pedepsei în cazul comutării sau înlocuirii pedepsei detenţiunii pe 
 
 Secţiunea a 2-a Închisoarea
 
-Închisoarea
 
 Articolul 60
 
@@ -612,7 +608,6 @@ Regimul închisorii
 
 Secţiunea a 3-a Amenda
 
-Amenda
 
 Articolul 61
 
@@ -659,11 +654,9 @@ Lit. b) a alin. (5) al art. 64 a fost modificată de pct. 3 al art. 245 din LEGE
 
 Capitolul III Pedeapsa accesorie şi pedepsele complementare
 
-Pedeapsa accesorie şi pedepsele complementare
 
 Secţiunea 1 Pedeapsa accesorie
 
-Pedeapsa accesorie
 
 Articolul 65
 
@@ -681,7 +674,6 @@ Alin. (4) al art. 65 a fost modificat de pct. 4 al art. 245 din LEGEA nr. 187 di
 
 Secţiunea a 2-a Pedepsele complementare
 
-Pedepsele complementare
 
 Articolul 66
 
@@ -740,7 +732,6 @@ Publicarea hotărârii definitive de condamnare
 
 Capitolul IV Calculul duratei pedepselor
 
-Calculul duratei pedepselor
 
 Articolul 71
 
@@ -765,11 +756,9 @@ Computarea pedepselor şi măsurilor preventive executate în afara ţării
 
 Capitolul V Individualizarea pedepselor
 
-Individualizarea pedepselor
 
 Secţiunea 1 Dispoziţii generale
 
-Dispoziţii generale
 
 Articolul 74
 
@@ -786,7 +775,6 @@ g) nivelul de educaţie, vârsta, starea de sănătate, situaţia familială şi
 
 Secţiunea a 2-a Circumstanţele atenuante şi circumstanţele agravante
 
-Circumstanţele atenuante şi circumstanţele agravante
 
 Articolul 75
 
@@ -837,7 +825,6 @@ Concursul între cauze de atenuare sau de agravare
 
 Secţiunea a 3-a Renunţarea la aplicarea pedepsei
 
-Renunţarea la aplicarea pedepsei
 
 Articolul 80
 
@@ -872,7 +859,6 @@ Art. 82 a fost modificat de pct. 7 al art. 245 din LEGEA nr. 187 din 24 octombri
 
 Secţiunea a 4-a Amânarea aplicării pedepsei
 
-Amânarea aplicării pedepsei
 
 Articolul 83
 
@@ -961,7 +947,6 @@ Efectele amânării aplicării pedepsei
 
 Secţiunea a 5-a Suspendarea executării pedepsei sub supraveghere
 
-Suspendarea executării pedepsei sub supraveghere
 
 Articolul 91
 
@@ -1048,7 +1033,6 @@ Alin. (1) al art. 98 a fost modificat de pct. 11 al art. 245 din LEGEA nr. 187 d
 
 Secţiunea a 6-a Liberarea condiţionată
 
-Liberarea condiţionată
 
 Articolul 99
 
@@ -1140,11 +1124,9 @@ Art. 106 a fost modificat de pct. 14 al art. 245 din LEGEA nr. 187 din 24 octomb
 
 Titlul IV Măsurile de siguranţă
 
-Măsurile de siguranţă
 
 Capitolul I Dispoziţii generale
 
-Dispoziţii generale
 
 Articolul 107
 
@@ -1167,7 +1149,6 @@ Lit. e) a art. 108 a fost introdusă de pct. 1 al art. II din LEGEA nr. 63 din 1
 
 Capitolul II Regimul măsurilor de siguranţă
 
-Regimul măsurilor de siguranţă
 
 Articolul 109
 
@@ -1202,10 +1183,10 @@ f) bunurile a căror deţinere este interzisă de legea penală.
 (4) Dispoziţiile alin. (1) lit. b) nu se aplică în cazul faptelor săvârşite prin presă.
 (5) Dacă bunurile supuse confiscării potrivit alin. (1) lit. b)-e) nu se găsesc, în locul lor se confiscă bani şi bunuri până la concurenţa valorii acestora.
 (6) Se confiscă, de asemenea, bunurile şi banii obţinuţi din exploatarea bunurilor supuse confiscării, precum şi bunurile produse de acestea, cu excepţia bunurilor prevăzute în alin. (1) lit. b) şi lit. c).
-Confiscarea extinsă
 
 Articolul 112^1
 
+Confiscarea extinsă
 (1) Sunt supuse confiscării şi alte bunuri decât cele menţionate la art. 112, în cazul în care persoana este condamnată pentru comiterea uneia dintre următoarele infracţiuni, dacă fapta este susceptibilă să îi procure un folos material şi pedeapsa prevăzută de lege este închisoarea de 4 ani sau mai mare:
 a) infracţiuni privind traficul de droguri şi de precursori;
 b) infracţiuni privind traficul şi exploatarea persoanelor vulnerabile;
@@ -1238,11 +1219,9 @@ Art. 112^1 a fost introdus de pct. 2 al art. II din LEGEA nr. 63 din 17 aprilie 
 
 Titlul V Minoritatea
 
-Minoritatea
 
 Capitolul I Regimul răspunderii penale a minorului
 
-Regimul răspunderii penale a minorului
 
 Articolul 113
 
@@ -1283,7 +1262,6 @@ Alin. (2) al art. 116 a fost modificat de pct. 15 al art. 245 din LEGEA nr. 187 
 
 Capitolul II Regimul măsurilor educative neprivative de libertate
 
-Regimul măsurilor educative neprivative de libertate
 
 Articolul 117
 
@@ -1346,7 +1324,6 @@ c) înlocuirea măsurii luate iniţial cu o măsură educativă privativă de li
 
 Capitolul III Regimul măsurilor educative privative de libertate
 
-Regimul măsurilor educative privative de libertate
 
 Articolul 124
 
@@ -1390,7 +1367,6 @@ Calculul duratei măsurilor educative
 
 Capitolul IV Dispoziţii comune
 
-Dispoziţii comune
 
 Articolul 128
 
@@ -1441,11 +1417,9 @@ Minorul devenit major
 
 Titlul VI Răspunderea penală a persoanei juridice
 
-Răspunderea penală a persoanei juridice
 
 Capitolul I Dispoziţii generale
 
-Dispoziţii generale
 
 Articolul 135
 
@@ -1483,7 +1457,6 @@ e) 360 şi 510 de zile-amendă, când legea prevede pedeapsa închisorii mai mar
 
 Capitolul II Regimul pedepselor complementare aplicate persoanei juridice
 
-Regimul pedepselor complementare aplicate persoanei juridice
 
 Articolul 138
 
@@ -1550,7 +1523,6 @@ Afişarea sau publicarea hotărârii de condamnare
 
 Capitolul III Dispoziţii comune
 
-Dispoziţii comune
 
 Articolul 146
 
@@ -1595,7 +1567,6 @@ c) în sarcina persoanelor juridice care au fost create prin divizare sau care a
 
 Titlul VII Cauzele care înlătură răspunderea penală
 
-Cauzele care înlătură răspunderea penală
 
 Articolul 152
 
@@ -1675,7 +1646,6 @@ Articolul 159
 
 Titlul VIII Cauzele care înlătură sau modifică executarea pedepsei
 
-Cauzele care înlătură sau modifică executarea pedepsei
 
 Articolul 160
 
@@ -1727,7 +1697,6 @@ Suspendarea cursului prescripţiei executării pedepsei
 
 Titlul IX Cauzele care înlătură consecinţele condamnării
 
-Cauzele care înlătură consecinţele condamnării
 
 Articolul 165
 
@@ -1781,7 +1750,6 @@ Reabilitarea judecătorească va fi anulată când, după acordarea ei, s-a desc
 
 Titlul X Înţelesul unor termeni sau expresii în legea penală
 
-Înţelesul unor termeni sau expresii în legea penală
 
 Articolul 172
 
@@ -1894,11 +1862,9 @@ Partea SPECIALĂ
 
 Titlul I Infracţiuni contra persoanei
 
-Infracţiuni contra persoanei
 
 Capitolul I Infracţiuni contra vieţii
 
-Infracţiuni contra vieţii
 
 Articolul 188
 
@@ -1943,7 +1909,6 @@ Uciderea din culpă
 
 Capitolul II Infracţiuni contra integrităţii corporale sau sănătăţii
 
-Infracţiuni contra integrităţii corporale sau sănătăţii
 
 Articolul 193
 
@@ -1995,7 +1960,6 @@ Articolul 198
 
 Capitolul III Infracţiuni săvârşite asupra unui membru de familie
 
-Infracţiuni săvârşite asupra unui membru de familie
 
 Articolul 199
 
@@ -2011,7 +1975,6 @@ Uciderea ori vătămarea nou-născutului săvârşită de către mamă
 
 Capitolul IV Agresiuni asupra fătului
 
-Agresiuni asupra fătului
 
 Articolul 201
 
@@ -2040,7 +2003,6 @@ Vătămarea fătului
 
 Capitolul V Infracţiuni privind obligaţia de asistenţă a celor în primejdie
 
-Infracţiuni privind obligaţia de asistenţă a celor în primejdie
 
 Articolul 203
 
@@ -2055,7 +2017,6 @@ Articolul 204
 
 Capitolul VI Infracţiuni contra libertăţii persoanei
 
-Infracţiuni contra libertăţii persoanei
 
 Articolul 205
 
@@ -2092,7 +2053,6 @@ Hărţuirea
 
 Capitolul VII Traficul şi exploatarea persoanelor vulnerabile
 
-Traficul şi exploatarea persoanelor vulnerabile
 
 Articolul 209
 
@@ -2159,7 +2119,6 @@ Tentativa la infracţiunile prevăzute în art. 209-211 şi art. 213 alin. (2) s
 
 Capitolul VIII Infracţiuni contra libertăţii şi integrităţii sexuale
 
-Infracţiuni contra libertăţii şi integrităţii sexuale
 
 Articolul 218
 
@@ -2230,7 +2189,6 @@ Hărţuirea sexuală
 
 Capitolul IX Infracţiuni ce aduc atingere domiciliului şi vieţii private
 
-Infracţiuni ce aduc atingere domiciliului şi vieţii private
 
 Articolul 224
 
@@ -2267,11 +2225,9 @@ Divulgarea secretului profesional
 
 Titlul II Infracţiuni contra patrimoniului
 
-Infracţiuni contra patrimoniului
 
 Capitolul I Furtul
 
-Furtul
 
 Articolul 228
 
@@ -2324,7 +2280,6 @@ Tentativa la infracţiunile prevăzute în prezentul capitol se pedepseşte.
 
 Capitolul II Tâlhăria şi pirateria
 
-Tâlhăria şi pirateria
 
 Articolul 233
 
@@ -2366,7 +2321,6 @@ Tentativa la infracţiunile prevăzute în art. 233-235 se pedepseşte.
 
 Capitolul III Infracţiuni contra patrimoniului prin nesocotirea încrederii
 
-Infracţiuni contra patrimoniului prin nesocotirea încrederii
 
 Articolul 238
 
@@ -2443,7 +2397,6 @@ Tentativa la infracţiunile prevăzute în art. 239 alin. (1), art. 241 şi art.
 
 Capitolul IV Fraude comise prin sisteme informatice şi mijloace de plată electronice
 
-Fraude comise prin sisteme informatice şi mijloace de plată electronice
 
 Articolul 249
 
@@ -2470,7 +2423,6 @@ Tentativa la infracţiunile prevăzute în prezentul capitol se pedepseşte.
 
 Capitolul V Distrugerea şi tulburarea de posesie
 
-Distrugerea şi tulburarea de posesie
 
 Articolul 253
 
@@ -2503,11 +2455,9 @@ Tulburarea de posesie
 
 Titlul III Infracţiuni privind autoritatea şi frontiera de stat
 
-Infracţiuni privind autoritatea şi frontiera de stat
 
 Capitolul I Infracţiuni contra autorităţii
 
-Infracţiuni contra autorităţii
 
 Articolul 257
 
@@ -2545,7 +2495,6 @@ Sustragerea de sub sechestru
 
 Capitolul II Infracţiuni privind frontiera de stat
 
-Infracţiuni privind frontiera de stat
 
 Articolul 262
 
@@ -2583,7 +2532,6 @@ Sustragerea de la executarea obligaţiilor instituite de autorităţile competen
 
 Titlul IV Infracţiuni contra înfăptuirii justiţiei
 
-Infracţiuni contra înfăptuirii justiţiei
 
 Articolul 266
 
@@ -2765,11 +2713,9 @@ Neexecutarea sancţiunilor penale
 
 Titlul V Infracţiuni de corupţie şi de serviciu
 
-Infracţiuni de corupţie şi de serviciu
 
 Capitolul I Infracţiuni de corupţie
 
-Infracţiuni de corupţie
 
 Articolul 289
 
@@ -2828,7 +2774,6 @@ Lit. g) a art. 294 a fost introdusă de pct. 28 al art. 245 din LEGEA nr. 187 di
 
 Capitolul II Infracţiuni de serviciu
 
-Infracţiuni de serviciu
 
 Articolul 295
 
@@ -2935,11 +2880,9 @@ Dacă faptele prevăzute în art. 295, art. 297, art. 298, art. 300, art. 303, a
 
 Titlul VI Infracţiuni de fals
 
-Infracţiuni de fals
 
 Capitolul I Falsificarea de monede, timbre sau de alte valori
 
-Falsificarea de monede, timbre sau de alte valori
 
 Articolul 310
 
@@ -2989,7 +2932,6 @@ Dispoziţiile cuprinse în prezentul capitol se aplică şi în cazul când infr
 
 Capitolul II Falsificarea instrumentelor de autentificare sau de marcare
 
-Falsificarea instrumentelor de autentificare sau de marcare
 
 Articolul 317
 
@@ -3010,7 +2952,6 @@ Dispoziţiile cuprinse în prezentul capitol se aplică şi atunci când fapta p
 
 Capitolul III Falsuri în înscrisuri
 
-Falsuri în înscrisuri
 
 Articolul 320
 
@@ -3068,11 +3009,9 @@ Dispoziţiile cuprinse în prezentul capitol se aplică şi atunci când fapta p
 
 Titlul VII Infracţiuni contra siguranţei publice
 
-Infracţiuni contra siguranţei publice
 
 Capitolul I Infracţiuni contra siguranţei circulaţiei pe căile ferate
 
-Infracţiuni contra siguranţei circulaţiei pe căile ferate
 
 Articolul 329
 
@@ -3109,7 +3048,6 @@ Accidentul de cale ferată constă în distrugerea sau degradarea adusă mijloac
 
 Capitolul II Infracţiuni contra siguranţei circulaţiei pe drumurile publice
 
-Infracţiuni contra siguranţei circulaţiei pe drumurile publice
 
 Articolul 334
 
@@ -3175,7 +3113,6 @@ Efectuarea de lucrări neautorizate în zona drumului public
 
 Capitolul III Nerespectarea regimului armelor, muniţiilor, materialelor nucleare şi al materiilor explozive
 
-Nerespectarea regimului armelor, muniţiilor, materialelor nucleare şi al materiilor explozive
 
 Articolul 342
 
@@ -3235,7 +3172,6 @@ Tentativa la infracţiunile prevăzute în art. 342 alin. (1) şi alin. (3), art
 
 Capitolul IV Infracţiuni privitoare la regimul stabilit pentru alte activităţi reglementate de lege
 
-Infracţiuni privitoare la regimul stabilit pentru alte activităţi reglementate de lege
 
 Articolul 348
 
@@ -3262,7 +3198,6 @@ Darea de bani cu dobândă, ca îndeletnicire, de către o persoană neautorizat
 
 Capitolul V Infracţiuni contra sănătăţii publice
 
-Infracţiuni contra sănătăţii publice
 
 Articolul 352
 
@@ -3318,7 +3253,6 @@ Traficul de produse sau substanţe toxice
 
 Capitolul VI Infracţiuni contra siguranţei şi integrităţii sistemelor şi datelor informatice
 
-Infracţiuni contra siguranţei şi integrităţii sistemelor şi datelor informatice
 
 Articolul 360
 
@@ -3364,11 +3298,9 @@ Tentativa la infracţiunile prevăzute în prezentul capitol se pedepseşte.
 
 Titlul VIII Infracţiuni care aduc atingere unor relaţii privind convieţuirea socială
 
-Infracţiuni care aduc atingere unor relaţii privind convieţuirea socială
 
 Capitolul I Infracţiuni contra ordinii şi liniştii publice
 
-Infracţiuni contra ordinii şi liniştii publice
 
 Articolul 367
 
@@ -3433,7 +3365,6 @@ Fapta persoanei care, în public, expune sau distribuie fără drept imagini ce 
 
 Capitolul II Infracţiuni contra familiei
 
-Infracţiuni contra familiei
 
 Articolul 376
 
@@ -3475,7 +3406,6 @@ Articolul 380
 
 Capitolul III Infracţiuni contra libertăţii religioase şi respectului datorat persoanelor decedate
 
-Infracţiuni contra libertăţii religioase şi respectului datorat persoanelor decedate
 
 Articolul 381
 
@@ -3503,7 +3433,6 @@ Prelevarea de ţesuturi sau organe de la un cadavru, fără drept, se pedepseşt
 
 Titlul IX Infracţiuni electorale
 
-Infracţiuni electorale
 
 Articolul 385
 
@@ -3565,7 +3494,6 @@ Tentativa la infracţiunile prevăzute în art. 385 şi art. 387-391 se pedepse�
 
 Titlul X Infracţiuni contra securităţii naţionale
 
-Infracţiuni contra securităţii naţionale
 
 Articolul 394
 
@@ -3683,11 +3611,9 @@ Sancţionarea tentativei
 
 Titlul XI Infracţiuni contra capacităţii de luptă a forţelor armate
 
-Infracţiuni contra capacităţii de luptă a forţelor armate
 
 Capitolul I Infracţiuni săvârşite de militari
 
-Infracţiuni săvârşite de militari
 
 Articolul 413
 
@@ -3811,7 +3737,6 @@ Acţiunea penală pentru infracţiunile prevăzute în art. 413-417 se pune în 
 
 Capitolul II Infracţiuni săvârşite de militari sau de civili
 
-Infracţiuni săvârşite de militari sau de civili
 
 Articolul 432
 
@@ -3850,11 +3775,9 @@ Folosirea, fără drept, în timp de război sau pe durata stării de asediu, î
 
 Titlul XII Infracţiuni de genocid, contra umanităţii şi de război
 
-Infracţiuni de genocid, contra umanităţii şi de război
 
 Capitolul I Infracţiuni de genocid şi contra umanităţii
 
-Infracţiuni de genocid şi contra umanităţii
 
 Articolul 438
 
@@ -3888,7 +3811,6 @@ k) alte asemenea fapte inumane ce cauzează suferinţe mari sau vătămări ale 
 
 Capitolul II Infracţiuni de război
 
-Infracţiuni de război
 
 Articolul 440
 
@@ -3962,7 +3884,6 @@ Tentativa la infracţiunile prevăzute în prezentul titlu se pedepseşte.
 
 Titlul XIII Dispoziţii finale
 
-Dispoziţii finale
 
 Articolul 446
 
