@@ -1,11 +1,11 @@
 source:
-  html: http://legislatie.just.ro/Public/DetaliiDocument/163138
-  print: http://legislatie.just.ro/Public/FormaPrintabila/00000G245KMQ6FXKIVG1FQL2S70X92V0
+  html: http://legislatie.just.ro/Public/DetaliiDocument/163645
+  print: http://legislatie.just.ro/Public/FormaPrintabila/00000G38NR3BII68AO71671SOUX4NX8A
 
 ---
 CODUL PENAL din 17 iulie 2009 (*actualizat*)
 (LEGEA nr. 286/2009)
-(actualizat până la data 4 iulie 2014*)
+(actualizat până la data 19 noiembrie 2014*)
 EMITENT	
 PARLAMENTUL
 
@@ -1639,7 +1639,19 @@ Articolul 159
 Împăcarea
 (1) Împăcarea poate interveni în cazul în care punerea în mişcare a acţiunii penale s-a făcut din oficiu, dacă legea o prevede în mod expres.
 (2) Împăcarea înlătură răspunderea penală şi stinge acţiunea civilă.
-(3) Împăcarea produce efecte numai cu privire la persoanele între care a intervenit şi dacă are loc până la citirea actului de sesizare a instanţei.
+(3) Împăcarea produce efecte numai cu privire la persoanele între care a intervenit şi dacă are loc până la citirea actului de sesizare a instanţei*).
+Notă 
+
+──────────
+
+*) Prin DECIZIA CURŢII CONSTITUŢIONALE nr. 508 din 7 octombrie 2014, publicată în MONITORUL OFICIAL nr. 843 din 19 noiembrie 2014, s-a admis excepţia de neconstituţionalitate a dispoziţiilor art. 159 alin. (3) din Codul penal, constatându-se că acestea sunt constituţionale în măsura în care se aplică tuturor inculpaţilor trimişi în judecată înaintea datei intrării în vigoare a Legii nr. 286/2009 privind Codul penal şi pentru care la acea dată momentul citirii actului de sesizare fusese depăşit.
+
+Conform art. 147 alin. (1) din CONSTITUŢIA ROMÂNIEI republicată în MONITORUL OFICIAL nr. 767 din 31 octombrie 2003 dispoziţiile din legile şi ordonanţele în vigoare, precum şi cele din regulamente, constatate ca fiind neconstituţionale, îşi încetează efectele juridice la 45 de zile de la publicarea deciziei Curţii Constituţionale dacă, în acest interval, Parlamentul sau Guvernul, după caz, nu pun de acord prevederile neconstituţionale cu dispoziţiile Constituţiei. Pe durata acestui termen, dispoziţiile constatate ca fiind neconstituţionale sunt suspendate de drept.
+
+În concluzie, începând cu data de 19 noiembrie 2014, dispoziţiile invocate mai sus sunt suspendate de drept, în măsura în care nu se aplică tuturor inculpaţilor trimişi în judecată înaintea datei intrării în vigoare a Legii nr. 286/2009 privind Codul penal şi pentru care la acea dată momentul citirii actului de sesizare fusese depăşit, urmând să-şi înceteze efectele juridice în data de 3 ianuarie 2015, dacă legiuitorul nu intervine pentru modificarea prevederilor atacate.
+
+──────────
+
 (4) Pentru persoanele lipsite de capacitate de exerciţiu, împăcarea se face numai de reprezentanţii lor legali, iar persoanele cu capacitate de exerciţiu restrânsă se pot împăca cu încuviinţarea persoanelor prevăzute de lege.
 (5) În cazul persoanei juridice, împăcarea se realizează de reprezentantul său legal sau convenţional ori de către persoana desemnată în locul acestuia. Împăcarea intervenită între persoana juridică ce a săvârşit infracţiunea şi persoana vătămată nu produce efecte faţă de persoanele fizice care au participat la comiterea aceleiaşi fapte.
 (6) În cazul în care infracţiunea este săvârşită de reprezentantul persoanei juridice vătămate, dispoziţiile art. 158 alin. (4) se aplică în mod corespunzător.
