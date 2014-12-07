@@ -1,11 +1,11 @@
 source:
-  html: http://legislatie.just.ro/Public/DetaliiDocument/163645
-  print: http://legislatie.just.ro/Public/FormaPrintabila/00000G38NR3BII68AO71671SOUX4NX8A
+  html: http://legislatie.just.ro/Public/DetaliiDocument/165243
+  print: http://legislatie.just.ro/Public/FormaPrintabila/00000G13FB28IBUXXKT32LF3OSHXB4SU
 
 ---
 CODUL PENAL din 17 iulie 2009 (*actualizat*)
 (LEGEA nr. 286/2009)
-(actualizat până la data 19 noiembrie 2014*)
+(actualizat până la data 8 decembrie 2014*)
 EMITENT	
 PARLAMENTUL
 
@@ -2617,8 +2617,9 @@ Sustragerea sau distrugerea de probe ori de înscrisuri
 
 Articolul 276
 
-Presiuni asupra justiţiei
-Fapta persoanei care, pe durata unei proceduri judiciare în curs, face declaraţii publice nereale referitoare la săvârşirea, de către judecător sau de organele de urmărire penală, a unei infracţiuni sau a unei abateri disciplinare grave legate de instrumentarea respectivei cauze, în scopul de a le influenţa sau intimida, se pedepseşte cu închisoare de la 3 luni la un an sau cu amendă.
+Abrogat.
+----------
+Art. 276 a fost abrogat de art. unic din LEGEA nr. 159 din 4 decembrie 2014, publicată în MONITORUL OFICIAL nr. 887 din 5 decembrie 2014.
 
 Articolul 277
 
