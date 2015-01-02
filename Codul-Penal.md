@@ -1,11 +1,11 @@
 source:
-  html: http://legislatie.just.ro/Public/DetaliiDocument/165243
-  print: http://legislatie.just.ro/Public/FormaPrintabila/00000G13FB28IBUXXKT32LF3OSHXB4SU
+  html: http://legislatie.just.ro/Public/DetaliiDocument/165639
+  print: http://legislatie.just.ro/Public/FormaPrintabila/00000G06IIB4XRE6Y8A0SP0MHYBMRHH4
 
 ---
 CODUL PENAL din 17 iulie 2009 (*actualizat*)
 (LEGEA nr. 286/2009)
-(actualizat până la data 8 decembrie 2014*)
+(actualizat până la data 3 ianuarie 2015*)
 EMITENT	
 PARLAMENTUL
 
@@ -1648,7 +1648,7 @@ Notă
 
 Conform art. 147 alin. (1) din CONSTITUŢIA ROMÂNIEI republicată în MONITORUL OFICIAL nr. 767 din 31 octombrie 2003 dispoziţiile din legile şi ordonanţele în vigoare, precum şi cele din regulamente, constatate ca fiind neconstituţionale, îşi încetează efectele juridice la 45 de zile de la publicarea deciziei Curţii Constituţionale dacă, în acest interval, Parlamentul sau Guvernul, după caz, nu pun de acord prevederile neconstituţionale cu dispoziţiile Constituţiei. Pe durata acestui termen, dispoziţiile constatate ca fiind neconstituţionale sunt suspendate de drept.
 
-În concluzie, începând cu data de 19 noiembrie 2014, dispoziţiile invocate mai sus sunt suspendate de drept, în măsura în care nu se aplică tuturor inculpaţilor trimişi în judecată înaintea datei intrării în vigoare a Legii nr. 286/2009 privind Codul penal şi pentru care la acea dată momentul citirii actului de sesizare fusese depăşit, urmând să-şi înceteze efectele juridice în data de 3 ianuarie 2015, dacă legiuitorul nu intervine pentru modificarea prevederilor atacate.
+Prin urmare, în intervalul 19 noiembrie 2014-2 ianuarie 2015, dispoziţiile art. 159 alin. (3) din Codul penal, în măsura în care nu se aplică tuturor inculpaţilor trimişi în judecată înaintea datei intrării în vigoare a Legii nr. 286/2009 privind Codul penal şi pentru care la acea dată momentul citirii actului de sesizare fusese depăşit, au fost suspendate de drept, încetându-şi efectele juridice începând cu data de 3 ianuarie 2015, întrucât legiuitorul nu a intervenit pentru modificarea prevederilor declarate neconstituţionale.
 
 ──────────
 
