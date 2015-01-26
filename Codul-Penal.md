@@ -1,11 +1,11 @@
 source:
-  html: http://legislatie.just.ro/Public/DetaliiDocument/165243
-  print: http://legislatie.just.ro/Public/FormaPrintabila/00000G13FB28IBUXXKT32LF3OSHXB4SU
+  html: http://legislatie.just.ro/Public/DetaliiDocument/173058
+  print: http://legislatie.just.ro/Public/FormaPrintabila/00000G2YAEE05IC92Q11FG8MUEINDCD7
 
 ---
 CODUL PENAL din 17 iulie 2009 (*actualizat*)
 (LEGEA nr. 286/2009)
-(actualizat până la data 8 decembrie 2014*)
+(actualizat până la data 27 ianuarie 2015*)
 EMITENT	
 PARLAMENTUL
 
@@ -1648,7 +1648,7 @@ Notă
 
 Conform art. 147 alin. (1) din CONSTITUŢIA ROMÂNIEI republicată în MONITORUL OFICIAL nr. 767 din 31 octombrie 2003 dispoziţiile din legile şi ordonanţele în vigoare, precum şi cele din regulamente, constatate ca fiind neconstituţionale, îşi încetează efectele juridice la 45 de zile de la publicarea deciziei Curţii Constituţionale dacă, în acest interval, Parlamentul sau Guvernul, după caz, nu pun de acord prevederile neconstituţionale cu dispoziţiile Constituţiei. Pe durata acestui termen, dispoziţiile constatate ca fiind neconstituţionale sunt suspendate de drept.
 
-În concluzie, începând cu data de 19 noiembrie 2014, dispoziţiile invocate mai sus sunt suspendate de drept, în măsura în care nu se aplică tuturor inculpaţilor trimişi în judecată înaintea datei intrării în vigoare a Legii nr. 286/2009 privind Codul penal şi pentru care la acea dată momentul citirii actului de sesizare fusese depăşit, urmând să-şi înceteze efectele juridice în data de 3 ianuarie 2015, dacă legiuitorul nu intervine pentru modificarea prevederilor atacate.
+Prin urmare, în intervalul 19 noiembrie 2014-2 ianuarie 2015, dispoziţiile art. 159 alin. (3) din Codul penal, în măsura în care nu se aplică tuturor inculpaţilor trimişi în judecată înaintea datei intrării în vigoare a Legii nr. 286/2009 privind Codul penal şi pentru care la acea dată momentul citirii actului de sesizare fusese depăşit, au fost suspendate de drept, încetându-şi efectele juridice începând cu data de 3 ianuarie 2015, întrucât legiuitorul nu a intervenit pentru modificarea prevederilor declarate neconstituţionale.
 
 ──────────
 
@@ -3080,7 +3080,19 @@ Conducerea unui vehicul fără permis de conducere
 Articolul 336
 
 Conducerea unui vehicul sub influenţa alcoolului sau a altor substanţe
-(1) Conducerea pe drumurile publice a unui vehicul pentru care legea prevede obligativitatea deţinerii permisului de conducere de către o persoană care, la momentul prelevării mostrelor biologice, are o îmbibaţie alcoolică de peste 0,80 g/l alcool pur în sânge se pedepseşte cu închisoare de la unu la 5 ani sau cu amendă.
+(1) Conducerea pe drumurile publice a unui vehicul pentru care legea prevede obligativitatea deţinerii permisului de conducere de către o persoană care, la momentul prelevării mostrelor biologice*), are o îmbibaţie alcoolică de peste 0,80 g/l alcool pur în sânge se pedepseşte cu închisoare de la unu la 5 ani sau cu amendă.
+Notă 
+
+──────────
+
+Prin DECIZIA CURŢII CONSTITUŢIONALE nr. 732 din 16 decembrie 2014, publicată în MONITORUL OFICIAL nr. 69 din 27 ianuarie 2015, s-a admis excepţia de neconstituţionalitate a dispoziţiilor art. 336 alin. (1) din Codul penal, constatându-se că sintagma "la momentul prelevării mostrelor biologice" din cuprinsul dispoziţiilor art. 336 alin. (1) din Codul penal este neconstituţională.
+
+Conform art. 147 alin. (1) din CONSTITUŢIA ROMÂNIEI republicată în MONITORUL OFICIAL nr. 767 din 31 octombrie 2003 dispoziţiile din legile şi ordonanţele în vigoare, precum şi cele din regulamente, constatate ca fiind neconstituţionale, îşi încetează efectele juridice la 45 de zile de la publicarea deciziei Curţii Constituţionale dacă, în acest interval, Parlamentul sau Guvernul, după caz, nu pun de acord prevederile neconstituţionale cu dispoziţiile Constituţiei. Pe durata acestui termen, dispoziţiile constatate ca fiind neconstituţionale sunt suspendate de drept.
+
+În concluzie, începând cu data de 27 ianuarie 2015, dispoziţiile invocate mai sus sunt suspendate de drept, urmând să-şi înceteze efectele juridice în data de 13 martie 2015, dacă legiuitorul nu intervine pentru modificarea prevederilor atacate.
+
+──────────
+
 (2) Cu aceeaşi pedeapsă se sancţionează şi persoana, aflată sub influenţa unor substanţe psihoactive, care conduce un vehicul pentru care legea prevede obligativitatea deţinerii permisului de conducere.
 (3) Dacă persoana aflată în una dintre situaţiile prevăzute în alin. (1) şi alin. (2) efectuează transport public de persoane, transport de substanţe sau produse periculoase ori se află în procesul de instruire practică a unor persoane pentru obţinerea permisului de conducere sau în timpul desfăşurării probelor practice ale examenului pentru obţinerea permisului de conducere, pedeapsa este închisoarea de la 2 la 7 ani.
 
@@ -3915,4 +3927,4 @@ PREŞEDINTELE SENATULUI
 MIRCEA-DAN GEOANĂ
 Bucureşti, 17 iulie 2009.
 Nr. 286.
-----
+------
