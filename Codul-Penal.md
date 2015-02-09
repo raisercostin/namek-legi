@@ -1,11 +1,11 @@
 source:
-  html: http://legislatie.just.ro/Public/DetaliiDocument/173058
-  print: http://legislatie.just.ro/Public/FormaPrintabila/00000G2YAEE05IC92Q11FG8MUEINDCD7
+  html: http://legislatie.just.ro/Public/DetaliiDocument/178653
+  print: http://legislatie.just.ro/Public/FormaPrintabila/00000G1DPE2DQVDZFS43TTPB83M8SUP8
 
 ---
 CODUL PENAL din 17 iulie 2009 (*actualizat*)
 (LEGEA nr. 286/2009)
-(actualizat până la data 27 ianuarie 2015*)
+(actualizat până la data 9 februarie 2015*)
 EMITENT	
 PARLAMENTUL
 
@@ -1206,7 +1206,7 @@ o) infracţiuni privind regimul vamal;
 p) infracţiuni de fraudă comise prin sisteme informatice şi mijloace de plată electronice;
 q) traficul de organe, ţesuturi sau celule de origine umană.
 (2) Confiscarea extinsă se dispune dacă sunt îndeplinite cumulativ următoarele condiţii:
-a) valoarea bunurilor dobândite de persoana condamnată, într-o perioadă de 5 ani înainte şi, dacă este cazul, după momentul săvârşirii infracţiunii, până la data emiterii actului de sesizare a instanţei, depăşeşte în mod vădit veniturile obţinute de aceasta în mod licit;
+a) valoarea bunurilor dobândite de persoana condamnată, într-o perioadă de 5 ani înainte şi, dacă este cazul, după momentul săvârşirii infracţiunii, până la data emiterii actului de sesizare a instanţei, depăşeşte în mod vădit veniturile obţinute de aceasta în mod licit*);
 b) instanţa are convingerea că bunurile respective provin din activităţi infracţionale de natura celor prevăzute la alin. (1).
 (3) Pentru aplicarea dispoziţiilor alin. (2) se va ţine seama şi de valoarea bunurilor transferate de către persoana condamnată ori de un terţ unui membru al familiei sau unei persoane juridice asupra căreia persoana condamnată deţine controlul.
 (4) Prin bunuri, conform prezentului articol, se înţelege şi sumele de bani.
@@ -1216,6 +1216,18 @@ b) instanţa are convingerea că bunurile respective provin din activităţi inf
 (8) Confiscarea nu poate depăşi valoarea bunurilor dobândite în perioada prevăzută la alin. (2), care excedează nivelului veniturilor licite ale persoanei condamnate.
 --------
 Art. 112^1 a fost introdus de pct. 2 al art. II din LEGEA nr. 63 din 17 aprilie 2012, publicată în MONITORUL OFICIAL nr. 258 din 19 aprilie 2012.
+Notă 
+
+──────────
+
+*) Prin DECIZIA CURŢII CONSTITUŢIONALE nr. 11 din 15 ianuarie 2015, publicată în MONITORUL OFICIAL nr. 102 din 9 februarie 2015, s-a admis excepţia de neconstituţionalitate a dispoziţiilor art. 112^1 alin. (2) lit. a) din Codul penal, constatându-se că acestea sunt constituţionale în măsura în care confiscarea extinsă nu se aplică asupra bunurilor dobândite înainte de intrarea în vigoare a Legii nr. 63/2012 pentru modificarea şi completarea Codului penal al României şi a Legii nr. 286/2009 privind Codul penal.
+
+Conform art. 147 alin. (1) din CONSTITUŢIA ROMÂNIEI republicată în MONITORUL OFICIAL nr. 767 din 31 octombrie 2003 dispoziţiile din legile şi ordonanţele în vigoare, precum şi cele din regulamente, constatate ca fiind neconstituţionale, îşi încetează efectele juridice la 45 de zile de la publicarea deciziei Curţii Constituţionale dacă, în acest interval, Parlamentul sau Guvernul, după caz, nu pun de acord prevederile neconstituţionale cu dispoziţiile Constituţiei. Pe durata acestui termen, dispoziţiile constatate ca fiind neconstituţionale sunt suspendate de drept.
+
+În concluzie, începând cu data de 9 februarie 2015, dispoziţiile invocate mai sus sunt suspendate de drept, în măsura în care confiscarea extinsă se aplică asupra bunurilor dobândite înainte de intrarea în vigoare a Legii nr. 63/2012 pentru modificarea şi completarea Codului penal al României şi a Legii nr. 286/2009 privind Codul penal, urmând să-şi înceteze efectele juridice în data de 26 martie 2015, dacă legiuitorul nu intervine pentru modificarea prevederilor atacate.
+
+──────────
+
 
 Titlul V Minoritatea
 
