@@ -612,3 +612,24 @@
   - Uniunea Naţională a Practicienilor în Insolvenţă
   - Uniunea Naţională a Practicienilor în Reorganizare şi Lichidare
   - Uniunea pentru Protecţia Noilor Soiuri de Plante
+
+# Software System
+
+## Features
+- branches
+  - original
+  - cleaned (autoformated) branches for easy tracking of important changes
+  - consolidated (manually cleaned from cleaned branch)
+- autoformat should for example
+  - replace Art. with Articol
+  - a line before and after articol
+- split articles in wiki pages to allow simpler history on changed articles? Combiner is needed.
+- autoextract raw laws from websites
+- law with links to others
+- category to show that laws are replacing and continue other ones. For example:
+  - codul penal roman are 4 versiuni total diferite: Cuza(1864) -> Carol 2(1936) -> Comunism(1969) -> Modern(2009) dar exista si schimbari minore intre aceste schimbari majore.
+- change letters
+  - lowercase - ţ => ţ
+  - (\n\r)+ => \n
+  - (\n)+ => \n
+  - ^Articolul (\d+) => \nArticolul \1\n
