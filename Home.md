@@ -1,7 +1,9 @@
 # Arhiva legi romanesti
 - constitutia
 - coduri
-  - codul penal - https://ro.wikipedia.org/wiki/Codul_penal_al_României
+  - codul penal
+    - https://ro.wikipedia.org/wiki/Codul_penal_al_României
+    - http://legislatie.just.ro/Public/RezultateCautare?tipdoc=90&publicatinceputtext=1936/03/18
 
 # Surse
 
@@ -13,3 +15,594 @@
 - parlament - http://www.cdep.ro/pls/legis/
 - worst - monitorul oficial
 
+
+
+# 
+
+- Tip Act
+  - ACORD
+  - ACT
+  - ACT ADIŢIONAL
+  - ACT INTERNAŢIONAL
+  - ACŢIUNE COMUNĂ
+  - ADDENDUM
+  - AMENDAMENT
+  - ANEXĂ
+  - APEL
+  - ARANJAMENT
+  - ATRIBUŢII
+  - AVIZ CONSULTATIV
+  - CADRU GENERAL
+  - CAIET SARCINI-CADRU
+  - CALCULATOR IMPOZITE
+  - CARTĂ
+  - CASARE
+  - CERINŢE
+  - CIRCULARĂ
+  - COD DE CONDUITĂ
+  - COD DE PROCEDURĂ DISCIPLINARĂ
+  - COD TEHNIC
+  - COD TEHNIC AL GAZELOR NATURALE
+  - CODUL AERIAN
+  - CODUL CIVIL
+  - CODUL COMERCIAL
+  - CODUL CONSUMULUI
+  - CODUL DE BUNE PRACTICI ÎN FERMĂ
+  - CODUL DE ETICĂ
+  - CODUL DE PROCEDURĂ CIVILĂ
+  - CODUL DE PROCEDURĂ FISCALĂ
+  - CODUL DE PROCEDURĂ PENALĂ
+  - CODUL DE REGLEMENTARE A CONŢINUTULUI AUDIOVIZUAL
+  - CODUL DE SIGURANŢĂ
+  - CODUL DE STANDARDE INTERNAŢIONALE ŞI PRACTICI RECOMANDATE
+  - CODUL DREPTURILOR ŞI OBLIGAŢIILOR STUDENTULUI
+  - CODUL EUROPEAN DE SECURITATE SOCIALĂ
+  - CODUL FAMILIEI
+  - CODUL FISCAL
+  - CODUL INF
+  - CODUL INTERNAŢIONAL (FTP)
+  - CODUL INTERNAŢIONAL DE MANAGEMENT
+  - CODUL INTERNAŢIONAL PENTRU CEREALE
+  - CODUL ISPS
+  - CODUL JUSTIŢIEI MILITARE
+  - CODUL LSA
+  - CODUL MODU
+  - CODUL MUNCII
+  - CODUL NAVĂ
+  - CODUL OSV
+  - CODUL PENAL
+  - CODUL PENTRU CONSTRUCŢIA NAVELOR SPECIALE
+  - CODUL SILVIC
+  - CODUL STUDIILOR UNIVERSITARE
+  - CODUL VAMAL
+  - COMPLETARE
+  - COMUNICAT
+  - CONDI?II
+  - CONDIŢII ŞI PROCEDURI
+  - CONSTITUŢIE
+  - CONTRACT
+  - CONTRACT MUNCĂ
+  - CONTRACT-CADRU
+  - CONŢINUT-CADRU
+  - CONVENŢIE
+  - CPV
+  - CRITERII
+  - CUANTUM TOTAL
+  - DECIZIE
+  - DECLARAŢIE
+  - DECRET
+  - DECRET-LEGE
+  - DIRECTIVĂ
+  - DISCURS
+  - DISPOZIŢIE
+  - DOCUMENT
+  - DOSAR
+  - FLUX INFORMAŢIONAL
+  - GHID
+  - HOTĂRÂRE
+  - INIŢIATIVĂ LEGISLATIVĂ
+  - INSTRUCŢIUNI
+  - INSTRUMENT
+  - INSTRUMENT PENTRU AMENDARE
+  - ÎNCHEIERE
+  - ÎNDRUMAR
+  - ÎNŢELEGERE
+  - LEGE
+  - LISTĂ
+  - MANUAL DE OPERARE
+  - MANUALUL PREFECTULUI
+  - MANUALUL PRIMARULUI
+  - MĂSURI
+  - MECANISME
+  - MEMORANDUM
+  - MESAJ
+  - METODĂ
+  - METODOLOGIE
+  - MINUTĂ
+  - MODALITĂŢI ŞI PROCEDURI
+  - MODALITĂŢI UNITARE
+  - MODUL
+  - MOŢIUNE
+  - NOMENCLATOR
+  - NORMATIV
+  - NORMĂ
+  - OPINIE SEPARATĂ
+  - ORDIN
+  - ORDONANŢĂ
+  - ORDONANŢĂ DE URGENŢĂ
+  - PACT
+  - PLAN
+  - POZIŢIE COMUNĂ
+  - PRECIZĂRI
+  - PRESCRIPŢII
+  - PRINCIPII
+  - PROCEDURĂ
+  - PROCES VERBAL
+  - PROCLAMAŢIE
+  - PROGRAM
+  - PROGRAMĂ ANALITICĂ
+  - PROIECT
+  - PROIECT DE LEGE
+  - PROPUNERE
+  - PROPUNERE
+  - PROTOCOL
+  - RAPORT
+  - RĂSPUNS
+  - RECTIFICARE
+  - RECURS
+  - REGISTRU
+  - REGLEMENTĂRI
+  - REGULAMENT
+  - REGULI
+  - REPERE METODOLOGICE
+  - REZOLUŢIE
+  - SCHEMĂ
+  - SENTINŢĂ
+  - SINTEZĂ
+  - SISTEM
+  - SITUAŢIE
+  - SOLUŢIE
+  - SPECIFICA?IE TEHNICĂ
+  - STANDARD
+  - STATUT
+  - STRATEGIE
+  - STUDIU
+  - TABLOU DE EVIDENŢĂ
+  - TARIF VAMAL
+  - TRANŞE DE VENIT IMPOZABIL
+  - TRATAT
+- EmitentAct:
+  - Academia de Ştiinţe Agricole şi Silvice
+  - Academia de Ştiinţe Juridice din România
+  - Academia Română
+  - Act Internaţional
+  - Administraţia Naţională a Penitenciarelor
+  - Administraţia Naţională a Rezervelor de Stat şi Probleme Speciale
+  - Adunarea Constituantă
+  - Agen?ia de Cooperare Interna?ională pentru Dezvoltare
+  - Agenţia de Cooperare Culturală şi Tehnică
+  - Agenţia Naţională a Funcţionarilor Publici
+  - Agenţia Naţională Antidoping
+  - Agenţia Naţională Antidrog
+  - Agenţia Naţională de Administrare a Bunurilor Indisponibilizate  
+  - Agenţia Naţională de Administrare Fiscală
+  - Agenţia Naţională de Cadastru şi Publicitate Imobiliară
+  - Agenţia Naţională de Control al Exporturilor
+  - Agenţia Naţională de Control al Exporturilor Strategice şi al Interzicerii Armelor Chimice
+  - Agenţia Naţională de Integritate
+  - Agenţia Naţională de Privatizare
+  - Agenţia Naţională Împotriva Traficului de Persoane
+  - Agenţia Naţională Împotriva Traficului de Persoane
+  - Agenţia Naţională pentru Achiziţii Publice
+  - Agenţia Naţională pentru Comunicaţii şi Informatică
+  - Agenţia Naţională pentru Dezvoltare Regională
+  - Agenţia Naţională pentru Egalitatea de Şanse între Femei şi Bărbaţi
+  - Agenţia Naţională pentru Întreprinderi Mici şi Mijlocii şi Cooperaţie
+  - Agenţia Naţională pentru Ocupare şi Formare Profesională
+  - Agenţia Naţională pentru Ocuparea Forţei de Muncă
+  - Agenţia Naţională pentru Privatizare şi Dezvoltarea Întreprinderilor Mici şi Mijlocii
+  - Agenţia Naţională pentru Protecţia Dreptului Copilului
+  - Agenţia Naţională pentru Resurse Minerale
+  - Agenţia Naţională pentru Romi
+  - Agenţia Naţională pentru Sport
+  - Agenţia Nucleară
+  - Agenţia pentru Agenda Digitală a României  
+  - Agenţia pentru Implementarea Proiectelor şi Programelor pentru Întreprinderi Mici şi Mijlocii
+  - Agenţia pentru Strategii Guvernamentale
+  - Agenţia Română de Dezvoltare
+  - Agenţia Română pentru Conservarea Energiei
+  - Agenţia Veterinară şi pentru Siguranţa Alimentelor
+  - Asociaţia Generală a Medicilor
+  - Asociaţia Generală a Vânătorilor şi Pescarilor Sportivi
+  - Asociaţia Naţională a Evaluatorilor Autorizaţi
+  - Asociaţiile Patronale ale Producătorilor de Alcool şi Băuturi Alcoolice
+  - Autoritarea Naţională pentru Comunicaţii
+  - Autoritatea de Supraveghere Financiară
+  - Autoritatea Electorală Permanentă
+  - Autoritatea Hipică Naţională
+  - Autoritatea Naţională a Vămilor
+  - Autoritatea Naţională de Management al Calităţii în Sănătate 
+  - Autoritatea Naţională de Reglementare în Comunicaţii
+  - Autoritatea Naţională de Reglementare în Domeniul Energiei
+  - Autoritatea Naţională de Reglementare în Domeniul Gazelor Naturale
+  - Autoritatea Naţională de Reglementare pentru Serviciile Comunitare de Utilităţi Publice - A.N.R.S.C.
+  - Autoritatea Naţională de Reglementare pentru Serviciile Publice de Gospodărie Comunală
+  - Autoritatea Naţională de Supraveghere a Prelucrării Datelor cu Caracter Personal
+  - Autoritatea Naţională pentru Administrare şi Reglementare în Comunicaţii
+  - Autoritatea Naţională pentru Cercetare Ştiinţifică
+  - Autoritatea Naţională pentru Comunicaţii
+  - Autoritatea Naţională pentru Persoanele cu Dizabilităţi   
+  - Autoritatea Naţională pentru Persoanele cu Handicap
+  - Autoritatea Naţională pentru Protecţia Consumatorilor
+  - Autoritatea Naţională pentru Protecţia Copilului şi Adopţie
+  - Autoritatea Naţională pentru Protecţia Drepturilor Copilului
+  - Autoritatea Naţională pentru Reglementare în Comunicaţii şi Tehnologia Informaţiei
+  - Autoritatea Naţională pentru Reglementarea şi Monitorizarea Achiziţiilor Publice
+  - Autoritatea Naţională pentru Sport şi Tineret
+  - Autoritatea Naţională pentru Turism
+  - Autoritatea Naţională Sanitară Veterinară şi pentru Siguranţa Alimentelor
+  - Autoritatea pentru Administrarea Activelor Statului
+  - Autoritatea pentru Privatizare şi Administrarea Participaţiilor Statului
+  - Autoritatea pentru Reformă Feroviară
+  - Autoritatea pentru Supravegherea Publică a Activită?ii de Audit Statutar
+  - Autoritatea pentru Valorificarea Activelor Statului
+  - Avocatul Poporului
+  - Banc Post S.A.
+  - Banca Agricolă S.A
+  - Banca Export-Import a României
+  - Banca Naţională a României
+  - Biroul Electoral al Municipiului Bucureşti
+  - Biroul Electoral Central
+  - Biroul Internaţional al Expoziţiilor
+  - Biroul Permanent al Camerei Deputaţilor   
+  - Biroul Permanent al Senatului
+  - Biroul Român de Metrologie
+  - Biroul Român de Metrologie Legală
+  - Birourile Permanente ale Camerei Deputaţilor şi Senatului
+  - Buletinul Oficial
+  - Camera Auditorilor din România
+  - Camera Auditorilor Financiari din România
+  - Camera Consultanţilor Fiscali
+  - Camera de Comerţ şi Industrie
+  - Camera Deputaţilor
+  - Casa Asigurărilor de Sănătate a Apărării, Ordinii Publice, Siguranţei Naţionale şi Autorităţii Judecătoreşti
+  - Casa Naţională  de Asigurări de Sănătate
+  - Casa Naţională de Pensii Publice
+  - Casa Naţională de Pensii şi Alte Drepturi de Asigurări Sociale
+  - Centrul Naţional al Cinematografiei
+  - Centrul Teritorial de Calcul Electronic Piatra Neamţ
+  - Colegiul Curţii de Arbitraj Comercial Internaţional
+  - Colegiul Farmaciştilor din România
+  - Colegiul Fizioterapeuţilor din România
+  - Colegiul Medicilor Dentişti din România
+  - Colegiul Medicilor din România
+  - Colegiul Medicilor Veterinari
+  - Colegiul Naţional al Asistenţilor Sociali
+  - Colegiul Psihologilor din România
+  - Comisarul General
+  - Comisia Centrală de Rechiziţii
+  - Comisia Centrală Fiscală
+  - Comisia de Concurs pentru Recrutarea Înalţilor Funcţionari Publici
+  - Comisia de Supraveghere a Asigurărilor
+  - Comisia de Supraveghere a Sistemului de Pensii Private
+  - Comisia Europeană
+  - Comisia Europeană a Drepturilor Omului
+  - Comisia Mixtă Guvernamentală
+  - Comisia Naţională a Valorilor Mobiliare
+  - Comisia Naţională de Acreditare a Spitalelor
+  - Comisia Naţională de Prognoză
+  - Comisia Naţională pentru Contrololul Activităţilor Nucleare
+  - Comisia Naţională pentru Controlul Activităţilor Nucleare
+  - Comisia Naţională pentru Protecţia Muncii
+  - Comisia Naţională pentru Statistică
+  - Comitetul de Stat pentru Energie Nucleară
+  - Comitetul de Stat pentru Preţuri
+  - Comitetul de Stat pentru Problemele Organizării Muncii şi Producţiei şi ale Salarizării
+  - Comitetul Interministerial de Finanţări, Garanţii şi Asigurări
+  - Comitetul Interministerial de Finanţări, Garanţii şi Asigurări
+  - Comitetul Interministerial de Garanţii şi Credite de Comerţ Exterior
+  - Comitetul Mixt din Cadrul Acordului dintre România şi A.E.L.S
+  - Comitetul Mixt România-A.E.L.S.
+  - Comitetul Mixt România-Turcia
+  - Comitetul Na?ional pentru Supraveghere Macropruden?ială
+  - Comitetul Naţional pentru Situaţii de Urgenţă
+  - Comitetul Olimpic şi Sportiv Român
+  - Comitetul pentru Problemele Consiliilor Populare
+  - Comunitatea Economică Europeană
+  - Comunităţile Europene
+  - Conferinţa pentru Securitate şi Cooperare Europeană
+  - Consiliul Central al Uniunii Generale a Sindicatelor
+  - Consiliul Concurenţei
+  - Consiliul de Ajutor Economic Reciproc
+  - Consiliul de Asociere
+  - Consiliul de Asociere
+  - Consiliul de Mediere
+  - Consiliul de Miniştri
+  - Consiliul de Monitorizare a Implementării Convenţiei privind Drepturile Persoanelor cu Dizabilităţi
+  - Consiliul de Securitate
+  - Consiliul de Stat
+  - Consiliul Europei
+  - Consiliul Frontului Salvării Naţionale
+  - Consiliul General al Asigurărilor Sociale de Stat
+  - Consiliul Judeţean Suceava
+  - Consiliul Local - Municipiul Sighişoara
+  - Consiliul Local al Municipiului Adjud
+  - Consiliul Local al Municipiului Baia Mare
+  - Consiliul Local al Municipiului Braşov
+  - Consiliul Local al Municipiului Brăila
+  - Consiliul Local al Municipiului Cluj-Napoca
+  - Consiliul Local al Municipiului Cluj-Napoca
+  - Consiliul Local al Municipiului Focşani
+  - Consiliul Local al Municipiului Galaţi
+  - Consiliul Local al Municipiului Huşi
+  - Consiliul Local al Municipiului Marghita
+  - Consiliul Local al Municipiului Mediaş
+  - CONSILIUL LOCAL AL MUNICIPIULUI PETROŞANI  
+  - Consiliul Local al Municipiului Piteşti
+  - Consiliul Local al Municipiului Reghin
+  - Consiliul Local al Municipiului Sebeş
+  - Consiliul Local al Municipiului Sibiu
+  - Consiliul Local al Municipiului Târgu-Mureş
+  - Consiliul Local al Municipiului Târnăveni
+  - Consiliul Local al Municipiului Zalău
+  - Consiliul Local al Sectorului 6 Bucureşti   
+  - Consiliul Municipiului Oradea
+  - Consiliul Naţional al Apelor
+  - Consiliul Naţional al Audiovizualului
+  - Consiliul Naţional al Ordinului Asistenţilor Medicali şi Moaşelor din România
+  - Consiliul Naţional de Integritate
+  - Consiliul Naţional pentru Combaterea Discriminării
+  - Consiliul Naţional pentru Studierea Arhivelor Securităţii
+  - Consiliul pentru Dezvoltare Regională
+  - Consiliul pentru Dezvoltare Regională Sud Vest Oltenia
+  - Consiliul pentru Supravegherea în Interes Public a Profesiei Contabile
+  - Consiliul pentru Supravegherea Publică a Activităţii de Audit Statutar
+  - Consiliul pentru Supravegherea Publică a Activităţii de Audit Statutar
+  - Consiliul Provizoriu de Uniune Naţională
+  - Consiliul Superior al Agriculturii
+  - Consiliul Superior al Magistraturii
+  - Consiliul Superior al Registrului Urbaniştilor din România
+  - Consiliul Suprem de Apărare a Ţării
+  - Consiliul Ştiinţific al Agenţiei Naţionale a Medicamentului
+  - Consiliul Uniunii Europene
+  - Corporaţia Financiară Internaţională
+  - Corpul Experţilor Contabili
+  - CREDITCOOP Casa Centrală
+  - Curtea Constituţională
+  - Curtea de Apel Braşov - Secţia Contencios Administrativ şi Fiscal
+  - Curtea de Apel Bucureşti - Secţia a IV-a Civilă
+  - Curtea de Apel Bucureşti-Secţia a IX a Civilă şi pentru Cauze Privind Proprietatea Intelectuală
+  - Curtea de Apel Bucureşti-Secţia a VIII-a Contencios Administrativ, Fiscal
+  - Curtea de Apel Cluj – Secţia Comercială, Contencios Administrativ şi Fiscal
+  - Curtea de Apel Ploieşti
+  - Curtea de Apel Târgu-Mureş - Secţia a II-a Civilă, de Contencios Administrativ şi Fiscal
+  - Curtea de Apel Timişoara - Secţia de Contencios Administrativ şi Fiscal   
+  - Curtea de Arbitraj Comercial Interna?ional
+  - Curtea de Conturi
+  - Curtea Europeană a Drepturilor Omului
+  - Curtea Supremă de Justiţie
+  - Departamentul  pentru Administrare Publică Locală
+  - Departamentul de Comerţ Exterior
+  - Departamentul pentru Afaceri Europene
+  - Departamentul pentru Ape, Păduri şi Piscicultură
+  - Departamentul pentru Energie
+  - Departamentul pentru Întreprinderi Mici şi Mijlocii, Mediul de Afaceri şi Turism
+  - Departamentul pentru Proiecte de Infrastructură şi Investiţii
+  - Departamentul pentru Protecţia Minorităţilor Naţionale
+  - Direcţia Generală a Editurilor, Industriei Poligrafice, Difuzării Cărţii şi Presei
+  - Direcţia Generală a Vămilor
+  - Direcţia Generală de Statistică
+  - Direcţia Generală Impozite Indirecte
+  - Direcţia Naţională Anticorupţie
+  - Direcţia Veniturilor de Stat
+  - Domnitorul
+  - Fondul de Garantare a Asiguraţilor 
+  - Fondul de Garantare a Depozitelor Bancare
+  - Fondul de Garantare a Drepturilor din Sistemul de Pensii Private
+  - Fondul Monetar Internaţional
+  - Fondul Proprietăţii de Stat
+  - Fondul Român de Dezvoltare Socială
+  - Guvernul
+  - Inspectoratul de Stat în Construcţii
+  - Inspectoratul General pentru Comunicaţii şi Tehnologia Informaţiei
+  - Inspectoratul General pentru Situaţii de Urgenţă
+  - Inspecţia de Stat pentru Controlul Cazanelor, Recipientelor sub Presiune şi Instalaţiilor de Ridicat
+  - Inspecţia Socială
+  - Institutul de Investigare a Crimelor Comunismului în România
+  - Institutul Naţional de Statistică (şi Studii Economice)
+  - Înalta Curte de Casaţie şi Justiţie
+  - Marea Adunare Naţională
+  - Ministerul Administraţiei Publice
+  - Ministerul Administraţiei şi Internelor
+  - Ministerul Afacerilor Europene
+  - Ministerul Afacerilor Externe
+  - Ministerul Afacerilor Interne
+  - Ministerul Agriculturii
+  - Ministerul Agriculturii şi Alimentaţiei
+  - Ministerul Agriculturii şi Dezvoltării Rurale
+  - Ministerul Agriculturii, Alimentaţiei şi Pădurilor
+  - Ministerul Agriculturii, Industriei Alimentare şi Apelor
+  - Ministerul Agriculturii, Pădurilor şi Dezvoltării Rurale
+  - Ministerul Agriculturii, Pădurilor, Apelor şi Mediului
+  - Ministerul Apărării Naţionale
+  - Ministerul Apelor și Pădurilor
+  - Ministerul Apelor şi Protecţiei Mediului
+  - Ministerul Aprovizionării Tehnico-Materiale şi Gospodăririi Fondurilor Fixe
+  - Ministerul Artelor
+  - Ministerul Cercetării ?i Inovării
+  - Ministerul Cercetării şi Tehnologiei
+  - Ministerul Comerţului
+  - Ministerul Comerţului Exterior
+  - Ministerul Comerţului şi Turismului
+  - Ministerul Comunicaţiilor
+  - Ministerul Comunicaţiilor şi Societăţii Informaţionale
+  - Ministerul Comunicaţiilor şi Tehnologiei Informaţiei
+  - Ministerul Construcţiilor
+  - Ministerul Consultării Publice ?i Dialogului Social
+  - Ministerul Cultelor
+  - Ministerul Culturii
+  - Ministerul Culturii și Identității Naționale
+  - Ministerul Culturii şi Cultelor
+  - Ministerul Culturii şi Identitatii Naţionale
+  - Ministerul Culturii şi Patrimoniului Naţional
+  - Ministerul Culturii, Cultelor şi Patrimoniului Naţional
+  - Ministerul de Interne
+  - Ministerul Dezvoltării Regionale şi Administraţiei Publice
+  - Ministerul Dezvoltării Regionale şi Locuinţei
+  - Ministerul Dezvoltării Regionale şi Turismului
+  - Ministerul Dezvoltării Regionale, Administraţiei Publice şi Fondurilor Europene
+  - Ministerul Dezvoltării şi Prognozei
+  - Ministerul Dezvoltării, Lucrărilor Publice şi Locuinţelor
+  - Ministerul Economiei
+  - Ministerul Economiei Forestiere
+  - Ministerul Economiei şi Comerţului
+  - Ministerul Economiei şi Finanţelor
+  - Ministerul Economiei, Comerţului şi Mediului de Afaceri
+  - Ministerul Economiei, Comerţului şi Relaţiilor cu Mediul de Afaceri  
+  - Ministerul Economiei, Comerţului şi Turismului
+  - Ministerul Educaţiei Naţionale
+  - Ministerul Educaţiei Naţionale şi Cercetării Ştiinţifice
+  - Ministerul Educaţiei şi Cercetării
+  - Ministerul Educaţiei şi Cercetării Ştiinţifice
+  - Ministerul Educaţiei, Cercetării şi Inovării
+  - Ministerul Educaţiei, Cercetării şi Tineretului
+  - Ministerul Educaţiei, Cercetării şi Tineretului
+  - Ministerul Educaţiei, Cercetării, Tineretului şi Sportului
+  - Ministerul Energiei
+  - Ministerul Energiei Electrice
+  - Ministerul Energiei, Întreprinderilor Mici şi Mijlocii şi Mediului de Afaceri
+  - Ministerul Finanţelor
+  - Ministerul Finanţelor Publice
+  - Ministerul Fondurilor Europene
+  - Ministerul Funcţiei Publice
+  - Ministerul Industriei Chimice
+  - Ministerul Industriei Metalurgice
+  - Ministerul Industriei şi Comerţului
+  - Ministerul Industriei şi Resurselor
+  - Ministerul Industriei Uşoare
+  - Ministerul Industriilor
+  - Ministerul Integrării Europene
+  - Ministerul Internelor şi Reformei Administrative
+  - Ministerul Întreprinderilor Mici şi Mijlocii, Comerţului şi Mediului de Afaceri
+  - Ministerul Învăţământului
+  - Ministerul Justiţiei
+  - Ministerul Justiţiei şi Libertăţilor Cetăţeneşti
+  - Ministerul Lucrărilor Publice
+  - Ministerul Lucrărilor Publice, Transporturilor şi Locuinţei
+  - Ministerul Mediului
+  - Ministerul Mediului şi Dezvoltării Durabile
+  - Ministerul Mediului şi Gospodăririi Apelor
+  - Ministerul Mediului şi Pădurilor
+  - Ministerul Mediului şi Schimbărilor Climatice
+  - Ministerul Mediului, Apelor şi Pădurilor
+  - Ministerul Minelor
+  - Ministerul Muncii
+  - Ministerul Muncii şi Justiţiei Sociale 
+  - Ministerul Muncii şi Protecţiei Sociale
+  - Ministerul Muncii şi Solidarităţii Sociale
+  - Ministerul Muncii, Familiei şi Egalităţii de Şanse
+  - Ministerul Muncii, Familiei şi Protecţiei Sociale
+  - Ministerul Muncii, Familiei, Protecţiei Sociale şi Persoanelor Vârstnice
+  - Ministerul Muncii, Solidarităţii Sociale şi Familiei
+  - Ministerul pentru Întreprinderi Mici şi Mijlocii, Comerţ, Turism şi Profesii Liberale
+  - Ministerul pentru Întreprinderile Mici şi Mijlocii şi Cooperaţie
+  - Ministerul pentru Mediul de Afaceri,Comerţ şi Antreprenoriat
+  - Ministerul pentru Românii de Pretutindeni
+  - Ministerul pentru Românii de Pretutindeni
+  - Ministerul pentru Societatea Informaţională
+  - Ministerul Petrolului
+  - Ministerul Privatizării
+  - Ministerul Public
+  - Ministerul Sănătăţii
+  - Ministerul Sănătăţii Publice
+  - Ministerul Sănătăţii şi Familiei
+  - Ministerul Silviculturii
+  - Ministerul Tineretului şi Sportului
+  - Ministerul Transporturilor
+  - Ministerul Transporturilor şi Infrastructurii
+  - Ministerul Transporturilor, Construcţiilor şi Turismului
+  - Ministerul Turismului
+  - Oficiul Central de Stat pentru Probleme Speciale
+  - Oficiul de Stat pentru Invenţii-Mărci
+  - Oficiul Naţional al Cinematografiei
+  - Oficiul Naţional de Cadastru şi Geodezie
+  - Oficiul Naţional de Prevenire şi Combatere a Spălării Banilor
+  - Oficiul Naţional pentru Jocuri de Noroc
+  - Oficiul pentru Protecţia Consumatorilor
+  - Oficiul Registrului Naţional al Informaţiilor Secrete de Stat
+  - Oficiul Român pentru Adopţii
+  - Oficiul Român pentru Drepturile de Autor
+  - Ordinul Arhitecţilor din România
+  - Ordinul Asistenţilor Medicali Generalişti, Moaşelor şi Asistenţilor Medicali din România
+  - Ordinul Asistenţilor Medicali şi Moaşelor din România
+  - Ordinul Consilierilor Juridici din România
+  - Ordinul Geodezilor din România
+  - Organizaţia Aviaţiei Civile Internaţionale
+  - Organizaţia Interguvernamentală pentru Transporturile Internaţionale Feroviare
+  - Organizaţia Internaţională a Muncii
+  - Organizaţia Internaţională pentru Migrări
+  - Organizaţia Interprofesională Naţională "Zahărul" din România
+  - Organizaţia Maritimă Consultativă
+  - Organizaţia Maritimă Internaţională
+  - Organizaţia Meteorologică Mondială
+  - Organizaţia Mondială a Proprietăţii Intelectuale
+  - Organizaţia Mondială a Proprietăţii Intelectuale
+  - Organizaţia Mondială a Turismului
+  - Organizaţia Mondială de Comerţ
+  - Organizaţia Naţiunilor Unite
+  - Parchetul - Curtea Supremă de Justiţie
+  - Parchetul de pe Lângă Înalta Curte de Casaţie şi Justiţie
+  - Parchetul Naţional Anticorupţie
+  - Parlamentul
+  - Partide Politice
+  - Preşedintele C.F.S.N.
+  - Preşedintele R.S.R.
+  - Preşedintele României
+  - Primăria Municipiului Bistriţa
+  - Primăria Municipiului Bucureşti
+  - Primăria Municipiului Buzău
+  - Primăria Municipiului Codlea
+  - Primăria Municipiului Galaţi
+  - Primăria Municipiului Gheorgheni
+  - Primăria Municipiului Huşi
+  - Primăria Municipiului Petroşani
+  - Primăria Municipiului Piteşti
+  - Primăria Municipiului Reşiţa
+  - Primăria Municipiului Sibiu
+  - Primăria Municipiului Târgu-Mureş
+  - Primăria Municipiului Tulcea
+  - Primăria Municipiului Vulcan 
+  - Primăria Oraş Luduş
+  - Prim-Ministrul
+  - Regele Carol
+  - Regele Ferdinand I
+  - Regele Mihai
+  - Regia Autonomă Monitorul Oficial
+  - Reprezentanţii unui grup de cetăţeni    
+  - Reţeaua Cinematografică a Europei de S-E
+  - Secretariatul de Stat pentru Culte
+  - Secretariatul de Stat pentru Handicapaţi
+  - Secretariatul de Stat pentru Problemele Revoluţionarilor din Decembrie 1989
+  - Secretariatul de Stat pentru Recunoa?terea Meritelor Luptătorilor împotriva Regimului Comunit Instaurat în România în perioada 1945-1989
+  - Secretariatul General al Guvernului
+  - Secretariatul Guvernului
+  - Senatul
+  - Serviciul de Informaţii Externe
+  - Serviciul de Pază şi Protecţie
+  - Serviciul de Telecomunicaţii Speciale
+  - Serviciul Român de Informaţii
+  - Societatea Naţională de Cruce Roşie din România
+  - Societatea Naţiunilor
+  - Tribunalul Bucureşti - Secţia a II-a Contencios Administrativ ?i Fiscal
+  - Tribunalul Bucureşti - Secţia a V-a Civilă
+  - Tribunalul Bucureşti Secţia a III- a Civilă
+  - Uniunea Avocaţilor din România
+  - Uniunea Colegiilor Consilierilor Juridici din România
+  - Uniunea Naţională a Arhitecţilor
+  - Uniunea Naţională a Barourilor din România
+  - Uniunea Naţională a Evaluatorilor Autorizaţi
+  - Uniunea Naţională a Executorilor Judecătoreşti
+  - Uniunea Naţională a Notarilor Publici
+  - Uniunea Naţională a Practicienilor în Insolvenţă
+  - Uniunea Naţională a Practicienilor în Reorganizare şi Lichidare
+  - Uniunea pentru Protecţia Noilor Soiuri de Plante
