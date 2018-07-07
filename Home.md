@@ -15,6 +15,16 @@
         - https://www.hotnews.ro/stiri-esential-5447325-guvernul-adoptat-noul-cod-penal-codul-procedura-penala-codul-procedura-civila.htm#self
         - Guvernul a adoptat, in sedinta de miercuri, Codul de Procedura Civila, Codul de Procedura Penala si noul Cod Penal. Ministrul Justitiei, Catalin Predoiu, va sustine o declaratie de presa pe aceasta tema, la finalul sedintei de Guvern, a anuntat premierul Emil Boc, in cadrul unei conferinte de presa, la finalul sedintei Executivului. Guvernul urmeaza sa dea unda verde si noului Cod Civil saptamana viitoare.
 
+- legi
+  - anulate
+    - codul-penal-2004 - amanat pana in 2009 cand a fost propus alt cod penal - http://legislatie.just.ro/Public/DetaliiDocument/53395
+  - formatate gresit
+    - codul-penal-1973
+  - abrogate si inlocuite
+    - codul-penal-1864 -> codul-penal-1936
+    - codul-penal-1936 -> codul-penal-1968
+    - codul-penal-1968 -> codul-penal-2009
+
 # Surse
 
 ## Surse texte legi
