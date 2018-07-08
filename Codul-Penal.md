@@ -14,7 +14,7 @@ PARLAMENTUL
 
 ----------
 
-PARTEA GENERALĂ
+    PARTEA GENERALĂ
       Titlul I - Legea penală şi limitele ei de aplicare          art. 1-14
     Capitolul I - Principii generale                              art. 1-2
     Capitolul II - Aplicarea legii penale                         art. 3-14
