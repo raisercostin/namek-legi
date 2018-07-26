@@ -632,12 +632,24 @@
 # Software System
 
 ## Features
-- branches
-  - original
-  - cleaned (autoformated) branches for easy tracking of important changes
-  - consolidated (manually cleaned from cleaned branch)
-  - current (master branch)
-  - proposals (proposals made by parlament, government, ICCJ)
+- branches/planes
+  - related to format
+    - raw - initial import of laws
+    - original - raw cleaned to reach original published forms
+    - cleaned - (auto-formatted) branches for easy tracking of important changes
+    - consolidated - manually cleaned from cleaned branch, contains only meaningful semantic changes
+  - related to types
+    - legi de modificare - events/changes/journal - laws are changed by events that contain amendments, removals, updates, initial forms. laws with subject other laws.
+    - laws/codes - laws with subject facts
+  - related to time
+    - current (master branch)
+    - proposals (proposals made by parlament, government, ICCJ)
+  - related to source
+- scenarios
+  - what is current law governing a topic? search on active laws
+  - what was the governing law in a specific moment of time
+  - the changes to a law between two specific moments (current one included)
+  - list all consolidated laws or all for a topic
 - autoformat should for example
   - replace Art. with Articol
   - a line before and after articol
