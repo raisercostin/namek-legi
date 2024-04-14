@@ -10,7 +10,9 @@ details
 
 ---
 CODUL PENAL*) din 28 iunie 2004
-*)abrogat de LEGE nr. 286 din 17 iulie 2009 privind Codul penal
+LEGE nr. 301*) din 28 iunie 2004
+privind Codul penal
+*)abrogata de LEGE nr. 286 din 17 iulie 2009 privind Codul penal
 EMITENT	
 PARLAMENTUL
 Publicat în  MONITORUL OFICIAL nr. 575 din 29 iunie 2004
@@ -20,6 +22,7 @@ Publicat în  MONITORUL OFICIAL nr. 575 din 29 iunie 2004
 -----------
 NOTA C.T.C.E. S.A. PIATRA NEAMT:
 Potrivit pct. 2 coroborat cu pct. 1 al art. 446 din LEGEA nr. 286 din 17 iulie 2009, publicată în MONITORUL OFICIAL nr. 510 din 24 iulie 2009, Legea nr. 301/2004 - Codul penal, publicată în Monitorul Oficial al României, Partea I, nr. 575 din 29 iunie 2004, cu modificările ulterioare, se abrogă începând cu data de 28 iulie 2009.
+Parlamentul României adoptă prezenta lege.
 
 Partea GENERALĂ 
 
@@ -3879,4 +3882,11 @@ Dispoziţiile din partea generală a acestui cod se aplică şi faptelor sancţi
 Articolul 512
 
 Prezentul Cod intră în vigoare la un an de la data publicării în Monitorul Oficial al României, Partea I.
+Această lege a fost adoptată de Parlamentul României, cu respectarea prevederilor art. 75 şi ale art. 76 alin. (1) din Constituţia României, republicată.
+PREŞEDINTELE CAMEREI DEPUTAŢILOR
+VALER DORNEANU
+PREŞEDINTELE SENATULUI
+NICOLAE VĂCĂROIU
+Bucureşti, 28 iunie 2004.
+Nr. 301
 --------
